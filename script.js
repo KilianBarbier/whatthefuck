@@ -2,7 +2,7 @@
 // Source : API Wikimedia Commons (gratuite, sans clé, compatible CORS).
 
 const API = "https://commons.wikimedia.org/w/api.php";
-const QUERY = "drought"; // sécheresse
+const QUERY = "cracked earth drought"; // sécheresse extrême : sols craquelés
 
 const btn = document.getElementById("wtf");
 const figure = document.getElementById("reveal");
@@ -23,7 +23,7 @@ async function fetchBatch() {
     gsrsearch: QUERY,
     gsrnamespace: "6", // fichiers uniquement
     gsrlimit: "40",
-    gsroffset: String(Math.floor(Math.random() * 200)),
+    gsroffset: String(Math.floor(Math.random() * 100)),
     prop: "imageinfo",
     iiprop: "url|mime",
     iiurlwidth: "1000",
