@@ -73,6 +73,15 @@ function showDefinition() {
   defCard.hidden = false;
 }
 
+// Private joke : faux avertissement d'âge au chargement.
+const gate = document.getElementById("gate");
+document.getElementById("gate-yes").addEventListener("click", () => {
+  gate.hidden = true;
+});
+document.getElementById("gate-no").addEventListener("click", () => {
+  window.location.href = "https://www.google.com";
+});
+
 btn.addEventListener("click", () => {
   clicks += 1;
   if (clicks % 5 === 0) {
