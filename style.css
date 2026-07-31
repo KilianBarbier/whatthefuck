@@ -113,6 +113,41 @@ body {
   cursor: wait;
 }
 
+.wtf-btn--small {
+  font-size: clamp(1.2rem, 5vw, 2rem);
+}
+
+/* Envolée de « wtf » */
+.wtf-float {
+  position: fixed;
+  bottom: -2rem;
+  left: 0;
+  font-weight: 700;
+  color: #000;
+  pointer-events: none;
+  white-space: nowrap;
+  z-index: 20;
+  opacity: 0;
+  will-change: transform, opacity;
+  animation-name: floatup;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+}
+
+@keyframes floatup {
+  0% {
+    transform: translateY(0) translateX(0) rotate(0);
+    opacity: 0;
+  }
+  12% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-105vh) translateX(var(--drift, 0)) rotate(var(--rot, 0deg));
+    opacity: 0;
+  }
+}
+
 /* L'attribut hidden doit toujours l'emporter (sinon display:flex l'écrase) */
 [hidden] {
   display: none !important;
