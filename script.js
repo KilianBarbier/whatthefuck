@@ -18,8 +18,25 @@ const defCard = document.getElementById("def");
 let clicks = 0;              // pour l'Easter egg
 let pool = [];               // métadonnées récupérées de l'API, pas encore préchargées
 const ready = [];            // images DÉJÀ préchargées, prêtes à afficher instantanément
-const seen = new Set();      // évite de repiocher les mêmes
+const seen = new Set();      // signatures déjà vues (dédoublonnage)
 let refillPromise = null;    // remplissage en cours partagé (single-flight)
+let lastSig = null;          // signature de la dernière image affichée
+
+// Signature normalisée : neutralise les quasi-doublons de Commons
+// (même photo sous "... (cropped)", "... 2.jpg", dimensions, accents, etc.).
+function sig(item) {
+  return (item.title || item.src || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "") // accents
+    .replace(/\([^)]*\)/g, " ") // (cropped), (1)…
+    .replace(/\b\d{2,4}\s*[x×]\s*\d{2,4}\b/g, " ") // dimensions 1024x768
+    .replace(/[_-]+/g, " ")
+    .replace(/\s+\d{1,3}$/, "") // numéro de série final " 2"
+    .replace(/[^a-z0-9 ]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
 // Va chercher un lot d'images (offset aléatoire pour varier).
 async function fetchBatch() {
@@ -87,7 +104,7 @@ async function doRefill() {
       } catch {
         return; // erreur réseau : on retentera au prochain refill
       }
-      batch = batch.filter((p) => !seen.has(p.src));
+      batch = batch.filter((p) => !seen.has(sig(p)));
       if (!batch.length) {
         seen.clear(); // tout a été vu : on autorise à revoir
         guard += 1;
@@ -96,10 +113,20 @@ async function doRefill() {
       pool = batch;
     }
 
-    // Précharge tout un lot d'un coup (parallèle) pour combler vite le buffer.
+    // Sélectionne un lot en écartant les quasi-doublons (même signature),
+    // y compris ceux présents dans le même lot.
     const need = READY_TARGET - ready.length;
-    const chunk = pool.splice(0, Math.min(need, pool.length));
-    chunk.forEach((it) => seen.add(it.src));
+    const chunk = [];
+    while (pool.length && chunk.length < need) {
+      const it = pool.shift();
+      const s = sig(it);
+      if (seen.has(s)) continue;
+      seen.add(s);
+      chunk.push(it);
+    }
+    if (!chunk.length) continue;
+
+    // Précharge tout le lot d'un coup (parallèle) pour combler vite le buffer.
     const results = await Promise.allSettled(chunk.map(preload));
     results.forEach((r) => {
       if (r.status === "fulfilled") ready.push(r.value);
@@ -108,6 +135,7 @@ async function doRefill() {
 }
 
 function render(item) {
+  lastSig = sig(item);
   defCard.hidden = true;
   img.src = item.src;
   img.alt = item.title || "Sécheresse";
@@ -125,6 +153,12 @@ function render(item) {
 async function showDrought() {
   // Cas normal : une image est déjà préchargée → affichage instantané.
   let item = ready.shift();
+
+  // Évite de remontrer la même image que la précédente (quasi-doublons).
+  if (item && sig(item) === lastSig && ready.length) {
+    ready.push(item);
+    item = ready.shift();
+  }
 
   // Cas rare (buffer vidé par des clics rapides / réseau lent) : on attend
   // réellement le remplissage en cours, avec quelques tentatives.
