@@ -117,10 +117,6 @@ body {
   font-size: clamp(1.2rem, 5vw, 2rem);
 }
 
-.wtf-btn--big {
-  font-size: clamp(3rem, 15vw, 7rem);
-}
-
 /* Envolée de « wtf » */
 .wtf-float {
   position: fixed;
