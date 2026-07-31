@@ -113,6 +113,11 @@ body {
   cursor: wait;
 }
 
+/* L'attribut hidden doit toujours l'emporter (sinon display:flex l'écrase) */
+[hidden] {
+  display: none !important;
+}
+
 /* Image */
 .reveal {
   display: flex;
