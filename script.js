@@ -150,7 +150,7 @@ function showDefinition() {
 
 btn.addEventListener("click", () => {
   clicks += 1;
-  if (clicks % 10 === 0) {
+  if (clicks % 5 === 0) {
     showDefinition(); // 🥚 Easter egg
   } else {
     showDrought();
