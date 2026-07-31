@@ -27,12 +27,6 @@ body {
   gap: 2rem;
 }
 
-.title {
-  font-size: 1rem;
-  font-weight: 400;
-  text-transform: lowercase;
-}
-
 /* Bouton : noir sur blanc, plat, sans ombre ni dégradé */
 .wtf-btn {
   font-size: clamp(2rem, 9vw, 4rem);
