@@ -1,0 +1,251 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  background: #fff;
+  color: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stage {
+  text-align: center;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+/* Private joke : faux avertissement d'âge */
+.gate {
+  position: fixed;
+  inset: 0;
+  z-index: 10;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.gate[hidden] {
+  display: none;
+}
+
+.gate-box {
+  max-width: 460px;
+  text-align: center;
+}
+
+.gate-title {
+  font-size: clamp(1.3rem, 5vw, 2rem);
+  font-weight: 700;
+}
+
+.gate-q {
+  margin-top: 0.6rem;
+  font-size: 1.1rem;
+}
+
+.gate-actions {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.gate-btn {
+  font: inherit;
+  font-weight: 700;
+  padding: 0.7em 1.2em;
+  background: #000;
+  color: #fff;
+  border: 2px solid #000;
+  cursor: pointer;
+}
+
+.gate-btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+.gate-btn--ghost {
+  background: #fff;
+  color: #000;
+}
+
+.gate-btn--ghost:hover {
+  background: #000;
+  color: #fff;
+}
+
+/* Bouton : noir sur blanc, plat, sans ombre ni dégradé */
+.wtf-btn {
+  font-size: clamp(2rem, 9vw, 4rem);
+  font-weight: 700;
+  padding: 0.4em 0.9em;
+  color: #fff;
+  background: #000;
+  border: 2px solid #000;
+  cursor: pointer;
+  user-select: none;
+}
+
+.wtf-btn:hover {
+  background: #fff;
+  color: #000;
+}
+
+.wtf-btn:disabled,
+.wtf-btn.loading {
+  cursor: wait;
+}
+
+.wtf-btn--small {
+  font-size: clamp(1.2rem, 5vw, 2rem);
+}
+
+.wtf-btn--big {
+  font-size: clamp(3rem, 15vw, 7rem);
+}
+
+/* Envolée de « wtf » */
+.wtf-float {
+  position: fixed;
+  bottom: -2rem;
+  left: 0;
+  font-weight: 700;
+  color: #000;
+  pointer-events: none;
+  white-space: nowrap;
+  z-index: 20;
+  opacity: 0;
+  will-change: transform, opacity;
+  animation-name: floatup;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+}
+
+@keyframes floatup {
+  0% {
+    transform: translateY(0) translateX(0) rotate(0);
+    opacity: 0;
+  }
+  12% {
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(-105vh) translateX(var(--drift, 0)) rotate(var(--rot, 0deg));
+    opacity: 0;
+  }
+}
+
+/* L'attribut hidden doit toujours l'emporter (sinon display:flex l'écrase) */
+[hidden] {
+  display: none !important;
+}
+
+/* Image */
+.reveal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.wtf-img {
+  max-width: min(90vw, 480px);
+  max-height: 65vh; /* tient dans l'écran même en portrait, pas de scroll */
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.caption {
+  font-size: 0.9rem;
+}
+
+.caption a {
+  color: #000;
+}
+
+/* Easter egg : carte "définition de dictionnaire", noir sur blanc */
+.def-card {
+  max-width: min(90vw, 540px);
+  text-align: left;
+  font-family: Georgia, "Times New Roman", "Times", serif;
+}
+
+.def-word {
+  font-size: clamp(2.6rem, 10vw, 4.6rem);
+  font-weight: 700;
+  line-height: 1;
+}
+
+.def-pron {
+  margin-top: 0.7rem;
+  font-size: clamp(1rem, 4vw, 1.4rem);
+}
+
+.def-ipa {
+  font-style: italic;
+}
+
+.def-type {
+  font-weight: 700;
+}
+
+.def-rule {
+  border: none;
+  border-top: 1px solid #000;
+  margin: 1.3rem 0;
+}
+
+.def-body {
+  font-style: italic;
+  font-size: clamp(1.1rem, 4.5vw, 1.5rem);
+  line-height: 1.5;
+}
+
+.def-ps {
+  margin-top: 1.2rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  color: #555;
+}
+
+/* Page publique : le fait insolite */
+.fact {
+  max-width: min(90vw, 640px);
+  font-size: clamp(1.2rem, 3.6vw, 1.75rem);
+  line-height: 1.5;
+  animation: pop 0.25s ease-out;
+}
+
+.hint {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+@keyframes pop {
+  0% {
+    transform: translateY(6px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
