@@ -123,7 +123,10 @@ body {
 
 .wtf-img {
   max-width: min(90vw, 480px);
+  max-height: 65vh; /* tient dans l'écran même en portrait, pas de scroll */
+  width: auto;
   height: auto;
+  object-fit: contain;
 }
 
 .caption {
