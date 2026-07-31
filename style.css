@@ -79,6 +79,51 @@ body {
   text-decoration: underline;
 }
 
+/* Easter egg : carte "définition de dictionnaire" */
+.def-card {
+  background: #f4f1ea;
+  color: #14110d;
+  max-width: min(90vw, 540px);
+  padding: clamp(2rem, 6vw, 3.5rem) clamp(1.5rem, 5vw, 3rem);
+  border-radius: 1rem;
+  text-align: left;
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.55);
+  font-family: Georgia, "Times New Roman", "Times", serif;
+  animation: pop 0.35s cubic-bezier(0.18, 1.4, 0.4, 1);
+}
+
+.def-word {
+  font-size: clamp(2.6rem, 10vw, 4.6rem);
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+
+.def-pron {
+  margin-top: 0.7rem;
+  font-size: clamp(1rem, 4vw, 1.4rem);
+}
+
+.def-ipa {
+  font-style: italic;
+}
+
+.def-type {
+  font-weight: 700;
+}
+
+.def-rule {
+  border: none;
+  border-top: 1px solid #b9b2a4;
+  margin: 1.3rem 0;
+}
+
+.def-body {
+  font-style: italic;
+  font-size: clamp(1.1rem, 4.5vw, 1.5rem);
+  line-height: 1.5;
+}
+
 .reveal {
   display: flex;
   flex-direction: column;

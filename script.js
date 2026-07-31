@@ -8,6 +8,9 @@ const btn = document.getElementById("wtf");
 const figure = document.getElementById("reveal");
 const img = document.getElementById("wtf-img");
 const caption = document.getElementById("wtf-caption");
+const defCard = document.getElementById("def");
+
+let clicks = 0; // pour l'Easter egg
 
 let pool = [];               // images récupérées, prêtes à afficher
 const seen = new Set();      // évite de remontrer les mêmes tant qu'il en reste
@@ -56,7 +59,17 @@ function preload(src) {
   });
 }
 
+// Easter egg : tous les 10 clics, on montre la définition au lieu d'une image.
+function showDefinition() {
+  figure.hidden = true;
+  defCard.hidden = false;
+  defCard.style.animation = "none";
+  void defCard.offsetWidth;
+  defCard.style.animation = "";
+}
+
 async function showDrought() {
+  defCard.hidden = true;
   btn.disabled = true;
   btn.classList.add("loading");
   btn.textContent = "…";
@@ -97,4 +110,11 @@ async function showDrought() {
   }
 }
 
-btn.addEventListener("click", showDrought);
+btn.addEventListener("click", () => {
+  clicks += 1;
+  if (clicks % 10 === 0) {
+    showDefinition(); // 🥚 Easter egg
+  } else {
+    showDrought();
+  }
+});
