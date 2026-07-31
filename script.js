@@ -8,6 +8,7 @@
 const API = "https://commons.wikimedia.org/w/api.php";
 const QUERY = "cracked earth drought"; // sécheresse extrême : sols craquelés
 const READY_TARGET = 18; // nombre d'images préchargées gardées d'avance
+const SKIP_TOP = 10; // ignore les 10 premiers résultats (doublons/quasi-doublons)
 
 const btn = document.getElementById("wtf");
 const figure = document.getElementById("reveal");
@@ -46,7 +47,7 @@ async function fetchBatch() {
     gsrsearch: QUERY,
     gsrnamespace: "6", // fichiers uniquement
     gsrlimit: "40",
-    gsroffset: String(Math.floor(Math.random() * 100)),
+    gsroffset: String(SKIP_TOP + Math.floor(Math.random() * 90)),
     prop: "imageinfo",
     iiprop: "url|mime",
     iiurlwidth: "1000",
