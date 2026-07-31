@@ -1,48 +1,100 @@
-// whatthefuck.fr — clique sur le bouton, ça affiche une image WTF au hasard.
+// whatthefuck.fr — le bouton WTF affiche une photo de SÉCHERESSE au hasard.
+// Source : API Wikimedia Commons (gratuite, sans clé, compatible CORS).
 
-// Images auto-suffisantes (SVG en data URI) : aucune dépendance externe,
-// ça marche même hors-ligne et se déploie n'importe où.
-function face(bg, emoji, label) {
-  const svg = `
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
-      <rect width="400" height="400" rx="32" fill="${bg}"/>
-      <text x="200" y="215" font-size="180" text-anchor="middle"
-            dominant-baseline="middle" font-family="sans-serif">${emoji}</text>
-      <text x="200" y="360" font-size="42" font-weight="900" fill="#ffffff"
-            text-anchor="middle" font-family="sans-serif">${label}</text>
-    </svg>`;
-  return "data:image/svg+xml," + encodeURIComponent(svg.trim());
-}
-
-const IMAGES = [
-  { src: face("#ff2e63", "🤯", "WTF ?!"), caption: "Mais... quoi ?!" },
-  { src: face("#08d9d6", "🫠", "WTF ?!"), caption: "Je comprends rien." },
-  { src: face("#f9ed69", "🙃", "WTF ?!"), caption: "Tout va bien." },
-  { src: face("#a06cd5", "👽", "WTF ?!"), caption: "Ce n'est pas normal." },
-  { src: face("#3fb950", "🥴", "WTF ?!"), caption: "Sérieux ?" },
-  { src: face("#ff9f1c", "🤡", "WTF ?!"), caption: "C'est une blague." },
-];
+const API = "https://commons.wikimedia.org/w/api.php";
+const QUERY = "drought"; // sécheresse
 
 const btn = document.getElementById("wtf");
 const figure = document.getElementById("reveal");
 const img = document.getElementById("wtf-img");
 const caption = document.getElementById("wtf-caption");
 
-let last = -1;
+let pool = [];               // images récupérées, prêtes à afficher
+const seen = new Set();      // évite de remontrer les mêmes tant qu'il en reste
 
-btn.addEventListener("click", () => {
-  let i;
-  do {
-    i = Math.floor(Math.random() * IMAGES.length);
-  } while (IMAGES.length > 1 && i === last);
-  last = i;
+// Va chercher un lot d'images de sécheresse (offset aléatoire pour varier).
+async function fetchBatch() {
+  const params = new URLSearchParams({
+    action: "query",
+    generator: "search",
+    gsrsearch: QUERY,
+    gsrnamespace: "6", // fichiers uniquement
+    gsrlimit: "40",
+    gsroffset: String(Math.floor(Math.random() * 200)),
+    prop: "imageinfo",
+    iiprop: "url|mime",
+    iiurlwidth: "1000",
+    format: "json",
+    origin: "*", // CORS
+  });
 
-  img.src = IMAGES[i].src;
-  caption.textContent = IMAGES[i].caption;
-  figure.hidden = false;
+  const res = await fetch(`${API}?${params}`);
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  const data = await res.json();
+  const pages = (data.query && data.query.pages) || {};
 
-  // Relance l'animation "pop" à chaque clic.
-  figure.style.animation = "none";
-  void figure.offsetWidth;
-  figure.style.animation = "";
-});
+  return Object.values(pages)
+    .map((p) => {
+      const ii = p.imageinfo && p.imageinfo[0];
+      if (!ii || !/^image\/(jpeg|png|webp)/.test(ii.mime || "")) return null;
+      return {
+        src: ii.thumburl || ii.url,
+        title: (p.title || "").replace(/^File:/, "").replace(/\.[^.]+$/, ""),
+        page: ii.descriptionurl,
+      };
+    })
+    .filter(Boolean);
+}
+
+// Précharge l'image pour éviter tout affichage cassé.
+function preload(src) {
+  return new Promise((resolve, reject) => {
+    const i = new Image();
+    i.onload = () => resolve(src);
+    i.onerror = reject;
+    i.src = src;
+  });
+}
+
+async function showDrought() {
+  btn.disabled = true;
+  btn.classList.add("loading");
+  btn.textContent = "…";
+
+  try {
+    // Recharge un lot si on a tout épuisé.
+    if (pool.every((p) => seen.has(p.src))) {
+      seen.clear();
+      pool = await fetchBatch();
+    }
+    if (!pool.length) throw new Error("Aucune image trouvée");
+
+    // Choisit une image pas encore vue.
+    const fresh = pool.filter((p) => !seen.has(p.src));
+    const pick = fresh[Math.floor(Math.random() * fresh.length)];
+    seen.add(pick.src);
+
+    await preload(pick.src);
+
+    img.src = pick.src;
+    img.alt = pick.title || "Sécheresse";
+    caption.innerHTML = pick.page
+      ? `🌵 <a href="${pick.page}" target="_blank" rel="noopener">${pick.title}</a> — Wikimedia Commons`
+      : "🌵 Sécheresse";
+    figure.hidden = false;
+
+    // Relance l'animation pop.
+    figure.style.animation = "none";
+    void figure.offsetWidth;
+    figure.style.animation = "";
+  } catch (err) {
+    caption.textContent = "Oups, impossible de charger une image… réessaie 🌵";
+    figure.hidden = false;
+  } finally {
+    btn.disabled = false;
+    btn.classList.remove("loading");
+    btn.textContent = "WTF";
+  }
+}
+
+btn.addEventListener("click", showDrought);

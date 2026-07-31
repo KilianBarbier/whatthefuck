@@ -67,6 +67,18 @@ body {
   box-shadow: 0 2px 0 #b31d45, 0 6px 20px rgba(255, 46, 99, 0.4);
 }
 
+.wtf-btn:disabled,
+.wtf-btn.loading {
+  cursor: wait;
+  opacity: 0.75;
+  transform: none;
+}
+
+.caption a {
+  color: var(--accent-2);
+  text-decoration: underline;
+}
+
 .reveal {
   display: flex;
   flex-direction: column;
