@@ -6,9 +6,23 @@
 // puis on le reconstitue en arrière-plan après chaque affichage.
 
 const API = "https://commons.wikimedia.org/w/api.php";
-const QUERY = "cracked earth drought"; // sécheresse extrême : sols craquelés
 const READY_TARGET = 18; // nombre d'images préchargées gardées d'avance
-const SKIP_TOP = 10; // ignore les 10 premiers résultats (doublons/quasi-doublons)
+
+// Source : catégories Commons CURÉES de terre craquelée uniquement.
+// Tout ce qui s'y trouve a été classé "cracked earth" par des contributeurs,
+// donc pas de plantes, cartes ni portraits qui polluaient la recherche texte.
+const CATEGORIES = [
+  "Cracked earth",
+  "Cracked earth in Asia",
+  "Cracked earth in Europe",
+  "Cracked earth in Africa",
+  "Cracked earth in South America",
+  "Cracked earth in North America",
+];
+
+// Écarte les fichiers qui ne sont pas des photos de paysage
+// (micrographies géologiques, cartes, schémas, logos…).
+const NON_PHOTO = /\b(ppl|xpl|thin[ _-]?section|microscop|micrograph|sem|eds|diagram|schéma|schema|map|carte|chart|graph|logo|coat of arms|blason|icon|svg)\b/i;
 
 const btn = document.getElementById("wtf");
 const figure = document.getElementById("reveal");
@@ -39,15 +53,15 @@ function sig(item) {
     .trim();
 }
 
-// Va chercher un lot d'images (offset aléatoire pour varier).
+// Va chercher les fichiers d'une catégorie "terre craquelée" au hasard.
 async function fetchBatch() {
+  const cat = CATEGORIES[Math.floor(Math.random() * CATEGORIES.length)];
   const params = new URLSearchParams({
     action: "query",
-    generator: "search",
-    gsrsearch: QUERY,
-    gsrnamespace: "6", // fichiers uniquement
-    gsrlimit: "40",
-    gsroffset: String(SKIP_TOP + Math.floor(Math.random() * 90)),
+    generator: "categorymembers",
+    gcmtitle: "Category:" + cat,
+    gcmtype: "file", // fichiers seulement
+    gcmlimit: "100",
     prop: "imageinfo",
     iiprop: "url|mime",
     iiurlwidth: "1000",
@@ -60,17 +74,22 @@ async function fetchBatch() {
   const data = await res.json();
   const pages = (data.query && data.query.pages) || {};
 
-  return Object.values(pages)
+  const items = Object.values(pages)
     .map((p) => {
       const ii = p.imageinfo && p.imageinfo[0];
       if (!ii || !/^image\/(jpeg|png|webp)/.test(ii.mime || "")) return null;
-      return {
-        src: ii.thumburl || ii.url,
-        title: (p.title || "").replace(/^File:/, "").replace(/\.[^.]+$/, ""),
-        page: ii.descriptionurl,
-      };
+      const title = (p.title || "").replace(/^File:/, "").replace(/\.[^.]+$/, "");
+      if (NON_PHOTO.test(title)) return null; // écarte les non-photos
+      return { src: ii.thumburl || ii.url, title, page: ii.descriptionurl };
     })
     .filter(Boolean);
+
+  // Mélange pour varier (les catégories sont triées alphabétiquement).
+  for (let i = items.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [items[i], items[j]] = [items[j], items[i]];
+  }
+  return items;
 }
 
 // Précharge (télécharge + décode) une image dans le cache du navigateur.
