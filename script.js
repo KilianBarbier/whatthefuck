@@ -7,7 +7,7 @@
 
 const API = "https://commons.wikimedia.org/w/api.php";
 const QUERY = "cracked earth drought"; // sécheresse extrême : sols craquelés
-const READY_TARGET = 6; // nombre d'images préchargées gardées d'avance
+const READY_TARGET = 18; // nombre d'images préchargées gardées d'avance
 
 const btn = document.getElementById("wtf");
 const figure = document.getElementById("reveal");
@@ -19,7 +19,7 @@ let clicks = 0;              // pour l'Easter egg
 let pool = [];               // métadonnées récupérées de l'API, pas encore préchargées
 const ready = [];            // images DÉJÀ préchargées, prêtes à afficher instantanément
 const seen = new Set();      // évite de repiocher les mêmes
-let refilling = false;       // empêche deux remplissages concurrents
+let refillPromise = null;    // remplissage en cours partagé (single-flight)
 
 // Va chercher un lot d'images (offset aléatoire pour varier).
 async function fetchBatch() {
@@ -65,36 +65,45 @@ function preload(item) {
   });
 }
 
-// Garde toujours ~READY_TARGET images préchargées d'avance.
-async function refill() {
-  if (refilling) return;
-  refilling = true;
-  try {
-    let guard = 0; // évite une boucle infinie si l'API ne renvoie rien de neuf
-    while (ready.length < READY_TARGET && guard < 6) {
-      if (!pool.length) {
-        let batch = await fetchBatch();
-        batch = batch.filter((p) => !seen.has(p.src));
-        if (!batch.length) {
-          seen.clear(); // tout a été vu : on autorise à revoir
-          guard += 1;
-          continue;
-        }
-        pool = batch;
-      }
-      const item = pool.shift();
-      seen.add(item.src);
+// Remplit le buffer en préchargeant les images EN PARALLÈLE, jusqu'à
+// READY_TARGET. Single-flight : les appels concurrents partagent la même
+// promesse, donc `await refill()` attend toujours un vrai remplissage.
+function refill() {
+  if (!refillPromise) {
+    refillPromise = doRefill().finally(() => {
+      refillPromise = null;
+    });
+  }
+  return refillPromise;
+}
+
+async function doRefill() {
+  let guard = 0; // évite une boucle infinie si l'API ne renvoie rien de neuf
+  while (ready.length < READY_TARGET && guard < 8) {
+    if (!pool.length) {
+      let batch;
       try {
-        await preload(item);
-        ready.push(item);
+        batch = await fetchBatch();
       } catch {
-        /* image cassée : on l'ignore et on passe à la suivante */
+        return; // erreur réseau : on retentera au prochain refill
       }
+      batch = batch.filter((p) => !seen.has(p.src));
+      if (!batch.length) {
+        seen.clear(); // tout a été vu : on autorise à revoir
+        guard += 1;
+        continue;
+      }
+      pool = batch;
     }
-  } catch {
-    /* erreur réseau : on retentera au prochain refill */
-  } finally {
-    refilling = false;
+
+    // Précharge tout un lot d'un coup (parallèle) pour combler vite le buffer.
+    const need = READY_TARGET - ready.length;
+    const chunk = pool.splice(0, Math.min(need, pool.length));
+    chunk.forEach((it) => seen.add(it.src));
+    const results = await Promise.allSettled(chunk.map(preload));
+    results.forEach((r) => {
+      if (r.status === "fulfilled") ready.push(r.value);
+    });
   }
 }
 
@@ -117,16 +126,19 @@ async function showDrought() {
   // Cas normal : une image est déjà préchargée → affichage instantané.
   let item = ready.shift();
 
-  // Cas rare (tout premier clic très rapide, réseau lent) : on attend le buffer.
+  // Cas rare (buffer vidé par des clics rapides / réseau lent) : on attend
+  // réellement le remplissage en cours, avec quelques tentatives.
   if (!item) {
     btn.disabled = true;
     btn.classList.add("loading");
     btn.textContent = "…";
-    await refill();
+    for (let t = 0; t < 4 && !item; t += 1) {
+      await refill();
+      item = ready.shift();
+    }
     btn.disabled = false;
     btn.classList.remove("loading");
     btn.textContent = "WTF";
-    item = ready.shift();
   }
 
   if (!item) {
@@ -136,7 +148,9 @@ async function showDrought() {
   }
 
   render(item);
-  refill(); // reconstitue le stock en arrière-plan (sans bloquer)
+
+  // Reconstitue le stock dès qu'il descend sous la moitié (anticipation).
+  if (ready.length < READY_TARGET / 2) refill();
 }
 
 // Easter egg : tous les 10 clics, on montre la définition au lieu d'une image.
