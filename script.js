@@ -35,7 +35,7 @@ const FACTS = [
   "Non, la Grande Muraille de Chine n'est pas visible à l'œil nu depuis l'espace : c'est un mythe.",
   "Un groupe de flamants roses s'appelle une « flamboyance ».",
   "Les vaches ont des amies proches et stressent quand on les sépare.",
-  "L'Islande est verdoyante et le Groenland couvert de glace : leurs noms semblent inversés.",
+  "L'Islande (Iceland, « terre de glace ») est pourtant verdoyante, tandis que le Groenland (Greenland, « terre verte ») est couvert de glace : leurs noms semblent inversés.",
   "Le ketchup était vendu comme médicament dans les années 1830.",
   "La banane est une baie, d'un point de vue botanique — mais pas la fraise.",
   "Les tournesols suivent le soleil quand ils sont jeunes, puis s'immobilisent vers l'est une fois adultes.",
