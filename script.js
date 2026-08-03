@@ -23,15 +23,15 @@ function perplexityUrl(question) {
 
 function factSource(fact) {
   if (fact && typeof fact === "object" && fact.question && fact.url) {
-    return { label: "Vérifier sur Perplexity : ", name: fact.question, url: fact.url };
+    return { url: fact.url };
   }
 
   if (fact && typeof fact === "object" && fact.url) {
-    return { label: "Source : ", name: fact.source || "source", url: fact.url };
+    return { url: fact.url };
   }
 
   const question = makeQuestion(factText(fact));
-  return { label: "Vérifier sur Perplexity : ", name: question, url: perplexityUrl(question) };
+  return { url: perplexityUrl(question) };
 }
 
 let order = [];
@@ -65,7 +65,7 @@ btn.addEventListener("click", () => {
   factEl.hidden = false;
 
   const source = factSource(fact);
-  sourceEl.innerHTML = source.label + `<a href="${source.url}" target="_blank" rel="noopener">${source.name}</a>`;
+  sourceEl.href = source.url;
   sourceEl.hidden = false;
 
   factEl.style.animation = "none";
