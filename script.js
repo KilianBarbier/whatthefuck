@@ -44,7 +44,22 @@ const FACTS = [
 
 const btn = document.getElementById("wtf");
 const factEl = document.getElementById("fact");
+const sourceEl = document.getElementById("source");
 const hint = document.getElementById("hint");
+
+// Un fait est soit une chaîne, soit un objet { text, source, url }.
+function factText(f) {
+  return typeof f === "string" ? f : f.text;
+}
+
+// Renvoie la ligne source à afficher (lien réel si dispo, sinon « vérifier »).
+function factSource(f) {
+  if (f && typeof f === "object" && f.url) {
+    return { label: "Source : ", name: f.source || "source", url: f.url };
+  }
+  const q = encodeURIComponent(factText(f));
+  return { label: "", name: "🔎 vérifier", url: "https://fr.wikipedia.org/w/index.php?search=" + q };
+}
 
 let order = [];       // indices à venir, mélangés
 let lastIndex = -1;   // dernier fait montré (anti-répétition)
@@ -72,8 +87,16 @@ function nextIndex() {
 
 btn.addEventListener("click", () => {
   if (hint) hint.hidden = true;
-  factEl.textContent = FACTS[nextIndex()];
+
+  const f = FACTS[nextIndex()];
+  factEl.textContent = factText(f);
   factEl.hidden = false;
+
+  const s = factSource(f);
+  sourceEl.innerHTML =
+    s.label + `<a href="${s.url}" target="_blank" rel="noopener">${s.name}</a>`;
+  sourceEl.hidden = false;
+
   // petit rebond à chaque fait
   factEl.style.animation = "none";
   void factEl.offsetWidth;

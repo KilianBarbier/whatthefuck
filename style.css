@@ -239,6 +239,15 @@ body {
   color: #666;
 }
 
+.source {
+  font-size: 0.8rem;
+  color: #666;
+}
+
+.source a {
+  color: #666;
+}
+
 @keyframes pop {
   0% {
     transform: translateY(6px);
