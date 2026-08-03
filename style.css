@@ -225,3 +225,27 @@ body {
   line-height: 1.5;
   color: #555;
 }
+
+/* Page publique : le fait insolite */
+.fact {
+  max-width: min(90vw, 640px);
+  font-size: clamp(1.2rem, 3.6vw, 1.75rem);
+  line-height: 1.5;
+  animation: pop 0.25s ease-out;
+}
+
+.hint {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+@keyframes pop {
+  0% {
+    transform: translateY(6px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
