@@ -2909,5 +2909,923 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le plus vieux film conservé, tourné à Leeds en 1888, dure 2,11 secondes ; Sarah Whitley, l'une des quatre personnes filmées, est morte dix jours plus tard ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20vieux%20film%20conserv%C3%A9%2C%20tourn%C3%A9%20%C3%A0%20Leeds%20en%201888%2C%20dure%202%2C11%20secondes%20%3B%20Sarah%20Whitley%2C%20l'une%20des%20quatre%20personnes%20film%C3%A9es%2C%20est%20morte%20dix%20jours%20plus%20tard%20%3F"
+ },
+ {
+  "text": "Le trou noir de l'amas de Persée émet des ondes de pression correspondant à un si bémol situé 57 octaves sous le do central, la note la plus grave jamais détectée dans l'Univers.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le trou noir de l'amas de Persée émet des ondes de pression correspondant à un si bémol situé 57 octaves sous le do central, la note la plus grave jamais détectée dans l'Univers ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20trou%20noir%20de%20l'amas%20de%20Pers%C3%A9e%20%C3%A9met%20des%20ondes%20de%20pression%20correspondant%20%C3%A0%20un%20si%20b%C3%A9mol%20situ%C3%A9%2057%20octaves%20sous%20le%20do%20central%2C%20la%20note%20la%20plus%20grave%20jamais%20d%C3%A9tect%C3%A9e%20dans%20l'Univers%20%3F"
+ },
+ {
+  "text": "Au pôle Nord de Saturne tourne un courant atmosphérique en forme d'hexagone presque parfait dont chaque côté mesure environ 14 500 km, soit plus que le diamètre de la Terre (12 742 km).",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'au pôle Nord de Saturne tourne un courant atmosphérique en forme d'hexagone presque parfait dont chaque côté mesure environ 14 500 km, soit plus que le diamètre de la Terre (12 742 km) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'au%20p%C3%B4le%20Nord%20de%20Saturne%20tourne%20un%20courant%20atmosph%C3%A9rique%20en%20forme%20d'hexagone%20presque%20parfait%20dont%20chaque%20c%C3%B4t%C3%A9%20mesure%20environ%2014%20500%20km%2C%20soit%20plus%20que%20le%20diam%C3%A8tre%20de%20la%20Terre%20(12%20742%20km)%20%3F"
+ },
+ {
+  "text": "Autour du quasar APM 08279+5255, à plus de 12 milliards d'années-lumière, flotte une masse de vapeur d'eau équivalente à 140 000 milliards de fois toute l'eau des océans terrestres.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'autour du quasar APM 08279+5255, à plus de 12 milliards d'années-lumière, flotte une masse de vapeur d'eau équivalente à 140 000 milliards de fois toute l'eau des océans terrestres ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'autour%20du%20quasar%20APM%2008279%2B5255%2C%20%C3%A0%20plus%20de%2012%20milliards%20d'ann%C3%A9es-lumi%C3%A8re%2C%20flotte%20une%20masse%20de%20vapeur%20d'eau%20%C3%A9quivalente%20%C3%A0%20140%20000%20milliards%20de%20fois%20toute%20l'eau%20des%20oc%C3%A9ans%20terrestres%20%3F"
+ },
+ {
+  "text": "En 1971, l'astronaute d'Apollo 14 Stuart Roosa a emporté en orbite lunaire des centaines de graines d'arbres : devenues des « arbres lunaires », elles ont été plantées aux États-Unis et dans le monde entier.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1971, l'astronaute d'Apollo 14 Stuart Roosa a emporté en orbite lunaire des centaines de graines d'arbres : devenues des « arbres lunaires », elles ont été plantées aux États-Unis et dans le monde entier ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201971%2C%20l'astronaute%20d'Apollo%2014%20Stuart%20Roosa%20a%20emport%C3%A9%20en%20orbite%20lunaire%20des%20centaines%20de%20graines%20d'arbres%20%3A%20devenues%20des%20%C2%AB%20arbres%20lunaires%20%C2%BB%2C%20elles%20ont%20%C3%A9t%C3%A9%20plant%C3%A9es%20aux%20%C3%89tats-Unis%20et%20dans%20le%20monde%20entier%20%3F"
+ },
+ {
+  "text": "Le géologue Eugene Shoemaker est la première personne dont les cendres reposent sur la Lune : elles y ont été écrasées volontairement avec la sonde Lunar Prospector en 1999.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le géologue Eugene Shoemaker est la première personne dont les cendres reposent sur la Lune : elles y ont été écrasées volontairement avec la sonde Lunar Prospector en 1999 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20g%C3%A9ologue%20Eugene%20Shoemaker%20est%20la%20premi%C3%A8re%20personne%20dont%20les%20cendres%20reposent%20sur%20la%20Lune%20%3A%20elles%20y%20ont%20%C3%A9t%C3%A9%20%C3%A9cras%C3%A9es%20volontairement%20avec%20la%20sonde%20Lunar%20Prospector%20en%201999%20%3F"
+ },
+ {
+  "text": "Une partie des cendres de Clyde Tombaugh, qui a découvert Pluton en 1930, voyage à bord de la sonde New Horizons, qui a survolé Pluton le 14 juillet 2015.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une partie des cendres de Clyde Tombaugh, qui a découvert Pluton en 1930, voyage à bord de la sonde New Horizons, qui a survolé Pluton le 14 juillet 2015 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20partie%20des%20cendres%20de%20Clyde%20Tombaugh%2C%20qui%20a%20d%C3%A9couvert%20Pluton%20en%201930%2C%20voyage%20%C3%A0%20bord%20de%20la%20sonde%20New%20Horizons%2C%20qui%20a%20survol%C3%A9%20Pluton%20le%2014%20juillet%202015%20%3F"
+ },
+ {
+  "text": "Une larme batavique, goutte de verre trempée dans l'eau, résiste à un coup de marteau sur sa tête, mais explose en poudre si l'on casse le bout de sa queue.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une larme batavique, goutte de verre trempée dans l'eau, résiste à un coup de marteau sur sa tête, mais explose en poudre si l'on casse le bout de sa queue ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20larme%20batavique%2C%20goutte%20de%20verre%20tremp%C3%A9e%20dans%20l'eau%2C%20r%C3%A9siste%20%C3%A0%20un%20coup%20de%20marteau%20sur%20sa%20t%C3%AAte%2C%20mais%20explose%20en%20poudre%20si%20l'on%20casse%20le%20bout%20de%20sa%20queue%20%3F"
+ },
+ {
+  "text": "Le francium, découvert en 1939 par Marguerite Perey, simple assistante à l'Institut du radium, est le dernier élément découvert dans la nature : tous les suivants ont d'abord été créés en laboratoire.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le francium, découvert en 1939 par Marguerite Perey, simple assistante à l'Institut du radium, est le dernier élément découvert dans la nature : tous les suivants ont d'abord été créés en laboratoire ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20francium%2C%20d%C3%A9couvert%20en%201939%20par%20Marguerite%20Perey%2C%20simple%20assistante%20%C3%A0%20l'Institut%20du%20radium%2C%20est%20le%20dernier%20%C3%A9l%C3%A9ment%20d%C3%A9couvert%20dans%20la%20nature%20%3A%20tous%20les%20suivants%20ont%20d'abord%20%C3%A9t%C3%A9%20cr%C3%A9%C3%A9s%20en%20laboratoire%20%3F"
+ },
+ {
+  "text": "Dérouler du ruban adhésif dans le vide émet assez de rayons X pour radiographier un doigt : des chercheurs de l'UCLA l'ont démontré dans Nature en 2008.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que dérouler du ruban adhésif dans le vide émet assez de rayons X pour radiographier un doigt : des chercheurs de l'UCLA l'ont démontré dans Nature en 2008 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20d%C3%A9rouler%20du%20ruban%20adh%C3%A9sif%20dans%20le%20vide%20%C3%A9met%20assez%20de%20rayons%20X%20pour%20radiographier%20un%20doigt%20%3A%20des%20chercheurs%20de%20l'UCLA%20l'ont%20d%C3%A9montr%C3%A9%20dans%20Nature%20en%202008%20%3F"
+ },
+ {
+  "text": "En 1999, la physicienne Lene Hau a ralenti la lumière à 17 mètres par seconde, environ 60 km/h, en la faisant traverser un gaz d'atomes refroidis près du zéro absolu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1999, la physicienne Lene Hau a ralenti la lumière à 17 mètres par seconde, environ 60 km/h, en la faisant traverser un gaz d'atomes refroidis près du zéro absolu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201999%2C%20la%20physicienne%20Lene%20Hau%20a%20ralenti%20la%20lumi%C3%A8re%20%C3%A0%2017%20m%C3%A8tres%20par%20seconde%2C%20environ%2060%20km%2Fh%2C%20en%20la%20faisant%20traverser%20un%20gaz%20d'atomes%20refroidis%20pr%C3%A8s%20du%20z%C3%A9ro%20absolu%20%3F"
+ },
+ {
+  "text": "En 2012, des collisions d'ions de plomb au LHC du CERN ont produit une température de plus de 5 000 milliards de degrés, record Guinness de la température artificielle la plus élevée.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2012, des collisions d'ions de plomb au LHC du CERN ont produit une température de plus de 5 000 milliards de degrés, record Guinness de la température artificielle la plus élevée ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202012%2C%20des%20collisions%20d'ions%20de%20plomb%20au%20LHC%20du%20CERN%20ont%20produit%20une%20temp%C3%A9rature%20de%20plus%20de%205%20000%20milliards%20de%20degr%C3%A9s%2C%20record%20Guinness%20de%20la%20temp%C3%A9rature%20artificielle%20la%20plus%20%C3%A9lev%C3%A9e%20%3F"
+ },
+ {
+  "text": "En 1940, pour cacher aux nazis les médailles Nobel en or de Max von Laue et James Franck, le chimiste George de Hevesy les a dissoutes dans de l'eau régale, puis a récupéré l'or après la guerre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1940, pour cacher aux nazis les médailles Nobel en or de Max von Laue et James Franck, le chimiste George de Hevesy les a dissoutes dans de l'eau régale, puis a récupéré l'or après la guerre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201940%2C%20pour%20cacher%20aux%20nazis%20les%20m%C3%A9dailles%20Nobel%20en%20or%20de%20Max%20von%20Laue%20et%20James%20Franck%2C%20le%20chimiste%20George%20de%20Hevesy%20les%20a%20dissoutes%20dans%20de%20l'eau%20r%C3%A9gale%2C%20puis%20a%20r%C3%A9cup%C3%A9r%C3%A9%20l'or%20apr%C3%A8s%20la%20guerre%20%3F"
+ },
+ {
+  "text": "À Oklo, au Gabon, des gisements d'uranium ont fonctionné comme des réacteurs nucléaires naturels il y a environ 1,7 milliard d'années, pendant quelques centaines de milliers d'années.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'à Oklo, au Gabon, des gisements d'uranium ont fonctionné comme des réacteurs nucléaires naturels il y a environ 1,7 milliard d'années, pendant quelques centaines de milliers d'années ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A0%20Oklo%2C%20au%20Gabon%2C%20des%20gisements%20d'uranium%20ont%20fonctionn%C3%A9%20comme%20des%20r%C3%A9acteurs%20nucl%C3%A9aires%20naturels%20il%20y%20a%20environ%201%2C7%20milliard%20d'ann%C3%A9es%2C%20pendant%20quelques%20centaines%20de%20milliers%20d'ann%C3%A9es%20%3F"
+ },
+ {
+  "text": "Si elle était assez lumineuse pour être vue en entier, la galaxie d'Andromède paraîtrait dans le ciel environ six fois plus large que la pleine Lune.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que si elle était assez lumineuse pour être vue en entier, la galaxie d'Andromède paraîtrait dans le ciel environ six fois plus large que la pleine Lune ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20si%20elle%20%C3%A9tait%20assez%20lumineuse%20pour%20%C3%AAtre%20vue%20en%20entier%2C%20la%20galaxie%20d'Androm%C3%A8de%20para%C3%AEtrait%20dans%20le%20ciel%20environ%20six%20fois%20plus%20large%20que%20la%20pleine%20Lune%20%3F"
+ },
+ {
+  "text": "En 1971, l'équipage d'Apollo 15 a déposé sur la Lune, sans l'annoncer, « Fallen Astronaut », une statuette en aluminium de 8,9 cm du Belge Paul Van Hoeydonck, en hommage aux astronautes morts.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1971, l'équipage d'Apollo 15 a déposé sur la Lune, sans l'annoncer, « Fallen Astronaut », une statuette en aluminium de 8,9 cm du Belge Paul Van Hoeydonck, en hommage aux astronautes morts ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201971%2C%20l'%C3%A9quipage%20d'Apollo%2015%20a%20d%C3%A9pos%C3%A9%20sur%20la%20Lune%2C%20sans%20l'annoncer%2C%20%C2%AB%20Fallen%20Astronaut%20%C2%BB%2C%20une%20statuette%20en%20aluminium%20de%208%2C9%20cm%20du%20Belge%20Paul%20Van%20Hoeydonck%2C%20en%20hommage%20aux%20astronautes%20morts%20%3F"
+ },
+ {
+  "text": "Dans « La Vie des oiseaux » de David Attenborough (1998), un oiseau-lyre superbe imite à la perfection une alarme de voiture, une tronçonneuse et des déclencheurs d'appareils photo.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que dans « La Vie des oiseaux » de David Attenborough (1998), un oiseau-lyre superbe imite à la perfection une alarme de voiture, une tronçonneuse et des déclencheurs d'appareils photo ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20dans%20%C2%AB%20La%20Vie%20des%20oiseaux%20%C2%BB%20de%20David%20Attenborough%20(1998)%2C%20un%20oiseau-lyre%20superbe%20imite%20%C3%A0%20la%20perfection%20une%20alarme%20de%20voiture%2C%20une%20tron%C3%A7onneuse%20et%20des%20d%C3%A9clencheurs%20d'appareils%20photo%20%3F"
+ },
+ {
+  "text": "Les fourmis charpentières de Floride amputent la patte blessée d'une congénère au niveau de la cuisse avec leurs mâchoires : 90 à 95 % des opérées survivent, selon une étude de 2024.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les fourmis charpentières de Floride amputent la patte blessée d'une congénère au niveau de la cuisse avec leurs mâchoires : 90 à 95 % des opérées survivent, selon une étude de 2024 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20fourmis%20charpenti%C3%A8res%20de%20Floride%20amputent%20la%20patte%20bless%C3%A9e%20d'une%20cong%C3%A9n%C3%A8re%20au%20niveau%20de%20la%20cuisse%20avec%20leurs%20m%C3%A2choires%20%3A%2090%20%C3%A0%2095%20%25%20des%20op%C3%A9r%C3%A9es%20survivent%2C%20selon%20une%20%C3%A9tude%20de%202024%20%3F"
+ },
+ {
+  "text": "Le labre nettoyeur, un petit poisson de récif, réussit le test du miroir : marqué d'une tache colorée visible seulement dans son reflet, il tente de la gratter contre le sol.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le labre nettoyeur, un petit poisson de récif, réussit le test du miroir : marqué d'une tache colorée visible seulement dans son reflet, il tente de la gratter contre le sol ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20labre%20nettoyeur%2C%20un%20petit%20poisson%20de%20r%C3%A9cif%2C%20r%C3%A9ussit%20le%20test%20du%20miroir%20%3A%20marqu%C3%A9%20d'une%20tache%20color%C3%A9e%20visible%20seulement%20dans%20son%20reflet%2C%20il%20tente%20de%20la%20gratter%20contre%20le%20sol%20%3F"
+ },
+ {
+  "text": "En 1999, l'analyse du cristallin d'une baleine boréale chassée en Alaska a estimé son âge à environ 211 ans, ce qui fait de cette espèce le mammifère le plus longévif connu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1999, l'analyse du cristallin d'une baleine boréale chassée en Alaska a estimé son âge à environ 211 ans, ce qui fait de cette espèce le mammifère le plus longévif connu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201999%2C%20l'analyse%20du%20cristallin%20d'une%20baleine%20bor%C3%A9ale%20chass%C3%A9e%20en%20Alaska%20a%20estim%C3%A9%20son%20%C3%A2ge%20%C3%A0%20environ%20211%20ans%2C%20ce%20qui%20fait%20de%20cette%20esp%C3%A8ce%20le%20mammif%C3%A8re%20le%20plus%20long%C3%A9vif%20connu%20%3F"
+ },
+ {
+  "text": "L'hippopotame sécrète un liquide rouge-orangé qui n'est ni du sang ni de la sueur : son pigment, l'acide hipposudorique, agit comme crème solaire et antibiotique, selon une étude parue dans Nature en 2004.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'hippopotame sécrète un liquide rouge-orangé qui n'est ni du sang ni de la sueur : son pigment, l'acide hipposudorique, agit comme crème solaire et antibiotique, selon une étude parue dans Nature en 2004 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'hippopotame%20s%C3%A9cr%C3%A8te%20un%20liquide%20rouge-orang%C3%A9%20qui%20n'est%20ni%20du%20sang%20ni%20de%20la%20sueur%20%3A%20son%20pigment%2C%20l'acide%20hipposudorique%2C%20agit%20comme%20cr%C3%A8me%20solaire%20et%20antibiotique%2C%20selon%20une%20%C3%A9tude%20parue%20dans%20Nature%20en%202004%20%3F"
+ },
+ {
+  "text": "L'œil de l'autruche peut atteindre 5 cm de diamètre, environ deux fois celui d'un œil humain, et il est plus gros que son cerveau, pas plus grand qu'une noix.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'œil de l'autruche peut atteindre 5 cm de diamètre, environ deux fois celui d'un œil humain, et il est plus gros que son cerveau, pas plus grand qu'une noix ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C5%93il%20de%20l'autruche%20peut%20atteindre%205%20cm%20de%20diam%C3%A8tre%2C%20environ%20deux%20fois%20celui%20d'un%20%C5%93il%20humain%2C%20et%20il%20est%20plus%20gros%20que%20son%20cerveau%2C%20pas%20plus%20grand%20qu'une%20noix%20%3F"
+ },
+ {
+  "text": "La coquille Saint-Jacques peut avoir jusqu'à 200 yeux, qui focalisent la lumière non pas avec une lentille mais avec un miroir fait de cristaux de guanine, comme un télescope.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la coquille Saint-Jacques peut avoir jusqu'à 200 yeux, qui focalisent la lumière non pas avec une lentille mais avec un miroir fait de cristaux de guanine, comme un télescope ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20coquille%20Saint-Jacques%20peut%20avoir%20jusqu'%C3%A0%20200%20yeux%2C%20qui%20focalisent%20la%20lumi%C3%A8re%20non%20pas%20avec%20une%20lentille%20mais%20avec%20un%20miroir%20fait%20de%20cristaux%20de%20guanine%2C%20comme%20un%20t%C3%A9lescope%20%3F"
+ },
+ {
+  "text": "En hibernation, l'écureuil terrestre arctique laisse sa température corporelle descendre jusqu'à −2,9 °C sans geler, la plus basse jamais mesurée chez un mammifère vivant.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en hibernation, l'écureuil terrestre arctique laisse sa température corporelle descendre jusqu'à −2,9 °C sans geler, la plus basse jamais mesurée chez un mammifère vivant ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%20hibernation%2C%20l'%C3%A9cureuil%20terrestre%20arctique%20laisse%20sa%20temp%C3%A9rature%20corporelle%20descendre%20jusqu'%C3%A0%20%E2%88%922%2C9%20%C2%B0C%20sans%20geler%2C%20la%20plus%20basse%20jamais%20mesur%C3%A9e%20chez%20un%20mammif%C3%A8re%20vivant%20%3F"
+ },
+ {
+  "text": "Des seiches ont réussi une version du test du marshmallow : elles dédaignaient un morceau de crevette offert tout de suite pour attendre jusqu'à 130 secondes une crevette vivante, leur mets préféré (2021).",
+  "source": "Perplexity",
+  "question": "Est-il vrai que des seiches ont réussi une version du test du marshmallow : elles dédaignaient un morceau de crevette offert tout de suite pour attendre jusqu'à 130 secondes une crevette vivante, leur mets préféré (2021) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20des%20seiches%20ont%20r%C3%A9ussi%20une%20version%20du%20test%20du%20marshmallow%20%3A%20elles%20d%C3%A9daignaient%20un%20morceau%20de%20crevette%20offert%20tout%20de%20suite%20pour%20attendre%20jusqu'%C3%A0%20130%20secondes%20une%20crevette%20vivante%2C%20leur%20mets%20pr%C3%A9f%C3%A9r%C3%A9%20(2021)%20%3F"
+ },
+ {
+  "text": "Des bourdons font rouler de petites balles en bois sans aucune récompense, certains jusqu'à 117 fois : en 2022, ce fut le premier jeu avec un objet démontré chez un insecte.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que des bourdons font rouler de petites balles en bois sans aucune récompense, certains jusqu'à 117 fois : en 2022, ce fut le premier jeu avec un objet démontré chez un insecte ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20des%20bourdons%20font%20rouler%20de%20petites%20balles%20en%20bois%20sans%20aucune%20r%C3%A9compense%2C%20certains%20jusqu'%C3%A0%20117%20fois%20%3A%20en%202022%2C%20ce%20fut%20le%20premier%20jeu%20avec%20un%20objet%20d%C3%A9montr%C3%A9%20chez%20un%20insecte%20%3F"
+ },
+ {
+  "text": "Les poissons des glaces de l'Antarctique n'ont pas d'hémoglobine et presque pas de globules rouges : leur sang est transparent et l'oxygène y circule simplement dissous dans le plasma.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les poissons des glaces de l'Antarctique n'ont pas d'hémoglobine et presque pas de globules rouges : leur sang est transparent et l'oxygène y circule simplement dissous dans le plasma ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20poissons%20des%20glaces%20de%20l'Antarctique%20n'ont%20pas%20d'h%C3%A9moglobine%20et%20presque%20pas%20de%20globules%20rouges%20%3A%20leur%20sang%20est%20transparent%20et%20l'oxyg%C3%A8ne%20y%20circule%20simplement%20dissous%20dans%20le%20plasma%20%3F"
+ },
+ {
+  "text": "Le minuscule caméléon Rhampholeon spinosus projette sa langue avec une accélération de 264 g, l'équivalent de passer de 0 à 97 km/h en un centième de seconde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le minuscule caméléon Rhampholeon spinosus projette sa langue avec une accélération de 264 g, l'équivalent de passer de 0 à 97 km/h en un centième de seconde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20minuscule%20cam%C3%A9l%C3%A9on%20Rhampholeon%20spinosus%20projette%20sa%20langue%20avec%20une%20acc%C3%A9l%C3%A9ration%20de%20264%20g%2C%20l'%C3%A9quivalent%20de%20passer%20de%200%20%C3%A0%2097%20km%2Fh%20en%20un%20centi%C3%A8me%20de%20seconde%20%3F"
+ },
+ {
+  "text": "L'opah (Lampris guttatus) est le premier poisson connu entièrement à sang chaud : le battement constant de ses nageoires réchauffe tout son corps, selon une étude parue dans Science en 2015.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'opah (Lampris guttatus) est le premier poisson connu entièrement à sang chaud : le battement constant de ses nageoires réchauffe tout son corps, selon une étude parue dans Science en 2015 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'opah%20(Lampris%20guttatus)%20est%20le%20premier%20poisson%20connu%20enti%C3%A8rement%20%C3%A0%20sang%20chaud%20%3A%20le%20battement%20constant%20de%20ses%20nageoires%20r%C3%A9chauffe%20tout%20son%20corps%2C%20selon%20une%20%C3%A9tude%20parue%20dans%20Science%20en%202015%20%3F"
+ },
+ {
+  "text": "Face à un frelon géant, des centaines d'abeilles japonaises l'enveloppent en boule et font vibrer leurs muscles jusqu'à environ 46 °C : le frelon meurt de chaleur, juste sous la limite fatale pour elles.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que face à un frelon géant, des centaines d'abeilles japonaises l'enveloppent en boule et font vibrer leurs muscles jusqu'à environ 46 °C : le frelon meurt de chaleur, juste sous la limite fatale pour elles ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20face%20%C3%A0%20un%20frelon%20g%C3%A9ant%2C%20des%20centaines%20d'abeilles%20japonaises%20l'enveloppent%20en%20boule%20et%20font%20vibrer%20leurs%20muscles%20jusqu'%C3%A0%20environ%2046%20%C2%B0C%20%3A%20le%20frelon%20meurt%20de%20chaleur%2C%20juste%20sous%20la%20limite%20fatale%20pour%20elles%20%3F"
+ },
+ {
+  "text": "Une baleine à bec de Cuvier est restée 222 minutes en plongée sans respirer au large de la Caroline du Nord, le record d'apnée pour un mammifère, publié en 2020.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une baleine à bec de Cuvier est restée 222 minutes en plongée sans respirer au large de la Caroline du Nord, le record d'apnée pour un mammifère, publié en 2020 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20baleine%20%C3%A0%20bec%20de%20Cuvier%20est%20rest%C3%A9e%20222%20minutes%20en%20plong%C3%A9e%20sans%20respirer%20au%20large%20de%20la%20Caroline%20du%20Nord%2C%20le%20record%20d'apn%C3%A9e%20pour%20un%20mammif%C3%A8re%2C%20publi%C3%A9%20en%202020%20%3F"
+ },
+ {
+  "text": "Les poussins de l'hoazin, un oiseau d'Amazonie, portent des griffes sur les ailes qui leur servent à grimper dans les branches ; elles disparaissent en grandissant.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les poussins de l'hoazin, un oiseau d'Amazonie, portent des griffes sur les ailes qui leur servent à grimper dans les branches ; elles disparaissent en grandissant ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20poussins%20de%20l'hoazin%2C%20un%20oiseau%20d'Amazonie%2C%20portent%20des%20griffes%20sur%20les%20ailes%20qui%20leur%20servent%20%C3%A0%20grimper%20dans%20les%20branches%20%3B%20elles%20disparaissent%20en%20grandissant%20%3F"
+ },
+ {
+  "text": "Sur 99 Équatoriens atteints du syndrome de Laron, une forme de nanisme, suivis pendant 22 ans, aucun n'a développé de diabète et un seul a eu un cancer, non mortel.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que sur 99 Équatoriens atteints du syndrome de Laron, une forme de nanisme, suivis pendant 22 ans, aucun n'a développé de diabète et un seul a eu un cancer, non mortel ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20sur%2099%20%C3%89quatoriens%20atteints%20du%20syndrome%20de%20Laron%2C%20une%20forme%20de%20nanisme%2C%20suivis%20pendant%2022%20ans%2C%20aucun%20n'a%20d%C3%A9velopp%C3%A9%20de%20diab%C3%A8te%20et%20un%20seul%20a%20eu%20un%20cancer%2C%20non%20mortel%20%3F"
+ },
+ {
+  "text": "Chez les Bajau, « nomades de la mer » d'Indonésie qui plongent en apnée, la rate est en moyenne 50 % plus grosse que chez leurs voisins, un trait lié à une variante du gène PDE10A.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que chez les Bajau, « nomades de la mer » d'Indonésie qui plongent en apnée, la rate est en moyenne 50 % plus grosse que chez leurs voisins, un trait lié à une variante du gène PDE10A ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20chez%20les%20Bajau%2C%20%C2%AB%20nomades%20de%20la%20mer%20%C2%BB%20d'Indon%C3%A9sie%20qui%20plongent%20en%20apn%C3%A9e%2C%20la%20rate%20est%20en%20moyenne%2050%20%25%20plus%20grosse%20que%20chez%20leurs%20voisins%2C%20un%20trait%20li%C3%A9%20%C3%A0%20une%20variante%20du%20g%C3%A8ne%20PDE10A%20%3F"
+ },
+ {
+  "text": "Les Tibétains doivent leur résistance à l'altitude à une version du gène EPAS1 héritée des Dénisoviens, une espèce humaine disparue.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Tibétains doivent leur résistance à l'altitude à une version du gène EPAS1 héritée des Dénisoviens, une espèce humaine disparue ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20Tib%C3%A9tains%20doivent%20leur%20r%C3%A9sistance%20%C3%A0%20l'altitude%20%C3%A0%20une%20version%20du%20g%C3%A8ne%20EPAS1%20h%C3%A9rit%C3%A9e%20des%20D%C3%A9nisoviens%2C%20une%20esp%C3%A8ce%20humaine%20disparue%20%3F"
+ },
+ {
+  "text": "L'Écossaise Jo Cameron ne ressent presque ni douleur ni anxiété : en 2019, des chercheurs l'ont attribué en partie à une mutation d'un gène qu'on croyait inutile, baptisé FAAH-OUT.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Écossaise Jo Cameron ne ressent presque ni douleur ni anxiété : en 2019, des chercheurs l'ont attribué en partie à une mutation d'un gène qu'on croyait inutile, baptisé FAAH-OUT ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C3%89cossaise%20Jo%20Cameron%20ne%20ressent%20presque%20ni%20douleur%20ni%20anxi%C3%A9t%C3%A9%20%3A%20en%202019%2C%20des%20chercheurs%20l'ont%20attribu%C3%A9%20en%20partie%20%C3%A0%20une%20mutation%20d'un%20g%C3%A8ne%20qu'on%20croyait%20inutile%2C%20baptis%C3%A9%20FAAH-OUT%20%3F"
+ },
+ {
+  "text": "Une mutation du gène SMARCAD1 fait naître des personnes sans empreintes digitales : l'adermatoglyphie est surnommée « maladie du retard à l'immigration ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une mutation du gène SMARCAD1 fait naître des personnes sans empreintes digitales : l'adermatoglyphie est surnommée « maladie du retard à l'immigration » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20mutation%20du%20g%C3%A8ne%20SMARCAD1%20fait%20na%C3%AEtre%20des%20personnes%20sans%20empreintes%20digitales%20%3A%20l'adermatoglyphie%20est%20surnomm%C3%A9e%20%C2%AB%20maladie%20du%20retard%20%C3%A0%20l'immigration%20%C2%BB%20%3F"
+ },
+ {
+  "text": "Les petits points lumineux qui filent devant les yeux quand on regarde un ciel bleu sont des globules blancs circulant dans les capillaires devant la rétine.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les petits points lumineux qui filent devant les yeux quand on regarde un ciel bleu sont des globules blancs circulant dans les capillaires devant la rétine ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20petits%20points%20lumineux%20qui%20filent%20devant%20les%20yeux%20quand%20on%20regarde%20un%20ciel%20bleu%20sont%20des%20globules%20blancs%20circulant%20dans%20les%20capillaires%20devant%20la%20r%C3%A9tine%20%3F"
+ },
+ {
+  "text": "En 2005, des chercheurs ont repéré chez un patient épileptique un neurone qui réagissait à diverses photos de Jennifer Aniston, mais pas aux autres célébrités testées, ni même à une photo d'elle avec Brad Pitt.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2005, des chercheurs ont repéré chez un patient épileptique un neurone qui réagissait à diverses photos de Jennifer Aniston, mais pas aux autres célébrités testées, ni même à une photo d'elle avec Brad Pitt ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202005%2C%20des%20chercheurs%20ont%20rep%C3%A9r%C3%A9%20chez%20un%20patient%20%C3%A9pileptique%20un%20neurone%20qui%20r%C3%A9agissait%20%C3%A0%20diverses%20photos%20de%20Jennifer%20Aniston%2C%20mais%20pas%20aux%20autres%20c%C3%A9l%C3%A9brit%C3%A9s%20test%C3%A9es%2C%20ni%20m%C3%AAme%20%C3%A0%20une%20photo%20d'elle%20avec%20Brad%20Pitt%20%3F"
+ },
+ {
+  "text": "En 2002, en stimulant électriquement le gyrus angulaire droit d'une patiente épileptique, des neurologues ont provoqué chez elle, à plusieurs reprises, des sorties hors du corps.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2002, en stimulant électriquement le gyrus angulaire droit d'une patiente épileptique, des neurologues ont provoqué chez elle, à plusieurs reprises, des sorties hors du corps ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202002%2C%20en%20stimulant%20%C3%A9lectriquement%20le%20gyrus%20angulaire%20droit%20d'une%20patiente%20%C3%A9pileptique%2C%20des%20neurologues%20ont%20provoqu%C3%A9%20chez%20elle%2C%20%C3%A0%20plusieurs%20reprises%2C%20des%20sorties%20hors%20du%20corps%20%3F"
+ },
+ {
+  "text": "Dans une étude publiée fin 2006, deux tiers des volontaires aux yeux bandés ont réussi à suivre à quatre pattes, au seul odorat, une piste de 10 mètres de ficelle parfumée au chocolat.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que dans une étude publiée fin 2006, deux tiers des volontaires aux yeux bandés ont réussi à suivre à quatre pattes, au seul odorat, une piste de 10 mètres de ficelle parfumée au chocolat ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20dans%20une%20%C3%A9tude%20publi%C3%A9e%20fin%202006%2C%20deux%20tiers%20des%20volontaires%20aux%20yeux%20band%C3%A9s%20ont%20r%C3%A9ussi%20%C3%A0%20suivre%20%C3%A0%20quatre%20pattes%2C%20au%20seul%20odorat%2C%20une%20piste%20de%2010%20m%C3%A8tres%20de%20ficelle%20parfum%C3%A9e%20au%20chocolat%20%3F"
+ },
+ {
+  "text": "Les doigts fripés après un bain ne sont pas un simple effet de l'eau : c'est un réflexe nerveux, et les doigts dont le nerf est endommagé ne se rident pas.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les doigts fripés après un bain ne sont pas un simple effet de l'eau : c'est un réflexe nerveux, et les doigts dont le nerf est endommagé ne se rident pas ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20doigts%20frip%C3%A9s%20apr%C3%A8s%20un%20bain%20ne%20sont%20pas%20un%20simple%20effet%20de%20l'eau%20%3A%20c'est%20un%20r%C3%A9flexe%20nerveux%2C%20et%20les%20doigts%20dont%20le%20nerf%20est%20endommag%C3%A9%20ne%20se%20rident%20pas%20%3F"
+ },
+ {
+  "text": "Les bronches possèdent des récepteurs du goût amer : en laboratoire, des substances amères les ont dilatées trois fois plus que les médicaments classiques contre l'asthme (étude de 2010).",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les bronches possèdent des récepteurs du goût amer : en laboratoire, des substances amères les ont dilatées trois fois plus que les médicaments classiques contre l'asthme (étude de 2010) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20bronches%20poss%C3%A8dent%20des%20r%C3%A9cepteurs%20du%20go%C3%BBt%20amer%20%3A%20en%20laboratoire%2C%20des%20substances%20am%C3%A8res%20les%20ont%20dilat%C3%A9es%20trois%20fois%20plus%20que%20les%20m%C3%A9dicaments%20classiques%20contre%20l'asthme%20(%C3%A9tude%20de%202010)%20%3F"
+ },
+ {
+  "text": "Grâce au carbone 14 libéré par les essais nucléaires, on a établi que le cœur ne renouvelle qu'environ 1 % de ses cellules musculaires par an à 25 ans, et 0,45 % à 75 ans.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que grâce au carbone 14 libéré par les essais nucléaires, on a établi que le cœur ne renouvelle qu'environ 1 % de ses cellules musculaires par an à 25 ans, et 0,45 % à 75 ans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20gr%C3%A2ce%20au%20carbone%2014%20lib%C3%A9r%C3%A9%20par%20les%20essais%20nucl%C3%A9aires%2C%20on%20a%20%C3%A9tabli%20que%20le%20c%C5%93ur%20ne%20renouvelle%20qu'environ%201%20%25%20de%20ses%20cellules%20musculaires%20par%20an%20%C3%A0%2025%20ans%2C%20et%200%2C45%20%25%20%C3%A0%2075%20ans%20%3F"
+ },
+ {
+  "text": "Le syndrome de Charles Bonnet fait voir à des malvoyants sains d'esprit des hallucinations très nettes de visages, d'animaux ou de paysages qu'ils savent irréels.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le syndrome de Charles Bonnet fait voir à des malvoyants sains d'esprit des hallucinations très nettes de visages, d'animaux ou de paysages qu'ils savent irréels ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20syndrome%20de%20Charles%20Bonnet%20fait%20voir%20%C3%A0%20des%20malvoyants%20sains%20d'esprit%20des%20hallucinations%20tr%C3%A8s%20nettes%20de%20visages%2C%20d'animaux%20ou%20de%20paysages%20qu'ils%20savent%20irr%C3%A9els%20%3F"
+ },
+ {
+  "text": "En 1878, des bûcherons canadiens-français du Maine, surpris par un ordre crié, l'exécutaient aussitôt malgré eux, comme lancer ce qu'ils tenaient : les « Jumping Frenchmen ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1878, des bûcherons canadiens-français du Maine, surpris par un ordre crié, l'exécutaient aussitôt malgré eux, comme lancer ce qu'ils tenaient : les « Jumping Frenchmen » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201878%2C%20des%20b%C3%BBcherons%20canadiens-fran%C3%A7ais%20du%20Maine%2C%20surpris%20par%20un%20ordre%20cri%C3%A9%2C%20l'ex%C3%A9cutaient%20aussit%C3%B4t%20malgr%C3%A9%20eux%2C%20comme%20lancer%20ce%20qu'ils%20tenaient%20%3A%20les%20%C2%AB%20Jumping%20Frenchmen%20%C2%BB%20%3F"
+ },
+ {
+  "text": "Atteint de fibrodysplasie ossifiante progressive, l'Américain Harry Eastlack avait le corps quasi entièrement ossifié à sa mort en 1973 : il ne pouvait plus guère bouger que le visage et la langue.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'atteint de fibrodysplasie ossifiante progressive, l'Américain Harry Eastlack avait le corps quasi entièrement ossifié à sa mort en 1973 : il ne pouvait plus guère bouger que le visage et la langue ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'atteint%20de%20fibrodysplasie%20ossifiante%20progressive%2C%20l'Am%C3%A9ricain%20Harry%20Eastlack%20avait%20le%20corps%20quasi%20enti%C3%A8rement%20ossifi%C3%A9%20%C3%A0%20sa%20mort%20en%201973%20%3A%20il%20ne%20pouvait%20plus%20gu%C3%A8re%20bouger%20que%20le%20visage%20et%20la%20langue%20%3F"
+ },
+ {
+  "text": "Dans le syndrome d'Ondine, dû au gène PHOX2B, la respiration automatique fait défaut : beaucoup de malades respirent correctement éveillés mais hypoventilent dès qu'ils s'endorment.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que dans le syndrome d'Ondine, dû au gène PHOX2B, la respiration automatique fait défaut : beaucoup de malades respirent correctement éveillés mais hypoventilent dès qu'ils s'endorment ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20dans%20le%20syndrome%20d'Ondine%2C%20d%C3%BB%20au%20g%C3%A8ne%20PHOX2B%2C%20la%20respiration%20automatique%20fait%20d%C3%A9faut%20%3A%20beaucoup%20de%20malades%20respirent%20correctement%20%C3%A9veill%C3%A9s%20mais%20hypoventilent%20d%C3%A8s%20qu'ils%20s'endorment%20%3F"
+ },
+ {
+  "text": "Après avoir mâché un « fruit miracle » d'Afrique de l'Ouest, le citron paraît sucré jusqu'à une heure ou deux : sa protéine, la miraculine, active les récepteurs du sucré en milieu acide.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'après avoir mâché un « fruit miracle » d'Afrique de l'Ouest, le citron paraît sucré jusqu'à une heure ou deux : sa protéine, la miraculine, active les récepteurs du sucré en milieu acide ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'apr%C3%A8s%20avoir%20m%C3%A2ch%C3%A9%20un%20%C2%AB%20fruit%20miracle%20%C2%BB%20d'Afrique%20de%20l'Ouest%2C%20le%20citron%20para%C3%AEt%20sucr%C3%A9%20jusqu'%C3%A0%20une%20heure%20ou%20deux%20%3A%20sa%20prot%C3%A9ine%2C%20la%20miraculine%2C%20active%20les%20r%C3%A9cepteurs%20du%20sucr%C3%A9%20en%20milieu%20acide%20%3F"
+ },
+ {
+  "text": "Près de 1 % des gens sont incapables de former la moindre image mentale : cette aphantasie n'a reçu un nom qu'en 2015, grâce au neurologue Adam Zeman.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que près de 1 % des gens sont incapables de former la moindre image mentale : cette aphantasie n'a reçu un nom qu'en 2015, grâce au neurologue Adam Zeman ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pr%C3%A8s%20de%201%20%25%20des%20gens%20sont%20incapables%20de%20former%20la%20moindre%20image%20mentale%20%3A%20cette%20aphantasie%20n'a%20re%C3%A7u%20un%20nom%20qu'en%202015%2C%20gr%C3%A2ce%20au%20neurologue%20Adam%20Zeman%20%3F"
+ },
+ {
+  "text": "L'infrarouge n'est pas toujours invisible : un laser pulsé de 1 000 nm est vu vert, car deux photons frappent un pigment de la rétine en même temps (étude PNAS, 2014).",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'infrarouge n'est pas toujours invisible : un laser pulsé de 1 000 nm est vu vert, car deux photons frappent un pigment de la rétine en même temps (étude PNAS, 2014) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'infrarouge%20n'est%20pas%20toujours%20invisible%20%3A%20un%20laser%20puls%C3%A9%20de%201%20000%20nm%20est%20vu%20vert%2C%20car%20deux%20photons%20frappent%20un%20pigment%20de%20la%20r%C3%A9tine%20en%20m%C3%AAme%20temps%20(%C3%A9tude%20PNAS%2C%202014)%20%3F"
+ },
+ {
+  "text": "Abraham Lincoln est le seul président américain à avoir détenu un brevet : n° 6469, accordé en 1849 pour un système de flotteurs gonflables censé soulever les bateaux échoués sur des hauts-fonds.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'abraham Lincoln est le seul président américain à avoir détenu un brevet : n° 6469, accordé en 1849 pour un système de flotteurs gonflables censé soulever les bateaux échoués sur des hauts-fonds ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'abraham%20Lincoln%20est%20le%20seul%20pr%C3%A9sident%20am%C3%A9ricain%20%C3%A0%20avoir%20d%C3%A9tenu%20un%20brevet%20%3A%20n%C2%B0%206469%2C%20accord%C3%A9%20en%201849%20pour%20un%20syst%C3%A8me%20de%20flotteurs%20gonflables%20cens%C3%A9%20soulever%20les%20bateaux%20%C3%A9chou%C3%A9s%20sur%20des%20hauts-fonds%20%3F"
+ },
+ {
+  "text": "Abraham Lincoln figure au National Wrestling Hall of Fame : lutteur réputé dans sa jeunesse, il y a été honoré en 1992 du titre d'« Outstanding American ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'abraham Lincoln figure au National Wrestling Hall of Fame : lutteur réputé dans sa jeunesse, il y a été honoré en 1992 du titre d'« Outstanding American » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'abraham%20Lincoln%20figure%20au%20National%20Wrestling%20Hall%20of%20Fame%20%3A%20lutteur%20r%C3%A9put%C3%A9%20dans%20sa%20jeunesse%2C%20il%20y%20a%20%C3%A9t%C3%A9%20honor%C3%A9%20en%201992%20du%20titre%20d'%C2%AB%20Outstanding%20American%20%C2%BB%20%3F"
+ },
+ {
+  "text": "En 1698, Pierre le Grand a instauré en Russie une taxe sur la barbe : ceux qui la payaient devaient porter un jeton prouvant leur droit de rester barbus. Elle a duré jusqu'en 1772.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1698, Pierre le Grand a instauré en Russie une taxe sur la barbe : ceux qui la payaient devaient porter un jeton prouvant leur droit de rester barbus. Elle a duré jusqu'en 1772 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201698%2C%20Pierre%20le%20Grand%20a%20instaur%C3%A9%20en%20Russie%20une%20taxe%20sur%20la%20barbe%20%3A%20ceux%20qui%20la%20payaient%20devaient%20porter%20un%20jeton%20prouvant%20leur%20droit%20de%20rester%20barbus.%20Elle%20a%20dur%C3%A9%20jusqu'en%201772%20%3F"
+ },
+ {
+  "text": "Les États-Unis ont versé une pension de la guerre de Sécession jusqu'en 2020 : Irene Triplett, fille d'un soldat de ce conflit, l'a touchée de 1938 à sa mort, le 31 mai 2020 (73,13 dollars par mois à la fin).",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les États-Unis ont versé une pension de la guerre de Sécession jusqu'en 2020 : Irene Triplett, fille d'un soldat de ce conflit, l'a touchée de 1938 à sa mort, le 31 mai 2020 (73,13 dollars par mois à la fin) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20%C3%89tats-Unis%20ont%20vers%C3%A9%20une%20pension%20de%20la%20guerre%20de%20S%C3%A9cession%20jusqu'en%202020%20%3A%20Irene%20Triplett%2C%20fille%20d'un%20soldat%20de%20ce%20conflit%2C%20l'a%20touch%C3%A9e%20de%201938%20%C3%A0%20sa%20mort%2C%20le%2031%20mai%202020%20(73%2C13%20dollars%20par%20mois%20%C3%A0%20la%20fin)%20%3F"
+ },
+ {
+  "text": "En 1856, l'armée américaine a importé des dizaines de chameaux au Texas pour créer un « Camel Corps » dans les déserts du Sud-Ouest ; la guerre de Sécession a mis fin à l'expérience.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1856, l'armée américaine a importé des dizaines de chameaux au Texas pour créer un « Camel Corps » dans les déserts du Sud-Ouest ; la guerre de Sécession a mis fin à l'expérience ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201856%2C%20l'arm%C3%A9e%20am%C3%A9ricaine%20a%20import%C3%A9%20des%20dizaines%20de%20chameaux%20au%20Texas%20pour%20cr%C3%A9er%20un%20%C2%AB%20Camel%20Corps%20%C2%BB%20dans%20les%20d%C3%A9serts%20du%20Sud-Ouest%20%3B%20la%20guerre%20de%20S%C3%A9cession%20a%20mis%20fin%20%C3%A0%20l'exp%C3%A9rience%20%3F"
+ },
+ {
+  "text": "William Patrick Hitler, neveu d'Adolf Hitler né à Liverpool, a écrit à Roosevelt pour pouvoir combattre son oncle : il a servi dans l'US Navy de 1944 à 1947.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que william Patrick Hitler, neveu d'Adolf Hitler né à Liverpool, a écrit à Roosevelt pour pouvoir combattre son oncle : il a servi dans l'US Navy de 1944 à 1947 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20william%20Patrick%20Hitler%2C%20neveu%20d'Adolf%20Hitler%20n%C3%A9%20%C3%A0%20Liverpool%2C%20a%20%C3%A9crit%20%C3%A0%20Roosevelt%20pour%20pouvoir%20combattre%20son%20oncle%20%3A%20il%20a%20servi%20dans%20l'US%20Navy%20de%201944%20%C3%A0%201947%20%3F"
+ },
+ {
+  "text": "En novembre 1952, Israël a proposé à Albert Einstein de devenir président du pays ; il a refusé, expliquant manquer d'aptitude et d'expérience pour traiter avec les gens.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en novembre 1952, Israël a proposé à Albert Einstein de devenir président du pays ; il a refusé, expliquant manquer d'aptitude et d'expérience pour traiter avec les gens ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%20novembre%201952%2C%20Isra%C3%ABl%20a%20propos%C3%A9%20%C3%A0%20Albert%20Einstein%20de%20devenir%20pr%C3%A9sident%20du%20pays%20%3B%20il%20a%20refus%C3%A9%2C%20expliquant%20manquer%20d'aptitude%20et%20d'exp%C3%A9rience%20pour%20traiter%20avec%20les%20gens%20%3F"
+ },
+ {
+  "text": "Mark Twain, né en 1835 deux semaines après le passage de la comète de Halley au plus près du Soleil, avait prédit qu'il repartirait avec elle : il est mort le 21 avril 1910, au lendemain de son retour au périhélie.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que mark Twain, né en 1835 deux semaines après le passage de la comète de Halley au plus près du Soleil, avait prédit qu'il repartirait avec elle : il est mort le 21 avril 1910, au lendemain de son retour au périhélie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20mark%20Twain%2C%20n%C3%A9%20en%201835%20deux%20semaines%20apr%C3%A8s%20le%20passage%20de%20la%20com%C3%A8te%20de%20Halley%20au%20plus%20pr%C3%A8s%20du%20Soleil%2C%20avait%20pr%C3%A9dit%20qu'il%20repartirait%20avec%20elle%20%3A%20il%20est%20mort%20le%2021%20avril%201910%2C%20au%20lendemain%20de%20son%20retour%20au%20p%C3%A9rih%C3%A9lie%20%3F"
+ },
+ {
+  "text": "En septembre 1914, les taxis parisiens réquisitionnés pour amener des soldats sur la Marne n'ont pas roulé gratuitement : l'État a payé la course, soit 70 102 francs.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en septembre 1914, les taxis parisiens réquisitionnés pour amener des soldats sur la Marne n'ont pas roulé gratuitement : l'État a payé la course, soit 70 102 francs ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%20septembre%201914%2C%20les%20taxis%20parisiens%20r%C3%A9quisitionn%C3%A9s%20pour%20amener%20des%20soldats%20sur%20la%20Marne%20n'ont%20pas%20roul%C3%A9%20gratuitement%20%3A%20l'%C3%89tat%20a%20pay%C3%A9%20la%20course%2C%20soit%2070%20102%20francs%20%3F"
+ },
+ {
+  "text": "Vers 1863-1864, Robert, le fils d'Abraham Lincoln, est tombé entre un quai et un train à Jersey City ; il a été rattrapé par le col par Edwin Booth, le frère de celui qui allait assassiner son père.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que vers 1863-1864, Robert, le fils d'Abraham Lincoln, est tombé entre un quai et un train à Jersey City ; il a été rattrapé par le col par Edwin Booth, le frère de celui qui allait assassiner son père ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20vers%201863-1864%2C%20Robert%2C%20le%20fils%20d'Abraham%20Lincoln%2C%20est%20tomb%C3%A9%20entre%20un%20quai%20et%20un%20train%20%C3%A0%20Jersey%20City%20%3B%20il%20a%20%C3%A9t%C3%A9%20rattrap%C3%A9%20par%20le%20col%20par%20Edwin%20Booth%2C%20le%20fr%C3%A8re%20de%20celui%20qui%20allait%20assassiner%20son%20p%C3%A8re%20%3F"
+ },
+ {
+  "text": "Gandhi a été nommé cinq fois pour le prix Nobel de la paix sans jamais l'obtenir ; en 1948, année de sa mort, le comité n'a décerné aucun prix, faute de « candidat vivant approprié ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que gandhi a été nommé cinq fois pour le prix Nobel de la paix sans jamais l'obtenir ; en 1948, année de sa mort, le comité n'a décerné aucun prix, faute de « candidat vivant approprié » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20gandhi%20a%20%C3%A9t%C3%A9%20nomm%C3%A9%20cinq%20fois%20pour%20le%20prix%20Nobel%20de%20la%20paix%20sans%20jamais%20l'obtenir%20%3B%20en%201948%2C%20ann%C3%A9e%20de%20sa%20mort%2C%20le%20comit%C3%A9%20n'a%20d%C3%A9cern%C3%A9%20aucun%20prix%2C%20faute%20de%20%C2%AB%20candidat%20vivant%20appropri%C3%A9%20%C2%BB%20%3F"
+ },
+ {
+  "text": "En 1939, Adolf Hitler a été proposé pour le prix Nobel de la paix par le député suédois Erik Brandt, qui voulait ainsi ironiser sur la nomination de Chamberlain ; il a retiré sa proposition.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1939, Adolf Hitler a été proposé pour le prix Nobel de la paix par le député suédois Erik Brandt, qui voulait ainsi ironiser sur la nomination de Chamberlain ; il a retiré sa proposition ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201939%2C%20Adolf%20Hitler%20a%20%C3%A9t%C3%A9%20propos%C3%A9%20pour%20le%20prix%20Nobel%20de%20la%20paix%20par%20le%20d%C3%A9put%C3%A9%20su%C3%A9dois%20Erik%20Brandt%2C%20qui%20voulait%20ainsi%20ironiser%20sur%20la%20nomination%20de%20Chamberlain%20%3B%20il%20a%20retir%C3%A9%20sa%20proposition%20%3F"
+ },
+ {
+  "text": "Pierre de Coubertin, fondateur des Jeux olympiques modernes, a remporté la médaille d'or de littérature aux JO de 1912 avec son « Ode au sport », envoyée sous deux pseudonymes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que pierre de Coubertin, fondateur des Jeux olympiques modernes, a remporté la médaille d'or de littérature aux JO de 1912 avec son « Ode au sport », envoyée sous deux pseudonymes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pierre%20de%20Coubertin%2C%20fondateur%20des%20Jeux%20olympiques%20modernes%2C%20a%20remport%C3%A9%20la%20m%C3%A9daille%20d'or%20de%20litt%C3%A9rature%20aux%20JO%20de%201912%20avec%20son%20%C2%AB%20Ode%20au%20sport%20%C2%BB%2C%20envoy%C3%A9e%20sous%20deux%20pseudonymes%20%3F"
+ },
+ {
+  "text": "Le tir à la corde a été une épreuve olympique de 1900 à 1920 : la police de la City de Londres y a remporté deux médailles d'or, en 1908 et en 1920.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le tir à la corde a été une épreuve olympique de 1900 à 1920 : la police de la City de Londres y a remporté deux médailles d'or, en 1908 et en 1920 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20tir%20%C3%A0%20la%20corde%20a%20%C3%A9t%C3%A9%20une%20%C3%A9preuve%20olympique%20de%201900%20%C3%A0%201920%20%3A%20la%20police%20de%20la%20City%20de%20Londres%20y%20a%20remport%C3%A9%20deux%20m%C3%A9dailles%20d'or%2C%20en%201908%20et%20en%201920%20%3F"
+ },
+ {
+  "text": "Au début du XIXe siècle, la cheffe pirate Ching Shih dirigeait en mer de Chine l'une des plus grandes confédérations pirates de l'histoire, puis s'est rendue en 1810 contre une amnistie qui lui évita toute poursuite.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'au début du XIXe siècle, la cheffe pirate Ching Shih dirigeait en mer de Chine l'une des plus grandes confédérations pirates de l'histoire, puis s'est rendue en 1810 contre une amnistie qui lui évita toute poursuite ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'au%20d%C3%A9but%20du%20XIXe%20si%C3%A8cle%2C%20la%20cheffe%20pirate%20Ching%20Shih%20dirigeait%20en%20mer%20de%20Chine%20l'une%20des%20plus%20grandes%20conf%C3%A9d%C3%A9rations%20pirates%20de%20l'histoire%2C%20puis%20s'est%20rendue%20en%201810%20contre%20une%20amnistie%20qui%20lui%20%C3%A9vita%20toute%20poursuite%20%3F"
+ },
+ {
+  "text": "La plus vieille réclamation client connue est une tablette d'argile d'environ 1750 av. J.-C. : un certain Nanni y reproche au marchand Ea-nasir de lui avoir vendu du cuivre de mauvaise qualité.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la plus vieille réclamation client connue est une tablette d'argile d'environ 1750 av. J.-C. : un certain Nanni y reproche au marchand Ea-nasir de lui avoir vendu du cuivre de mauvaise qualité ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20plus%20vieille%20r%C3%A9clamation%20client%20connue%20est%20une%20tablette%20d'argile%20d'environ%201750%20av.%20J.-C.%20%3A%20un%20certain%20Nanni%20y%20reproche%20au%20marchand%20Ea-nasir%20de%20lui%20avoir%20vendu%20du%20cuivre%20de%20mauvaise%20qualit%C3%A9%20%3F"
+ },
+ {
+  "text": "Cléopâtre était d'origine grecque macédonienne et, selon Plutarque, fut la première de la dynastie des Ptolémées, au pouvoir en Égypte depuis plus de 250 ans, à apprendre l'égyptien.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que cléopâtre était d'origine grecque macédonienne et, selon Plutarque, fut la première de la dynastie des Ptolémées, au pouvoir en Égypte depuis plus de 250 ans, à apprendre l'égyptien ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20cl%C3%A9op%C3%A2tre%20%C3%A9tait%20d'origine%20grecque%20mac%C3%A9donienne%20et%2C%20selon%20Plutarque%2C%20fut%20la%20premi%C3%A8re%20de%20la%20dynastie%20des%20Ptol%C3%A9m%C3%A9es%2C%20au%20pouvoir%20en%20%C3%89gypte%20depuis%20plus%20de%20250%20ans%2C%20%C3%A0%20apprendre%20l'%C3%A9gyptien%20%3F"
+ },
+ {
+  "text": "Non, Napoléon n'était pas petit : ses « 5 pieds 2 pouces » étaient des mesures françaises, soit environ 1,68 m, une taille dans la moyenne de son époque.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que napoléon n'était pas petit : ses « 5 pieds 2 pouces » étaient des mesures françaises, soit environ 1,68 m, une taille dans la moyenne de son époque ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20napol%C3%A9on%20n'%C3%A9tait%20pas%20petit%20%3A%20ses%20%C2%AB%205%20pieds%202%20pouces%20%C2%BB%20%C3%A9taient%20des%20mesures%20fran%C3%A7aises%2C%20soit%20environ%201%2C68%20m%2C%20une%20taille%20dans%20la%20moyenne%20de%20son%20%C3%A9poque%20%3F"
+ },
+ {
+  "text": "La tour Eiffel ne devait être exploitée que 20 ans : si elle n'a pas été démontée vers 1910, c'est en grande partie parce qu'elle servait d'antenne de radiotélégraphie militaire.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la tour Eiffel ne devait être exploitée que 20 ans : si elle n'a pas été démontée vers 1910, c'est en grande partie parce qu'elle servait d'antenne de radiotélégraphie militaire ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tour%20Eiffel%20ne%20devait%20%C3%AAtre%20exploit%C3%A9e%20que%2020%20ans%20%3A%20si%20elle%20n'a%20pas%20%C3%A9t%C3%A9%20d%C3%A9mont%C3%A9e%20vers%201910%2C%20c'est%20en%20grande%20partie%20parce%20qu'elle%20servait%20d'antenne%20de%20radiot%C3%A9l%C3%A9graphie%20militaire%20%3F"
+ },
+ {
+  "text": "Nintendo a été fondé à Kyoto en 1889, l'année de l'inauguration de la tour Eiffel, pour fabriquer des cartes à jouer japonaises hanafuda.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que nintendo a été fondé à Kyoto en 1889, l'année de l'inauguration de la tour Eiffel, pour fabriquer des cartes à jouer japonaises hanafuda ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20nintendo%20a%20%C3%A9t%C3%A9%20fond%C3%A9%20%C3%A0%20Kyoto%20en%201889%2C%20l'ann%C3%A9e%20de%20l'inauguration%20de%20la%20tour%20Eiffel%2C%20pour%20fabriquer%20des%20cartes%20%C3%A0%20jouer%20japonaises%20hanafuda%20%3F"
+ },
+ {
+  "text": "Thérèse d'Avila est morte dans la nuit du 4 au 15 octobre 1582 : cette nuit-là, l'Espagne passait au calendrier grégorien, qui supprimait dix jours d'un coup.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que thérèse d'Avila est morte dans la nuit du 4 au 15 octobre 1582 : cette nuit-là, l'Espagne passait au calendrier grégorien, qui supprimait dix jours d'un coup ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20th%C3%A9r%C3%A8se%20d'Avila%20est%20morte%20dans%20la%20nuit%20du%204%20au%2015%20octobre%201582%20%3A%20cette%20nuit-l%C3%A0%2C%20l'Espagne%20passait%20au%20calendrier%20gr%C3%A9gorien%2C%20qui%20supprimait%20dix%20jours%20d'un%20coup%20%3F"
+ },
+ {
+  "text": "L'entreprise japonaise de construction de temples Kongō Gumi, fondée en 578, a été gérée par la même famille pendant plus de 1 400 ans avant d'être absorbée par un autre groupe en 2006.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'entreprise japonaise de construction de temples Kongō Gumi, fondée en 578, a été gérée par la même famille pendant plus de 1 400 ans avant d'être absorbée par un autre groupe en 2006 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'entreprise%20japonaise%20de%20construction%20de%20temples%20Kong%C5%8D%20Gumi%2C%20fond%C3%A9e%20en%20578%2C%20a%20%C3%A9t%C3%A9%20g%C3%A9r%C3%A9e%20par%20la%20m%C3%AAme%20famille%20pendant%20plus%20de%201%20400%20ans%20avant%20d'%C3%AAtre%20absorb%C3%A9e%20par%20un%20autre%20groupe%20en%202006%20%3F"
+ },
+ {
+  "text": "En 1912, Theodore Roosevelt a reçu une balle dans la poitrine, freinée par l'étui de ses lunettes et son discours plié de 50 pages, puis a tenu à prononcer ce discours avant d'accepter d'aller à l'hôpital.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1912, Theodore Roosevelt a reçu une balle dans la poitrine, freinée par l'étui de ses lunettes et son discours plié de 50 pages, puis a tenu à prononcer ce discours avant d'accepter d'aller à l'hôpital ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201912%2C%20Theodore%20Roosevelt%20a%20re%C3%A7u%20une%20balle%20dans%20la%20poitrine%2C%20frein%C3%A9e%20par%20l'%C3%A9tui%20de%20ses%20lunettes%20et%20son%20discours%20pli%C3%A9%20de%2050%20pages%2C%20puis%20a%20tenu%20%C3%A0%20prononcer%20ce%20discours%20avant%20d'accepter%20d'aller%20%C3%A0%20l'h%C3%B4pital%20%3F"
+ },
+ {
+  "text": "Thomas Jefferson et John Adams, deux pères fondateurs des États-Unis, sont morts le même jour, le 4 juillet 1826, 50e anniversaire de la Déclaration d'indépendance, à quelques heures d'intervalle.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que thomas Jefferson et John Adams, deux pères fondateurs des États-Unis, sont morts le même jour, le 4 juillet 1826, 50e anniversaire de la Déclaration d'indépendance, à quelques heures d'intervalle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20thomas%20Jefferson%20et%20John%20Adams%2C%20deux%20p%C3%A8res%20fondateurs%20des%20%C3%89tats-Unis%2C%20sont%20morts%20le%20m%C3%AAme%20jour%2C%20le%204%20juillet%201826%2C%2050e%20anniversaire%20de%20la%20D%C3%A9claration%20d'ind%C3%A9pendance%2C%20%C3%A0%20quelques%20heures%20d'intervalle%20%3F"
+ },
+ {
+  "text": "Étudiant à Cambridge, Charles Darwin faisait partie du Glutton Club, qui goûtait des animaux inconnus des assiettes (faucon, butor) ; le club y a renoncé après un vieux hibou jugé « indescriptible ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'étudiant à Cambridge, Charles Darwin faisait partie du Glutton Club, qui goûtait des animaux inconnus des assiettes (faucon, butor) ; le club y a renoncé après un vieux hibou jugé « indescriptible » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A9tudiant%20%C3%A0%20Cambridge%2C%20Charles%20Darwin%20faisait%20partie%20du%20Glutton%20Club%2C%20qui%20go%C3%BBtait%20des%20animaux%20inconnus%20des%20assiettes%20(faucon%2C%20butor)%20%3B%20le%20club%20y%20a%20renonc%C3%A9%20apr%C3%A8s%20un%20vieux%20hibou%20jug%C3%A9%20%C2%AB%20indescriptible%20%C2%BB%20%3F"
+ },
+ {
+  "text": "Jusqu'en 2015, Dahala Khagrabari était un champ indien situé dans une enclave bangladaise, elle-même dans une enclave indienne, elle-même au Bangladesh : la seule enclave de troisième ordre au monde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que jusqu'en 2015, Dahala Khagrabari était un champ indien situé dans une enclave bangladaise, elle-même dans une enclave indienne, elle-même au Bangladesh : la seule enclave de troisième ordre au monde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20jusqu'en%202015%2C%20Dahala%20Khagrabari%20%C3%A9tait%20un%20champ%20indien%20situ%C3%A9%20dans%20une%20enclave%20bangladaise%2C%20elle-m%C3%AAme%20dans%20une%20enclave%20indienne%2C%20elle-m%C3%AAme%20au%20Bangladesh%20%3A%20la%20seule%20enclave%20de%20troisi%C3%A8me%20ordre%20au%20monde%20%3F"
+ },
+ {
+  "text": "Le nom cérémoniel complet de Bangkok compte 168 lettres en transcription latine : le Guinness des records le classe comme le plus long nom de lieu au monde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le nom cérémoniel complet de Bangkok compte 168 lettres en transcription latine : le Guinness des records le classe comme le plus long nom de lieu au monde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20nom%20c%C3%A9r%C3%A9moniel%20complet%20de%20Bangkok%20compte%20168%20lettres%20en%20transcription%20latine%20%3A%20le%20Guinness%20des%20records%20le%20classe%20comme%20le%20plus%20long%20nom%20de%20lieu%20au%20monde%20%3F"
+ },
+ {
+  "text": "L'île Bouvet, territoire norvégien de l'Atlantique Sud couvert à 93 % de glacier, est l'île la plus isolée du monde : la terre la plus proche, en Antarctique, est à environ 1 700 km.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'île Bouvet, territoire norvégien de l'Atlantique Sud couvert à 93 % de glacier, est l'île la plus isolée du monde : la terre la plus proche, en Antarctique, est à environ 1 700 km ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C3%AEle%20Bouvet%2C%20territoire%20norv%C3%A9gien%20de%20l'Atlantique%20Sud%20couvert%20%C3%A0%2093%20%25%20de%20glacier%2C%20est%20l'%C3%AEle%20la%20plus%20isol%C3%A9e%20du%20monde%20%3A%20la%20terre%20la%20plus%20proche%2C%20en%20Antarctique%2C%20est%20%C3%A0%20environ%201%20700%20km%20%3F"
+ },
+ {
+  "text": "Büsingen est une commune allemande enclavée en Suisse où l'on paie surtout en francs suisses ; elle possède deux codes postaux, l'un allemand (78266) et l'autre suisse (8238).",
+  "source": "Perplexity",
+  "question": "Est-il vrai que büsingen est une commune allemande enclavée en Suisse où l'on paie surtout en francs suisses ; elle possède deux codes postaux, l'un allemand (78266) et l'autre suisse (8238) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20b%C3%BCsingen%20est%20une%20commune%20allemande%20enclav%C3%A9e%20en%20Suisse%20o%C3%B9%20l'on%20paie%20surtout%20en%20francs%20suisses%20%3B%20elle%20poss%C3%A8de%20deux%20codes%20postaux%2C%20l'un%20allemand%20(78266)%20et%20l'autre%20suisse%20(8238)%20%3F"
+ },
+ {
+  "text": "La Vennbahn, ancienne voie ferrée attribuée à la Belgique après 1919, traverse le territoire allemand et isole cinq morceaux d'Allemagne, devenus des enclaves en territoire belge.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Vennbahn, ancienne voie ferrée attribuée à la Belgique après 1919, traverse le territoire allemand et isole cinq morceaux d'Allemagne, devenus des enclaves en territoire belge ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Vennbahn%2C%20ancienne%20voie%20ferr%C3%A9e%20attribu%C3%A9e%20%C3%A0%20la%20Belgique%20apr%C3%A8s%201919%2C%20traverse%20le%20territoire%20allemand%20et%20isole%20cinq%20morceaux%20d'Allemagne%2C%20devenus%20des%20enclaves%20en%20territoire%20belge%20%3F"
+ },
+ {
+  "text": "Depuis près de 1 000 ans, les femmes sont interdites sur le mont Athos, en Grèce, ainsi que les animaux domestiques femelles ; les chattes y sont toutefois tolérées pour chasser les souris.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que depuis près de 1 000 ans, les femmes sont interdites sur le mont Athos, en Grèce, ainsi que les animaux domestiques femelles ; les chattes y sont toutefois tolérées pour chasser les souris ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20depuis%20pr%C3%A8s%20de%201%20000%20ans%2C%20les%20femmes%20sont%20interdites%20sur%20le%20mont%20Athos%2C%20en%20Gr%C3%A8ce%2C%20ainsi%20que%20les%20animaux%20domestiques%20femelles%20%3B%20les%20chattes%20y%20sont%20toutefois%20tol%C3%A9r%C3%A9es%20pour%20chasser%20les%20souris%20%3F"
+ },
+ {
+  "text": "En 1996, pour protester contre la loi suédoise sur les prénoms, des parents ont tenté d'appeler leur fils Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, à prononcer « Albin ». Le tribunal a refusé.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1996, pour protester contre la loi suédoise sur les prénoms, des parents ont tenté d'appeler leur fils Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, à prononcer « Albin ». Le tribunal a refusé ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201996%2C%20pour%20protester%20contre%20la%20loi%20su%C3%A9doise%20sur%20les%20pr%C3%A9noms%2C%20des%20parents%20ont%20tent%C3%A9%20d'appeler%20leur%20fils%20Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116%2C%20%C3%A0%20prononcer%20%C2%AB%20Albin%20%C2%BB.%20Le%20tribunal%20a%20refus%C3%A9%20%3F"
+ },
+ {
+  "text": "En Islande, la bière forte est restée interdite jusqu'au 1er mars 1989, alors que le vin et les spiritueux étaient autorisés depuis des décennies ; cette date est fêtée chaque année comme le « jour de la bière ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en Islande, la bière forte est restée interdite jusqu'au 1er mars 1989, alors que le vin et les spiritueux étaient autorisés depuis des décennies ; cette date est fêtée chaque année comme le « jour de la bière » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%20Islande%2C%20la%20bi%C3%A8re%20forte%20est%20rest%C3%A9e%20interdite%20jusqu'au%201er%20mars%201989%2C%20alors%20que%20le%20vin%20et%20les%20spiritueux%20%C3%A9taient%20autoris%C3%A9s%20depuis%20des%20d%C3%A9cennies%20%3B%20cette%20date%20est%20f%C3%AAt%C3%A9e%20chaque%20ann%C3%A9e%20comme%20le%20%C2%AB%20jour%20de%20la%20bi%C3%A8re%20%C2%BB%20%3F"
+ },
+ {
+  "text": "Après les élections de juin 2010, la Belgique est restée 541 jours sans nouveau gouvernement, un record Guinness du plus long délai en temps de paix.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'après les élections de juin 2010, la Belgique est restée 541 jours sans nouveau gouvernement, un record Guinness du plus long délai en temps de paix ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'apr%C3%A8s%20les%20%C3%A9lections%20de%20juin%202010%2C%20la%20Belgique%20est%20rest%C3%A9e%20541%20jours%20sans%20nouveau%20gouvernement%2C%20un%20record%20Guinness%20du%20plus%20long%20d%C3%A9lai%20en%20temps%20de%20paix%20%3F"
+ },
+ {
+  "text": "Depuis 2017, le fleuve Whanganui, en Nouvelle-Zélande, est juridiquement une personne, dotée de droits et de représentants légaux qui parlent en son nom.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que depuis 2017, le fleuve Whanganui, en Nouvelle-Zélande, est juridiquement une personne, dotée de droits et de représentants légaux qui parlent en son nom ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20depuis%202017%2C%20le%20fleuve%20Whanganui%2C%20en%20Nouvelle-Z%C3%A9lande%2C%20est%20juridiquement%20une%20personne%2C%20dot%C3%A9e%20de%20droits%20et%20de%20repr%C3%A9sentants%20l%C3%A9gaux%20qui%20parlent%20en%20son%20nom%20%3F"
+ },
+ {
+  "text": "Depuis 2007, une réglementation chinoise impose que toute réincarnation d'un « bouddha vivant » tibétain soit approuvée par le gouvernement, sous peine d'être déclarée invalide.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que depuis 2007, une réglementation chinoise impose que toute réincarnation d'un « bouddha vivant » tibétain soit approuvée par le gouvernement, sous peine d'être déclarée invalide ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20depuis%202007%2C%20une%20r%C3%A9glementation%20chinoise%20impose%20que%20toute%20r%C3%A9incarnation%20d'un%20%C2%AB%20bouddha%20vivant%20%C2%BB%20tib%C3%A9tain%20soit%20approuv%C3%A9e%20par%20le%20gouvernement%2C%20sous%20peine%20d'%C3%AAtre%20d%C3%A9clar%C3%A9e%20invalide%20%3F"
+ },
+ {
+  "text": "Au Royaume-Uni, l'article 32 du Salmon Act de 1986 réprime le fait de manipuler un saumon dans des circonstances suspectes, c'est-à-dire en le soupçonnant d'avoir été braconné.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'au Royaume-Uni, l'article 32 du Salmon Act de 1986 réprime le fait de manipuler un saumon dans des circonstances suspectes, c'est-à-dire en le soupçonnant d'avoir été braconné ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'au%20Royaume-Uni%2C%20l'article%2032%20du%20Salmon%20Act%20de%201986%20r%C3%A9prime%20le%20fait%20de%20manipuler%20un%20saumon%20dans%20des%20circonstances%20suspectes%2C%20c'est-%C3%A0-dire%20en%20le%20soup%C3%A7onnant%20d'avoir%20%C3%A9t%C3%A9%20braconn%C3%A9%20%3F"
+ },
+ {
+  "text": "À Coober Pedy, ville minière d'opale en Australie, environ la moitié des habitants vit sous terre, dans des maisons creusées dans la roche pour échapper à la chaleur du désert.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'à Coober Pedy, ville minière d'opale en Australie, environ la moitié des habitants vit sous terre, dans des maisons creusées dans la roche pour échapper à la chaleur du désert ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A0%20Coober%20Pedy%2C%20ville%20mini%C3%A8re%20d'opale%20en%20Australie%2C%20environ%20la%20moiti%C3%A9%20des%20habitants%20vit%20sous%20terre%2C%20dans%20des%20maisons%20creus%C3%A9es%20dans%20la%20roche%20pour%20%C3%A9chapper%20%C3%A0%20la%20chaleur%20du%20d%C3%A9sert%20%3F"
+ },
+ {
+  "text": "L'ordre souverain de Malte n'a aucun territoire, mais il délivre ses propres passeports, entretient des relations diplomatiques avec plus de 110 États et siège comme observateur permanent à l'ONU.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'ordre souverain de Malte n'a aucun territoire, mais il délivre ses propres passeports, entretient des relations diplomatiques avec plus de 110 États et siège comme observateur permanent à l'ONU ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'ordre%20souverain%20de%20Malte%20n'a%20aucun%20territoire%2C%20mais%20il%20d%C3%A9livre%20ses%20propres%20passeports%2C%20entretient%20des%20relations%20diplomatiques%20avec%20plus%20de%20110%20%C3%89tats%20et%20si%C3%A8ge%20comme%20observateur%20permanent%20%C3%A0%20l'ONU%20%3F"
+ },
+ {
+  "text": "En 2002, le président du Turkménistan Saparmourat Niazov a renommé janvier d'après son propre titre, « Turkmenbachi », et avril d'après le prénom de sa mère, Gourbansoltan. L'usage a été aboli en 2008.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2002, le président du Turkménistan Saparmourat Niazov a renommé janvier d'après son propre titre, « Turkmenbachi », et avril d'après le prénom de sa mère, Gourbansoltan. L'usage a été aboli en 2008 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202002%2C%20le%20pr%C3%A9sident%20du%20Turkm%C3%A9nistan%20Saparmourat%20Niazov%20a%20renomm%C3%A9%20janvier%20d'apr%C3%A8s%20son%20propre%20titre%2C%20%C2%AB%20Turkmenbachi%20%C2%BB%2C%20et%20avril%20d'apr%C3%A8s%20le%20pr%C3%A9nom%20de%20sa%20m%C3%A8re%2C%20Gourbansoltan.%20L'usage%20a%20%C3%A9t%C3%A9%20aboli%20en%202008%20%3F"
+ },
+ {
+  "text": "L'Éthiopie utilise un calendrier de 13 mois : douze de 30 jours et un treizième de 5 ou 6 jours. Son année commence le 11 ou le 12 septembre et compte sept à huit ans de retard sur le calendrier grégorien.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Éthiopie utilise un calendrier de 13 mois : douze de 30 jours et un treizième de 5 ou 6 jours. Son année commence le 11 ou le 12 septembre et compte sept à huit ans de retard sur le calendrier grégorien ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C3%89thiopie%20utilise%20un%20calendrier%20de%2013%20mois%20%3A%20douze%20de%2030%20jours%20et%20un%20treizi%C3%A8me%20de%205%20ou%206%20jours.%20Son%20ann%C3%A9e%20commence%20le%2011%20ou%20le%2012%20septembre%20et%20compte%20sept%20%C3%A0%20huit%20ans%20de%20retard%20sur%20le%20calendrier%20gr%C3%A9gorien%20%3F"
+ },
+ {
+  "text": "Depuis l'été 2019, s'asseoir sur l'escalier de la Trinité-des-Monts, à Rome, est interdit : les contrevenants s'exposent à une amende pouvant atteindre 400 euros.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que depuis l'été 2019, s'asseoir sur l'escalier de la Trinité-des-Monts, à Rome, est interdit : les contrevenants s'exposent à une amende pouvant atteindre 400 euros ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20depuis%20l'%C3%A9t%C3%A9%202019%2C%20s'asseoir%20sur%20l'escalier%20de%20la%20Trinit%C3%A9-des-Monts%2C%20%C3%A0%20Rome%2C%20est%20interdit%20%3A%20les%20contrevenants%20s'exposent%20%C3%A0%20une%20amende%20pouvant%20atteindre%20400%20euros%20%3F"
+ },
+ {
+  "text": "Le Slinky est né en 1943 quand un ressort est tombé d'une étagère devant Richard James, ingénieur de la Navy ; en 1945, ses 400 premiers exemplaires se sont vendus en 90 minutes dans un magasin de Philadelphie.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Slinky est né en 1943 quand un ressort est tombé d'une étagère devant Richard James, ingénieur de la Navy ; en 1945, ses 400 premiers exemplaires se sont vendus en 90 minutes dans un magasin de Philadelphie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Slinky%20est%20n%C3%A9%20en%201943%20quand%20un%20ressort%20est%20tomb%C3%A9%20d'une%20%C3%A9tag%C3%A8re%20devant%20Richard%20James%2C%20ing%C3%A9nieur%20de%20la%20Navy%20%3B%20en%201945%2C%20ses%20400%20premiers%20exemplaires%20se%20sont%20vendus%20en%2090%20minutes%20dans%20un%20magasin%20de%20Philadelphie%20%3F"
+ },
+ {
+  "text": "Ed Headrick, père du Frisbee moderne, a demandé que ses cendres soient incorporées à des disques après sa mort en 2002 : certains ont été vendus pour financer un projet de musée.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'ed Headrick, père du Frisbee moderne, a demandé que ses cendres soient incorporées à des disques après sa mort en 2002 : certains ont été vendus pour financer un projet de musée ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'ed%20Headrick%2C%20p%C3%A8re%20du%20Frisbee%20moderne%2C%20a%20demand%C3%A9%20que%20ses%20cendres%20soient%20incorpor%C3%A9es%20%C3%A0%20des%20disques%20apr%C3%A8s%20sa%20mort%20en%202002%20%3A%20certains%20ont%20%C3%A9t%C3%A9%20vendus%20pour%20financer%20un%20projet%20de%20mus%C3%A9e%20%3F"
+ },
+ {
+  "text": "Les cotons-tiges Q-tips, inventés en 1923 par Leo Gerstenzang, se sont d'abord appelés « Baby Gays », gay signifiant alors joyeux.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les cotons-tiges Q-tips, inventés en 1923 par Leo Gerstenzang, se sont d'abord appelés « Baby Gays », gay signifiant alors joyeux ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20cotons-tiges%20Q-tips%2C%20invent%C3%A9s%20en%201923%20par%20Leo%20Gerstenzang%2C%20se%20sont%20d'abord%20appel%C3%A9s%20%C2%AB%20Baby%20Gays%20%C2%BB%2C%20gay%20signifiant%20alors%20joyeux%20%3F"
+ },
+ {
+  "text": "WD-40 signifie « Water Displacement, 40e formule » : mis au point en 1953, le produit a d'abord servi à protéger de la rouille la coque des missiles Atlas.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que wD-40 signifie « Water Displacement, 40e formule » : mis au point en 1953, le produit a d'abord servi à protéger de la rouille la coque des missiles Atlas ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20wD-40%20signifie%20%C2%AB%20Water%20Displacement%2C%2040e%20formule%20%C2%BB%20%3A%20mis%20au%20point%20en%201953%2C%20le%20produit%20a%20d'abord%20servi%20%C3%A0%20prot%C3%A9ger%20de%20la%20rouille%20la%20coque%20des%20missiles%20Atlas%20%3F"
+ },
+ {
+  "text": "L'ancêtre du Nutella, le Giandujot lancé en 1946 par Pietro Ferrero, était un pain de pâte aux noisettes qu'on coupait en tranches au couteau pour le poser sur du pain.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'ancêtre du Nutella, le Giandujot lancé en 1946 par Pietro Ferrero, était un pain de pâte aux noisettes qu'on coupait en tranches au couteau pour le poser sur du pain ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'anc%C3%AAtre%20du%20Nutella%2C%20le%20Giandujot%20lanc%C3%A9%20en%201946%20par%20Pietro%20Ferrero%2C%20%C3%A9tait%20un%20pain%20de%20p%C3%A2te%20aux%20noisettes%20qu'on%20coupait%20en%20tranches%20au%20couteau%20pour%20le%20poser%20sur%20du%20pain%20%3F"
+ },
+ {
+  "text": "Le Dr Pepper est plus ancien que le Coca-Cola : il a été servi dès 1885 dans une pharmacie de Waco, au Texas, un an avant l'apparition du Coca.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Dr Pepper est plus ancien que le Coca-Cola : il a été servi dès 1885 dans une pharmacie de Waco, au Texas, un an avant l'apparition du Coca ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Dr%20Pepper%20est%20plus%20ancien%20que%20le%20Coca-Cola%20%3A%20il%20a%20%C3%A9t%C3%A9%20servi%20d%C3%A8s%201885%20dans%20une%20pharmacie%20de%20Waco%2C%20au%20Texas%2C%20un%20an%20avant%20l'apparition%20du%20Coca%20%3F"
+ },
+ {
+  "text": "Lancé en 1937 dans l'Oklahoma, le caddie de supermarché était boudé : les hommes le trouvaient peu viril, et son inventeur Sylvan Goldman a dû payer des figurants pour le pousser en magasin.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que lancé en 1937 dans l'Oklahoma, le caddie de supermarché était boudé : les hommes le trouvaient peu viril, et son inventeur Sylvan Goldman a dû payer des figurants pour le pousser en magasin ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20lanc%C3%A9%20en%201937%20dans%20l'Oklahoma%2C%20le%20caddie%20de%20supermarch%C3%A9%20%C3%A9tait%20boud%C3%A9%20%3A%20les%20hommes%20le%20trouvaient%20peu%20viril%2C%20et%20son%20inventeur%20Sylvan%20Goldman%20a%20d%C3%BB%20payer%20des%20figurants%20pour%20le%20pousser%20en%20magasin%20%3F"
+ },
+ {
+  "text": "Le premier distributeur automatique connu date du Ier siècle : Héron d'Alexandrie a conçu une machine qui délivrait de l'eau bénite en échange d'une pièce.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier distributeur automatique connu date du Ier siècle : Héron d'Alexandrie a conçu une machine qui délivrait de l'eau bénite en échange d'une pièce ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20distributeur%20automatique%20connu%20date%20du%20Ier%20si%C3%A8cle%20%3A%20H%C3%A9ron%20d'Alexandrie%20a%20con%C3%A7u%20une%20machine%20qui%20d%C3%A9livrait%20de%20l'eau%20b%C3%A9nite%20en%20%C3%A9change%20d'une%20pi%C3%A8ce%20%3F"
+ },
+ {
+  "text": "Les Doritos sont nés au début des années 1960 à Disneyland, dans le restaurant Casa de Fritos, qui faisait frire des tortillas invendues coupées en morceaux.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Doritos sont nés au début des années 1960 à Disneyland, dans le restaurant Casa de Fritos, qui faisait frire des tortillas invendues coupées en morceaux ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20Doritos%20sont%20n%C3%A9s%20au%20d%C3%A9but%20des%20ann%C3%A9es%201960%20%C3%A0%20Disneyland%2C%20dans%20le%20restaurant%20Casa%20de%20Fritos%2C%20qui%20faisait%20frire%20des%20tortillas%20invendues%20coup%C3%A9es%20en%20morceaux%20%3F"
+ },
+ {
+  "text": "Avant les spas, les frères Jacuzzi fabriquaient des hélices d'avion : leur première pompe de bain, en 1948, devait soulager le fils de Candido Jacuzzi, atteint de polyarthrite.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'avant les spas, les frères Jacuzzi fabriquaient des hélices d'avion : leur première pompe de bain, en 1948, devait soulager le fils de Candido Jacuzzi, atteint de polyarthrite ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'avant%20les%20spas%2C%20les%20fr%C3%A8res%20Jacuzzi%20fabriquaient%20des%20h%C3%A9lices%20d'avion%20%3A%20leur%20premi%C3%A8re%20pompe%20de%20bain%2C%20en%201948%2C%20devait%20soulager%20le%20fils%20de%20Candido%20Jacuzzi%2C%20atteint%20de%20polyarthrite%20%3F"
+ },
+ {
+  "text": "Dès 1662, l'Anglais Christopher Merret décrivait à la Royal Society l'ajout de sucre pour rendre le vin pétillant, environ 35 ans avant les travaux attribués à Dom Pérignon.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que dès 1662, l'Anglais Christopher Merret décrivait à la Royal Society l'ajout de sucre pour rendre le vin pétillant, environ 35 ans avant les travaux attribués à Dom Pérignon ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20d%C3%A8s%201662%2C%20l'Anglais%20Christopher%20Merret%20d%C3%A9crivait%20%C3%A0%20la%20Royal%20Society%20l'ajout%20de%20sucre%20pour%20rendre%20le%20vin%20p%C3%A9tillant%2C%20environ%2035%20ans%20avant%20les%20travaux%20attribu%C3%A9s%20%C3%A0%20Dom%20P%C3%A9rignon%20%3F"
+ },
+ {
+  "text": "Momofuku Ando a inventé les nouilles instantanées en 1958, à 48 ans ; mort à 96 ans, il attribuait sa longévité au golf et à ses Chicken Ramen mangés presque chaque jour.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que momofuku Ando a inventé les nouilles instantanées en 1958, à 48 ans ; mort à 96 ans, il attribuait sa longévité au golf et à ses Chicken Ramen mangés presque chaque jour ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20momofuku%20Ando%20a%20invent%C3%A9%20les%20nouilles%20instantan%C3%A9es%20en%201958%2C%20%C3%A0%2048%20ans%20%3B%20mort%20%C3%A0%2096%20ans%2C%20il%20attribuait%20sa%20long%C3%A9vit%C3%A9%20au%20golf%20et%20%C3%A0%20ses%20Chicken%20Ramen%20mang%C3%A9s%20presque%20chaque%20jour%20%3F"
+ },
+ {
+  "text": "Le logo des sucettes Chupa Chups a été dessiné en 1969 par le peintre surréaliste Salvador Dalí.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le logo des sucettes Chupa Chups a été dessiné en 1969 par le peintre surréaliste Salvador Dalí ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20logo%20des%20sucettes%20Chupa%20Chups%20a%20%C3%A9t%C3%A9%20dessin%C3%A9%20en%201969%20par%20le%20peintre%20surr%C3%A9aliste%20Salvador%20Dal%C3%AD%20%3F"
+ },
+ {
+  "text": "La célèbre sauce sriracha au coq est fabriquée par Huy Fong Foods, nommée d'après le cargo Huey Fong sur lequel son fondateur David Tran avait fui le Vietnam.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la célèbre sauce sriracha au coq est fabriquée par Huy Fong Foods, nommée d'après le cargo Huey Fong sur lequel son fondateur David Tran avait fui le Vietnam ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20c%C3%A9l%C3%A8bre%20sauce%20sriracha%20au%20coq%20est%20fabriqu%C3%A9e%20par%20Huy%20Fong%20Foods%2C%20nomm%C3%A9e%20d'apr%C3%A8s%20le%20cargo%20Huey%20Fong%20sur%20lequel%20son%20fondateur%20David%20Tran%20avait%20fui%20le%20Vietnam%20%3F"
+ },
+ {
+  "text": "Le Ferrero Rocher doit son nom au rocher de Massabielle, la grotte du sanctuaire de Lourdes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Ferrero Rocher doit son nom au rocher de Massabielle, la grotte du sanctuaire de Lourdes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Ferrero%20Rocher%20doit%20son%20nom%20au%20rocher%20de%20Massabielle%2C%20la%20grotte%20du%20sanctuaire%20de%20Lourdes%20%3F"
+ },
+ {
+  "text": "La barre Snickers, lancée en 1930, porte le nom du cheval préféré de la famille Mars.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la barre Snickers, lancée en 1930, porte le nom du cheval préféré de la famille Mars ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20barre%20Snickers%2C%20lanc%C3%A9e%20en%201930%2C%20porte%20le%20nom%20du%20cheval%20pr%C3%A9f%C3%A9r%C3%A9%20de%20la%20famille%20Mars%20%3F"
+ },
+ {
+  "text": "L'Oreo est une copie : créé en 1912, il imitait le biscuit Hydrox, commercialisé dès 1908, que le public a fini par prendre pour l'imitation.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Oreo est une copie : créé en 1912, il imitait le biscuit Hydrox, commercialisé dès 1908, que le public a fini par prendre pour l'imitation ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Oreo%20est%20une%20copie%20%3A%20cr%C3%A9%C3%A9%20en%201912%2C%20il%20imitait%20le%20biscuit%20Hydrox%2C%20commercialis%C3%A9%20d%C3%A8s%201908%2C%20que%20le%20public%20a%20fini%20par%20prendre%20pour%20l'imitation%20%3F"
+ },
+ {
+  "text": "Au XVIIIe siècle, le ketchup anglais se faisait aux champignons, aux huîtres ou aux noix : la première recette connue à la tomate, publiée par l'Américain James Mease, ne date que de 1812.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'au XVIIIe siècle, le ketchup anglais se faisait aux champignons, aux huîtres ou aux noix : la première recette connue à la tomate, publiée par l'Américain James Mease, ne date que de 1812 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'au%20XVIIIe%20si%C3%A8cle%2C%20le%20ketchup%20anglais%20se%20faisait%20aux%20champignons%2C%20aux%20hu%C3%AEtres%20ou%20aux%20noix%20%3A%20la%20premi%C3%A8re%20recette%20connue%20%C3%A0%20la%20tomate%2C%20publi%C3%A9e%20par%20l'Am%C3%A9ricain%20James%20Mease%2C%20ne%20date%20que%20de%201812%20%3F"
+ },
+ {
+  "text": "Le plus grand nombre premier connu, 2^136 279 841 − 1, compte 41 024 320 chiffres ; Luke Durant l'a trouvé en octobre 2024 après un an de calcul sur des milliers de cartes graphiques, pour environ 2 millions de dollars.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le plus grand nombre premier connu, 2^136 279 841 − 1, compte 41 024 320 chiffres ; Luke Durant l'a trouvé en octobre 2024 après un an de calcul sur des milliers de cartes graphiques, pour environ 2 millions de dollars ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20grand%20nombre%20premier%20connu%2C%202%5E136%20279%20841%20%E2%88%92%201%2C%20compte%2041%20024%20320%20chiffres%20%3B%20Luke%20Durant%20l'a%20trouv%C3%A9%20en%20octobre%202024%20apr%C3%A8s%20un%20an%20de%20calcul%20sur%20des%20milliers%20de%20cartes%20graphiques%2C%20pour%20environ%202%20millions%20de%20dollars%20%3F"
+ },
+ {
+  "text": "Le 21 décembre 2023, Willis Gibson, 13 ans, est devenu le premier humain à « battre » le Tetris de la NES en faisant planter le jeu au niveau 157, exploit jusque-là réservé aux IA.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le 21 décembre 2023, Willis Gibson, 13 ans, est devenu le premier humain à « battre » le Tetris de la NES en faisant planter le jeu au niveau 157, exploit jusque-là réservé aux IA ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%2021%20d%C3%A9cembre%202023%2C%20Willis%20Gibson%2C%2013%20ans%2C%20est%20devenu%20le%20premier%20humain%20%C3%A0%20%C2%AB%20battre%20%C2%BB%20le%20Tetris%20de%20la%20NES%20en%20faisant%20planter%20le%20jeu%20au%20niveau%20157%2C%20exploit%20jusque-l%C3%A0%20r%C3%A9serv%C3%A9%20aux%20IA%20%3F"
+ },
+ {
+  "text": "La deuxième plus grande Wikipédia du monde par nombre d'articles est en cebuano, une langue des Philippines : la quasi-totalité de ses 6 millions d'articles a été générée par des robots, surtout Lsjbot.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la deuxième plus grande Wikipédia du monde par nombre d'articles est en cebuano, une langue des Philippines : la quasi-totalité de ses 6 millions d'articles a été générée par des robots, surtout Lsjbot ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20deuxi%C3%A8me%20plus%20grande%20Wikip%C3%A9dia%20du%20monde%20par%20nombre%20d'articles%20est%20en%20cebuano%2C%20une%20langue%20des%20Philippines%20%3A%20la%20quasi-totalit%C3%A9%20de%20ses%206%20millions%20d'articles%20a%20%C3%A9t%C3%A9%20g%C3%A9n%C3%A9r%C3%A9e%20par%20des%20robots%2C%20surtout%20Lsjbot%20%3F"
+ },
+ {
+  "text": "En 2020, on a découvert qu'un adolescent américain qui ne parlait pas le scots avait écrit environ 23 000 articles, un tiers de la Wikipédia en scots, en anglais déguisé avec un accent écossais.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2020, on a découvert qu'un adolescent américain qui ne parlait pas le scots avait écrit environ 23 000 articles, un tiers de la Wikipédia en scots, en anglais déguisé avec un accent écossais ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202020%2C%20on%20a%20d%C3%A9couvert%20qu'un%20adolescent%20am%C3%A9ricain%20qui%20ne%20parlait%20pas%20le%20scots%20avait%20%C3%A9crit%20environ%2023%20000%20articles%2C%20un%20tiers%20de%20la%20Wikip%C3%A9dia%20en%20scots%2C%20en%20anglais%20d%C3%A9guis%C3%A9%20avec%20un%20accent%20%C3%A9cossais%20%3F"
+ },
+ {
+  "text": "En recopiant les mots déformés des CAPTCHA, des millions d'internautes ont aidé sans le savoir à numériser les archives du New York Times puis des livres de Google Books.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en recopiant les mots déformés des CAPTCHA, des millions d'internautes ont aidé sans le savoir à numériser les archives du New York Times puis des livres de Google Books ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%20recopiant%20les%20mots%20d%C3%A9form%C3%A9s%20des%20CAPTCHA%2C%20des%20millions%20d'internautes%20ont%20aid%C3%A9%20sans%20le%20savoir%20%C3%A0%20num%C3%A9riser%20les%20archives%20du%20New%20York%20Times%20puis%20des%20livres%20de%20Google%20Books%20%3F"
+ },
+ {
+  "text": "Excel considère que le 29 février 1900 a existé, alors que 1900 n'était pas bissextile : Microsoft a copié volontairement ce bug du tableur Lotus 1-2-3 pour rester compatible.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'excel considère que le 29 février 1900 a existé, alors que 1900 n'était pas bissextile : Microsoft a copié volontairement ce bug du tableur Lotus 1-2-3 pour rester compatible ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'excel%20consid%C3%A8re%20que%20le%2029%20f%C3%A9vrier%201900%20a%20exist%C3%A9%2C%20alors%20que%201900%20n'%C3%A9tait%20pas%20bissextile%20%3A%20Microsoft%20a%20copi%C3%A9%20volontairement%20ce%20bug%20du%20tableur%20Lotus%201-2-3%20pour%20rester%20compatible%20%3F"
+ },
+ {
+  "text": "En 2020, les généticiens ont renommé 27 gènes humains, comme SEPT1 devenu SEPTIN1 et MARCH1 devenu MARCHF1, parce qu'Excel les transformait sans cesse en dates.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2020, les généticiens ont renommé 27 gènes humains, comme SEPT1 devenu SEPTIN1 et MARCH1 devenu MARCHF1, parce qu'Excel les transformait sans cesse en dates ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202020%2C%20les%20g%C3%A9n%C3%A9ticiens%20ont%20renomm%C3%A9%2027%20g%C3%A8nes%20humains%2C%20comme%20SEPT1%20devenu%20SEPTIN1%20et%20MARCH1%20devenu%20MARCHF1%2C%20parce%20qu'Excel%20les%20transformait%20sans%20cesse%20en%20dates%20%3F"
+ },
+ {
+  "text": "JavaScript, l'un des langages fondamentaux du Web, a été écrit dans sa première version en dix jours par Brendan Eich chez Netscape en 1995, sous le nom de Mocha.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que javaScript, l'un des langages fondamentaux du Web, a été écrit dans sa première version en dix jours par Brendan Eich chez Netscape en 1995, sous le nom de Mocha ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20javaScript%2C%20l'un%20des%20langages%20fondamentaux%20du%20Web%2C%20a%20%C3%A9t%C3%A9%20%C3%A9crit%20dans%20sa%20premi%C3%A8re%20version%20en%20dix%20jours%20par%20Brendan%20Eich%20chez%20Netscape%20en%201995%2C%20sous%20le%20nom%20de%20Mocha%20%3F"
+ },
+ {
+  "text": "Le théorème des quatre couleurs, prouvé en 1976 par Appel et Haken, est le premier grand théorème démontré par ordinateur : la vérification a demandé plus de mille heures de calcul.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le théorème des quatre couleurs, prouvé en 1976 par Appel et Haken, est le premier grand théorème démontré par ordinateur : la vérification a demandé plus de mille heures de calcul ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20th%C3%A9or%C3%A8me%20des%20quatre%20couleurs%2C%20prouv%C3%A9%20en%201976%20par%20Appel%20et%20Haken%2C%20est%20le%20premier%20grand%20th%C3%A9or%C3%A8me%20d%C3%A9montr%C3%A9%20par%20ordinateur%20%3A%20la%20v%C3%A9rification%20a%20demand%C3%A9%20plus%20de%20mille%20heures%20de%20calcul%20%3F"
+ },
+ {
+  "text": "Le 19 janvier 2038 à 03:14:08 UTC, les systèmes qui stockent l'heure sur un entier signé de 32 bits déborderont et croiront être revenus au 13 décembre 1901.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le 19 janvier 2038 à 03:14:08 UTC, les systèmes qui stockent l'heure sur un entier signé de 32 bits déborderont et croiront être revenus au 13 décembre 1901 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%2019%20janvier%202038%20%C3%A0%2003%3A14%3A08%20UTC%2C%20les%20syst%C3%A8mes%20qui%20stockent%20l'heure%20sur%20un%20entier%20sign%C3%A9%20de%2032%20bits%20d%C3%A9borderont%20et%20croiront%20%C3%AAtre%20revenus%20au%2013%20d%C3%A9cembre%201901%20%3F"
+ },
+ {
+  "text": "Le site web promotionnel du film Space Jam, créé en 1996 avec ses GIF animés, est toujours consultable : Warner Bros l'a conservé comme page à part lors de la sortie de la suite en 2021.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le site web promotionnel du film Space Jam, créé en 1996 avec ses GIF animés, est toujours consultable : Warner Bros l'a conservé comme page à part lors de la sortie de la suite en 2021 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20site%20web%20promotionnel%20du%20film%20Space%20Jam%2C%20cr%C3%A9%C3%A9%20en%201996%20avec%20ses%20GIF%20anim%C3%A9s%2C%20est%20toujours%20consultable%20%3A%20Warner%20Bros%20l'a%20conserv%C3%A9%20comme%20page%20%C3%A0%20part%20lors%20de%20la%20sortie%20de%20la%20suite%20en%202021%20%3F"
+ },
+ {
+  "text": "Les mots « zéro » et « chiffre » viennent tous deux du même mot arabe, sifr, qui signifie « vide ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les mots « zéro » et « chiffre » viennent tous deux du même mot arabe, sifr, qui signifie « vide » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20mots%20%C2%AB%20z%C3%A9ro%20%C2%BB%20et%20%C2%AB%20chiffre%20%C2%BB%20viennent%20tous%20deux%20du%20m%C3%AAme%20mot%20arabe%2C%20sifr%2C%20qui%20signifie%20%C2%AB%20vide%20%C2%BB%20%3F"
+ },
+ {
+  "text": "Le mot anglais « nice » (gentil, agréable) vient du latin nescius, « ignorant » : au XIIIe siècle, il signifiait « sot » et n'a pris le sens d'« agréable » qu'au XVIIIe siècle.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot anglais « nice » (gentil, agréable) vient du latin nescius, « ignorant » : au XIIIe siècle, il signifiait « sot » et n'a pris le sens d'« agréable » qu'au XVIIIe siècle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20anglais%20%C2%AB%20nice%20%C2%BB%20(gentil%2C%20agr%C3%A9able)%20vient%20du%20latin%20nescius%2C%20%C2%AB%20ignorant%20%C2%BB%20%3A%20au%20XIIIe%20si%C3%A8cle%2C%20il%20signifiait%20%C2%AB%20sot%20%C2%BB%20et%20n'a%20pris%20le%20sens%20d'%C2%AB%20agr%C3%A9able%20%C2%BB%20qu'au%20XVIIIe%20si%C3%A8cle%20%3F"
+ },
+ {
+  "text": "L'arobase @ s'appelle « escargot » en italien, « queue de singe » en néerlandais, « petit chien » en russe, « queue de chat » en finnois et « strudel » en hébreu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'arobase @ s'appelle « escargot » en italien, « queue de singe » en néerlandais, « petit chien » en russe, « queue de chat » en finnois et « strudel » en hébreu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'arobase%20%40%20s'appelle%20%C2%AB%20escargot%20%C2%BB%20en%20italien%2C%20%C2%AB%20queue%20de%20singe%20%C2%BB%20en%20n%C3%A9erlandais%2C%20%C2%AB%20petit%20chien%20%C2%BB%20en%20russe%2C%20%C2%AB%20queue%20de%20chat%20%C2%BB%20en%20finnois%20et%20%C2%AB%20strudel%20%C2%BB%20en%20h%C3%A9breu%20%3F"
+ },
+ {
+  "text": "Le raccourci Ctrl+Alt+Suppr a été inventé en 1981 par David Bradley, ingénieur d'IBM ; en 2013, Bill Gates a reconnu que l'utiliser pour ouvrir une session Windows avait été une erreur.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le raccourci Ctrl+Alt+Suppr a été inventé en 1981 par David Bradley, ingénieur d'IBM ; en 2013, Bill Gates a reconnu que l'utiliser pour ouvrir une session Windows avait été une erreur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20raccourci%20Ctrl%2BAlt%2BSuppr%20a%20%C3%A9t%C3%A9%20invent%C3%A9%20en%201981%20par%20David%20Bradley%2C%20ing%C3%A9nieur%20d'IBM%20%3B%20en%202013%2C%20Bill%20Gates%20a%20reconnu%20que%20l'utiliser%20pour%20ouvrir%20une%20session%20Windows%20avait%20%C3%A9t%C3%A9%20une%20erreur%20%3F"
+ },
+ {
+  "text": "Le mot « esquivalience », défini dans le New Oxford American Dictionary de 2001, n'existait pas : c'était un piège inventé pour démasquer les plagiaires, découvert en 2005.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « esquivalience », défini dans le New Oxford American Dictionary de 2001, n'existait pas : c'était un piège inventé pour démasquer les plagiaires, découvert en 2005 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20esquivalience%20%C2%BB%2C%20d%C3%A9fini%20dans%20le%20New%20Oxford%20American%20Dictionary%20de%202001%2C%20n'existait%20pas%20%3A%20c'%C3%A9tait%20un%20pi%C3%A8ge%20invent%C3%A9%20pour%20d%C3%A9masquer%20les%20plagiaires%2C%20d%C3%A9couvert%20en%202005%20%3F"
+ },
+ {
+  "text": "Agloe, village fictif inventé dans les années 1930 par des cartographes pour piéger les copieurs, est devenu réel quand un magasin portant ce nom a été construit à l'endroit indiqué sur la carte.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'agloe, village fictif inventé dans les années 1930 par des cartographes pour piéger les copieurs, est devenu réel quand un magasin portant ce nom a été construit à l'endroit indiqué sur la carte ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'agloe%2C%20village%20fictif%20invent%C3%A9%20dans%20les%20ann%C3%A9es%201930%20par%20des%20cartographes%20pour%20pi%C3%A9ger%20les%20copieurs%2C%20est%20devenu%20r%C3%A9el%20quand%20un%20magasin%20portant%20ce%20nom%20a%20%C3%A9t%C3%A9%20construit%20%C3%A0%20l'endroit%20indiqu%C3%A9%20sur%20la%20carte%20%3F"
+ },
+ {
+  "text": "Un Rubik's Cube compte plus de 43 milliards de milliards de positions, mais chacune peut être résolue en 20 mouvements au maximum, ce qui a été prouvé par ordinateur en 2010.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un Rubik's Cube compte plus de 43 milliards de milliards de positions, mais chacune peut être résolue en 20 mouvements au maximum, ce qui a été prouvé par ordinateur en 2010 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20Rubik's%20Cube%20compte%20plus%20de%2043%20milliards%20de%20milliards%20de%20positions%2C%20mais%20chacune%20peut%20%C3%AAtre%20r%C3%A9solue%20en%2020%20mouvements%20au%20maximum%2C%20ce%20qui%20a%20%C3%A9t%C3%A9%20prouv%C3%A9%20par%20ordinateur%20en%202010%20%3F"
+ },
+ {
+  "text": "Un gène essentiel au développement de l'embryon humain s'appelle « Sonic hedgehog » : le chercheur Robert Riddle l'a nommé ainsi d'après le héros du jeu vidéo de Sega.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un gène essentiel au développement de l'embryon humain s'appelle « Sonic hedgehog » : le chercheur Robert Riddle l'a nommé ainsi d'après le héros du jeu vidéo de Sega ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20g%C3%A8ne%20essentiel%20au%20d%C3%A9veloppement%20de%20l'embryon%20humain%20s'appelle%20%C2%AB%20Sonic%20hedgehog%20%C2%BB%20%3A%20le%20chercheur%20Robert%20Riddle%20l'a%20nomm%C3%A9%20ainsi%20d'apr%C3%A8s%20le%20h%C3%A9ros%20du%20jeu%20vid%C3%A9o%20de%20Sega%20%3F"
+ },
+ {
+  "text": "Le « D'oh! » d'Homer Simpson est entré dans l'Oxford English Dictionary en 2001 ; le script original indiquait seulement « grognement agacé ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le « D'oh! » d'Homer Simpson est entré dans l'Oxford English Dictionary en 2001 ; le script original indiquait seulement « grognement agacé » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20%C2%AB%20D'oh!%20%C2%BB%20d'Homer%20Simpson%20est%20entr%C3%A9%20dans%20l'Oxford%20English%20Dictionary%20en%202001%20%3B%20le%20script%20original%20indiquait%20seulement%20%C2%AB%20grognement%20agac%C3%A9%20%C2%BB%20%3F"
+ },
+ {
+  "text": "Le langage de programmation Python ne doit pas son nom au serpent mais à la troupe comique britannique des Monty Python, selon son créateur Guido van Rossum.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le langage de programmation Python ne doit pas son nom au serpent mais à la troupe comique britannique des Monty Python, selon son créateur Guido van Rossum ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20langage%20de%20programmation%20Python%20ne%20doit%20pas%20son%20nom%20au%20serpent%20mais%20%C3%A0%20la%20troupe%20comique%20britannique%20des%20Monty%20Python%2C%20selon%20son%20cr%C3%A9ateur%20Guido%20van%20Rossum%20%3F"
+ },
+ {
+  "text": "Mario s'appelait Jumpman et était charpentier dans Donkey Kong (1981) ; sa moustache et sa casquette évitaient de dessiner une bouche et des cheveux avec trop peu de pixels.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que mario s'appelait Jumpman et était charpentier dans Donkey Kong (1981) ; sa moustache et sa casquette évitaient de dessiner une bouche et des cheveux avec trop peu de pixels ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20mario%20s'appelait%20Jumpman%20et%20%C3%A9tait%20charpentier%20dans%20Donkey%20Kong%20(1981)%20%3B%20sa%20moustache%20et%20sa%20casquette%20%C3%A9vitaient%20de%20dessiner%20une%20bouche%20et%20des%20cheveux%20avec%20trop%20peu%20de%20pixels%20%3F"
+ },
+ {
+  "text": "En 1972, l'hôtesse de l'air Vesna Vulović a survécu à l'explosion de son avion en vol : depuis 1985, le Guinness lui attribue le record de la plus haute chute sans parachute, 10 160 mètres.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 1972, l'hôtesse de l'air Vesna Vulović a survécu à l'explosion de son avion en vol : depuis 1985, le Guinness lui attribue le record de la plus haute chute sans parachute, 10 160 mètres ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201972%2C%20l'h%C3%B4tesse%20de%20l'air%20Vesna%20Vulovi%C4%87%20a%20surv%C3%A9cu%20%C3%A0%20l'explosion%20de%20son%20avion%20en%20vol%20%3A%20depuis%201985%2C%20le%20Guinness%20lui%20attribue%20le%20record%20de%20la%20plus%20haute%20chute%20sans%20parachute%2C%2010%20160%20m%C3%A8tres%20%3F"
+ },
+ {
+  "text": "Jetée le 12 juin 1886 depuis le voilier allemand Paula, une bouteille à la mer a été retrouvée en janvier 2018 sur une plage d'Australie-Occidentale, 131 ans plus tard : un record pour un message ayant dérivé en mer.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que jetée le 12 juin 1886 depuis le voilier allemand Paula, une bouteille à la mer a été retrouvée en janvier 2018 sur une plage d'Australie-Occidentale, 131 ans plus tard : un record pour un message ayant dérivé en mer ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20jet%C3%A9e%20le%2012%20juin%201886%20depuis%20le%20voilier%20allemand%20Paula%2C%20une%20bouteille%20%C3%A0%20la%20mer%20a%20%C3%A9t%C3%A9%20retrouv%C3%A9e%20en%20janvier%202018%20sur%20une%20plage%20d'Australie-Occidentale%2C%20131%20ans%20plus%20tard%20%3A%20un%20record%20pour%20un%20message%20ayant%20d%C3%A9riv%C3%A9%20en%20mer%20%3F"
+ },
+ {
+  "text": "Le 9 juillet 1958, en Alaska, un glissement de terrain dans la baie Lituya a provoqué une vague qui est montée jusqu'à 524 mètres sur le versant opposé, plus haut que l'Empire State Building.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le 9 juillet 1958, en Alaska, un glissement de terrain dans la baie Lituya a provoqué une vague qui est montée jusqu'à 524 mètres sur le versant opposé, plus haut que l'Empire State Building ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%209%20juillet%201958%2C%20en%20Alaska%2C%20un%20glissement%20de%20terrain%20dans%20la%20baie%20Lituya%20a%20provoqu%C3%A9%20une%20vague%20qui%20est%20mont%C3%A9e%20jusqu'%C3%A0%20524%20m%C3%A8tres%20sur%20le%20versant%20oppos%C3%A9%2C%20plus%20haut%20que%20l'Empire%20State%20Building%20%3F"
+ },
+ {
+  "text": "À sa mort en 1927, la barbe du Norvégien Hans Langseth mesurait 5,33 mètres ; elle est conservée depuis 1967 par la Smithsonian Institution, à Washington.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'à sa mort en 1927, la barbe du Norvégien Hans Langseth mesurait 5,33 mètres ; elle est conservée depuis 1967 par la Smithsonian Institution, à Washington ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A0%20sa%20mort%20en%201927%2C%20la%20barbe%20du%20Norv%C3%A9gien%20Hans%20Langseth%20mesurait%205%2C33%20m%C3%A8tres%20%3B%20elle%20est%20conserv%C3%A9e%20depuis%201967%20par%20la%20Smithsonian%20Institution%2C%20%C3%A0%20Washington%20%3F"
+ },
+ {
+  "text": "En 2014, Alan Eustace, cadre de Google, a sauté d'environ 41 km d'altitude, suspendu sous un ballon d'hélium sans capsule, et a dépassé 1 300 km/h en chute libre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2014, Alan Eustace, cadre de Google, a sauté d'environ 41 km d'altitude, suspendu sous un ballon d'hélium sans capsule, et a dépassé 1 300 km/h en chute libre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202014%2C%20Alan%20Eustace%2C%20cadre%20de%20Google%2C%20a%20saut%C3%A9%20d'environ%2041%20km%20d'altitude%2C%20suspendu%20sous%20un%20ballon%20d'h%C3%A9lium%20sans%20capsule%2C%20et%20a%20d%C3%A9pass%C3%A9%201%20300%20km%2Fh%20en%20chute%20libre%20%3F"
+ },
+ {
+  "text": "En 2007, le Slovène Martin Strel a descendu l'Amazone à la nage : 5 268 km en 66 jours, la plus longue distance jamais parcourue à la nage.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2007, le Slovène Martin Strel a descendu l'Amazone à la nage : 5 268 km en 66 jours, la plus longue distance jamais parcourue à la nage ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202007%2C%20le%20Slov%C3%A8ne%20Martin%20Strel%20a%20descendu%20l'Amazone%20%C3%A0%20la%20nage%20%3A%205%20268%20km%20en%2066%20jours%2C%20la%20plus%20longue%20distance%20jamais%20parcourue%20%C3%A0%20la%20nage%20%3F"
+ },
+ {
+  "text": "L'Américaine Bette Nash a été hôtesse de l'air pendant près de 67 ans, de 1957 à sa mort en 2024, un record Guinness de longévité dans le métier.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Américaine Bette Nash a été hôtesse de l'air pendant près de 67 ans, de 1957 à sa mort en 2024, un record Guinness de longévité dans le métier ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricaine%20Bette%20Nash%20a%20%C3%A9t%C3%A9%20h%C3%B4tesse%20de%20l'air%20pendant%20pr%C3%A8s%20de%2067%20ans%2C%20de%201957%20%C3%A0%20sa%20mort%20en%202024%2C%20un%20record%20Guinness%20de%20long%C3%A9vit%C3%A9%20dans%20le%20m%C3%A9tier%20%3F"
+ },
+ {
+  "text": "Le timbre British Guiana 1c magenta, d'une valeur faciale d'un cent, a été vendu 9,48 millions de dollars en 2014 au créateur de chaussures Stuart Weitzman.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le timbre British Guiana 1c magenta, d'une valeur faciale d'un cent, a été vendu 9,48 millions de dollars en 2014 au créateur de chaussures Stuart Weitzman ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20timbre%20British%20Guiana%201c%20magenta%2C%20d'une%20valeur%20faciale%20d'un%20cent%2C%20a%20%C3%A9t%C3%A9%20vendu%209%2C48%20millions%20de%20dollars%20en%202014%20au%20cr%C3%A9ateur%20de%20chaussures%20Stuart%20Weitzman%20%3F"
+ },
+ {
+  "text": "Le Suédois Oscar Swahn a remporté une médaille d'argent olympique en tir sur cerf courant en 1920, à 72 ans : il reste le plus vieux médaillé sportif de l'histoire des Jeux.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Suédois Oscar Swahn a remporté une médaille d'argent olympique en tir sur cerf courant en 1920, à 72 ans : il reste le plus vieux médaillé sportif de l'histoire des Jeux ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Su%C3%A9dois%20Oscar%20Swahn%20a%20remport%C3%A9%20une%20m%C3%A9daille%20d'argent%20olympique%20en%20tir%20sur%20cerf%20courant%20en%201920%2C%20%C3%A0%2072%20ans%20%3A%20il%20reste%20le%20plus%20vieux%20m%C3%A9daill%C3%A9%20sportif%20de%20l'histoire%20des%20Jeux%20%3F"
+ },
+ {
+  "text": "Le plus jeune médaillé olympique connu, le Grec Dimitrios Loundras, a eu le bronze aux barres parallèles par équipes en 1896 à 10 ans : son équipe a fini troisième… sur trois.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le plus jeune médaillé olympique connu, le Grec Dimitrios Loundras, a eu le bronze aux barres parallèles par équipes en 1896 à 10 ans : son équipe a fini troisième… sur trois ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20jeune%20m%C3%A9daill%C3%A9%20olympique%20connu%2C%20le%20Grec%20Dimitrios%20Loundras%2C%20a%20eu%20le%20bronze%20aux%20barres%20parall%C3%A8les%20par%20%C3%A9quipes%20en%201896%20%C3%A0%2010%20ans%20%3A%20son%20%C3%A9quipe%20a%20fini%20troisi%C3%A8me%E2%80%A6%20sur%20trois%20%3F"
+ },
+ {
+  "text": "Le grêlon le plus lourd jamais pesé, tombé le 14 avril 1986 dans le district de Gopalganj, au Bangladesh, faisait 1,02 kg.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le grêlon le plus lourd jamais pesé, tombé le 14 avril 1986 dans le district de Gopalganj, au Bangladesh, faisait 1,02 kg ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20gr%C3%AAlon%20le%20plus%20lourd%20jamais%20pes%C3%A9%2C%20tomb%C3%A9%20le%2014%20avril%201986%20dans%20le%20district%20de%20Gopalganj%2C%20au%20Bangladesh%2C%20faisait%201%2C02%20kg%20%3F"
+ },
+ {
+  "text": "Le plus long éclair homologué a parcouru 829 km entre le Texas et le Kansas en octobre 2017, et le plus durable a brillé 17,1 secondes au-dessus de l'Uruguay et de l'Argentine en 2020.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le plus long éclair homologué a parcouru 829 km entre le Texas et le Kansas en octobre 2017, et le plus durable a brillé 17,1 secondes au-dessus de l'Uruguay et de l'Argentine en 2020 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20long%20%C3%A9clair%20homologu%C3%A9%20a%20parcouru%20829%20km%20entre%20le%20Texas%20et%20le%20Kansas%20en%20octobre%202017%2C%20et%20le%20plus%20durable%20a%20brill%C3%A9%2017%2C1%20secondes%20au-dessus%20de%20l'Uruguay%20et%20de%20l'Argentine%20en%202020%20%3F"
+ },
+ {
+  "text": "Le record mondial de pluie en 24 heures est français : 1 825 mm tombés à Foc-Foc, à La Réunion, lors du cyclone Denise en janvier 1966, dont 1 144 mm en 12 heures.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le record mondial de pluie en 24 heures est français : 1 825 mm tombés à Foc-Foc, à La Réunion, lors du cyclone Denise en janvier 1966, dont 1 144 mm en 12 heures ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20record%20mondial%20de%20pluie%20en%2024%20heures%20est%20fran%C3%A7ais%20%3A%201%20825%20mm%20tomb%C3%A9s%20%C3%A0%20Foc-Foc%2C%20%C3%A0%20La%20R%C3%A9union%2C%20lors%20du%20cyclone%20Denise%20en%20janvier%201966%2C%20dont%201%20144%20mm%20en%2012%20heures%20%3F"
+ },
+ {
+  "text": "En 2015, une chambre anéchoïque de Microsoft, à Redmond, a mesuré un bruit de fond d'environ −20 décibels, sous le seuil de l'audition humaine : un record mondial de silence.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2015, une chambre anéchoïque de Microsoft, à Redmond, a mesuré un bruit de fond d'environ −20 décibels, sous le seuil de l'audition humaine : un record mondial de silence ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202015%2C%20une%20chambre%20an%C3%A9cho%C3%AFque%20de%20Microsoft%2C%20%C3%A0%20Redmond%2C%20a%20mesur%C3%A9%20un%20bruit%20de%20fond%20d'environ%20%E2%88%9220%20d%C3%A9cibels%2C%20sous%20le%20seuil%20de%20l'audition%20humaine%20%3A%20un%20record%20mondial%20de%20silence%20%3F"
+ },
+ {
+  "text": "En 2014, dans les réservoirs de pétrole souterrains d'Inchindown, en Écosse, le son d'un coup de pistolet à blanc a résonné 75 secondes, la plus longue réverbération d'une construction humaine.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2014, dans les réservoirs de pétrole souterrains d'Inchindown, en Écosse, le son d'un coup de pistolet à blanc a résonné 75 secondes, la plus longue réverbération d'une construction humaine ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202014%2C%20dans%20les%20r%C3%A9servoirs%20de%20p%C3%A9trole%20souterrains%20d'Inchindown%2C%20en%20%C3%89cosse%2C%20le%20son%20d'un%20coup%20de%20pistolet%20%C3%A0%20blanc%20a%20r%C3%A9sonn%C3%A9%2075%20secondes%2C%20la%20plus%20longue%20r%C3%A9verb%C3%A9ration%20d'une%20construction%20humaine%20%3F"
+ },
+ {
+  "text": "Dans la forêt de Malheur, en Oregon, un seul champignon Armillaria ostoyae s'étend sous terre sur environ 9 km², ce qui en fait l'un des plus grands organismes vivants connus.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que dans la forêt de Malheur, en Oregon, un seul champignon Armillaria ostoyae s'étend sous terre sur environ 9 km², ce qui en fait l'un des plus grands organismes vivants connus ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20dans%20la%20for%C3%AAt%20de%20Malheur%2C%20en%20Oregon%2C%20un%20seul%20champignon%20Armillaria%20ostoyae%20s'%C3%A9tend%20sous%20terre%20sur%20environ%209%20km%C2%B2%2C%20ce%20qui%20en%20fait%20l'un%20des%20plus%20grands%20organismes%20vivants%20connus%20%3F"
+ },
+ {
+  "text": "En 2022, des analyses génétiques ont montré qu'un herbier de Shark Bay, en Australie, est une seule plante clonée de Posidonia australis couvrant environ 200 km² sur 180 km de long.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en 2022, des analyses génétiques ont montré qu'un herbier de Shark Bay, en Australie, est une seule plante clonée de Posidonia australis couvrant environ 200 km² sur 180 km de long ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202022%2C%20des%20analyses%20g%C3%A9n%C3%A9tiques%20ont%20montr%C3%A9%20qu'un%20herbier%20de%20Shark%20Bay%2C%20en%20Australie%2C%20est%20une%20seule%20plante%20clon%C3%A9e%20de%20Posidonia%20australis%20couvrant%20environ%20200%20km%C2%B2%20sur%20180%20km%20de%20long%20%3F"
+ },
+ {
+  "text": "Décrite en 2022 dans une mangrove de Guadeloupe, la bactérie Thiomargarita magnifica mesure environ 1 cm, jusqu'à 2 cm : elle est visible à l'œil nu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que décrite en 2022 dans une mangrove de Guadeloupe, la bactérie Thiomargarita magnifica mesure environ 1 cm, jusqu'à 2 cm : elle est visible à l'œil nu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20d%C3%A9crite%20en%202022%20dans%20une%20mangrove%20de%20Guadeloupe%2C%20la%20bact%C3%A9rie%20Thiomargarita%20magnifica%20mesure%20environ%201%20cm%2C%20jusqu'%C3%A0%202%20cm%20%3A%20elle%20est%20visible%20%C3%A0%20l'%C5%93il%20nu%20%3F"
+ },
+ {
+  "text": "Pour empêcher son abattage, la militante Julia Butterfly Hill a vécu 738 jours, de 1997 à 1999, sur une plateforme perchée à 55 mètres dans un séquoia californien millénaire.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que pour empêcher son abattage, la militante Julia Butterfly Hill a vécu 738 jours, de 1997 à 1999, sur une plateforme perchée à 55 mètres dans un séquoia californien millénaire ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pour%20emp%C3%AAcher%20son%20abattage%2C%20la%20militante%20Julia%20Butterfly%20Hill%20a%20v%C3%A9cu%20738%20jours%2C%20de%201997%20%C3%A0%201999%2C%20sur%20une%20plateforme%20perch%C3%A9e%20%C3%A0%2055%20m%C3%A8tres%20dans%20un%20s%C3%A9quoia%20californien%20mill%C3%A9naire%20%3F"
+ },
+ {
+  "text": "Mill Ends Park, à Portland, avec un seul arbre sur 0,29 m², a été le plus petit parc du monde selon le Guinness de 1971 à 2025, détrôné par un parc japonais de 0,24 m² à Nagaizumi.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que mill Ends Park, à Portland, avec un seul arbre sur 0,29 m², a été le plus petit parc du monde selon le Guinness de 1971 à 2025, détrôné par un parc japonais de 0,24 m² à Nagaizumi ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20mill%20Ends%20Park%2C%20%C3%A0%20Portland%2C%20avec%20un%20seul%20arbre%20sur%200%2C29%20m%C2%B2%2C%20a%20%C3%A9t%C3%A9%20le%20plus%20petit%20parc%20du%20monde%20selon%20le%20Guinness%20de%201971%20%C3%A0%202025%2C%20d%C3%A9tr%C3%B4n%C3%A9%20par%20un%20parc%20japonais%20de%200%2C24%20m%C2%B2%20%C3%A0%20Nagaizumi%20%3F"
+ },
+ {
+  "text": "L'Américaine Lee Redmond a fait pousser ses ongles pendant 30 ans jusqu'à 7,51 mètres au total, avant de les perdre en 2009 dans un accident de voiture.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Américaine Lee Redmond a fait pousser ses ongles pendant 30 ans jusqu'à 7,51 mètres au total, avant de les perdre en 2009 dans un accident de voiture ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricaine%20Lee%20Redmond%20a%20fait%20pousser%20ses%20ongles%20pendant%2030%20ans%20jusqu'%C3%A0%207%2C51%20m%C3%A8tres%20au%20total%2C%20avant%20de%20les%20perdre%20en%202009%20dans%20un%20accident%20de%20voiture%20%3F"
  }
 ];
