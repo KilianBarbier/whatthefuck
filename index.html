@@ -15,11 +15,13 @@
     <div id="actions" class="actions" hidden>
       <a id="source" class="source-btn" href="#" target="_blank" rel="noopener">EN SAVOIR PLUS</a>
       <button id="share" class="source-btn" type="button">PARTAGER</button>
-      <button id="report" class="source-btn" type="button" aria-expanded="false" aria-controls="reasons">SIGNALER</button>
+      <button id="report" class="source-btn" type="button" aria-haspopup="dialog">SIGNALER</button>
     </div>
-    <div id="reasons" class="reasons" hidden>
+    <dialog id="reasons" class="reasons">
       <p class="reasons-title">Qu'est-ce qui ne va pas ?</p>
-    </div>
+      <div id="reasons-list" class="reasons-list"></div>
+      <button id="reasons-close" class="reasons-close" type="button">Annuler</button>
+    </dialog>
     <p id="hint" class="hint">Clique pour un fait que tu ne connaissais (sûrement) pas.</p>
   </main>
 

@@ -9,6 +9,7 @@ const actionsEl = document.getElementById("actions");
 const shareEl = document.getElementById("share");
 const reportEl = document.getElementById("report");
 const reasonsEl = document.getElementById("reasons");
+const reasonsListEl = document.getElementById("reasons-list");
 const REPORT_EMAIL = "kil97112@gmail.com";
 
 const REPORT_REASONS = [
@@ -76,8 +77,7 @@ function reportUrl(text, reason) {
 }
 
 function closeReasons() {
-  reasonsEl.hidden = true;
-  reportEl.setAttribute("aria-expanded", "false");
+  if (reasonsEl.open) reasonsEl.close();
 }
 
 REPORT_REASONS.forEach((reason) => {
@@ -89,13 +89,13 @@ REPORT_REASONS.forEach((reason) => {
     link.href = reportUrl(currentText, reason);
     closeReasons();
   });
-  reasonsEl.appendChild(link);
+  reasonsListEl.appendChild(link);
 });
 
-reportEl.addEventListener("click", () => {
-  const open = reasonsEl.hidden;
-  reasonsEl.hidden = !open;
-  reportEl.setAttribute("aria-expanded", String(open));
+reportEl.addEventListener("click", () => reasonsEl.showModal());
+document.getElementById("reasons-close").addEventListener("click", closeReasons);
+reasonsEl.addEventListener("click", (event) => {
+  if (event.target === reasonsEl) closeReasons();
 });
 
 let order = [];
