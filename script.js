@@ -8,7 +8,46 @@ const hint = document.getElementById("hint");
 const actionsEl = document.getElementById("actions");
 const shareEl = document.getElementById("share");
 const reportEl = document.getElementById("report");
+const reasonsEl = document.getElementById("reasons");
 const REPORT_EMAIL = "kil97112@gmail.com";
+
+const REPORT_REASONS = [
+  {
+    label: "C'est faux",
+    subject: "Fait faux",
+    body: "Ce fait me semble faux.\n\nCe qui est réellement vrai :\n\nSource (lien) :\n",
+  },
+  {
+    label: "Chiffre, date ou nom inexact",
+    subject: "Détail inexact",
+    body: "Un détail de ce fait est inexact.\n\nLe détail en question :\n\nLa bonne valeur :\n\nSource (lien) :\n",
+  },
+  {
+    label: "C'est un mythe ou une légende",
+    subject: "Mythe ou légende urbaine",
+    body: "Ce fait est un mythe ou une légende urbaine.\n\nPourquoi :\n\nSource (lien) :\n",
+  },
+  {
+    label: "Plus à jour",
+    subject: "Fait périmé",
+    body: "Ce fait n'est plus à jour (record battu, chiffre ancien, situation qui a changé…).\n\nLa situation actuelle :\n\nSource (lien) :\n",
+  },
+  {
+    label: "Pas assez WTF",
+    subject: "Pas assez WTF",
+    body: "Ce fait n'est pas assez surprenant à mon goût.\n\nPourquoi (optionnel) :\n",
+  },
+  {
+    label: "Faute ou phrase mal tournée",
+    subject: "Faute ou formulation",
+    body: "Il y a une faute ou une formulation bancale.\n\nCe que je propose :\n",
+  },
+  {
+    label: "Autre",
+    subject: "Autre remarque",
+    body: "Ma remarque :\n",
+  },
+];
 let currentText = "";
 
 function factText(fact) {
@@ -29,6 +68,35 @@ function perplexityUrl(question) {
 function factSource(fact) {
   return { url: perplexityUrl(makeQuestion(factText(fact))) };
 }
+
+function reportUrl(text, reason) {
+  const subject = `Signalement WTF : ${reason.subject}`;
+  const body = `Fait signalé :\n« ${text} »\n\n${reason.body}`;
+  return `mailto:${REPORT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+}
+
+function closeReasons() {
+  reasonsEl.hidden = true;
+  reportEl.setAttribute("aria-expanded", "false");
+}
+
+REPORT_REASONS.forEach((reason) => {
+  const link = document.createElement("a");
+  link.className = "reason-btn";
+  link.href = "#";
+  link.textContent = reason.label;
+  link.addEventListener("click", () => {
+    link.href = reportUrl(currentText, reason);
+    closeReasons();
+  });
+  reasonsEl.appendChild(link);
+});
+
+reportEl.addEventListener("click", () => {
+  const open = reasonsEl.hidden;
+  reasonsEl.hidden = !open;
+  reportEl.setAttribute("aria-expanded", String(open));
+});
 
 let order = [];
 let lastIndex = -1;
@@ -64,7 +132,7 @@ btn.addEventListener("click", () => {
   sourceEl.href = source.url;
   actionsEl.hidden = false;
   currentText = factText(fact);
-  reportEl.href = reportUrl(currentText);
+  closeReasons();
 
   factEl.style.animation = "none";
   void factEl.offsetWidth;
