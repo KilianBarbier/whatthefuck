@@ -142,6 +142,25 @@ reasonsEl.addEventListener("click", (event) => {
 
 let order = [];
 let lastIndex = -1;
+const HISTORY_KEY = "wtf_history";
+const HISTORY_LIMIT = 50;
+
+function getHistory() {
+  try {
+    const stored = localStorage.getItem(HISTORY_KEY);
+    return stored ? JSON.parse(stored) : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveHistory(indices) {
+  try {
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(indices.slice(-HISTORY_LIMIT)));
+  } catch {
+    // Fail silently if storage quota exceeded
+  }
+}
 
 function shuffle(items) {
   for (let index = items.length - 1; index > 0; index -= 1) {
@@ -153,13 +172,29 @@ function shuffle(items) {
 
 function nextIndex() {
   if (!order.length) {
-    order = shuffle(FACTS.map((_, index) => index));
+    const history = getHistory();
+    const historySet = new Set(history);
+    const available = Array.from({ length: FACTS.length }, (_, i) => i).filter(
+      (i) => !historySet.has(i)
+    );
+
+    if (available.length === 0) {
+      // All facts seen, reset history
+      order = shuffle(FACTS.map((_, index) => index));
+      saveHistory([]);
+    } else {
+      order = shuffle(available);
+    }
+
     if (order[0] === lastIndex && order.length > 1) {
       [order[0], order[1]] = [order[1], order[0]];
     }
   }
 
   lastIndex = order.shift();
+  const history = getHistory();
+  history.push(lastIndex);
+  saveHistory(history);
   return lastIndex;
 }
 

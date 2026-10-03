@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <text x="600" y="200" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="140" font-weight="700" text-anchor="middle" fill="#000">WTF ?!</text>
+  <text x="600" y="380" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="64" font-weight="500" text-anchor="middle" fill="#000">Faits insolites mais vrais</text>
+  <text x="600" y="520" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="48" font-weight="700" text-anchor="middle" fill="#000">whatthefuck.fr</text>
+  <line x1="300" y1="555" x2="900" y2="555" stroke="#000" stroke-width="3"/>
+</svg>
