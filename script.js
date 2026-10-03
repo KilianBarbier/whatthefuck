@@ -66,6 +66,48 @@ function perplexityUrl(question) {
   return `https://www.perplexity.ai/search?q=${encodeURIComponent(question)}`;
 }
 
+function renderFact(fact) {
+  const text = factText(fact);
+  factEl.textContent = "";
+  const info = fact && fact.info;
+  const at = info ? text.toLowerCase().indexOf(info.term.toLowerCase()) : -1;
+  if (at < 0) {
+    factEl.textContent = text;
+    return;
+  }
+
+  const end = at + info.term.length;
+  const wrap = document.createElement("span");
+  wrap.className = "info";
+
+  const toggle = document.createElement("button");
+  toggle.type = "button";
+  toggle.className = "info-btn";
+  toggle.textContent = "(?)";
+  toggle.setAttribute("aria-label", `C'est quoi, ${info.term} ?`);
+  toggle.addEventListener("click", (event) => {
+    event.stopPropagation();
+    wrap.classList.toggle("open");
+  });
+
+  const pop = document.createElement("figure");
+  pop.className = "info-pop";
+  const img = document.createElement("img");
+  img.src = info.img;
+  img.alt = info.term;
+  img.loading = "lazy";
+  const caption = document.createElement("figcaption");
+  caption.textContent = info.caption;
+  pop.append(img, caption);
+
+  wrap.append(text.slice(at, end), "\u00a0", toggle, pop);
+  factEl.append(text.slice(0, at), wrap, text.slice(end));
+}
+
+document.addEventListener("click", () => {
+  document.querySelectorAll(".info.open").forEach((el) => el.classList.remove("open"));
+});
+
 function factSource(fact) {
   return { url: perplexityUrl(makeQuestion(factText(fact))) };
 }
@@ -125,7 +167,7 @@ btn.addEventListener("click", () => {
   if (hint) hint.hidden = true;
 
   const fact = FACTS[nextIndex()];
-  factEl.textContent = factText(fact);
+  renderFact(fact);
   factEl.hidden = false;
 
   const source = factSource(fact);

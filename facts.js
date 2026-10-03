@@ -1364,10 +1364,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20poisson-perle%20vit%20%C3%A0%20l'int%C3%A9rieur%20des%20concombres%20de%20mer%20%3A%20il%20s'y%20glisse%20par%20l'orifice%20arri%C3%A8re%2C%20que%20l'animal%20ouvre%20r%C3%A9guli%C3%A8rement%20pour%20respirer%20%3F"
  },
  {
-  "text": "La tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par l'arrière de son corps, d'où son surnom de « tortue qui respire par les fesses ».",
+  "text": "La tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par son cloaque, ce qui lui vaut le surnom de « tortue qui respire par les fesses ».",
   "source": "Perplexity",
-  "question": "Est-il vrai que la tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par l'arrière de son corps, d'où son surnom de « tortue qui respire par les fesses » ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tortue%20de%20la%20rivi%C3%A8re%20Fitzroy%2C%20en%20Australie%2C%20tire%20jusqu'%C3%A0%2070%20%25%20de%20son%20oxyg%C3%A8ne%20de%20l'eau%20qu'elle%20aspire%20par%20l'arri%C3%A8re%20de%20son%20corps%2C%20d'o%C3%B9%20son%20surnom%20de%20%C2%AB%20tortue%20qui%20respire%20par%20les%20fesses%20%C2%BB%20%3F"
+  "question": "Est-il vrai que la tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par son cloaque, ce qui lui vaut le surnom de « tortue qui respire par les fesses » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tortue%20de%20la%20rivi%C3%A8re%20Fitzroy%2C%20en%20Australie%2C%20tire%20jusqu'%C3%A0%2070%20%25%20de%20son%20oxyg%C3%A8ne%20de%20l'eau%20qu'elle%20aspire%20par%20son%20cloaque%2C%20ce%20qui%20lui%20vaut%20le%20surnom%20de%20%C2%AB%20tortue%20qui%20respire%20par%20les%20fesses%20%C2%BB%20%3F"
  },
  {
   "text": "Le pelage brun de l'ornithorynque devient vert-bleu fluorescent sous lumière ultraviolette, une découverte publiée en 2020 dans la revue Mammalia.",
@@ -1385,7 +1385,12 @@ const FACTS = [
   "text": "L'organe reproducteur de l'échidné mâle possède quatre têtes, mais il n'en utilise que deux à la fois, en alternant.",
   "source": "Perplexity",
   "question": "Est-il vrai que l'organe reproducteur de l'échidné mâle possède quatre têtes, mais il n'en utilise que deux à la fois, en alternant ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'organe%20reproducteur%20de%20l'%C3%A9chidn%C3%A9%20m%C3%A2le%20poss%C3%A8de%20quatre%20t%C3%AAtes%2C%20mais%20il%20n'en%20utilise%20que%20deux%20%C3%A0%20la%20fois%2C%20en%20alternant%20%3F"
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'organe%20reproducteur%20de%20l'%C3%A9chidn%C3%A9%20m%C3%A2le%20poss%C3%A8de%20quatre%20t%C3%AAtes%2C%20mais%20il%20n'en%20utilise%20que%20deux%20%C3%A0%20la%20fois%2C%20en%20alternant%20%3F",
+  "info": {
+   "term": "échidné",
+   "img": "images/echidne.jpg",
+   "caption": "Ce n'est pas un hérisson même si ça y ressemble"
+  }
  },
  {
   "text": "Le coléoptère bombardier projette par l'arrière-train un liquide chimique à près de 100 °C, en environ 500 explosions par seconde.",
@@ -1568,10 +1573,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20chez%20les%20calmars%20et%20les%20pieuvres%2C%20l'%C5%93sophage%20passe%20au%20milieu%20du%20cerveau%2C%20en%20forme%20d'anneau%20%3A%20ils%20doivent%20d%C3%A9couper%20leur%20nourriture%20en%20petits%20morceaux%20pour%20qu'elle%20passe%20%3F"
  },
  {
-  "text": "Les harengs communiquent la nuit en relâchant de petites bulles d'air qui produisent des cliquetis, que les chercheurs ont baptisés FRT.",
+  "text": "Les harengs communiquent la nuit en pétant : ils relâchent des bulles d'air qui produisent des cliquetis, que les chercheurs ont baptisés FRT.",
   "source": "Perplexity",
-  "question": "Est-il vrai que les harengs communiquent la nuit en relâchant de petites bulles d'air qui produisent des cliquetis, que les chercheurs ont baptisés FRT ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20harengs%20communiquent%20la%20nuit%20en%20rel%C3%A2chant%20de%20petites%20bulles%20d'air%20qui%20produisent%20des%20cliquetis%2C%20que%20les%20chercheurs%20ont%20baptis%C3%A9s%20FRT%20%3F"
+  "question": "Est-il vrai que les harengs communiquent la nuit en pétant : ils relâchent des bulles d'air qui produisent des cliquetis, que les chercheurs ont baptisés FRT ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20harengs%20communiquent%20la%20nuit%20en%20p%C3%A9tant%20%3A%20ils%20rel%C3%A2chent%20des%20bulles%20d'air%20qui%20produisent%20des%20cliquetis%2C%20que%20les%20chercheurs%20ont%20baptis%C3%A9s%20FRT%20%3F"
  },
  {
   "text": "Dans l'utérus du requin-taureau, l'embryon le plus développé dévore tous ses frères et sœurs : sur des dizaines d'œufs, seuls deux petits naissent.",
