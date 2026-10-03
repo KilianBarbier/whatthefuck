@@ -7,6 +7,8 @@ const sourceEl = document.getElementById("source");
 const hint = document.getElementById("hint");
 const actionsEl = document.getElementById("actions");
 const shareEl = document.getElementById("share");
+const reportEl = document.getElementById("report");
+const REPORT_EMAIL = "kil97112@gmail.com";
 let currentText = "";
 
 function factText(fact) {
@@ -35,6 +37,12 @@ function factSource(fact) {
 
   const question = makeQuestion(factText(fact));
   return { url: perplexityUrl(question) };
+}
+
+function reportUrl(text) {
+  const subject = "Signalement d'un fait WTF";
+  const body = `Fait signalé :\n${text}\n\nPourquoi est-il faux ou douteux ?\n`;
+  return `mailto:${REPORT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
 
 let order = [];
@@ -71,6 +79,7 @@ btn.addEventListener("click", () => {
   sourceEl.href = source.url;
   actionsEl.hidden = false;
   currentText = factText(fact);
+  reportEl.href = reportUrl(currentText);
 
   factEl.style.animation = "none";
   void factEl.offsetWidth;
