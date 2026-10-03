@@ -16,7 +16,7 @@ function factText(fact) {
 }
 
 function makeQuestion(text) {
-  const clean = text.trim().replace(/[.?!…]+$/u, "");
+  const clean = text.trim().replace(/[.?!…]+$/u, "").replace(/^non\s*,\s*/iu, "");
   const body = clean.charAt(0).toLowerCase() + clean.slice(1);
   const prefix = /^[aeiouhàâäéèêëîïôöùûüœ]/i.test(body) ? "qu'" : "que ";
   return `Est-il vrai ${prefix}${body} ?`;
@@ -27,22 +27,7 @@ function perplexityUrl(question) {
 }
 
 function factSource(fact) {
-  if (fact && typeof fact === "object" && fact.question && fact.url) {
-    return { url: fact.url };
-  }
-
-  if (fact && typeof fact === "object" && fact.url) {
-    return { url: fact.url };
-  }
-
-  const question = makeQuestion(factText(fact));
-  return { url: perplexityUrl(question) };
-}
-
-function reportUrl(text) {
-  const subject = "Signalement d'un fait WTF";
-  const body = `Fait signalé :\n${text}\n\nPourquoi est-il faux ou douteux ?\n`;
-  return `mailto:${REPORT_EMAIL}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  return { url: perplexityUrl(makeQuestion(factText(fact))) };
 }
 
 let order = [];

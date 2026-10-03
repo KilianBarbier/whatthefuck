@@ -664,62 +664,62 @@ const FACTS = [
  {
   "text": "Non, les taureaux ne sont pas enragés par la couleur rouge : ils sont daltoniens à cette couleur et réagissent au mouvement.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, les taureaux ne sont pas enragés par la couleur rouge : ils sont daltoniens à cette couleur et réagissent au mouvement ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20les%20taureaux%20ne%20sont%20pas%20enrag%C3%A9s%20par%20la%20couleur%20rouge%C2%A0%3A%20ils%20sont%20daltoniens%20%C3%A0%20cette%20couleur%20et%20r%C3%A9agissent%20au%20mouvement%20%3F"
+  "question": "Est-il vrai que les taureaux ne sont pas enragés par la couleur rouge : ils sont daltoniens à cette couleur et réagissent au mouvement ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20taureaux%20ne%20sont%20pas%20enrag%C3%A9s%20par%20la%20couleur%20rouge%C2%A0%3A%20ils%20sont%20daltoniens%20%C3%A0%20cette%20couleur%20et%20r%C3%A9agissent%20au%20mouvement%20%3F"
  },
  {
   "text": "Non, un sou lâché du haut d'un gratte-ciel ne peut pas tuer quelqu'un : sa vitesse de chute reste trop faible.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, un sou lâché du haut d'un gratte-ciel ne peut pas tuer quelqu'un : sa vitesse de chute reste trop faible ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20un%20sou%20l%C3%A2ch%C3%A9%20du%20haut%20d'un%20gratte-ciel%20ne%20peut%20pas%20tuer%20quelqu'un%C2%A0%3A%20sa%20vitesse%20de%20chute%20reste%20trop%20faible%20%3F"
+  "question": "Est-il vrai qu'un sou lâché du haut d'un gratte-ciel ne peut pas tuer quelqu'un : sa vitesse de chute reste trop faible ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20sou%20l%C3%A2ch%C3%A9%20du%20haut%20d'un%20gratte-ciel%20ne%20peut%20pas%20tuer%20quelqu'un%C2%A0%3A%20sa%20vitesse%20de%20chute%20reste%20trop%20faible%20%3F"
  },
  {
   "text": "Non, les poissons rouges n'ont pas une mémoire de trois secondes : ils peuvent retenir des choses pendant des mois.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, les poissons rouges n'ont pas une mémoire de trois secondes : ils peuvent retenir des choses pendant des mois ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20les%20poissons%20rouges%20n'ont%20pas%20une%20m%C3%A9moire%20de%20trois%20secondes%C2%A0%3A%20ils%20peuvent%20retenir%20des%20choses%20pendant%20des%20mois%20%3F"
+  "question": "Est-il vrai que les poissons rouges n'ont pas une mémoire de trois secondes : ils peuvent retenir des choses pendant des mois ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20poissons%20rouges%20n'ont%20pas%20une%20m%C3%A9moire%20de%20trois%20secondes%C2%A0%3A%20ils%20peuvent%20retenir%20des%20choses%20pendant%20des%20mois%20%3F"
  },
  {
   "text": "Non, on n'avale pas huit araignées par an en dormant : cette statistique a été inventée de toutes pièces.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, on n'avale pas huit araignées par an en dormant : cette statistique a été inventée de toutes pièces ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20on%20n'avale%20pas%20huit%20araign%C3%A9es%20par%20an%20en%20dormant%C2%A0%3A%20cette%20statistique%20a%20%C3%A9t%C3%A9%20invent%C3%A9e%20de%20toutes%20pi%C3%A8ces%20%3F"
+  "question": "Est-il vrai qu'on n'avale pas huit araignées par an en dormant : cette statistique a été inventée de toutes pièces ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'on%20n'avale%20pas%20huit%20araign%C3%A9es%20par%20an%20en%20dormant%C2%A0%3A%20cette%20statistique%20a%20%C3%A9t%C3%A9%20invent%C3%A9e%20de%20toutes%20pi%C3%A8ces%20%3F"
  },
  {
   "text": "Non, les chauves-souris ne sont pas aveugles : la plupart voient très bien en plus d'utiliser l'écholocation.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, les chauves-souris ne sont pas aveugles : la plupart voient très bien en plus d'utiliser l'écholocation ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20les%20chauves-souris%20ne%20sont%20pas%20aveugles%C2%A0%3A%20la%20plupart%20voient%20tr%C3%A8s%20bien%20en%20plus%20d'utiliser%20l'%C3%A9cholocation%20%3F"
+  "question": "Est-il vrai que les chauves-souris ne sont pas aveugles : la plupart voient très bien en plus d'utiliser l'écholocation ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20chauves-souris%20ne%20sont%20pas%20aveugles%C2%A0%3A%20la%20plupart%20voient%20tr%C3%A8s%20bien%20en%20plus%20d'utiliser%20l'%C3%A9cholocation%20%3F"
  },
  {
   "text": "Non, se casser les doigts ne donne pas d'arthrose : le bruit vient de bulles de gaz dans les articulations.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, se casser les doigts ne donne pas d'arthrose : le bruit vient de bulles de gaz dans les articulations ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20se%20casser%20les%20doigts%20ne%20donne%20pas%20d'arthrose%C2%A0%3A%20le%20bruit%20vient%20de%20bulles%20de%20gaz%20dans%20les%20articulations%20%3F"
+  "question": "Est-il vrai que se casser les doigts ne donne pas d'arthrose : le bruit vient de bulles de gaz dans les articulations ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20se%20casser%20les%20doigts%20ne%20donne%20pas%20d'arthrose%C2%A0%3A%20le%20bruit%20vient%20de%20bulles%20de%20gaz%20dans%20les%20articulations%20%3F"
  },
  {
   "text": "Non, les cheveux et les ongles ne continuent pas de pousser après la mort : c'est la peau qui se rétracte.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, les cheveux et les ongles ne continuent pas de pousser après la mort : c'est la peau qui se rétracte ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20les%20cheveux%20et%20les%20ongles%20ne%20continuent%20pas%20de%20pousser%20apr%C3%A8s%20la%20mort%C2%A0%3A%20c'est%20la%20peau%20qui%20se%20r%C3%A9tracte%20%3F"
+  "question": "Est-il vrai que les cheveux et les ongles ne continuent pas de pousser après la mort : c'est la peau qui se rétracte ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20cheveux%20et%20les%20ongles%20ne%20continuent%20pas%20de%20pousser%20apr%C3%A8s%20la%20mort%C2%A0%3A%20c'est%20la%20peau%20qui%20se%20r%C3%A9tracte%20%3F"
  },
  {
   "text": "Non, l'eau ne tourne pas dans un sens dans un évier selon l'hémisphère : la force de Coriolis est bien trop faible à cette échelle.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, l'eau ne tourne pas dans un sens dans un évier selon l'hémisphère : la force de Coriolis est bien trop faible à cette échelle ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20l'eau%20ne%20tourne%20pas%20dans%20un%20sens%20dans%20un%20%C3%A9vier%20selon%20l'h%C3%A9misph%C3%A8re%C2%A0%3A%20la%20force%20de%20Coriolis%20est%20bien%20trop%20faible%20%C3%A0%20cette%20%C3%A9chelle%20%3F"
+  "question": "Est-il vrai que l'eau ne tourne pas dans un sens dans un évier selon l'hémisphère : la force de Coriolis est bien trop faible à cette échelle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'eau%20ne%20tourne%20pas%20dans%20un%20sens%20dans%20un%20%C3%A9vier%20selon%20l'h%C3%A9misph%C3%A8re%C2%A0%3A%20la%20force%20de%20Coriolis%20est%20bien%20trop%20faible%20%C3%A0%20cette%20%C3%A9chelle%20%3F"
  },
  {
   "text": "Non, les vikings ne buvaient pas dans des crânes : cette idée vient d'une erreur de traduction d'un vieux poème.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, les vikings ne buvaient pas dans des crânes : cette idée vient d'une erreur de traduction d'un vieux poème ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20les%20vikings%20ne%20buvaient%20pas%20dans%20des%20cr%C3%A2nes%C2%A0%3A%20cette%20id%C3%A9e%20vient%20d'une%20erreur%20de%20traduction%20d'un%20vieux%20po%C3%A8me%20%3F"
+  "question": "Est-il vrai que les vikings ne buvaient pas dans des crânes : cette idée vient d'une erreur de traduction d'un vieux poème ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20vikings%20ne%20buvaient%20pas%20dans%20des%20cr%C3%A2nes%C2%A0%3A%20cette%20id%C3%A9e%20vient%20d'une%20erreur%20de%20traduction%20d'un%20vieux%20po%C3%A8me%20%3F"
  },
  {
   "text": "Non, la langue n'a pas de zones distinctes réservées à chaque goût : cette carte de la langue est fausse.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, la langue n'a pas de zones distinctes réservées à chaque goût : cette carte de la langue est fausse ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20la%20langue%20n'a%20pas%20de%20zones%20distinctes%20r%C3%A9serv%C3%A9es%20%C3%A0%20chaque%20go%C3%BBt%C2%A0%3A%20cette%20carte%20de%20la%20langue%20est%20fausse%20%3F"
+  "question": "Est-il vrai que la langue n'a pas de zones distinctes réservées à chaque goût : cette carte de la langue est fausse ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20langue%20n'a%20pas%20de%20zones%20distinctes%20r%C3%A9serv%C3%A9es%20%C3%A0%20chaque%20go%C3%BBt%C2%A0%3A%20cette%20carte%20de%20la%20langue%20est%20fausse%20%3F"
  },
  {
   "text": "Il est impossible de se lécher le coude pour la plupart des gens, même si beaucoup essaient en le lisant.",
@@ -1294,14 +1294,14 @@ const FACTS = [
  {
   "text": "Non, un humain exposé au vide spatial n'explose pas : il reste conscient une dizaine de secondes, et des animaux exposés jusqu'à 90 secondes ont survécu.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, un humain exposé au vide spatial n'explose pas : il reste conscient une dizaine de secondes, et des animaux exposés jusqu'à 90 secondes ont survécu ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20un%20humain%20expos%C3%A9%20au%20vide%20spatial%20n'explose%20pas%20%3A%20il%20reste%20conscient%20une%20dizaine%20de%20secondes%2C%20et%20des%20animaux%20expos%C3%A9s%20jusqu'%C3%A0%2090%20secondes%20ont%20surv%C3%A9cu%20%3F"
+  "question": "Est-il vrai qu'un humain exposé au vide spatial n'explose pas : il reste conscient une dizaine de secondes, et des animaux exposés jusqu'à 90 secondes ont survécu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20humain%20expos%C3%A9%20au%20vide%20spatial%20n'explose%20pas%20%3A%20il%20reste%20conscient%20une%20dizaine%20de%20secondes%2C%20et%20des%20animaux%20expos%C3%A9s%20jusqu'%C3%A0%2090%20secondes%20ont%20surv%C3%A9cu%20%3F"
  },
  {
   "text": "Non, la NASA n'a pas dépensé des millions pour un stylo spatial pendant que les Soviétiques utilisaient un crayon : Paul Fisher l'a financé lui-même, et l'URSS en a acheté aussi.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, la NASA n'a pas dépensé des millions pour un stylo spatial pendant que les Soviétiques utilisaient un crayon : Paul Fisher l'a financé lui-même, et l'URSS en a acheté aussi ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20la%20NASA%20n'a%20pas%20d%C3%A9pens%C3%A9%20des%20millions%20pour%20un%20stylo%20spatial%20pendant%20que%20les%20Sovi%C3%A9tiques%20utilisaient%20un%20crayon%20%3A%20Paul%20Fisher%20l'a%20financ%C3%A9%20lui-m%C3%AAme%2C%20et%20l'URSS%20en%20a%20achet%C3%A9%20aussi%20%3F"
+  "question": "Est-il vrai que la NASA n'a pas dépensé des millions pour un stylo spatial pendant que les Soviétiques utilisaient un crayon : Paul Fisher l'a financé lui-même, et l'URSS en a acheté aussi ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20NASA%20n'a%20pas%20d%C3%A9pens%C3%A9%20des%20millions%20pour%20un%20stylo%20spatial%20pendant%20que%20les%20Sovi%C3%A9tiques%20utilisaient%20un%20crayon%20%3A%20Paul%20Fisher%20l'a%20financ%C3%A9%20lui-m%C3%AAme%2C%20et%20l'URSS%20en%20a%20achet%C3%A9%20aussi%20%3F"
  },
  {
   "text": "Les astronautes d'Apollo ont décrit la même odeur pour la poussière lunaire ramenée dans le module : celle de la poudre à canon brûlée.",
@@ -1720,8 +1720,8 @@ const FACTS = [
  {
   "text": "Non, les dentiers de George Washington n'étaient pas en bois : ils mêlaient ivoire (probablement d'hippopotame), dents d'animaux et dents humaines.",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, les dentiers de George Washington n'étaient pas en bois : ils mêlaient ivoire (probablement d'hippopotame), dents d'animaux et dents humaines ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20les%20dentiers%20de%20George%20Washington%20n'%C3%A9taient%20pas%20en%20bois%20%3A%20ils%20m%C3%AAlaient%20ivoire%20(probablement%20d'hippopotame)%2C%20dents%20d'animaux%20et%20dents%20humaines%20%3F"
+  "question": "Est-il vrai que les dentiers de George Washington n'étaient pas en bois : ils mêlaient ivoire (probablement d'hippopotame), dents d'animaux et dents humaines ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20dentiers%20de%20George%20Washington%20n'%C3%A9taient%20pas%20en%20bois%20%3A%20ils%20m%C3%AAlaient%20ivoire%20(probablement%20d'hippopotame)%2C%20dents%20d'animaux%20et%20dents%20humaines%20%3F"
  },
  {
   "text": "L'Américain Stan Larkin a vécu 555 jours sans cœur, avec un cœur artificiel alimenté par une pompe de 6 kg qu'il portait dans un sac à dos.",
@@ -1750,8 +1750,8 @@ const FACTS = [
  {
   "text": "Non, le corps ne contient pas 10 fois plus de bactéries que de cellules humaines : une étude de 2016 estime le rapport à environ 1 pour 1 (38 000 milliards contre 30 000 milliards).",
   "source": "Perplexity",
-  "question": "Est-il vrai que non, le corps ne contient pas 10 fois plus de bactéries que de cellules humaines : une étude de 2016 estime le rapport à environ 1 pour 1 (38 000 milliards contre 30 000 milliards) ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20non%2C%20le%20corps%20ne%20contient%20pas%2010%20fois%20plus%20de%20bact%C3%A9ries%20que%20de%20cellules%20humaines%20%3A%20une%20%C3%A9tude%20de%202016%20estime%20le%20rapport%20%C3%A0%20environ%201%20pour%201%20(38%20000%20milliards%20contre%2030%20000%20milliards)%20%3F"
+  "question": "Est-il vrai que le corps ne contient pas 10 fois plus de bactéries que de cellules humaines : une étude de 2016 estime le rapport à environ 1 pour 1 (38 000 milliards contre 30 000 milliards) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20corps%20ne%20contient%20pas%2010%20fois%20plus%20de%20bact%C3%A9ries%20que%20de%20cellules%20humaines%20%3A%20une%20%C3%A9tude%20de%202016%20estime%20le%20rapport%20%C3%A0%20environ%201%20pour%201%20(38%20000%20milliards%20contre%2030%20000%20milliards)%20%3F"
  },
  {
   "text": "Des cellules du fœtus restent dans le corps de la mère des décennies après l'accouchement, y compris dans son cerveau : c'est le microchimérisme fœtal.",
