@@ -1100,10 +1100,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20distance%20la%20plus%20courte%20entre%20la%20Russie%20et%20les%20%C3%89tats-Unis%20n'est%20que%20de%20quelques%20kilom%C3%A8tres%2C%20entre%20deux%20petites%20%C3%AEles%20%3F"
  },
  {
-  "text": "Les six missions Apollo qui se sont posées sur la Lune y ont abandonné 96 sacs contenant urine, excréments et vomi, pour gagner du poids au décollage.",
+  "text": "Les six missions Apollo qui se sont posées sur la Lune y ont abandonné 96 sacs de déchets humains, pour gagner du poids au décollage.",
   "source": "Perplexity",
-  "question": "Est-il vrai que les six missions Apollo qui se sont posées sur la Lune y ont abandonné 96 sacs contenant urine, excréments et vomi, pour gagner du poids au décollage ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20six%20missions%20Apollo%20qui%20se%20sont%20pos%C3%A9es%20sur%20la%20Lune%20y%20ont%20abandonn%C3%A9%2096%20sacs%20contenant%20urine%2C%20excr%C3%A9ments%20et%20vomi%2C%20pour%20gagner%20du%20poids%20au%20d%C3%A9collage%20%3F"
+  "question": "Est-il vrai que les six missions Apollo qui se sont posées sur la Lune y ont abandonné 96 sacs de déchets humains, pour gagner du poids au décollage ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20six%20missions%20Apollo%20qui%20se%20sont%20pos%C3%A9es%20sur%20la%20Lune%20y%20ont%20abandonn%C3%A9%2096%20sacs%20de%20d%C3%A9chets%20humains%2C%20pour%20gagner%20du%20poids%20au%20d%C3%A9collage%20%3F"
  },
  {
   "text": "Par mètre cube, le cœur du Soleil produit environ 276 watts, soit à peu près autant qu'un tas de compost actif et moins que le métabolisme d'un humain.",
@@ -1118,10 +1118,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20depuis%20certains%20endroits%20de%20Mercure%2C%20le%20Soleil%20se%20l%C3%A8ve%2C%20s'arr%C3%AAte%20dans%20le%20ciel%2C%20repart%20en%20arri%C3%A8re%20puis%20reprend%20sa%20course%2C%20%C3%A0%20cause%20de%20l'orbite%20tr%C3%A8s%20elliptique%20de%20la%20plan%C3%A8te%20%3F"
  },
  {
-  "text": "En 1889 à Fribourg-en-Brisgau, une tentative de distiller de la thioacétone a provoqué vomissements, nausées et évanouissements dans un rayon de 750 mètres autour du laboratoire, à cause de l'odeur.",
+  "text": "En 1889 à Fribourg-en-Brisgau, une tentative de distiller de la thioacétone a provoqué nausées et évanouissements dans un rayon de 750 mètres autour du laboratoire, à cause de l'odeur.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1889 à Fribourg-en-Brisgau, une tentative de distiller de la thioacétone a provoqué vomissements, nausées et évanouissements dans un rayon de 750 mètres autour du laboratoire, à cause de l'odeur ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201889%20%C3%A0%20Fribourg-en-Brisgau%2C%20une%20tentative%20de%20distiller%20de%20la%20thioac%C3%A9tone%20a%20provoqu%C3%A9%20vomissements%2C%20naus%C3%A9es%20et%20%C3%A9vanouissements%20dans%20un%20rayon%20de%20750%20m%C3%A8tres%20autour%20du%20laboratoire%2C%20%C3%A0%20cause%20de%20l'odeur%20%3F"
+  "question": "Est-il vrai qu'en 1889 à Fribourg-en-Brisgau, une tentative de distiller de la thioacétone a provoqué nausées et évanouissements dans un rayon de 750 mètres autour du laboratoire, à cause de l'odeur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201889%20%C3%A0%20Fribourg-en-Brisgau%2C%20une%20tentative%20de%20distiller%20de%20la%20thioac%C3%A9tone%20a%20provoqu%C3%A9%20naus%C3%A9es%20et%20%C3%A9vanouissements%20dans%20un%20rayon%20de%20750%20m%C3%A8tres%20autour%20du%20laboratoire%2C%20%C3%A0%20cause%20de%20l'odeur%20%3F"
  },
  {
   "text": "Le trifluorure de chlore est un oxydant si violent qu'il enflamme spontanément des matériaux réputés incombustibles comme le sable, le verre ou l'amiante.",
@@ -1358,16 +1358,16 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pour%20se%20d%C3%A9fendre%2C%20la%20myxine%20lib%C3%A8re%20un%20mucus%20qui%20gonfle%20jusqu'%C3%A0%2010%20000%20fois%20son%20volume%20en%20moins%20d'une%20demi-seconde%2C%20de%20quoi%20%C3%A9touffer%20les%20branchies%20d'un%20requin%20%3F"
  },
  {
-  "text": "Le poisson-perle vit à l'intérieur de l'anus des holothuries : il y entre quand le concombre de mer l'ouvre pour respirer, car celui-ci respire par l'anus.",
+  "text": "Le poisson-perle vit à l'intérieur des concombres de mer : il s'y glisse par l'orifice arrière, que l'animal ouvre régulièrement pour respirer.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le poisson-perle vit à l'intérieur de l'anus des holothuries : il y entre quand le concombre de mer l'ouvre pour respirer, car celui-ci respire par l'anus ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20poisson-perle%20vit%20%C3%A0%20l'int%C3%A9rieur%20de%20l'anus%20des%20holothuries%20%3A%20il%20y%20entre%20quand%20le%20concombre%20de%20mer%20l'ouvre%20pour%20respirer%2C%20car%20celui-ci%20respire%20par%20l'anus%20%3F"
+  "question": "Est-il vrai que le poisson-perle vit à l'intérieur des concombres de mer : il s'y glisse par l'orifice arrière, que l'animal ouvre régulièrement pour respirer ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20poisson-perle%20vit%20%C3%A0%20l'int%C3%A9rieur%20des%20concombres%20de%20mer%20%3A%20il%20s'y%20glisse%20par%20l'orifice%20arri%C3%A8re%2C%20que%20l'animal%20ouvre%20r%C3%A9guli%C3%A8rement%20pour%20respirer%20%3F"
  },
  {
-  "text": "La tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par son cloaque, ce qui lui vaut le surnom de « tortue qui respire par les fesses ».",
+  "text": "La tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par l'arrière de son corps, d'où son surnom de « tortue qui respire par les fesses ».",
   "source": "Perplexity",
-  "question": "Est-il vrai que la tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par son cloaque, ce qui lui vaut le surnom de « tortue qui respire par les fesses » ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tortue%20de%20la%20rivi%C3%A8re%20Fitzroy%2C%20en%20Australie%2C%20tire%20jusqu'%C3%A0%2070%20%25%20de%20son%20oxyg%C3%A8ne%20de%20l'eau%20qu'elle%20aspire%20par%20son%20cloaque%2C%20ce%20qui%20lui%20vaut%20le%20surnom%20de%20%C2%AB%20tortue%20qui%20respire%20par%20les%20fesses%20%C2%BB%20%3F"
+  "question": "Est-il vrai que la tortue de la rivière Fitzroy, en Australie, tire jusqu'à 70 % de son oxygène de l'eau qu'elle aspire par l'arrière de son corps, d'où son surnom de « tortue qui respire par les fesses » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tortue%20de%20la%20rivi%C3%A8re%20Fitzroy%2C%20en%20Australie%2C%20tire%20jusqu'%C3%A0%2070%20%25%20de%20son%20oxyg%C3%A8ne%20de%20l'eau%20qu'elle%20aspire%20par%20l'arri%C3%A8re%20de%20son%20corps%2C%20d'o%C3%B9%20son%20surnom%20de%20%C2%AB%20tortue%20qui%20respire%20par%20les%20fesses%20%C2%BB%20%3F"
  },
  {
   "text": "Le pelage brun de l'ornithorynque devient vert-bleu fluorescent sous lumière ultraviolette, une découverte publiée en 2020 dans la revue Mammalia.",
@@ -1382,10 +1382,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'ornithorynque%20n'a%20pas%20d'estomac%20fonctionnel%20%3A%20son%20%C5%93sophage%20est%20reli%C3%A9%20directement%20%C3%A0%20l'intestin%2C%20et%20il%20a%20perdu%20les%20g%C3%A8nes%20servant%20%C3%A0%20produire%20les%20sucs%20gastriques%20%3F"
  },
  {
-  "text": "Le pénis de l'échidné possède quatre têtes, mais il n'en utilise que deux à la fois et alterne d'un accouplement à l'autre.",
+  "text": "L'organe reproducteur de l'échidné mâle possède quatre têtes, mais il n'en utilise que deux à la fois, en alternant.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le pénis de l'échidné possède quatre têtes, mais il n'en utilise que deux à la fois et alterne d'un accouplement à l'autre ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20p%C3%A9nis%20de%20l'%C3%A9chidn%C3%A9%20poss%C3%A8de%20quatre%20t%C3%AAtes%2C%20mais%20il%20n'en%20utilise%20que%20deux%20%C3%A0%20la%20fois%20et%20alterne%20d'un%20accouplement%20%C3%A0%20l'autre%20%3F"
+  "question": "Est-il vrai que l'organe reproducteur de l'échidné mâle possède quatre têtes, mais il n'en utilise que deux à la fois, en alternant ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'organe%20reproducteur%20de%20l'%C3%A9chidn%C3%A9%20m%C3%A2le%20poss%C3%A8de%20quatre%20t%C3%AAtes%2C%20mais%20il%20n'en%20utilise%20que%20deux%20%C3%A0%20la%20fois%2C%20en%20alternant%20%3F"
  },
  {
   "text": "Le coléoptère bombardier projette par l'arrière-train un liquide chimique à près de 100 °C, en environ 500 explosions par seconde.",
@@ -1538,10 +1538,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20mouche%20Drosophila%20bifurca%2C%20de%20quelques%20millim%C3%A8tres%2C%20produit%20des%20spermatozo%C3%AFdes%20de%205%2C8%20cm%2C%20plus%20de%2020%20fois%20la%20longueur%20de%20son%20corps%20%3F"
  },
  {
-  "text": "Les homards urinent par des orifices situés à la base de leurs antennes et s'envoient leur urine au visage pendant leurs combats pour communiquer.",
+  "text": "Pendant leurs combats, les homards s'aspergent le visage d'urine, émise par des orifices situés à la base de leurs antennes, pour communiquer.",
   "source": "Perplexity",
-  "question": "Est-il vrai que les homards urinent par des orifices situés à la base de leurs antennes et s'envoient leur urine au visage pendant leurs combats pour communiquer ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20homards%20urinent%20par%20des%20orifices%20situ%C3%A9s%20%C3%A0%20la%20base%20de%20leurs%20antennes%20et%20s'envoient%20leur%20urine%20au%20visage%20pendant%20leurs%20combats%20pour%20communiquer%20%3F"
+  "question": "Est-il vrai que pendant leurs combats, les homards s'aspergent le visage d'urine, émise par des orifices situés à la base de leurs antennes, pour communiquer ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pendant%20leurs%20combats%2C%20les%20homards%20s'aspergent%20le%20visage%20d'urine%2C%20%C3%A9mise%20par%20des%20orifices%20situ%C3%A9s%20%C3%A0%20la%20base%20de%20leurs%20antennes%2C%20pour%20communiquer%20%3F"
  },
  {
   "text": "Les frégates dorment en plein vol, souvent avec un seul hémisphère cérébral, par micro-siestes d'une dizaine de secondes, pour environ 42 minutes par jour seulement.",
@@ -1568,10 +1568,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20chez%20les%20calmars%20et%20les%20pieuvres%2C%20l'%C5%93sophage%20passe%20au%20milieu%20du%20cerveau%2C%20en%20forme%20d'anneau%20%3A%20ils%20doivent%20d%C3%A9couper%20leur%20nourriture%20en%20petits%20morceaux%20pour%20qu'elle%20passe%20%3F"
  },
  {
-  "text": "Les harengs communiquent la nuit en expulsant des bulles d'air par l'anus, produisant des sons que les chercheurs ont baptisés FRT.",
+  "text": "Les harengs communiquent la nuit en relâchant de petites bulles d'air qui produisent des cliquetis, que les chercheurs ont baptisés FRT.",
   "source": "Perplexity",
-  "question": "Est-il vrai que les harengs communiquent la nuit en expulsant des bulles d'air par l'anus, produisant des sons que les chercheurs ont baptisés FRT ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20harengs%20communiquent%20la%20nuit%20en%20expulsant%20des%20bulles%20d'air%20par%20l'anus%2C%20produisant%20des%20sons%20que%20les%20chercheurs%20ont%20baptis%C3%A9s%20FRT%20%3F"
+  "question": "Est-il vrai que les harengs communiquent la nuit en relâchant de petites bulles d'air qui produisent des cliquetis, que les chercheurs ont baptisés FRT ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20harengs%20communiquent%20la%20nuit%20en%20rel%C3%A2chant%20de%20petites%20bulles%20d'air%20qui%20produisent%20des%20cliquetis%2C%20que%20les%20chercheurs%20ont%20baptis%C3%A9s%20FRT%20%3F"
  },
  {
   "text": "Dans l'utérus du requin-taureau, l'embryon le plus développé dévore tous ses frères et sœurs : sur des dizaines d'œufs, seuls deux petits naissent.",
@@ -1580,10 +1580,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20dans%20l'ut%C3%A9rus%20du%20requin-taureau%2C%20l'embryon%20le%20plus%20d%C3%A9velopp%C3%A9%20d%C3%A9vore%20tous%20ses%20fr%C3%A8res%20et%20s%C5%93urs%20%3A%20sur%20des%20dizaines%20d'%C5%93ufs%2C%20seuls%20deux%20petits%20naissent%20%3F"
  },
  {
-  "text": "La hyène tachetée femelle urine, s'accouple et met bas par un clitoris allongé en forme de pénis ; elle n'a pas d'ouverture vaginale externe.",
+  "text": "Chez la hyène tachetée, l'appareil génital de la femelle ressemble tellement à celui du mâle qu'il est très difficile de distinguer les sexes à l'œil nu.",
   "source": "Perplexity",
-  "question": "Est-il vrai que la hyène tachetée femelle urine, s'accouple et met bas par un clitoris allongé en forme de pénis ; elle n'a pas d'ouverture vaginale externe ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20hy%C3%A8ne%20tachet%C3%A9e%20femelle%20urine%2C%20s'accouple%20et%20met%20bas%20par%20un%20clitoris%20allong%C3%A9%20en%20forme%20de%20p%C3%A9nis%20%3B%20elle%20n'a%20pas%20d'ouverture%20vaginale%20externe%20%3F"
+  "question": "Est-il vrai que chez la hyène tachetée, l'appareil génital de la femelle ressemble tellement à celui du mâle qu'il est très difficile de distinguer les sexes à l'œil nu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20chez%20la%20hy%C3%A8ne%20tachet%C3%A9e%2C%20l'appareil%20g%C3%A9nital%20de%20la%20femelle%20ressemble%20tellement%20%C3%A0%20celui%20du%20m%C3%A2le%20qu'il%20est%20tr%C3%A8s%20difficile%20de%20distinguer%20les%20sexes%20%C3%A0%20l'%C5%93il%20nu%20%3F"
  },
  {
   "text": "Attaqué, le triton à côtes saillantes d'Espagne fait pivoter ses côtes pour qu'elles percent sa peau et servent de piquants enduits de poison.",
@@ -1982,10 +1982,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201859%2C%20les%20%C3%89tats-Unis%20et%20le%20Royaume-Uni%20ont%20mobilis%C3%A9%20des%20centaines%20de%20soldats%20et%20des%20navires%20de%20guerre%20apr%C3%A8s%20la%20mort%20d'un%20cochon%20%3A%20ce%20fut%20la%20seule%20victime%20de%20la%20%C2%AB%20guerre%20du%20Cochon%20%C2%BB%20%3F"
  },
  {
-  "text": "Le pénis supposé de Napoléon a été acheté en 1977 pour 3 000 dollars par un urologue américain, John Lattimer ; sa fille en a hérité et a refusé au moins 100 000 dollars pour le vendre.",
+  "text": "Une relique présentée comme le pénis de Napoléon a été achetée en 1977 pour 3 000 dollars par un urologue américain, John Lattimer.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le pénis supposé de Napoléon a été acheté en 1977 pour 3 000 dollars par un urologue américain, John Lattimer ; sa fille en a hérité et a refusé au moins 100 000 dollars pour le vendre ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20p%C3%A9nis%20suppos%C3%A9%20de%20Napol%C3%A9on%20a%20%C3%A9t%C3%A9%20achet%C3%A9%20en%201977%20pour%203%20000%20dollars%20par%20un%20urologue%20am%C3%A9ricain%2C%20John%20Lattimer%20%3B%20sa%20fille%20en%20a%20h%C3%A9rit%C3%A9%20et%20a%20refus%C3%A9%20au%20moins%20100%20000%20dollars%20pour%20le%20vendre%20%3F"
+  "question": "Est-il vrai qu'une relique présentée comme le pénis de Napoléon a été achetée en 1977 pour 3 000 dollars par un urologue américain, John Lattimer ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20relique%20pr%C3%A9sent%C3%A9e%20comme%20le%20p%C3%A9nis%20de%20Napol%C3%A9on%20a%20%C3%A9t%C3%A9%20achet%C3%A9e%20en%201977%20pour%203%20000%20dollars%20par%20un%20urologue%20am%C3%A9ricain%2C%20John%20Lattimer%20%3F"
  },
  {
   "text": "Le philosophe Jeremy Bentham a demandé que son squelette soit habillé et conservé : il est exposé à l'University College de Londres, avec une tête en cire.",
@@ -2354,10 +2354,10 @@ const FACTS = [
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20fredric%20Baur%2C%20l'inventeur%20du%20tube%20des%20chips%20Pringles%2C%20a%20%C3%A9t%C3%A9%20inhum%C3%A9%20en%202008%20en%20partie%20dans%20un%20tube%20de%20Pringles%2C%20%C3%A0%20sa%20propre%20demande%20%3F"
  },
  {
-  "text": "Le castoréum, sécrétion des glandes situées près de l'anus du castor, est autorisé comme arôme alimentaire aux États-Unis, mais il ne s'en utilise qu'environ 100 kilos par an.",
+  "text": "Le castoréum, une sécrétion odorante produite par des glandes situées sous la queue du castor, est autorisé comme arôme alimentaire aux États-Unis.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le castoréum, sécrétion des glandes situées près de l'anus du castor, est autorisé comme arôme alimentaire aux États-Unis, mais il ne s'en utilise qu'environ 100 kilos par an ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20castor%C3%A9um%2C%20s%C3%A9cr%C3%A9tion%20des%20glandes%20situ%C3%A9es%20pr%C3%A8s%20de%20l'anus%20du%20castor%2C%20est%20autoris%C3%A9%20comme%20ar%C3%B4me%20alimentaire%20aux%20%C3%89tats-Unis%2C%20mais%20il%20ne%20s'en%20utilise%20qu'environ%20100%20kilos%20par%20an%20%3F"
+  "question": "Est-il vrai que le castoréum, une sécrétion odorante produite par des glandes situées sous la queue du castor, est autorisé comme arôme alimentaire aux États-Unis ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20castor%C3%A9um%2C%20une%20s%C3%A9cr%C3%A9tion%20odorante%20produite%20par%20des%20glandes%20situ%C3%A9es%20sous%20la%20queue%20du%20castor%2C%20est%20autoris%C3%A9%20comme%20ar%C3%B4me%20alimentaire%20aux%20%C3%89tats-Unis%20%3F"
  },
  {
   "text": "La noix de cajou n'est pratiquement jamais vendue dans sa coque, car celle-ci contient de l'acide anacardique, un irritant cutané proche du poison de l'herbe à puce.",
