@@ -10,6 +10,9 @@ const shareEl = document.getElementById("share");
 const reportEl = document.getElementById("report");
 const reasonsEl = document.getElementById("reasons");
 const reasonsListEl = document.getElementById("reasons-list");
+const historyBtn = document.getElementById("history-btn");
+const historyDialog = document.getElementById("history-dialog");
+const historyMenu = document.getElementById("history-menu");
 const REPORT_EMAIL = "kil97112@gmail.com";
 
 const REPORT_REASONS = [
@@ -138,6 +141,54 @@ reportEl.addEventListener("click", () => reasonsEl.showModal());
 document.getElementById("reasons-close").addEventListener("click", closeReasons);
 reasonsEl.addEventListener("click", (event) => {
   if (event.target === reasonsEl) closeReasons();
+});
+
+function renderHistory() {
+  const history = getHistory();
+  historyMenu.innerHTML = "";
+
+  if (history.length === 0) {
+    historyMenu.innerHTML = '<div class="history-empty">Aucun historique</div>';
+    return;
+  }
+
+  const items = history.slice().reverse();
+  items.forEach((index, position) => {
+    const fact = FACTS[index];
+    const text = factText(fact).substring(0, 50) + (factText(fact).length > 50 ? "..." : "");
+    const item = document.createElement("button");
+    item.className = "history-item";
+    item.type = "button";
+    item.textContent = text;
+    item.addEventListener("click", () => {
+      lastIndex = index;
+      renderFact(fact);
+      factEl.hidden = false;
+      const source = factSource(fact);
+      sourceEl.href = source.url;
+      actionsEl.hidden = false;
+      currentText = factText(fact);
+      if (hint) hint.hidden = true;
+      historyDialog.close();
+      factEl.style.animation = "none";
+      void factEl.offsetWidth;
+      factEl.style.animation = "";
+    });
+    historyMenu.appendChild(item);
+  });
+}
+
+historyBtn.addEventListener("click", () => {
+  renderHistory();
+  historyDialog.showModal();
+});
+
+document.getElementById("history-close").addEventListener("click", () => {
+  historyDialog.close();
+});
+
+historyDialog.addEventListener("click", (event) => {
+  if (event.target === historyDialog) historyDialog.close();
 });
 
 let order = [];

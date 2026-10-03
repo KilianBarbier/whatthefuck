@@ -43,6 +43,14 @@
   </script>
 </head>
 <body>
+  <button id="history-btn" class="history-btn" type="button" aria-label="Historique">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="10"></circle>
+      <polyline points="12 6 12 12 16 14"></polyline>
+      <path d="M16 8 L20 4"></path>
+    </svg>
+  </button>
+
   <main class="stage">
     <button id="wtf" class="wtf-btn" type="button" aria-label="Un fait WTF">WTF ?!</button>
     <p id="fact" class="fact" hidden></p>
@@ -55,6 +63,13 @@
       <p class="reasons-title">Qu'est-ce qui ne va pas ?</p>
       <div id="reasons-list" class="reasons-list"></div>
       <button id="reasons-close" class="reasons-close" type="button">Annuler</button>
+    </dialog>
+    <dialog id="history-dialog" class="reasons">
+      <p class="reasons-title">Historique</p>
+      <div id="history-menu" class="history-menu">
+        <div class="history-empty">Aucun historique</div>
+      </div>
+      <button id="history-close" class="reasons-close" type="button">Fermer</button>
     </dialog>
     <p id="hint" class="hint">Clique pour un fait que tu ne connaissais (sûrement) pas.</p>
   </main>

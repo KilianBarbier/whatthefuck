@@ -389,6 +389,64 @@ body {
   }
 }
 
+.history-btn {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  width: 40px;
+  height: 40px;
+  padding: 0;
+  border: 2px solid #000;
+  background: #fff;
+  color: #000;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 5;
+  opacity: 0.6;
+  transition: opacity 0.2s;
+}
+
+.history-btn:hover {
+  opacity: 1;
+}
+
+.history-btn svg {
+  width: 20px;
+  height: 20px;
+}
+
+.history-menu {
+  max-height: 60vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.history-item {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  background: #f9f9f9;
+  cursor: pointer;
+  font-size: 0.9rem;
+  text-align: left;
+  transition: background 0.2s;
+}
+
+.history-item:hover {
+  background: #f0f0f0;
+  border-color: #000;
+}
+
+.history-empty {
+  padding: 1rem;
+  color: #999;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
 @media (max-width: 600px) {
   .info {
     position: static;
@@ -399,5 +457,12 @@ body {
     top: 50%;
     bottom: auto;
     transform: translate(-50%, -50%);
+  }
+
+  .history-btn {
+    width: 36px;
+    height: 36px;
+    top: 0.75rem;
+    right: 0.75rem;
   }
 }
