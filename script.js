@@ -191,6 +191,33 @@ historyDialog.addEventListener("click", (event) => {
   if (event.target === historyDialog) historyDialog.close();
 });
 
+function updateHistoryScrollbar() {
+  const menu = historyMenu;
+  const thumb = document.getElementById("history-scrollbar-thumb");
+  if (!thumb) return;
+
+  const scrollHeight = menu.scrollHeight;
+  const clientHeight = menu.clientHeight;
+  const scrollTop = menu.scrollTop;
+
+  if (scrollHeight <= clientHeight) {
+    thumb.style.display = "none";
+    return;
+  }
+
+  thumb.style.display = "block";
+  const thumbHeight = (clientHeight / scrollHeight) * clientHeight;
+  const thumbTop = (scrollTop / scrollHeight) * clientHeight;
+
+  thumb.style.height = thumbHeight + "px";
+  thumb.style.top = thumbTop + "px";
+}
+
+historyMenu.addEventListener("scroll", updateHistoryScrollbar);
+historyDialog.addEventListener("showModal", () => {
+  setTimeout(updateHistoryScrollbar, 0);
+});
+
 let order = [];
 let lastIndex = -1;
 const HISTORY_KEY = "wtf_history";
