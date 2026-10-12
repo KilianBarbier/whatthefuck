@@ -1,5 +1,6 @@
-// whatthefuck.fr ? base de faits (g?n?r?e puis v?rifi?e, sourc?e, relue).
-// Ne pas ?diter ? la main : r?g?n?r?e depuis le pipeline d'agents.
+// whatthefuck.fr — base de faits (générée puis vérifiée, sourcée, relue).
+// Ne pas éditer à la main : régénérée depuis le pipeline d'agents.
+// Chaque fact doit avoir un champ explanation (voir CLAUDE.md).
 const FACTS = [
  {
   "text": "Un jour sur Vénus dure plus longtemps qu'une année sur Vénus, car la planète tourne sur elle-même plus lentement qu'elle n'orbite autour du Soleil.",
