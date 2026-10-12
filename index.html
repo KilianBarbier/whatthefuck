@@ -2,7 +2,14 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script>
+    if ('ontouchstart' in window || navigator.maxTouchPoints > 0) {
+      document.documentElement.style.setProperty('--is-touch', '1');
+      const meta = document.querySelector('meta[name="viewport"]');
+      meta.setAttribute('content', 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover');
+    }
+  </script>
   <title>WTF ?! - Faits insolites mais vrais</title>
   <meta name="description" content="Découvre un fait insolite (mais vrai) à chaque clic. Faits surprenants, vérifiés et sourcés." />
   <meta name="keywords" content="faits insolites, faits surprenants, faits vrais, anecdotes, curiosités, trivia" />

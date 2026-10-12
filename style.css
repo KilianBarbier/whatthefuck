@@ -4,9 +4,11 @@
   padding: 0;
 }
 
-button,
-a {
-  touch-action: manipulation;
+@media (hover: none) and (pointer: coarse) {
+  button,
+  a {
+    touch-action: manipulation;
+  }
 }
 
 html,
