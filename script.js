@@ -1,8 +1,6 @@
 // whatthefuck.fr — page publique : à chaque clic, un fait insolite mais VRAI.
 // Objectif : qu'un curieux qui tombe sur le domaine reparte avec un « ah, WTF ».
 
-if (typeof feather !== "undefined") feather.replace();
-
 const btn = document.getElementById("wtf");
 const factEl = document.getElementById("fact");
 const sourceEl = document.getElementById("source");
