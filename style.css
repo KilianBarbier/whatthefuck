@@ -427,6 +427,7 @@ body {
 .history-wrapper {
   display: flex;
   gap: 0.5rem;
+  align-items: stretch;
 }
 
 .history-menu {
@@ -436,6 +437,7 @@ body {
   flex-direction: column;
   gap: 0.5rem;
   flex: 1;
+  min-height: 0;
 }
 
 .history-menu::-webkit-scrollbar {
@@ -456,6 +458,7 @@ body {
   background: #f5f5f5;
   margin: 0.5rem 0;
   position: relative;
+  flex-shrink: 0;
 }
 
 .history-scrollbar-thumb {
@@ -464,6 +467,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
+  min-height: 20px;
 }
 
 .history-item {
