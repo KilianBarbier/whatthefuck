@@ -1,85 +1,43 @@
-# WTF - Guide de Développement
+# whatthefuck.fr
 
-## Structure des Facts
+## facts.js
 
-Chaque fact dans `facts.js` doit avoir la structure suivante:
+`facts.js` définit `const FACTS = [...]`, un tableau JSON (indentation 1 espace) lu par le site et par le bot Discord WTFBOT (`kilianbarbier/wtfbot`, via https://whatthefuck.fr/facts.js).
+
+Chaque fact :
 
 ```json
 {
-  "text": "Le fait insolite (obligatoire)",
-  "explanation": "Explication du fait en 2-5 phrases (obligatoire)",
-  "source": "Source (optionnel)",
-  "question": "Question formée à partir du text (optionnel)",
-  "url": "Lien Perplexity (optionnel)"
+ "text": "Le fait, une ou deux phrases.",
+ "source": "Perplexity",
+ "question": "Est-il vrai que … ?",
+ "url": "https://www.perplexity.ai/search?q=…",
+ "explanation": "2 à 5 phrases."
 }
 ```
 
+Champ optionnel : `info` (`term`, image et légende pour la bulle « (?) » du site).
+
 ### Champs obligatoires
-- **text**: Le fait lui-même (identifié par son hash - ne jamais modifier)
-- **explanation**: Contexte, mécanisme, chiffres clés, nuances (2-5 phrases max)
+- **text** : le fait. Ne jamais modifier le `text` d'un fact existant : le bot identifie les facts par un hash de ce texte.
+- **explanation** : affichée par le bouton « En savoir plus » du bot. 2 à 5 phrases en français : contexte, mécanisme, chiffres clés ; nuancer si le fait est discutable ou repose sur une anecdote.
 
 ### Contraintes
-- `text + explanation` ≤ 1500 caractères
-- L'explanation est affichée par le bouton « En savoir plus » du bot Discord WTFBOT
+- `text` + `explanation` ≤ 1 500 caractères (limite Discord : 2 000).
 
-## Avant toute modification
+## À chaque régénération / ajout de facts
 
-1. **git pull** pour récupérer la dernière version de main
-2. Vérifier s'il existe une branche `feat/explanations` non mergée
-3. Lire ce fichier en entier
+✅ À faire :
+- Conserver toutes les explications existantes, sans les réécrire.
+- Écrire une explication pour chaque nouveau fact.
 
-## À chaque régénération/ajout de facts
+❌ À ne jamais faire :
+- Modifier le `text` d'un fact existant.
+- Supprimer ou réécrire une explication existante.
 
-✅ **À faire**:
-- Conserver TOUTES les explications existantes (ne pas les supprimer ni les réécrire)
-- Écrire une explication pour chaque nouveau fact
-- Vérifier que text + explanation < 1500 caractères
-
-❌ **À ne jamais faire**:
-- Modifier le champ `text` d'un fact existant (le bot identifie les facts par un hash du texte)
-- Supprimer une explication existante
-- Réécrire une explication existante
-
-## Vérification avant commit
-
-Avant chaque commit modifiant `facts.js`, lancer la commande de vérification:
-
-```bash
-node scripts/validate-facts.js
-```
-
-Cette commande doit afficher: **0 invalides**
-
-Si la commande n'existe pas encore, créer le script à la racine:
-```javascript
-// scripts/validate-facts.js
-const fs = require('fs');
-const facts = require('./facts.js').FACTS || [];
-
-let invalides = 0;
-facts.forEach((fact, i) => {
-  if (!fact.text) {
-    console.error(`Fact ${i}: text manquant`);
-    invalides++;
-  }
-  if (!fact.explanation) {
-    console.error(`Fact ${i}: explanation manquante`);
-    invalides++;
-  }
-  const len = (fact.text + fact.explanation).length;
-  if (len > 1500) {
-    console.error(`Fact ${i}: text + explanation (${len}ch) dépasse 1500`);
-    invalides++;
-  }
-});
-
-console.log(`${invalides} invalides`);
-process.exit(invalides > 0 ? 1 : 0);
-```
-
-## Workflow type
+## Workflow
 
 1. `git pull origin main`
-2. Modifier/ajouter facts (avec explanations)
-3. Vérifier: `node scripts/validate-facts.js` → doit afficher "0 invalides"
+2. Modifier / ajouter des facts (avec explications)
+3. `node scripts/validate-facts.js` → doit afficher « 0 invalides »
 4. Committer et pusher
