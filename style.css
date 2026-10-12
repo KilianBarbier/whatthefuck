@@ -412,9 +412,13 @@ body {
   opacity: 1;
 }
 
-.history-btn svg {
+.history-btn svg,
+.history-btn i {
   width: 20px;
   height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .history-menu {
