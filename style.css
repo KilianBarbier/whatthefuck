@@ -438,6 +438,7 @@ body {
   gap: 0.5rem;
   flex: 1;
   min-height: 0;
+  overscroll-behavior: contain;
 }
 
 .history-menu::-webkit-scrollbar {

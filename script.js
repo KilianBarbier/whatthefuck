@@ -194,11 +194,13 @@ historyDialog.addEventListener("click", (event) => {
 function updateHistoryScrollbar() {
   const menu = historyMenu;
   const thumb = document.getElementById("history-scrollbar-thumb");
-  if (!thumb) return;
+  const scrollbar = document.querySelector(".history-scrollbar");
+  if (!thumb || !scrollbar) return;
 
   const scrollHeight = menu.scrollHeight;
   const clientHeight = menu.clientHeight;
   const scrollTop = menu.scrollTop;
+  const scrollbarHeight = scrollbar.clientHeight;
 
   if (scrollHeight <= clientHeight) {
     thumb.style.display = "none";
@@ -206,8 +208,9 @@ function updateHistoryScrollbar() {
   }
 
   thumb.style.display = "block";
-  const thumbHeight = (clientHeight / scrollHeight) * clientHeight;
-  const thumbTop = (scrollTop / scrollHeight) * clientHeight;
+  const thumbHeight = Math.max(20, (clientHeight / scrollHeight) * scrollbarHeight);
+  let thumbTop = (scrollTop / (scrollHeight - clientHeight)) * (scrollbarHeight - thumbHeight);
+  thumbTop = Math.max(0, Math.min(thumbTop, scrollbarHeight - thumbHeight));
 
   thumb.style.height = thumbHeight + "px";
   thumb.style.top = thumbTop + "px";
