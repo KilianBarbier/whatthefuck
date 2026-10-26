@@ -126,7 +126,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que l'eau chaude peut geler plus vite que l'eau froide dans certaines conditions, un phénomène surprenant appelé effet Mpemba ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'eau%20chaude%20peut%20geler%20plus%20vite%20que%20l'eau%20froide%20dans%20certaines%20conditions%2C%20un%20ph%C3%A9nom%C3%A8ne%20surprenant%20appel%C3%A9%20effet%20Mpemba%20%3F",
-  "explanation": "Décrit par Erasto Mpemba, un lycéen tanzanien, en 1969, l'effet Mpemba est observé dans certaines conditions : évaporation plus forte, convection, gaz dissous, surfusion... Il est cependant très débattu : les résultats sont difficiles à reproduire et dépendent énormément du protocole. Ce n'est pas une règle générale."
+  "explanation": "Décrit par Erasto Mpemba, alors lycéen, en 1969, l'effet Mpemba est observé dans certaines conditions : évaporation plus forte, convection, gaz dissous, surfusion... Il est cependant très débattu : les résultats sont difficiles à reproduire et dépendent énormément du protocole. Ce n'est pas une règle générale."
  },
  {
   "text": "Le verre n'est pas un liquide qui coule lentement : les vitres anciennes plus épaisses en bas viennent de leur fabrication, pas d'un écoulement.",
@@ -329,7 +329,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le corps humain émet une très faible lueur, invisible à l'œil nu, appelée bioluminescence humaine ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20corps%20humain%20%C3%A9met%20une%20tr%C3%A8s%20faible%20lueur%2C%20invisible%20%C3%A0%20l'%C5%93il%20nu%2C%20appel%C3%A9e%20bioluminescence%20humaine%20%3F",
-  "explanation": "En 2009, des chercheurs japonais ont filmé avec des caméras ultra-sensibles une émission de lumière par le corps humain, environ 1 000 fois trop faible pour notre œil. Elle vient de réactions chimiques liées au métabolisme et aux radicaux libres, et varie au cours de la journée. On parle plutôt d'émission ultra-faible de photons que de vraie bioluminescence."
+  "explanation": "En 2009, des chercheurs ont filmé avec des caméras ultra-sensibles une émission de lumière par le corps humain, environ 1 000 fois trop faible pour notre œil. Elle vient de réactions chimiques liées au métabolisme et aux radicaux libres, et varie au cours de la journée. On parle plutôt d'émission ultra-faible de photons que de vraie bioluminescence."
  },
  {
   "text": "La banane est botaniquement une baie, mais la fraise n'en est pas une.",
@@ -413,7 +413,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que les anciens Égyptiens se rasaient les sourcils en signe de deuil à la mort de leur chat ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20anciens%20%C3%89gyptiens%20se%20rasaient%20les%20sourcils%20en%20signe%20de%20deuil%20%C3%A0%20la%20mort%20de%20leur%20chat%20%3F",
-  "explanation": "D'après l'historien grec Hérodote, lorsqu'un chat mourait dans une maison égyptienne, tous les habitants se rasaient les sourcils en signe de deuil. Les chats étaient associés à la déesse Bastet et souvent momifiés. Le fait repose principalement sur ce témoignage d'Hérodote."
+  "explanation": "D'après l'historien Hérodote, lorsqu'un chat mourait dans une maison égyptienne, tous les habitants se rasaient les sourcils en signe de deuil. Les chats étaient associés à la déesse Bastet et souvent momifiés. Le fait repose principalement sur ce témoignage d'Hérodote."
  },
  {
   "text": "Les Vikings n'avaient pas de casques à cornes : cette image vient surtout d'opéras et d'illustrations du 19e siècle.",
@@ -637,7 +637,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le vélcro a été inspiré par les petites graines qui s'accrochaient au pantalon d'un ingénieur et au poil de son chien ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20v%C3%A9lcro%20a%20%C3%A9t%C3%A9%20inspir%C3%A9%20par%20les%20petites%20graines%20qui%20s'accrochaient%20au%20pantalon%20d'un%20ing%C3%A9nieur%20et%20au%20poil%20de%20son%20chien%20%3F",
-  "explanation": "En 1941, l'ingénieur suisse George de Mestral s'intéresse aux fruits de bardane accrochés à son pantalon et au pelage de son chien. Au microscope, il découvre de petits crochets qui s'agrippent aux boucles. Il met plus de dix ans à reproduire le système. Le nom vient de « velours » et « crochet »."
+  "explanation": "En 1941, l'ingénieur George de Mestral s'intéresse aux fruits de bardane accrochés à son pantalon et au pelage de son chien. Au microscope, il découvre de petits crochets qui s'agrippent aux boucles. Il met plus de dix ans à reproduire le système. Le nom vient de « velours » et « crochet »."
  },
  {
   "text": "Le CD a été conçu pour durer environ 74 minutes, dit-on pour contenir une symphonie de Beethoven en entier.",
@@ -812,7 +812,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que se casser les doigts ne donne pas d'arthrose : le bruit vient de bulles de gaz dans les articulations ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20se%20casser%20les%20doigts%20ne%20donne%20pas%20d'arthrose%C2%A0%3A%20le%20bruit%20vient%20de%20bulles%20de%20gaz%20dans%20les%20articulations%20%3F",
-  "explanation": "Le bruit vient de bulles de gaz qui se forment dans le liquide synovial lorsqu'on écarte l'articulation. Un médecin américain, Donald Unger, a fait craquer les doigts d'une seule main pendant 60 ans sans observer d'arthrose dans aucune des deux. Les études n'ont pas trouvé de lien."
+  "explanation": "Le bruit vient de bulles de gaz qui se forment dans le liquide synovial lorsqu'on écarte l'articulation. Un médecin, Donald Unger, a fait craquer les doigts d'une seule main pendant 60 ans sans observer d'arthrose dans aucune des deux. Les études n'ont pas trouvé de lien."
  },
  {
   "text": "Non, les cheveux et les ongles ne continuent pas de pousser après la mort : c'est la peau qui se rétracte.",
@@ -1050,7 +1050,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le ketchup a été vendu au 19e siècle comme un médicament censé soigner divers maux ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20ketchup%20a%20%C3%A9t%C3%A9%20vendu%20au%2019e%20si%C3%A8cle%20comme%20un%20m%C3%A9dicament%20cens%C3%A9%20soigner%20divers%20maux%20%3F",
-  "explanation": "Dans les années 1830, le médecin américain John Cook Bennett vante les tomates comme remède contre la diarrhée ou l'indigestion. Des « pilules de tomate » sont vendues avec succès avant que l'escroquerie ne soit dénoncée. Le ketchup s'en est trouvé associé à la médecine."
+  "explanation": "Dans les années 1830, le médecin John Cook Bennett vante les tomates comme remède contre la diarrhée ou l'indigestion. Des « pilules de tomate » sont vendues avec succès avant que l'escroquerie ne soit dénoncée. Le ketchup s'en est trouvé associé à la médecine."
  },
  {
   "text": "Au 17e siècle, aux Pays-Bas, la spéculation sur les bulbes de tulipe a atteint des prix délirants avant de s'effondrer.",
@@ -1148,7 +1148,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que les abeilles peuvent compter jusqu'à de petits nombres et comprendre la notion de zéro ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20abeilles%20peuvent%20compter%20jusqu'%C3%A0%20de%20petits%20nombres%20et%20comprendre%20la%20notion%20de%20z%C3%A9ro%20%3F",
-  "explanation": "Des chercheurs australiens et français ont montré en 2018 que les abeilles peuvent classer de petits ensembles d'éléments du plus petit au plus grand. Elles comprennent aussi qu'un ensemble vide est « plus petit » qu'un ensemble à un élément, ce qui s'apparente à la notion de zéro. Elles ont aussi appris de petites additions et soustractions."
+  "explanation": "Des chercheurs ont montré en 2018 que les abeilles peuvent classer de petits ensembles d'éléments du plus petit au plus grand. Elles comprennent aussi qu'un ensemble vide est « plus petit » qu'un ensemble à un élément, ce qui s'apparente à la notion de zéro. Elles ont aussi appris de petites additions et soustractions."
  },
  {
   "text": "Un poisson-perroquet dort parfois enveloppé dans une bulle de mucus qu'il fabrique lui-même pour se protéger.",
@@ -1372,7 +1372,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que la plus grosse météorite connue, celle de Hoba en Namibie, pèse plus de 60 tonnes et n'a jamais été déplacée depuis sa découverte en 1920 ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20plus%20grosse%20m%C3%A9t%C3%A9orite%20connue%2C%20celle%20de%20Hoba%20en%20Namibie%2C%20p%C3%A8se%20plus%20de%2060%20tonnes%20et%20n'a%20jamais%20%C3%A9t%C3%A9%20d%C3%A9plac%C3%A9e%20depuis%20sa%20d%C3%A9couverte%20en%201920%20%3F",
-  "explanation": "La météorite de Hoba, découverte en 1920 par un fermier namibien, est un bloc de fer et de nickel d'environ 60 tonnes. Elle n'a laissé aucun cratère, peut-être parce que sa forme plate l'a ralentie dans l'atmosphère. Elle est restée où elle est tombée il y a environ 80 000 ans."
+  "explanation": "La météorite de Hoba, découverte en 1920 par un fermier, est un bloc de fer et de nickel d'environ 60 tonnes. Elle n'a laissé aucun cratère, peut-être parce que sa forme plate l'a ralentie dans l'atmosphère. Elle est restée où elle est tombée il y a environ 80 000 ans."
  },
  {
   "text": "En 1964, avant de comprendre qu'ils captaient l'écho du Big Bang, Penzias et Wilson ont soupçonné les fientes des pigeons nichant dans leur antenne et les ont nettoyées : le bruit était toujours là.",
@@ -1393,7 +1393,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le bismuth, utilisé dans des médicaments pour l'estomac, est en réalité radioactif : sa demi-vie de 2×10¹⁹ ans dépasse plus d'un milliard de fois l'âge de l'Univers ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20bismuth%2C%20utilis%C3%A9%20dans%20des%20m%C3%A9dicaments%20pour%20l'estomac%2C%20est%20en%20r%C3%A9alit%C3%A9%20radioactif%20%3A%20sa%20demi-vie%20de%202%C3%9710%C2%B9%E2%81%B9%20ans%20d%C3%A9passe%20plus%20d'un%20milliard%20de%20fois%20l'%C3%A2ge%20de%20l'Univers%20%3F",
-  "explanation": "Le bismuth 209 a longtemps été considéré comme stable. En 2003, des physiciens français ont détecté sa désintégration alpha, avec une demi-vie d'environ 2 × 10^19 ans. Sa radioactivité est donc totalement négligeable. Il est utilisé dans des médicaments contre les troubles digestifs."
+  "explanation": "Le bismuth 209 a longtemps été considéré comme stable. En 2003, des physiciens ont détecté sa désintégration alpha, avec une demi-vie d'environ 2 × 10^19 ans. Sa radioactivité est donc totalement négligeable. Il est utilisé dans des médicaments contre les troubles digestifs."
  },
  {
   "text": "En 1772, Lavoisier a fait brûler un diamant en concentrant la lumière du Soleil avec une lentille : il n'en est sorti que du gaz carbonique, preuve qu'il est fait de carbone comme le charbon.",
@@ -1657,7 +1657,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'en 2021, des rotifères bdelloïdes congelés depuis 24 000 ans dans le permafrost sibérien ont été ramenés à la vie et se sont remis à se reproduire ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202021%2C%20des%20rotif%C3%A8res%20bdello%C3%AFdes%20congel%C3%A9s%20depuis%2024%20000%20ans%20dans%20le%20permafrost%20sib%C3%A9rien%20ont%20%C3%A9t%C3%A9%20ramen%C3%A9s%20%C3%A0%20la%20vie%20et%20se%20sont%20remis%20%C3%A0%20se%20reproduire%20%3F",
-  "explanation": "En 2021, des chercheurs russes ont décongelé des rotifères bdelloïdes, de minuscules animaux aquatiques, prélevés dans du permafrost daté d'environ 24 000 ans. Ils ont repris vie et se sont reproduits par clonage (parthénogenèse). C'est l'une des plus longues cryptobioses documentées chez un animal."
+  "explanation": "En 2021, des chercheurs ont décongelé des rotifères bdelloïdes, de minuscules animaux aquatiques, prélevés dans du permafrost daté d'environ 24 000 ans. Ils ont repris vie et se sont reproduits par clonage (parthénogenèse). C'est l'une des plus longues cryptobioses documentées chez un animal."
  },
  {
   "text": "Un ver nématode resté gelé 46 000 ans dans le permafrost sibérien a été réveillé en laboratoire et s'est remis à se reproduire, selon une étude publiée en 2023.",
@@ -1674,10 +1674,10 @@ const FACTS = [
   "explanation": "En 2013, des chercheurs ont montré que des bousiers sud-africains s'orientent grâce à la bande lumineuse de la Voie lactée pour rouler leur boule en ligne droite. Dans un planétarium, ils se trompaient quand on masquait la Voie lactée. C'est le premier cas connu d'animal utilisant notre galaxie pour s'orienter."
  },
  {
-  "text": "En 1995, des chercheurs japonais ont entraîné des pigeons à distinguer des tableaux de Monet de ceux de Picasso, y compris des œuvres qu'ils n'avaient jamais vues.",
+  "text": "En 1995, des chercheurs ont entraîné des pigeons à distinguer des tableaux de Monet de ceux de Picasso, y compris des œuvres qu'ils n'avaient jamais vues.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1995, des chercheurs japonais ont entraîné des pigeons à distinguer des tableaux de Monet de ceux de Picasso, y compris des œuvres qu'ils n'avaient jamais vues ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201995%2C%20des%20chercheurs%20japonais%20ont%20entra%C3%AEn%C3%A9%20des%20pigeons%20%C3%A0%20distinguer%20des%20tableaux%20de%20Monet%20de%20ceux%20de%20Picasso%2C%20y%20compris%20des%20%C5%93uvres%20qu'ils%20n'avaient%20jamais%20vues%20%3F",
+  "question": "Est-il vrai qu'en 1995, des chercheurs ont entraîné des pigeons à distinguer des tableaux de Monet de ceux de Picasso, y compris des œuvres qu'ils n'avaient jamais vues ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201995%2C%20des%20chercheurs%20ont%20entra%C3%AEn%C3%A9%20des%20pigeons%20%C3%A0%20distinguer%20des%20tableaux%20de%20Monet%20de%20ceux%20de%20Picasso%2C%20y%20compris%20des%20%C5%93uvres%20qu'ils%20n'avaient%20jamais%20vues%20%3F",
   "explanation": "Les pigeons de l'étude japonaise ont été récompensés pour picorer des œuvres de l'un ou l'autre peintre. Ils ont ensuite reconnu des tableaux qu'ils n'avaient jamais vus, et ont même généralisé à d'autres impressionnistes et cubistes. Les chercheurs ont reçu un prix Ig Nobel en 1995."
  },
  {
@@ -1867,7 +1867,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'une limace de mer (Elysia) étudiée au Japon peut se décapiter elle-même : la tête continue de ramper et de manger, et régénère un corps complet en environ 20 jours ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20limace%20de%20mer%20(Elysia)%20%C3%A9tudi%C3%A9e%20au%20Japon%20peut%20se%20d%C3%A9capiter%20elle-m%C3%AAme%20%3A%20la%20t%C3%AAte%20continue%20de%20ramper%20et%20de%20manger%2C%20et%20r%C3%A9g%C3%A9n%C3%A8re%20un%20corps%20complet%20en%20environ%2020%20jours%20%3F",
-  "explanation": "En 2021, des chercheurs japonais ont observé que des limaces de mer du genre Elysia peuvent s'autodécapiter. La tête, qui photosynthétise grâce aux chloroplastes des algues qu'elle mange, survit et régénère un nouveau corps en quelques semaines. Elles se débarrasseraient ainsi d'un corps infesté de parasites."
+  "explanation": "En 2021, des chercheurs ont observé que des limaces de mer du genre Elysia peuvent s'autodécapiter. La tête, qui photosynthétise grâce aux chloroplastes des algues qu'elle mange, survit et régénère un nouveau corps en quelques semaines. Elles se débarrasseraient ainsi d'un corps infesté de parasites."
  },
  {
   "text": "En 1848, une barre de fer de 1,10 m a traversé le crâne de l'ouvrier Phineas Gage : il est resté conscient, a parlé dans les minutes suivantes et a vécu encore près de 12 ans.",
@@ -1884,52 +1884,52 @@ const FACTS = [
   "explanation": "L'ostéo-odonto-kératoprothèse est utilisée en dernier recours pour certaines cécités cornéennes. On prélève une dent du patient (souvent une canine) avec un morceau d'os de la mâchoire, on y fixe une lentille optique, puis on l'implante d'abord dans la joue pour qu'elle se vascularise avant de la placer dans l'œil."
  },
  {
-  "text": "En 1929, le médecin allemand Werner Forssmann s'est glissé un cathéter du bras jusqu'au cœur, sur lui-même, puis s'est fait radiographier : ce geste lui a valu le prix Nobel en 1956.",
+  "text": "En 1929, le médecin Werner Forssmann s'est glissé un cathéter du bras jusqu'au cœur, sur lui-même, puis s'est fait radiographier : ce geste lui a valu le prix Nobel en 1956.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1929, le médecin allemand Werner Forssmann s'est glissé un cathéter du bras jusqu'au cœur, sur lui-même, puis s'est fait radiographier : ce geste lui a valu le prix Nobel en 1956 ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201929%2C%20le%20m%C3%A9decin%20allemand%20Werner%20Forssmann%20s'est%20gliss%C3%A9%20un%20cath%C3%A9ter%20du%20bras%20jusqu'au%20c%C5%93ur%2C%20sur%20lui-m%C3%AAme%2C%20puis%20s'est%20fait%20radiographier%20%3A%20ce%20geste%20lui%20a%20valu%20le%20prix%20Nobel%20en%201956%20%3F",
+  "question": "Est-il vrai qu'en 1929, le médecin Werner Forssmann s'est glissé un cathéter du bras jusqu'au cœur, sur lui-même, puis s'est fait radiographier : ce geste lui a valu le prix Nobel en 1956 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201929%2C%20le%20m%C3%A9decin%20Werner%20Forssmann%20s'est%20gliss%C3%A9%20un%20cath%C3%A9ter%20du%20bras%20jusqu'au%20c%C5%93ur%2C%20sur%20lui-m%C3%AAme%2C%20puis%20s'est%20fait%20radiographier%20%3A%20ce%20geste%20lui%20a%20valu%20le%20prix%20Nobel%20en%201956%20%3F",
   "explanation": "À 25 ans, Werner Forssmann s'est anesthésié le bras, s'est introduit un cathéter dans une veine et l'a poussé jusqu'au cœur, puis est descendu à la radiologie pour faire une radio. Il a été renvoyé et moqué. Ses travaux ont été repris par d'autres, et il a partagé le prix Nobel de médecine en 1956."
  },
  {
-  "text": "En 1984, le médecin australien Barry Marshall a bu une culture de la bactérie Helicobacter pylori pour prouver qu'elle causait la gastrite. Il a obtenu le prix Nobel en 2005.",
+  "text": "En 1984, le médecin Barry Marshall a bu une culture de la bactérie Helicobacter pylori pour prouver qu'elle causait la gastrite. Il a obtenu le prix Nobel en 2005.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1984, le médecin australien Barry Marshall a bu une culture de la bactérie Helicobacter pylori pour prouver qu'elle causait la gastrite. Il a obtenu le prix Nobel en 2005 ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201984%2C%20le%20m%C3%A9decin%20australien%20Barry%20Marshall%20a%20bu%20une%20culture%20de%20la%20bact%C3%A9rie%20Helicobacter%20pylori%20pour%20prouver%20qu'elle%20causait%20la%20gastrite.%20Il%20a%20obtenu%20le%20prix%20Nobel%20en%202005%20%3F",
+  "question": "Est-il vrai qu'en 1984, le médecin Barry Marshall a bu une culture de la bactérie Helicobacter pylori pour prouver qu'elle causait la gastrite. Il a obtenu le prix Nobel en 2005 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201984%2C%20le%20m%C3%A9decin%20Barry%20Marshall%20a%20bu%20une%20culture%20de%20la%20bact%C3%A9rie%20Helicobacter%20pylori%20pour%20prouver%20qu'elle%20causait%20la%20gastrite.%20Il%20a%20obtenu%20le%20prix%20Nobel%20en%202005%20%3F",
   "explanation": "On pensait que les ulcères et gastrites étaient causés par le stress et l'acidité. Barry Marshall et Robin Warren soupçonnaient la bactérie Helicobacter pylori. Pour le prouver, Marshall en a avalé une culture : il a développé une gastrite, ensuite soignée par antibiotiques. Ils ont obtenu le prix Nobel de médecine en 2005."
  },
  {
-  "text": "L'Américain Charles Osborne a eu le hoquet pendant 68 ans, de 1922 à 1990, un record homologué par le Guinness.",
+  "text": "Charles Osborne a eu le hoquet pendant 68 ans, de 1922 à 1990, un record homologué par le Guinness.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Américain Charles Osborne a eu le hoquet pendant 68 ans, de 1922 à 1990, un record homologué par le Guinness ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricain%20Charles%20Osborne%20a%20eu%20le%20hoquet%20pendant%2068%20ans%2C%20de%201922%20%C3%A0%201990%2C%20un%20record%20homologu%C3%A9%20par%20le%20Guinness%20%3F",
+  "question": "Est-il vrai que Charles Osborne a eu le hoquet pendant 68 ans, de 1922 à 1990, un record homologué par le Guinness ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Charles%20Osborne%20a%20eu%20le%20hoquet%20pendant%2068%20ans%2C%20de%201922%20%C3%A0%201990%2C%20un%20record%20homologu%C3%A9%20par%20le%20Guinness%20%3F",
   "explanation": "En 1922, Charles Osborne a commencé à avoir le hoquet en soulevant un porc. Il a hoqueté environ 20 à 40 fois par minute pendant 68 ans, ce qui lui a valu une entrée au Guinness. Il a pourtant mené une vie presque normale, et le hoquet s'est arrêté environ un an avant sa mort."
  },
  {
-  "text": "En 2002, des tests ADN ont semblé prouver que l'Américaine Lydia Fairchild n'était pas la mère de ses propres enfants : elle était en fait une chimère, porteuse de deux ADN différents.",
+  "text": "En 2002, des tests ADN ont semblé prouver que Lydia Fairchild n'était pas la mère de ses propres enfants : elle était en fait une chimère, porteuse de deux ADN différents.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 2002, des tests ADN ont semblé prouver que l'Américaine Lydia Fairchild n'était pas la mère de ses propres enfants : elle était en fait une chimère, porteuse de deux ADN différents ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202002%2C%20des%20tests%20ADN%20ont%20sembl%C3%A9%20prouver%20que%20l'Am%C3%A9ricaine%20Lydia%20Fairchild%20n'%C3%A9tait%20pas%20la%20m%C3%A8re%20de%20ses%20propres%20enfants%20%3A%20elle%20%C3%A9tait%20en%20fait%20une%20chim%C3%A8re%2C%20porteuse%20de%20deux%20ADN%20diff%C3%A9rents%20%3F",
+  "question": "Est-il vrai qu'en 2002, des tests ADN ont semblé prouver que Lydia Fairchild n'était pas la mère de ses propres enfants : elle était en fait une chimère, porteuse de deux ADN différents ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202002%2C%20des%20tests%20ADN%20ont%20sembl%C3%A9%20prouver%20que%20Lydia%20Fairchild%20n'%C3%A9tait%20pas%20la%20m%C3%A8re%20de%20ses%20propres%20enfants%20%3A%20elle%20%C3%A9tait%20en%20fait%20une%20chim%C3%A8re%2C%20porteuse%20de%20deux%20ADN%20diff%C3%A9rents%20%3F",
   "explanation": "Lydia Fairchild a failli perdre la garde de ses enfants quand des tests ADN ont indiqué qu'elle n'était pas leur mère. On a fini par découvrir qu'elle était une chimère : elle s'était formée à partir de deux embryons fusionnés. L'ADN de ses ovules ne correspondait pas à celui de sa salive."
  },
  {
-  "text": "En 2007, The Lancet a décrit un fonctionnaire français de 44 ans, marié et père de deux enfants, dont le cerveau était réduit à une fine couche par une hydrocéphalie massive.",
+  "text": "En 2007, The Lancet a décrit un fonctionnaire de 44 ans, marié et père de deux enfants, dont le cerveau était réduit à une fine couche par une hydrocéphalie massive.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 2007, The Lancet a décrit un fonctionnaire français de 44 ans, marié et père de deux enfants, dont le cerveau était réduit à une fine couche par une hydrocéphalie massive ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202007%2C%20The%20Lancet%20a%20d%C3%A9crit%20un%20fonctionnaire%20fran%C3%A7ais%20de%2044%20ans%2C%20mari%C3%A9%20et%20p%C3%A8re%20de%20deux%20enfants%2C%20dont%20le%20cerveau%20%C3%A9tait%20r%C3%A9duit%20%C3%A0%20une%20fine%20couche%20par%20une%20hydroc%C3%A9phalie%20massive%20%3F",
+  "question": "Est-il vrai qu'en 2007, The Lancet a décrit un fonctionnaire de 44 ans, marié et père de deux enfants, dont le cerveau était réduit à une fine couche par une hydrocéphalie massive ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202007%2C%20The%20Lancet%20a%20d%C3%A9crit%20un%20fonctionnaire%20de%2044%20ans%2C%20mari%C3%A9%20et%20p%C3%A8re%20de%20deux%20enfants%2C%20dont%20le%20cerveau%20%C3%A9tait%20r%C3%A9duit%20%C3%A0%20une%20fine%20couche%20par%20une%20hydroc%C3%A9phalie%20massive%20%3F",
   "explanation": "Le patient, suivi depuis l'enfance pour une hydrocéphalie, consultait pour une faiblesse à la jambe. L'imagerie a montré que ses ventricules cérébraux, remplis de liquide, occupaient l'essentiel de son crâne, ne laissant qu'une fine couche de tissu cérébral. Il avait un QI de 75 et une vie sociale normale."
  },
  {
-  "text": "L'Écossaise Joy Milne détecte la maladie de Parkinson à l'odeur : elle a senti le changement d'odeur de son mari des années avant son diagnostic.",
+  "text": "Joy Milne détecte la maladie de Parkinson à l'odeur : elle a senti le changement d'odeur de son mari des années avant son diagnostic.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Écossaise Joy Milne détecte la maladie de Parkinson à l'odeur : elle a senti le changement d'odeur de son mari des années avant son diagnostic ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C3%89cossaise%20Joy%20Milne%20d%C3%A9tecte%20la%20maladie%20de%20Parkinson%20%C3%A0%20l'odeur%20%3A%20elle%20a%20senti%20le%20changement%20d'odeur%20de%20son%20mari%20des%20ann%C3%A9es%20avant%20son%20diagnostic%20%3F",
+  "question": "Est-il vrai que Joy Milne détecte la maladie de Parkinson à l'odeur : elle a senti le changement d'odeur de son mari des années avant son diagnostic ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Joy%20Milne%20d%C3%A9tecte%20la%20maladie%20de%20Parkinson%20%C3%A0%20l'odeur%20%3A%20elle%20a%20senti%20le%20changement%20d'odeur%20de%20son%20mari%20des%20ann%C3%A9es%20avant%20son%20diagnostic%20%3F",
   "explanation": "Joy Milne a remarqué que son mari dégageait une odeur différente, musquée, une dizaine d'années avant son diagnostic. Des chercheurs ont testé son odorat avec des t-shirts portés : elle a identifié correctement les malades. Ses capacités ont permis d'identifier des molécules du sébum pouvant servir de test diagnostic."
  },
  {
-  "text": "Le golfeur américain Eben Byers a bu environ 1 400 doses d'eau au radium vendue comme tonique : il a perdu une grande partie de sa mâchoire et a été enterré en 1932 dans un cercueil plombé.",
+  "text": "Le golfeur Eben Byers a bu environ 1 400 doses d'eau au radium vendue comme tonique : il a perdu une grande partie de sa mâchoire et a été enterré en 1932 dans un cercueil plombé.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le golfeur américain Eben Byers a bu environ 1 400 doses d'eau au radium vendue comme tonique : il a perdu une grande partie de sa mâchoire et a été enterré en 1932 dans un cercueil plombé ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20golfeur%20am%C3%A9ricain%20Eben%20Byers%20a%20bu%20environ%201%20400%20doses%20d'eau%20au%20radium%20vendue%20comme%20tonique%20%3A%20il%20a%20perdu%20une%20grande%20partie%20de%20sa%20m%C3%A2choire%20et%20a%20%C3%A9t%C3%A9%20enterr%C3%A9%20en%201932%20dans%20un%20cercueil%20plomb%C3%A9%20%3F",
+  "question": "Est-il vrai que le golfeur Eben Byers a bu environ 1 400 doses d'eau au radium vendue comme tonique : il a perdu une grande partie de sa mâchoire et a été enterré en 1932 dans un cercueil plombé ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20golfeur%20Eben%20Byers%20a%20bu%20environ%201%20400%20doses%20d'eau%20au%20radium%20vendue%20comme%20tonique%20%3A%20il%20a%20perdu%20une%20grande%20partie%20de%20sa%20m%C3%A2choire%20et%20a%20%C3%A9t%C3%A9%20enterr%C3%A9%20en%201932%20dans%20un%20cercueil%20plomb%C3%A9%20%3F",
   "explanation": "Eben Byers, riche industriel, a bu du Radithor, une eau au radium vendue comme tonique, sur les conseils de son médecin. Le radium s'est accumulé dans ses os et a provoqué de graves nécroses de la mâchoire. Sa mort en 1932 a fait scandale et a contribué à renforcer la réglementation des médicaments aux États-Unis."
  },
  {
@@ -1944,7 +1944,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'après un coup de mousquet en 1822, Alexis St. Martin a gardé un trou ouvert sur l'estomac : le médecin William Beaumont y introduisait de la nourriture attachée à une ficelle pour étudier la digestion ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'apr%C3%A8s%20un%20coup%20de%20mousquet%20en%201822%2C%20Alexis%20St.%20Martin%20a%20gard%C3%A9%20un%20trou%20ouvert%20sur%20l'estomac%20%3A%20le%20m%C3%A9decin%20William%20Beaumont%20y%20introduisait%20de%20la%20nourriture%20attach%C3%A9e%20%C3%A0%20une%20ficelle%20pour%20%C3%A9tudier%20la%20digestion%20%3F",
-  "explanation": "Alexis St. Martin, un trappeur canadien, a été blessé accidentellement par un coup de feu. Sa plaie a guéri en laissant une ouverture permanente sur l'estomac. William Beaumont a mené pendant des années des expériences sur sa digestion, en introduisant des aliments attachés à une ficelle. Ses travaux ont fondé la physiologie de la digestion."
+  "explanation": "Alexis St. Martin, un trappeur, a été blessé accidentellement par un coup de feu. Sa plaie a guéri en laissant une ouverture permanente sur l'estomac. William Beaumont a mené pendant des années des expériences sur sa digestion, en introduisant des aliments attachés à une ficelle. Ses travaux ont fondé la physiologie de la digestion."
  },
  {
   "text": "Le journaliste Jean-Dominique Bauby, entièrement paralysé, a écrit Le Scaphandre et le Papillon lettre par lettre en clignant de sa seule paupière gauche.",
@@ -1954,10 +1954,10 @@ const FACTS = [
   "explanation": "Après un accident vasculaire cérébral en 1995, Jean-Dominique Bauby, rédacteur en chef de Elle, est atteint du syndrome d'enfermement. Une orthophoniste lui récitait l'alphabet, et il clignait de la paupière pour choisir chaque lettre. Le livre, publié en 1997, a demandé environ 200 000 clignements. Il est mort quelques jours après sa parution."
  },
  {
-  "text": "En 1667, le médecin français Jean-Baptiste Denis a réalisé l'une des premières transfusions sur un humain… avec du sang d'agneau. Le patient, un adolescent de 15 ans, a survécu.",
+  "text": "En 1667, le médecin Jean-Baptiste Denis a réalisé l'une des premières transfusions sur un humain… avec du sang d'agneau. Le patient, un adolescent de 15 ans, a survécu.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1667, le médecin français Jean-Baptiste Denis a réalisé l'une des premières transfusions sur un humain… avec du sang d'agneau. Le patient, un adolescent de 15 ans, a survécu ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201667%2C%20le%20m%C3%A9decin%20fran%C3%A7ais%20Jean-Baptiste%20Denis%20a%20r%C3%A9alis%C3%A9%20l'une%20des%20premi%C3%A8res%20transfusions%20sur%20un%20humain%E2%80%A6%20avec%20du%20sang%20d'agneau.%20Le%20patient%2C%20un%20adolescent%20de%2015%20ans%2C%20a%20surv%C3%A9cu%20%3F",
+  "question": "Est-il vrai qu'en 1667, le médecin Jean-Baptiste Denis a réalisé l'une des premières transfusions sur un humain… avec du sang d'agneau. Le patient, un adolescent de 15 ans, a survécu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201667%2C%20le%20m%C3%A9decin%20Jean-Baptiste%20Denis%20a%20r%C3%A9alis%C3%A9%20l'une%20des%20premi%C3%A8res%20transfusions%20sur%20un%20humain%E2%80%A6%20avec%20du%20sang%20d'agneau.%20Le%20patient%2C%20un%20adolescent%20de%2015%20ans%2C%20a%20surv%C3%A9cu%20%3F",
   "explanation": "Jean-Baptiste Denis, médecin de Louis XIV, a transfusé environ 350 ml de sang d'agneau à un garçon souffrant de fièvre, qui a survécu, probablement parce que la quantité était faible. Une transfusion ultérieure, avec du sang de veau, s'est soldée par la mort d'un patient, et la pratique a été interdite en France pendant plus d'un siècle."
  },
  {
@@ -1989,10 +1989,10 @@ const FACTS = [
   "explanation": "Kim Peek avait une mémoire hors du commun : il aurait mémorisé environ 12 000 livres. Il lisait une page en environ 10 secondes, et pouvait lire les deux pages ouvertes en même temps avec chaque œil. Son cerveau n'avait pas de corps calleux, la structure reliant les deux hémisphères."
  },
  {
-  "text": "Fin 1963-début 1964, le lycéen américain Randy Gardner est resté éveillé 264 heures, soit 11 jours. Le Guinness a ensuite cessé d'homologuer ce type de record par sécurité.",
+  "text": "Fin 1963-début 1964, le lycéen Randy Gardner est resté éveillé 264 heures, soit 11 jours. Le Guinness a ensuite cessé d'homologuer ce type de record par sécurité.",
   "source": "Perplexity",
-  "question": "Est-il vrai que fin 1963-début 1964, le lycéen américain Randy Gardner est resté éveillé 264 heures, soit 11 jours. Le Guinness a ensuite cessé d'homologuer ce type de record par sécurité ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20fin%201963-d%C3%A9but%201964%2C%20le%20lyc%C3%A9en%20am%C3%A9ricain%20Randy%20Gardner%20est%20rest%C3%A9%20%C3%A9veill%C3%A9%20264%20heures%2C%20soit%2011%20jours.%20Le%20Guinness%20a%20ensuite%20cess%C3%A9%20d'homologuer%20ce%20type%20de%20record%20par%20s%C3%A9curit%C3%A9%20%3F",
+  "question": "Est-il vrai que fin 1963-début 1964, le lycéen Randy Gardner est resté éveillé 264 heures, soit 11 jours. Le Guinness a ensuite cessé d'homologuer ce type de record par sécurité ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20fin%201963-d%C3%A9but%201964%2C%20le%20lyc%C3%A9en%20Randy%20Gardner%20est%20rest%C3%A9%20%C3%A9veill%C3%A9%20264%20heures%2C%20soit%2011%20jours.%20Le%20Guinness%20a%20ensuite%20cess%C3%A9%20d'homologuer%20ce%20type%20de%20record%20par%20s%C3%A9curit%C3%A9%20%3F",
   "explanation": "Pour une expérience scientifique, Randy Gardner, 17 ans, est resté éveillé 264,4 heures, suivi par le chercheur William Dement. Il a souffert de troubles de concentration, d'humeur, de mémoire et d'hallucinations. Le Guinness a cessé d'homologuer ces records car la privation de sommeil est dangereuse."
  },
  {
@@ -2017,10 +2017,10 @@ const FACTS = [
   "explanation": "George Washington a souffert de problèmes dentaires toute sa vie et n'avait plus qu'une dent en devenant président. Ses dentiers étaient en ivoire d'hippopotame, en plomb, avec des dents humaines (certaines achetées à des esclaves) et animales. Le mythe des dents en bois viendrait des taches qui faisaient ressembler l'ivoire au bois."
  },
  {
-  "text": "L'Américain Stan Larkin a vécu 555 jours sans cœur, avec un cœur artificiel alimenté par une pompe de 6 kg qu'il portait dans un sac à dos.",
+  "text": "Stan Larkin a vécu 555 jours sans cœur, avec un cœur artificiel alimenté par une pompe de 6 kg qu'il portait dans un sac à dos.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Américain Stan Larkin a vécu 555 jours sans cœur, avec un cœur artificiel alimenté par une pompe de 6 kg qu'il portait dans un sac à dos ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricain%20Stan%20Larkin%20a%20v%C3%A9cu%20555%20jours%20sans%20c%C5%93ur%2C%20avec%20un%20c%C5%93ur%20artificiel%20aliment%C3%A9%20par%20une%20pompe%20de%206%20kg%20qu'il%20portait%20dans%20un%20sac%20%C3%A0%20dos%20%3F",
+  "question": "Est-il vrai que Stan Larkin a vécu 555 jours sans cœur, avec un cœur artificiel alimenté par une pompe de 6 kg qu'il portait dans un sac à dos ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Stan%20Larkin%20a%20v%C3%A9cu%20555%20jours%20sans%20c%C5%93ur%2C%20avec%20un%20c%C5%93ur%20artificiel%20aliment%C3%A9%20par%20une%20pompe%20de%206%20kg%20qu'il%20portait%20dans%20un%20sac%20%C3%A0%20dos%20%3F",
   "explanation": "Atteint d'une maladie cardiaque génétique, Stan Larkin a reçu un cœur artificiel total en 2014. Relié à un compresseur portable, le Freedom Driver, il a pu rentrer chez lui et même jouer au basket. Il a reçu une greffe de cœur en 2016, après 555 jours sans cœur biologique."
  },
  {
@@ -2080,10 +2080,10 @@ const FACTS = [
   "explanation": "En 2020, au King's College Hospital de Londres, Dagmar Turner a joué du violon pendant l'opération d'une tumeur au cerveau, en chirurgie éveillée. Les chirurgiens surveillaient son jeu pour éviter d'endommager les zones contrôlant la motricité fine des mains. L'opération a réussi."
  },
  {
-  "text": "La Marocaine Zahra Aboutalib a porté pendant 46 ans un fœtus mort et calcifié, un « bébé de pierre » découvert lorsqu'elle avait 75 ans.",
+  "text": "Zahra Aboutalib a porté pendant 46 ans un fœtus mort et calcifié, un « bébé de pierre » découvert lorsqu'elle avait 75 ans.",
   "source": "Perplexity",
-  "question": "Est-il vrai que la Marocaine Zahra Aboutalib a porté pendant 46 ans un fœtus mort et calcifié, un « bébé de pierre » découvert lorsqu'elle avait 75 ans ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Marocaine%20Zahra%20Aboutalib%20a%20port%C3%A9%20pendant%2046%20ans%20un%20f%C5%93tus%20mort%20et%20calcifi%C3%A9%2C%20un%20%C2%AB%20b%C3%A9b%C3%A9%20de%20pierre%20%C2%BB%20d%C3%A9couvert%20lorsqu'elle%20avait%2075%20ans%20%3F",
+  "question": "Est-il vrai que Zahra Aboutalib a porté pendant 46 ans un fœtus mort et calcifié, un « bébé de pierre » découvert lorsqu'elle avait 75 ans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Zahra%20Aboutalib%20a%20port%C3%A9%20pendant%2046%20ans%20un%20f%C5%93tus%20mort%20et%20calcifi%C3%A9%2C%20un%20%C2%AB%20b%C3%A9b%C3%A9%20de%20pierre%20%C2%BB%20d%C3%A9couvert%20lorsqu'elle%20avait%2075%20ans%20%3F",
   "explanation": "Zahra Aboutalib aurait été enceinte en 1955. Après un travail difficile, elle est rentrée chez elle. Le fœtus mort s'est calcifié : c'est un lithopédion, ou « bébé de pierre ». Il a été découvert en 2001 lors d'un examen médical. Ce phénomène, très rare, survient lors de grossesses extra-utérines."
  },
  {
@@ -2112,7 +2112,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que les cellules cancéreuses d'Henrietta Lacks, prélevées sans son accord en 1951, se multiplient toujours dans les laboratoires du monde entier sous le nom de HeLa ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20cellules%20canc%C3%A9reuses%20d'Henrietta%20Lacks%2C%20pr%C3%A9lev%C3%A9es%20sans%20son%20accord%20en%201951%2C%20se%20multiplient%20toujours%20dans%20les%20laboratoires%20du%20monde%20entier%20sous%20le%20nom%20de%20HeLa%20%3F",
-  "explanation": "Henrietta Lacks, Afro-Américaine atteinte d'un cancer du col de l'utérus, a été soignée à l'hôpital Johns Hopkins en 1951. Des cellules ont été prélevées sans son accord. Elles se sont révélées capables de se diviser indéfiniment. La lignée HeLa a servi à mettre au point le vaccin contre la polio et à de nombreuses découvertes."
+  "explanation": "Henrietta Lacks, atteinte d'un cancer du col de l'utérus, a été soignée à l'hôpital Johns Hopkins en 1951. Des cellules ont été prélevées sans son accord. Elles se sont révélées capables de se diviser indéfiniment. La lignée HeLa a servi à mettre au point le vaccin contre la polio et à de nombreuses découvertes."
  },
  {
   "text": "Le syndrome de Cotard pousse des personnes vivantes à croire qu'elles sont mortes, qu'elles n'ont plus d'organes ou qu'elles pourrissent.",
@@ -2136,10 +2136,10 @@ const FACTS = [
   "explanation": "En novembre 2005, au CHU d'Amiens, l'équipe de Bernard Devauchelle et Jean-Michel Dubernard a greffé à Isabelle Dinoire le nez, les lèvres et le menton d'une donneuse. Isabelle Dinoire avait été mordue par son chien alors qu'elle était inconsciente après avoir pris des médicaments. Elle est décédée en 2016."
  },
  {
-  "text": "La Britannique Donna Griffiths a éternué pendant 976 jours d'affilée à partir de 1981, dont environ un million de fois la première année.",
+  "text": "Donna Griffiths a éternué pendant 976 jours d'affilée à partir de 1981, dont environ un million de fois la première année.",
   "source": "Perplexity",
-  "question": "Est-il vrai que la Britannique Donna Griffiths a éternué pendant 976 jours d'affilée à partir de 1981, dont environ un million de fois la première année ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Britannique%20Donna%20Griffiths%20a%20%C3%A9ternu%C3%A9%20pendant%20976%20jours%20d'affil%C3%A9e%20%C3%A0%20partir%20de%201981%2C%20dont%20environ%20un%20million%20de%20fois%20la%20premi%C3%A8re%20ann%C3%A9e%20%3F",
+  "question": "Est-il vrai que Donna Griffiths a éternué pendant 976 jours d'affilée à partir de 1981, dont environ un million de fois la première année ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Donna%20Griffiths%20a%20%C3%A9ternu%C3%A9%20pendant%20976%20jours%20d'affil%C3%A9e%20%C3%A0%20partir%20de%201981%2C%20dont%20environ%20un%20million%20de%20fois%20la%20premi%C3%A8re%20ann%C3%A9e%20%3F",
   "explanation": "Donna Griffiths, une Britannique de 12 ans, a commencé à éternuer le 13 janvier 1981. Elle aurait éternué environ un million de fois la première année, et n'a arrêté que 976 jours plus tard, le 16 septembre 1983. C'est un record du Guinness. La cause n'a jamais été clairement identifiée."
  },
  {
@@ -2175,7 +2175,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le syndrome de Capgras pousse des patients à croire qu'un proche, par exemple leur conjoint, a été remplacé par un sosie imposteur parfaitement identique ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20syndrome%20de%20Capgras%20pousse%20des%20patients%20%C3%A0%20croire%20qu'un%20proche%2C%20par%20exemple%20leur%20conjoint%2C%20a%20%C3%A9t%C3%A9%20remplac%C3%A9%20par%20un%20sosie%20imposteur%20parfaitement%20identique%20%3F",
-  "explanation": "Le syndrome de Capgras, décrit par le psychiatre français Joseph Capgras en 1923, serait dû à une rupture entre la reconnaissance visuelle d'un visage et la réaction émotionnelle associée. Le patient reconnaît le visage, mais ne ressent rien, et en conclut que c'est un imposteur. Il survient dans certaines psychoses ou après des lésions cérébrales."
+  "explanation": "Le syndrome de Capgras, décrit par le psychiatre Joseph Capgras en 1923, serait dû à une rupture entre la reconnaissance visuelle d'un visage et la réaction émotionnelle associée. Le patient reconnaît le visage, mais ne ressent rien, et en conclut que c'est un imposteur. Il survient dans certaines psychoses ou après des lésions cérébrales."
  },
  {
   "text": "En 1932, l'armée australienne a mené une « guerre » à la mitrailleuse contre environ 20 000 émeus en Australie-Occidentale, et a fini par abandonner face aux oiseaux.",
@@ -2227,10 +2227,10 @@ const FACTS = [
   "explanation": "Hamida Djandoubi, condamné pour meurtre, a été guillotiné à Marseille le 10 septembre 1977. « Star Wars » était sorti aux États-Unis en mai 1977. La peine de mort a été abolie en France en 1981, grâce à Robert Badinter."
  },
  {
-  "text": "En 1740, l'impératrice Anna Ivanovna força le prince Mikhaïl Golitsyne, devenu bouffon, à épouser une femme kalmouke et à passer sa nuit de noces dans un palais entièrement fait de glace.",
+  "text": "En 1740, l'impératrice Anna Ivanovna força le prince Mikhaïl Golitsyne, devenu bouffon, à épouser une servante et à passer sa nuit de noces dans un palais entièrement fait de glace.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1740, l'impératrice Anna Ivanovna força le prince Mikhaïl Golitsyne, devenu bouffon, à épouser une femme kalmouke et à passer sa nuit de noces dans un palais entièrement fait de glace ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201740%2C%20l'imp%C3%A9ratrice%20Anna%20Ivanovna%20for%C3%A7a%20le%20prince%20Mikha%C3%AFl%20Golitsyne%2C%20devenu%20bouffon%2C%20%C3%A0%20%C3%A9pouser%20une%20femme%20kalmouke%20et%20%C3%A0%20passer%20sa%20nuit%20de%20noces%20dans%20un%20palais%20enti%C3%A8rement%20fait%20de%20glace%20%3F",
+  "question": "Est-il vrai qu'en 1740, l'impératrice Anna Ivanovna força le prince Mikhaïl Golitsyne, devenu bouffon, à épouser une servante et à passer sa nuit de noces dans un palais entièrement fait de glace ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201740%2C%20l'imp%C3%A9ratrice%20Anna%20Ivanovna%20for%C3%A7a%20le%20prince%20Mikha%C3%AFl%20Golitsyne%2C%20devenu%20bouffon%2C%20%C3%A0%20%C3%A9pouser%20une%20servante%20et%20%C3%A0%20passer%20sa%20nuit%20de%20noces%20dans%20un%20palais%20enti%C3%A8rement%20fait%20de%20glace%20%3F",
   "explanation": "Pour punir le prince Golitsyne, qui avait épousé une catholique, l'impératrice Anna Ivanovna en fit son bouffon, puis le força à épouser une servante kalmouke. Elle fit construire à Saint-Pétersbourg un palais de glace, avec un lit en glace, et y fit passer leur nuit de noces sous bonne garde, en plein hiver."
  },
  {
@@ -2255,10 +2255,10 @@ const FACTS = [
   "explanation": "Le jeune Tycho Brahe, alors étudiant en Allemagne, s'est battu en duel avec son cousin Manderup Parsberg, à la suite d'une dispute, la légende disant qu'elle portait sur une formule mathématique. Un coup d'épée lui a tranché une partie du nez. Il a porté une prothèse, probablement en laiton, même si elle était réputée en or et argent. L'exhumation de son corps en 2010 a révélé des traces de laiton."
  },
  {
-  "text": "En 1726, l'Anglaise Mary Toft a convaincu un chirurgien de la maison du roi George Ier qu'elle accouchait de lapins, avant d'avouer la supercherie.",
+  "text": "En 1726, Mary Toft a convaincu un chirurgien de la maison du roi George Ier qu'elle accouchait de lapins, avant d'avouer la supercherie.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1726, l'Anglaise Mary Toft a convaincu un chirurgien de la maison du roi George Ier qu'elle accouchait de lapins, avant d'avouer la supercherie ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201726%2C%20l'Anglaise%20Mary%20Toft%20a%20convaincu%20un%20chirurgien%20de%20la%20maison%20du%20roi%20George%20Ier%20qu'elle%20accouchait%20de%20lapins%2C%20avant%20d'avouer%20la%20supercherie%20%3F",
+  "question": "Est-il vrai qu'en 1726, Mary Toft a convaincu un chirurgien de la maison du roi George Ier qu'elle accouchait de lapins, avant d'avouer la supercherie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201726%2C%20Mary%20Toft%20a%20convaincu%20un%20chirurgien%20de%20la%20maison%20du%20roi%20George%20Ier%20qu'elle%20accouchait%20de%20lapins%2C%20avant%20d'avouer%20la%20supercherie%20%3F",
   "explanation": "Mary Toft prétendait avoir donné naissance à des lapins, en réalité introduits dans son corps. Le chirurgien Nathaniel St André, envoyé par la cour, y a cru et a publié un compte rendu. Sous la menace d'une opération, elle a fini par avouer. L'affaire a ridiculisé le milieu médical anglais."
  },
  {
@@ -2269,10 +2269,10 @@ const FACTS = [
   "explanation": "Victor Lustig a convoqué des ferrailleurs dans un grand hôtel, se présentant comme un haut fonctionnaire chargé de vendre la tour, prétendument trop coûteuse à entretenir. André Poisson lui a versé l'argent, et un pot-de-vin. Honteux, il n'a jamais porté plainte, ce qui a permis à Lustig de tenter le coup une seconde fois."
  },
  {
-  "text": "Pendant la Seconde Guerre mondiale, l'officier britannique Jack Churchill partait au combat avec une épée écossaise, un arc et des flèches, et une cornemuse.",
+  "text": "Pendant la Seconde Guerre mondiale, l'officier Jack Churchill partait au combat avec une épée écossaise, un arc et des flèches, et une cornemuse.",
   "source": "Perplexity",
-  "question": "Est-il vrai que pendant la Seconde Guerre mondiale, l'officier britannique Jack Churchill partait au combat avec une épée écossaise, un arc et des flèches, et une cornemuse ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pendant%20la%20Seconde%20Guerre%20mondiale%2C%20l'officier%20britannique%20Jack%20Churchill%20partait%20au%20combat%20avec%20une%20%C3%A9p%C3%A9e%20%C3%A9cossaise%2C%20un%20arc%20et%20des%20fl%C3%A8ches%2C%20et%20une%20cornemuse%20%3F",
+  "question": "Est-il vrai que pendant la Seconde Guerre mondiale, l'officier Jack Churchill partait au combat avec une épée écossaise, un arc et des flèches, et une cornemuse ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pendant%20la%20Seconde%20Guerre%20mondiale%2C%20l'officier%20Jack%20Churchill%20partait%20au%20combat%20avec%20une%20%C3%A9p%C3%A9e%20%C3%A9cossaise%2C%20un%20arc%20et%20des%20fl%C3%A8ches%2C%20et%20une%20cornemuse%20%3F",
   "explanation": "John « Mad Jack » Churchill, surnommé ainsi pour ses excentricités, combattait avec une claymore, un arc et une cornemuse. En 1940, il aurait abattu un sous-officier allemand à l'arc, la dernière mort attestée par une flèche lors d'une guerre. Il a aussi capturé des dizaines de soldats allemands, armé de son épée."
  },
  {
@@ -2378,7 +2378,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'en 1978, le cercueil de Charlie Chaplin a été volé dans un cimetière suisse par deux hommes qui réclamaient une rançon à sa veuve, puis retrouvé enterré dans un champ de maïs ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201978%2C%20le%20cercueil%20de%20Charlie%20Chaplin%20a%20%C3%A9t%C3%A9%20vol%C3%A9%20dans%20un%20cimeti%C3%A8re%20suisse%20par%20deux%20hommes%20qui%20r%C3%A9clamaient%20une%20ran%C3%A7on%20%C3%A0%20sa%20veuve%2C%20puis%20retrouv%C3%A9%20enterr%C3%A9%20dans%20un%20champ%20de%20ma%C3%AFs%20%3F",
-  "explanation": "Deux mécaniciens immigrés ont déterré le cercueil de Charlie Chaplin à Corsier-sur-Vevey et réclamé 600 000 francs suisses à sa veuve Oona. Elle a refusé de payer. La police a tracé les appels et arrêté les voleurs. Le corps a été retrouvé dans un champ et réinhumé sous une dalle de béton."
+  "explanation": "Deux mécaniciens ont déterré le cercueil de Charlie Chaplin à Corsier-sur-Vevey et réclamé 600 000 francs suisses à sa veuve Oona. Elle a refusé de payer. La police a tracé les appels et arrêté les voleurs. Le corps a été retrouvé dans un champ et réinhumé sous une dalle de béton."
  },
  {
   "text": "Le général mexicain Santa Anna a fait enterrer sa jambe amputée avec les honneurs militaires, avant qu'une foule ne la déterre et la traîne dans les rues en 1844.",
@@ -2738,11 +2738,11 @@ const FACTS = [
   "explanation": "Kutol vendait une pâte pour nettoyer les traces de suie sur les papiers peints. Avec la généralisation du chauffage au gaz et des papiers peints lavables, la demande a chuté. Une institutrice l'utilisait pour faire modeler ses élèves. La pâte a été reformulée et vendue comme jouet en 1956."
  },
  {
-  "text": "La tronçonneuse descend d'une scie à chaîne médicale inventée vers 1783-1785 par deux médecins écossais, utilisée notamment pour élargir le bassin lors d'accouchements difficiles (symphysiotomie).",
+  "text": "La tronçonneuse descend d'une scie à chaîne médicale inventée vers 1783-1785 par deux médecins, utilisée notamment pour élargir le bassin lors d'accouchements difficiles (symphysiotomie).",
   "source": "Perplexity",
-  "question": "Est-il vrai que la tronçonneuse descend d'une scie à chaîne médicale inventée vers 1783-1785 par deux médecins écossais, utilisée notamment pour élargir le bassin lors d'accouchements difficiles (symphysiotomie) ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tron%C3%A7onneuse%20descend%20d'une%20scie%20%C3%A0%20cha%C3%AEne%20m%C3%A9dicale%20invent%C3%A9e%20vers%201783-1785%20par%20deux%20m%C3%A9decins%20%C3%A9cossais%2C%20utilis%C3%A9e%20notamment%20pour%20%C3%A9largir%20le%20bassin%20lors%20d'accouchements%20difficiles%20(symphysiotomie)%20%3F",
-  "explanation": "Les médecins écossais John Aitken et James Jeffray ont développé une scie à chaîne pour faciliter les symphysiotomies et la découpe d'os. Elle était actionnée à la main par une manivelle. Les tronçonneuses à bois motorisées sont apparues bien plus tard, au XXe siècle."
+  "question": "Est-il vrai que la tronçonneuse descend d'une scie à chaîne médicale inventée vers 1783-1785 par deux médecins, utilisée notamment pour élargir le bassin lors d'accouchements difficiles (symphysiotomie) ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tron%C3%A7onneuse%20descend%20d'une%20scie%20%C3%A0%20cha%C3%AEne%20m%C3%A9dicale%20invent%C3%A9e%20vers%201783-1785%20par%20deux%20m%C3%A9decins%2C%20utilis%C3%A9e%20notamment%20pour%20%C3%A9largir%20le%20bassin%20lors%20d'accouchements%20difficiles%20%28symphysiotomie%29%20%3F",
+  "explanation": "Les médecins John Aitken et James Jeffray ont développé une scie à chaîne pour faciliter les symphysiotomies et la découpe d'os. Elle était actionnée à la main par une manivelle. Les tronçonneuses à bois motorisées sont apparues bien plus tard, au XXe siècle."
  },
  {
   "text": "Fredric Baur, l'inventeur du tube des chips Pringles, a été inhumé en 2008 en partie dans un tube de Pringles, à sa propre demande.",
@@ -2969,10 +2969,10 @@ const FACTS = [
   "explanation": "Le casu martzu est un pecorino sarde que l'on laisse infester par les larves de la mouche du fromage. Les larves décomposent les graisses, rendant le fromage crémeux. Il est consommé avec les larves vivantes. Sa vente est interdite par les règles sanitaires de l'UE, mais il est fabriqué et consommé localement."
  },
  {
-  "text": "En 2015, le Néo-Zélandais Nigel Richards a remporté le championnat du monde de Scrabble francophone sans parler français, après avoir étudié le dictionnaire pendant environ neuf semaines.",
+  "text": "En 2015, Nigel Richards a remporté le championnat du monde de Scrabble francophone sans parler français, après avoir étudié le dictionnaire pendant environ neuf semaines.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 2015, le Néo-Zélandais Nigel Richards a remporté le championnat du monde de Scrabble francophone sans parler français, après avoir étudié le dictionnaire pendant environ neuf semaines ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202015%2C%20le%20N%C3%A9o-Z%C3%A9landais%20Nigel%20Richards%20a%20remport%C3%A9%20le%20championnat%20du%20monde%20de%20Scrabble%20francophone%20sans%20parler%20fran%C3%A7ais%2C%20apr%C3%A8s%20avoir%20%C3%A9tudi%C3%A9%20le%20dictionnaire%20pendant%20environ%20neuf%20semaines%20%3F",
+  "question": "Est-il vrai qu'en 2015, Nigel Richards a remporté le championnat du monde de Scrabble francophone sans parler français, après avoir étudié le dictionnaire pendant environ neuf semaines ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202015%2C%20Nigel%20Richards%20a%20remport%C3%A9%20le%20championnat%20du%20monde%20de%20Scrabble%20francophone%20sans%20parler%20fran%C3%A7ais%2C%20apr%C3%A8s%20avoir%20%C3%A9tudi%C3%A9%20le%20dictionnaire%20pendant%20environ%20neuf%20semaines%20%3F",
   "explanation": "Nigel Richards, champion du Scrabble anglophone, a mémorisé les mots du dictionnaire officiel du Scrabble francophone en quelques semaines. Il a remporté le championnat du monde francophone en 2015 en Belgique. Il ne parlait pas français : il connaissait les mots comme des combinaisons de lettres."
  },
  {
@@ -3200,17 +3200,17 @@ const FACTS = [
   "explanation": "En 2002, lors du championnat de Madagascar, le SO l'Emyrne, mécontent d'une décision arbitrale lors d'un match précédent, a marqué 149 buts contre son camp face à l'AS Adema. Les joueurs ont été suspendus. C'est le score le plus élevé de l'histoire du football."
  },
  {
-  "text": "Le Japonais Shizo Kanakuri, qui avait abandonné le marathon olympique de 1912, l'a terminé en 1967 : chrono officiel de 54 ans, 8 mois, 6 jours et 5 heures.",
+  "text": "Le marathonien Shizo Kanakuri, qui avait abandonné le marathon olympique de 1912, l'a terminé en 1967 : chrono officiel de 54 ans, 8 mois, 6 jours et 5 heures.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le Japonais Shizo Kanakuri, qui avait abandonné le marathon olympique de 1912, l'a terminé en 1967 : chrono officiel de 54 ans, 8 mois, 6 jours et 5 heures ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Japonais%20Shizo%20Kanakuri%2C%20qui%20avait%20abandonn%C3%A9%20le%20marathon%20olympique%20de%201912%2C%20l'a%20termin%C3%A9%20en%201967%20%3A%20chrono%20officiel%20de%2054%20ans%2C%208%20mois%2C%206%20jours%20et%205%20heures%20%3F",
+  "question": "Est-il vrai que le marathonien Shizo Kanakuri, qui avait abandonné le marathon olympique de 1912, l'a terminé en 1967 : chrono officiel de 54 ans, 8 mois, 6 jours et 5 heures ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20marathonien%20Shizo%20Kanakuri%2C%20qui%20avait%20abandonn%C3%A9%20le%20marathon%20olympique%20de%201912%2C%20l'a%20termin%C3%A9%20en%201967%20%3A%20chrono%20officiel%20de%2054%20ans%2C%208%20mois%2C%206%20jours%20et%205%20heures%20%3F",
   "explanation": "Shizo Kanakuri, épuisé par la chaleur, a abandonné le marathon de Stockholm et s'est arrêté dans une ferme. Il est rentré au Japon sans prévenir les organisateurs, qui l'ont déclaré disparu. En 1967, une télévision suédoise l'a invité à terminer la course, ce qu'il a fait."
  },
  {
-  "text": "Roy Sullivan, garde forestier américain, a été frappé par la foudre 7 fois entre 1942 et 1977, et a survécu à chaque fois : un record Guinness.",
+  "text": "Roy Sullivan, garde forestier, a été frappé par la foudre 7 fois entre 1942 et 1977, et a survécu à chaque fois : un record Guinness.",
   "source": "Perplexity",
-  "question": "Est-il vrai que roy Sullivan, garde forestier américain, a été frappé par la foudre 7 fois entre 1942 et 1977, et a survécu à chaque fois : un record Guinness ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20roy%20Sullivan%2C%20garde%20forestier%20am%C3%A9ricain%2C%20a%20%C3%A9t%C3%A9%20frapp%C3%A9%20par%20la%20foudre%207%20fois%20entre%201942%20et%201977%2C%20et%20a%20surv%C3%A9cu%20%C3%A0%20chaque%20fois%20%3A%20un%20record%20Guinness%20%3F",
+  "question": "Est-il vrai que Roy Sullivan, garde forestier, a été frappé par la foudre 7 fois entre 1942 et 1977, et a survécu à chaque fois : un record Guinness ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Roy%20Sullivan%2C%20garde%20forestier%2C%20a%20%C3%A9t%C3%A9%20frapp%C3%A9%20par%20la%20foudre%207%20fois%20entre%201942%20et%201977%2C%20et%20a%20surv%C3%A9cu%20%C3%A0%20chaque%20fois%20%3A%20un%20record%20Guinness%20%3F",
   "explanation": "Roy Sullivan, garde forestier en Virginie, a été frappé par la foudre à sept reprises. Il a perdu un ongle, ses sourcils, et ses cheveux ont pris feu à deux reprises. Les probabilités d'un tel record sont infimes, mais son métier l'exposait beaucoup."
  },
  {
@@ -3270,10 +3270,10 @@ const FACTS = [
   "explanation": "La compagnie Loganair relie les îles de Westray et Papa Westray, dans les Orcades. Le vol, effectué en petit avion, dure en moyenne environ 1 minute 30, selon le vent. Le record est de 53 secondes. Le trajet est plus court que la piste de certains aéroports."
  },
  {
-  "text": "En 1989, la Thaïlandaise Chamoy Thipyaso a été condamnée à 141 078 ans de prison pour une escroquerie pyramidale, mais elle a été libérée en 1993.",
+  "text": "En 1989, Chamoy Thipyaso a été condamnée à 141 078 ans de prison pour une escroquerie pyramidale, mais elle a été libérée en 1993.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1989, la Thaïlandaise Chamoy Thipyaso a été condamnée à 141 078 ans de prison pour une escroquerie pyramidale, mais elle a été libérée en 1993 ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201989%2C%20la%20Tha%C3%AFlandaise%20Chamoy%20Thipyaso%20a%20%C3%A9t%C3%A9%20condamn%C3%A9e%20%C3%A0%20141%20078%20ans%20de%20prison%20pour%20une%20escroquerie%20pyramidale%2C%20mais%20elle%20a%20%C3%A9t%C3%A9%20lib%C3%A9r%C3%A9e%20en%201993%20%3F",
+  "question": "Est-il vrai qu'en 1989, Chamoy Thipyaso a été condamnée à 141 078 ans de prison pour une escroquerie pyramidale, mais elle a été libérée en 1993 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201989%2C%20Chamoy%20Thipyaso%20a%20%C3%A9t%C3%A9%20condamn%C3%A9e%20%C3%A0%20141%20078%20ans%20de%20prison%20pour%20une%20escroquerie%20pyramidale%2C%20mais%20elle%20a%20%C3%A9t%C3%A9%20lib%C3%A9r%C3%A9e%20en%201993%20%3F",
   "explanation": "Chamoy Thipyaso a escroqué plus de 16 000 personnes avec un système de Ponzi présenté comme un investissement pétrolier. Elle a été condamnée en 1989 à 141 078 ans de prison. Le droit thaïlandais limitant la peine effective, elle a été libérée après environ huit ans."
  },
  {
@@ -3284,10 +3284,10 @@ const FACTS = [
   "explanation": "La bouteille de Speyer, d'environ 1,5 litre, a été retrouvée en 1867 dans la tombe d'un noble romain. Le vin est protégé par une couche d'huile d'olive et de cire. Elle est exposée au musée historique du Palatinat. Les scientifiques ont décidé de ne pas l'ouvrir."
  },
  {
-  "text": "L'Américain Don Gorske a mangé un Big Mac presque chaque jour depuis 1972 et a atteint les 35 000 en 2025, un record Guinness.",
+  "text": "Don Gorske a mangé un Big Mac presque chaque jour depuis 1972 et a atteint les 35 000 en 2025, un record Guinness.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Américain Don Gorske a mangé un Big Mac presque chaque jour depuis 1972 et a atteint les 35 000 en 2025, un record Guinness ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricain%20Don%20Gorske%20a%20mang%C3%A9%20un%20Big%20Mac%20presque%20chaque%20jour%20depuis%201972%20et%20a%20atteint%20les%2035%20000%20en%202025%2C%20un%20record%20Guinness%20%3F",
+  "question": "Est-il vrai que Don Gorske a mangé un Big Mac presque chaque jour depuis 1972 et a atteint les 35 000 en 2025, un record Guinness ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Don%20Gorske%20a%20mang%C3%A9%20un%20Big%20Mac%20presque%20chaque%20jour%20depuis%201972%20et%20a%20atteint%20les%2035%20000%20en%202025%2C%20un%20record%20Guinness%20%3F",
   "explanation": "Don Gorske a mangé son premier Big Mac en 1972 et il en a mangé environ deux par jour pendant des années. Il conserve les tickets de caisse comme preuves. Il assure être en bonne santé, avec un taux de cholestérol normal."
  },
  {
@@ -3298,11 +3298,11 @@ const FACTS = [
   "explanation": "Le mot « mille-pattes » est trompeur : la plupart des espèces ont moins de 400 pattes. Eumillipes persephone, découvert en Australie occidentale et décrit en 2021, peut avoir jusqu'à 1 306 pattes. Il mesure environ 10 cm et vit dans l'obscurité."
  },
  {
-  "text": "En 2012, des chercheurs russes ont fait refleurir une plante à partir de tissus de fruits vieux de 31 800 ans, enfouis dans le terrier d'un écureuil du permafrost sibérien.",
+  "text": "En 2012, des chercheurs ont fait refleurir une plante à partir de tissus de fruits vieux de 31 800 ans, enfouis dans le terrier d'un écureuil du permafrost sibérien.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 2012, des chercheurs russes ont fait refleurir une plante à partir de tissus de fruits vieux de 31 800 ans, enfouis dans le terrier d'un écureuil du permafrost sibérien ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202012%2C%20des%20chercheurs%20russes%20ont%20fait%20refleurir%20une%20plante%20%C3%A0%20partir%20de%20tissus%20de%20fruits%20vieux%20de%2031%20800%20ans%2C%20enfouis%20dans%20le%20terrier%20d'un%20%C3%A9cureuil%20du%20permafrost%20sib%C3%A9rien%20%3F",
-  "explanation": "Des scientifiques russes ont retrouvé des graines de Silene stenophylla dans des terriers d'écureuils, dans le permafrost. Les graines ne germaient pas, mais les tissus du placenta du fruit étaient viables. Ils ont cultivé des plantes en laboratoire, qui ont fleuri et produit des graines."
+  "question": "Est-il vrai qu'en 2012, des chercheurs ont fait refleurir une plante à partir de tissus de fruits vieux de 31 800 ans, enfouis dans le terrier d'un écureuil du permafrost sibérien ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202012%2C%20des%20chercheurs%20ont%20fait%20refleurir%20une%20plante%20%C3%A0%20partir%20de%20tissus%20de%20fruits%20vieux%20de%2031%20800%20ans%2C%20enfouis%20dans%20le%20terrier%20d'un%20%C3%A9cureuil%20du%20permafrost%20sib%C3%A9rien%20%3F",
+  "explanation": "Des scientifiques ont retrouvé des graines de Silene stenophylla dans des terriers d'écureuils, dans le permafrost. Les graines ne germaient pas, mais les tissus du placenta du fruit étaient viables. Ils ont cultivé des plantes en laboratoire, qui ont fleuri et produit des graines."
  },
  {
   "text": "Un palmier dattier baptisé Mathusalem a germé en 2005 à partir d'une graine vieille d'environ 2 000 ans trouvée à Massada, et son pollen a permis de récolter des dattes.",
@@ -3319,10 +3319,10 @@ const FACTS = [
   "explanation": "Wisdom, un albatros de Laysan, a été bagué sur l'atoll de Midway en 1956, alors qu'elle était déjà adulte. Elle a pondu de nombreux œufs avec plusieurs partenaires. En 2024, elle a pondu avec un nouveau partenaire. Elle aurait parcouru des millions de kilomètres en vol."
  },
  {
-  "text": "En 1965-1966, l'Écossais Angus Barbieri a jeûné 382 jours sous suivi médical, ne prenant que thé, café, eau et vitamines, et a perdu 125 kg.",
+  "text": "En 1965-1966, Angus Barbieri a jeûné 382 jours sous suivi médical, ne prenant que thé, café, eau et vitamines, et a perdu 125 kg.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1965-1966, l'Écossais Angus Barbieri a jeûné 382 jours sous suivi médical, ne prenant que thé, café, eau et vitamines, et a perdu 125 kg ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201965-1966%2C%20l'%C3%89cossais%20Angus%20Barbieri%20a%20je%C3%BBn%C3%A9%20382%20jours%20sous%20suivi%20m%C3%A9dical%2C%20ne%20prenant%20que%20th%C3%A9%2C%20caf%C3%A9%2C%20eau%20et%20vitamines%2C%20et%20a%20perdu%20125%20kg%20%3F",
+  "question": "Est-il vrai qu'en 1965-1966, Angus Barbieri a jeûné 382 jours sous suivi médical, ne prenant que thé, café, eau et vitamines, et a perdu 125 kg ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201965-1966%2C%20Angus%20Barbieri%20a%20je%C3%BBn%C3%A9%20382%20jours%20sous%20suivi%20m%C3%A9dical%2C%20ne%20prenant%20que%20th%C3%A9%2C%20caf%C3%A9%2C%20eau%20et%20vitamines%2C%20et%20a%20perdu%20125%20kg%20%3F",
   "explanation": "Angus Barbieri pesait environ 207 kg. Il a jeûné pendant 382 jours, sous surveillance médicale à l'hôpital de Dundee. Il prenait des vitamines et des électrolytes. Il a atteint 82 kg et a maintenu son poids. Cette expérience n'est pas recommandée sans suivi médical."
  },
  {
@@ -3351,13 +3351,13 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le pêcheur José Salvador Alvarenga a dérivé 438 jours sur le Pacifique, du Mexique aux îles Marshall, en se nourrissant de poissons crus, de tortues et d'oiseaux attrapés à mains nues ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20p%C3%AAcheur%20Jos%C3%A9%20Salvador%20Alvarenga%20a%20d%C3%A9riv%C3%A9%20438%20jours%20sur%20le%20Pacifique%2C%20du%20Mexique%20aux%20%C3%AEles%20Marshall%2C%20en%20se%20nourrissant%20de%20poissons%20crus%2C%20de%20tortues%20et%20d'oiseaux%20attrap%C3%A9s%20%C3%A0%20mains%20nues%20%3F",
-  "explanation": "José Salvador Alvarenga, pêcheur salvadorien, est parti de la côte mexicaine en 2012 pour une sortie de pêche. Une tempête a endommagé son bateau. Son compagnon est mort. Il a dérivé jusqu'aux îles Marshall en 2014. Certains ont mis son récit en doute, mais il a passé un test au détecteur de mensonges."
+  "explanation": "José Salvador Alvarenga, pêcheur, est parti de la côte mexicaine en 2012 pour une sortie de pêche. Une tempête a endommagé son bateau. Son compagnon est mort. Il a dérivé jusqu'aux îles Marshall en 2014. Certains ont mis son récit en doute, mais il a passé un test au détecteur de mensonges."
  },
  {
-  "text": "En 1999, la Suédoise Anna Bågenholm a survécu après être restée 80 minutes piégée dans l'eau glacée sous la glace, sa température corporelle étant descendue à 13,7 °C.",
+  "text": "En 1999, Anna Bågenholm a survécu après être restée 80 minutes piégée dans l'eau glacée sous la glace, sa température corporelle étant descendue à 13,7 °C.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1999, la Suédoise Anna Bågenholm a survécu après être restée 80 minutes piégée dans l'eau glacée sous la glace, sa température corporelle étant descendue à 13,7 °C ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201999%2C%20la%20Su%C3%A9doise%20Anna%20B%C3%A5genholm%20a%20surv%C3%A9cu%20apr%C3%A8s%20%C3%AAtre%20rest%C3%A9e%2080%20minutes%20pi%C3%A9g%C3%A9e%20dans%20l'eau%20glac%C3%A9e%20sous%20la%20glace%2C%20sa%20temp%C3%A9rature%20corporelle%20%C3%A9tant%20descendue%20%C3%A0%2013%2C7%20%C2%B0C%20%3F",
+  "question": "Est-il vrai qu'en 1999, Anna Bågenholm a survécu après être restée 80 minutes piégée dans l'eau glacée sous la glace, sa température corporelle étant descendue à 13,7 °C ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201999%2C%20Anna%20B%C3%A5genholm%20a%20surv%C3%A9cu%20apr%C3%A8s%20%C3%AAtre%20rest%C3%A9e%2080%20minutes%20pi%C3%A9g%C3%A9e%20dans%20l'eau%20glac%C3%A9e%20sous%20la%20glace%2C%20sa%20temp%C3%A9rature%20corporelle%20%C3%A9tant%20descendue%20%C3%A0%2013%2C7%20%C2%B0C%20%3F",
   "explanation": "Anna Bågenholm, étudiante en médecine, est tombée dans une rivière gelée en skiant en Norvège. Elle a été coincée sous la glace avec une poche d'air. Sa température est descendue à 13,7 °C. Son cœur s'était arrêté. Le froid a protégé son cerveau, et elle a été réanimée."
  },
  {
@@ -3375,10 +3375,10 @@ const FACTS = [
   "explanation": "Jonathan, une tortue géante des Seychelles, a été amenée à Sainte-Hélène en 1882, déjà adulte, ce qui permet d'estimer sa naissance vers 1832. Une photo de la fin du XIXe siècle la montre déjà sur l'île. Elle est aveugle et a perdu l'odorat, mais elle est toujours active et nourrie à la main."
  },
  {
-  "text": "L'Américain Ashrita Furman a établi plus de 700 records Guinness, dont le saut sur bâton sauteur sous l'eau et une course en sac contre un yak en Mongolie.",
+  "text": "Ashrita Furman a établi plus de 700 records Guinness, dont le saut sur bâton sauteur sous l'eau et une course en sac contre un yak en Mongolie.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Américain Ashrita Furman a établi plus de 700 records Guinness, dont le saut sur bâton sauteur sous l'eau et une course en sac contre un yak en Mongolie ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricain%20Ashrita%20Furman%20a%20%C3%A9tabli%20plus%20de%20700%20records%20Guinness%2C%20dont%20le%20saut%20sur%20b%C3%A2ton%20sauteur%20sous%20l'eau%20et%20une%20course%20en%20sac%20contre%20un%20yak%20en%20Mongolie%20%3F",
+  "question": "Est-il vrai qu'Ashrita Furman a établi plus de 700 records Guinness, dont le saut sur bâton sauteur sous l'eau et une course en sac contre un yak en Mongolie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'Ashrita%20Furman%20a%20%C3%A9tabli%20plus%20de%20700%20records%20Guinness%2C%20dont%20le%20saut%20sur%20b%C3%A2ton%20sauteur%20sous%20l'eau%20et%20une%20course%20en%20sac%20contre%20un%20yak%20en%20Mongolie%20%3F",
   "explanation": "Ashrita Furman, un New-Yorkais, s'est lancé dans les records en 1979, inspiré par la méditation et le dépassement de soi. Il a détenu à un moment le plus grand nombre de records Guinness pour une seule personne. Il en a établi dans des dizaines de pays, souvent dans des lieux emblématiques."
  },
  {
@@ -3393,7 +3393,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que le plus vieux film conservé, tourné à Leeds en 1888, dure 2,11 secondes ; Sarah Whitley, l'une des quatre personnes filmées, est morte dix jours plus tard ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20vieux%20film%20conserv%C3%A9%2C%20tourn%C3%A9%20%C3%A0%20Leeds%20en%201888%2C%20dure%202%2C11%20secondes%20%3B%20Sarah%20Whitley%2C%20l'une%20des%20quatre%20personnes%20film%C3%A9es%2C%20est%20morte%20dix%20jours%20plus%20tard%20%3F",
-  "explanation": "La « Roundhay Garden Scene » a été tournée par l'inventeur français Louis Le Prince dans le jardin de ses beaux-parents à Leeds. On y voit quatre personnes marcher en rond. Le Prince a mystérieusement disparu en 1890, peu avant de présenter son invention."
+  "explanation": "La « Roundhay Garden Scene » a été tournée par l'inventeur Louis Le Prince dans le jardin de ses beaux-parents à Leeds. On y voit quatre personnes marcher en rond. Le Prince a mystérieusement disparu en 1890, peu avant de présenter son invention."
  },
  {
   "text": "Le trou noir de l'amas de Persée émet des ondes de pression correspondant à un si bémol situé 57 octaves sous le do central, la note la plus grave jamais détectée dans l'Univers.",
@@ -3435,7 +3435,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'une partie des cendres de Clyde Tombaugh, qui a découvert Pluton en 1930, voyage à bord de la sonde New Horizons, qui a survolé Pluton le 14 juillet 2015 ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20partie%20des%20cendres%20de%20Clyde%20Tombaugh%2C%20qui%20a%20d%C3%A9couvert%20Pluton%20en%201930%2C%20voyage%20%C3%A0%20bord%20de%20la%20sonde%20New%20Horizons%2C%20qui%20a%20survol%C3%A9%20Pluton%20le%2014%20juillet%202015%20%3F",
-  "explanation": "Clyde Tombaugh, astronome américain, a découvert Pluton à l'observatoire Lowell en 1930. Il est mort en 1997. Une petite capsule contenant une partie de ses cendres a été fixée à la sonde New Horizons, lancée en 2006. La sonde poursuit sa route vers l'espace interstellaire."
+  "explanation": "Clyde Tombaugh, astronome, a découvert Pluton à l'observatoire Lowell en 1930. Il est mort en 1997. Une petite capsule contenant une partie de ses cendres a été fixée à la sonde New Horizons, lancée en 2006. La sonde poursuit sa route vers l'espace interstellaire."
  },
  {
   "text": "Une larme batavique, goutte de verre trempée dans l'eau, résiste à un coup de marteau sur sa tête, mais explose en poudre si l'on casse le bout de sa queue.",
@@ -3463,7 +3463,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'en 1999, la physicienne Lene Hau a ralenti la lumière à 17 mètres par seconde, environ 60 km/h, en la faisant traverser un gaz d'atomes refroidis près du zéro absolu ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201999%2C%20la%20physicienne%20Lene%20Hau%20a%20ralenti%20la%20lumi%C3%A8re%20%C3%A0%2017%20m%C3%A8tres%20par%20seconde%2C%20environ%2060%20km%2Fh%2C%20en%20la%20faisant%20traverser%20un%20gaz%20d'atomes%20refroidis%20pr%C3%A8s%20du%20z%C3%A9ro%20absolu%20%3F",
-  "explanation": "Lene Hau, physicienne danoise à Harvard, a fait passer de la lumière dans un condensat de Bose-Einstein, un état de la matière où les atomes refroidis se comportent comme un seul objet quantique. La lumière y a été ralentie à la vitesse d'un vélo rapide. En 2001, elle a même réussi à l'arrêter complètement."
+  "explanation": "Lene Hau, physicienne à Harvard, a fait passer de la lumière dans un condensat de Bose-Einstein, un état de la matière où les atomes refroidis se comportent comme un seul objet quantique. La lumière y a été ralentie à la vitesse d'un vélo rapide. En 2001, elle a même réussi à l'arrêter complètement."
  },
  {
   "text": "En 2012, des collisions d'ions de plomb au LHC du CERN ont produit une température de plus de 5 000 milliards de degrés, record Guinness de la température artificielle la plus élevée.",
@@ -3484,7 +3484,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'à Oklo, au Gabon, des gisements d'uranium ont fonctionné comme des réacteurs nucléaires naturels il y a environ 1,7 milliard d'années, pendant quelques centaines de milliers d'années ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A0%20Oklo%2C%20au%20Gabon%2C%20des%20gisements%20d'uranium%20ont%20fonctionn%C3%A9%20comme%20des%20r%C3%A9acteurs%20nucl%C3%A9aires%20naturels%20il%20y%20a%20environ%201%2C7%20milliard%20d'ann%C3%A9es%2C%20pendant%20quelques%20centaines%20de%20milliers%20d'ann%C3%A9es%20%3F",
-  "explanation": "En 1972, des chercheurs français ont trouvé à Oklo de l'uranium appauvri en uranium 235, comme s'il avait été utilisé dans un réacteur. Il y a 1,7 milliard d'années, la proportion d'uranium 235 était plus élevée, et l'eau souterraine jouait le rôle de modérateur. Des réactions en chaîne se sont produites, par intermittence."
+  "explanation": "En 1972, des chercheurs ont trouvé à Oklo de l'uranium appauvri en uranium 235, comme s'il avait été utilisé dans un réacteur. Il y a 1,7 milliard d'années, la proportion d'uranium 235 était plus élevée, et l'eau souterraine jouait le rôle de modérateur. Des réactions en chaîne se sont produites, par intermittence."
  },
  {
   "text": "Si elle était assez lumineuse pour être vue en entier, la galaxie d'Andromède paraîtrait dans le ciel environ six fois plus large que la pleine Lune.",
@@ -3494,10 +3494,10 @@ const FACTS = [
   "explanation": "La galaxie d'Andromède, notre voisine à environ 2,5 millions d'années-lumière, est immense. Seul son noyau brillant est visible à l'œil nu, par temps très clair. Son disque complet s'étend sur environ 3 degrés dans le ciel, contre un demi-degré pour la pleine Lune."
  },
  {
-  "text": "En 1971, l'équipage d'Apollo 15 a déposé sur la Lune, sans l'annoncer, « Fallen Astronaut », une statuette en aluminium de 8,9 cm du Belge Paul Van Hoeydonck, en hommage aux astronautes morts.",
+  "text": "En 1971, l'équipage d'Apollo 15 a déposé sur la Lune, sans l'annoncer, « Fallen Astronaut », une statuette en aluminium de 8,9 cm de l'artiste Paul Van Hoeydonck, en hommage aux astronautes morts.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 1971, l'équipage d'Apollo 15 a déposé sur la Lune, sans l'annoncer, « Fallen Astronaut », une statuette en aluminium de 8,9 cm du Belge Paul Van Hoeydonck, en hommage aux astronautes morts ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201971%2C%20l'%C3%A9quipage%20d'Apollo%2015%20a%20d%C3%A9pos%C3%A9%20sur%20la%20Lune%2C%20sans%20l'annoncer%2C%20%C2%AB%20Fallen%20Astronaut%20%C2%BB%2C%20une%20statuette%20en%20aluminium%20de%208%2C9%20cm%20du%20Belge%20Paul%20Van%20Hoeydonck%2C%20en%20hommage%20aux%20astronautes%20morts%20%3F",
+  "question": "Est-il vrai qu'en 1971, l'équipage d'Apollo 15 a déposé sur la Lune, sans l'annoncer, « Fallen Astronaut », une statuette en aluminium de 8,9 cm de l'artiste Paul Van Hoeydonck, en hommage aux astronautes morts ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%201971%2C%20l'%C3%A9quipage%20d'Apollo%2015%20a%20d%C3%A9pos%C3%A9%20sur%20la%20Lune%2C%20sans%20l'annoncer%2C%20%C2%AB%20Fallen%20Astronaut%20%C2%BB%2C%20une%20statuette%20en%20aluminium%20de%208%2C9%20cm%20de%20l'artiste%20Paul%20Van%20Hoeydonck%2C%20en%20hommage%20aux%20astronautes%20morts%20%3F",
   "explanation": "Fallen Astronaut a été déposé par David Scott, avec une plaque portant les noms de 14 astronautes et cosmonautes morts. L'artiste avait demandé que l'œuvre reste anonyme et sans exploitation commerciale. La découverte de répliques vendues a provoqué une polémique. C'est la seule œuvre d'art sur la Lune."
  },
  {
@@ -3634,10 +3634,10 @@ const FACTS = [
   "explanation": "La version du gène EPAS1 présente chez les Tibétains limite la surproduction de globules rouges en altitude, qui épaissit le sang et cause des problèmes de santé. Cette version a été héritée d'un croisement avec les Dénisoviens, il y a des dizaines de milliers d'années."
  },
  {
-  "text": "L'Écossaise Jo Cameron ne ressent presque ni douleur ni anxiété : en 2019, des chercheurs l'ont attribué en partie à une mutation d'un gène qu'on croyait inutile, baptisé FAAH-OUT.",
+  "text": "Jo Cameron ne ressent presque ni douleur ni anxiété : en 2019, des chercheurs l'ont attribué en partie à une mutation d'un gène qu'on croyait inutile, baptisé FAAH-OUT.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Écossaise Jo Cameron ne ressent presque ni douleur ni anxiété : en 2019, des chercheurs l'ont attribué en partie à une mutation d'un gène qu'on croyait inutile, baptisé FAAH-OUT ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C3%89cossaise%20Jo%20Cameron%20ne%20ressent%20presque%20ni%20douleur%20ni%20anxi%C3%A9t%C3%A9%20%3A%20en%202019%2C%20des%20chercheurs%20l'ont%20attribu%C3%A9%20en%20partie%20%C3%A0%20une%20mutation%20d'un%20g%C3%A8ne%20qu'on%20croyait%20inutile%2C%20baptis%C3%A9%20FAAH-OUT%20%3F",
+  "question": "Est-il vrai que Jo Cameron ne ressent presque ni douleur ni anxiété : en 2019, des chercheurs l'ont attribué en partie à une mutation d'un gène qu'on croyait inutile, baptisé FAAH-OUT ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Jo%20Cameron%20ne%20ressent%20presque%20ni%20douleur%20ni%20anxi%C3%A9t%C3%A9%20%3A%20en%202019%2C%20des%20chercheurs%20l'ont%20attribu%C3%A9%20en%20partie%20%C3%A0%20une%20mutation%20d'un%20g%C3%A8ne%20qu'on%20croyait%20inutile%2C%20baptis%C3%A9%20FAAH-OUT%20%3F",
   "explanation": "Jo Cameron a découvert son insensibilité à la douleur à 65 ans, lors d'une opération de la main qui aurait dû être douloureuse. Les chercheurs ont trouvé une mutation dans un gène voisin du gène FAAH, nommé FAAH-OUT. Il régule la dégradation de l'anandamide, une molécule liée à la douleur et à l'humeur."
  },
  {
@@ -3645,7 +3645,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'une mutation du gène SMARCAD1 fait naître des personnes sans empreintes digitales : l'adermatoglyphie est surnommée « maladie du retard à l'immigration » ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20mutation%20du%20g%C3%A8ne%20SMARCAD1%20fait%20na%C3%AEtre%20des%20personnes%20sans%20empreintes%20digitales%20%3A%20l'adermatoglyphie%20est%20surnomm%C3%A9e%20%C2%AB%20maladie%20du%20retard%20%C3%A0%20l'immigration%20%C2%BB%20%3F",
-  "explanation": "L'adermatoglyphie est une maladie génétique très rare qui empêche la formation des empreintes digitales. Elle a été découverte en 2011 dans une famille suisse, liée à une mutation de SMARCAD1. Les personnes concernées ont des difficultés aux contrôles de passeport biométriques, d'où le surnom de « maladie du retard à l'immigration »."
+  "explanation": "L'adermatoglyphie est une maladie génétique très rare qui empêche la formation des empreintes digitales. Elle a été découverte en 2011 dans une famille, liée à une mutation de SMARCAD1. Les personnes concernées ont des difficultés aux contrôles de passeport biométriques, d'où le surnom de « maladie du retard à l'immigration »."
  },
  {
   "text": "Les petits points lumineux qui filent devant les yeux quand on regarde un ciel bleu sont des globules blancs circulant dans les capillaires devant la rétine.",
@@ -3666,7 +3666,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'en 2002, en stimulant électriquement le gyrus angulaire droit d'une patiente épileptique, des neurologues ont provoqué chez elle, à plusieurs reprises, des sorties hors du corps ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202002%2C%20en%20stimulant%20%C3%A9lectriquement%20le%20gyrus%20angulaire%20droit%20d'une%20patiente%20%C3%A9pileptique%2C%20des%20neurologues%20ont%20provoqu%C3%A9%20chez%20elle%2C%20%C3%A0%20plusieurs%20reprises%2C%20des%20sorties%20hors%20du%20corps%20%3F",
-  "explanation": "Le neurologue suisse Olaf Blanke a stimulé le gyrus angulaire droit d'une patiente pour localiser l'origine de ses crises. Elle a eu l'impression de flotter au-dessus de son corps. Ces travaux suggèrent que les expériences de sortie du corps sont liées à des perturbations de l'intégration des informations sensorielles."
+  "explanation": "Le neurologue Olaf Blanke a stimulé le gyrus angulaire droit d'une patiente pour localiser l'origine de ses crises. Elle a eu l'impression de flotter au-dessus de son corps. Ces travaux suggèrent que les expériences de sortie du corps sont liées à des perturbations de l'intégration des informations sensorielles."
  },
  {
   "text": "Dans une étude publiée fin 2006, deux tiers des volontaires aux yeux bandés ont réussi à suivre à quatre pattes, au seul odorat, une piste de 10 mètres de ficelle parfumée au chocolat.",
@@ -3694,14 +3694,14 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que grâce au carbone 14 libéré par les essais nucléaires, on a établi que le cœur ne renouvelle qu'environ 1 % de ses cellules musculaires par an à 25 ans, et 0,45 % à 75 ans ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20gr%C3%A2ce%20au%20carbone%2014%20lib%C3%A9r%C3%A9%20par%20les%20essais%20nucl%C3%A9aires%2C%20on%20a%20%C3%A9tabli%20que%20le%20c%C5%93ur%20ne%20renouvelle%20qu'environ%201%20%25%20de%20ses%20cellules%20musculaires%20par%20an%20%C3%A0%2025%20ans%2C%20et%200%2C45%20%25%20%C3%A0%2075%20ans%20%3F",
-  "explanation": "Les essais nucléaires des années 1950-1960 ont augmenté la quantité de carbone 14 dans l'atmosphère, qui s'est retrouvé dans l'ADN des cellules nouvellement formées. En mesurant ce carbone dans les cellules cardiaques, des chercheurs suédois ont estimé la vitesse de renouvellement. Moins de la moitié des cellules sont renouvelées au cours d'une vie."
+  "explanation": "Les essais nucléaires des années 1950-1960 ont augmenté la quantité de carbone 14 dans l'atmosphère, qui s'est retrouvé dans l'ADN des cellules nouvellement formées. En mesurant ce carbone dans les cellules cardiaques, des chercheurs ont estimé la vitesse de renouvellement. Moins de la moitié des cellules sont renouvelées au cours d'une vie."
  },
  {
   "text": "Le syndrome de Charles Bonnet fait voir à des malvoyants sains d'esprit des hallucinations très nettes de visages, d'animaux ou de paysages qu'ils savent irréels.",
   "source": "Perplexity",
   "question": "Est-il vrai que le syndrome de Charles Bonnet fait voir à des malvoyants sains d'esprit des hallucinations très nettes de visages, d'animaux ou de paysages qu'ils savent irréels ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20syndrome%20de%20Charles%20Bonnet%20fait%20voir%20%C3%A0%20des%20malvoyants%20sains%20d'esprit%20des%20hallucinations%20tr%C3%A8s%20nettes%20de%20visages%2C%20d'animaux%20ou%20de%20paysages%20qu'ils%20savent%20irr%C3%A9els%20%3F",
-  "explanation": "Le syndrome de Charles Bonnet, décrit par ce naturaliste suisse au XVIIIe siècle chez son grand-père, touche des personnes ayant une perte de vision. Le cerveau, privé d'informations visuelles, génère des images. Les personnes sont conscientes que les visions ne sont pas réelles."
+  "explanation": "Le syndrome de Charles Bonnet, décrit par ce naturaliste au XVIIIe siècle chez son grand-père, touche des personnes ayant une perte de vision. Le cerveau, privé d'informations visuelles, génère des images. Les personnes sont conscientes que les visions ne sont pas réelles."
  },
  {
   "text": "En 1878, des bûcherons canadiens-français du Maine, surpris par un ordre crié, l'exécutaient aussitôt malgré eux, comme lancer ce qu'ils tenaient : les « Jumping Frenchmen ».",
@@ -3711,10 +3711,10 @@ const FACTS = [
   "explanation": "Le neurologue George Miller Beard a décrit ces bûcherons qui réagissaient de façon exagérée à la surprise : ils sautaient, criaient, répétaient des mots ou obéissaient à un ordre. On pense aujourd'hui à une forme de réflexe de sursaut exagéré, peut-être en partie culturel."
  },
  {
-  "text": "Atteint de fibrodysplasie ossifiante progressive, l'Américain Harry Eastlack avait le corps quasi entièrement ossifié à sa mort en 1973 : il ne pouvait plus guère bouger que le visage et la langue.",
+  "text": "Atteint de fibrodysplasie ossifiante progressive, Harry Eastlack avait le corps quasi entièrement ossifié à sa mort en 1973 : il ne pouvait plus guère bouger que le visage et la langue.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'atteint de fibrodysplasie ossifiante progressive, l'Américain Harry Eastlack avait le corps quasi entièrement ossifié à sa mort en 1973 : il ne pouvait plus guère bouger que le visage et la langue ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'atteint%20de%20fibrodysplasie%20ossifiante%20progressive%2C%20l'Am%C3%A9ricain%20Harry%20Eastlack%20avait%20le%20corps%20quasi%20enti%C3%A8rement%20ossifi%C3%A9%20%C3%A0%20sa%20mort%20en%201973%20%3A%20il%20ne%20pouvait%20plus%20gu%C3%A8re%20bouger%20que%20le%20visage%20et%20la%20langue%20%3F",
+  "question": "Est-il vrai qu'atteint de fibrodysplasie ossifiante progressive, Harry Eastlack avait le corps quasi entièrement ossifié à sa mort en 1973 : il ne pouvait plus guère bouger que le visage et la langue ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'atteint%20de%20fibrodysplasie%20ossifiante%20progressive%2C%20Harry%20Eastlack%20avait%20le%20corps%20quasi%20enti%C3%A8rement%20ossifi%C3%A9%20%C3%A0%20sa%20mort%20en%201973%20%3A%20il%20ne%20pouvait%20plus%20gu%C3%A8re%20bouger%20que%20le%20visage%20et%20la%20langue%20%3F",
   "explanation": "La fibrodysplasie ossifiante progressive transforme progressivement les muscles, tendons et ligaments en os. Harry Eastlack a été diagnostiqué à 10 ans. Il a fait don de son squelette, exposé au musée Mütter de Philadelphie. La maladie est liée à une mutation du gène ACVR1."
  },
  {
@@ -3736,7 +3736,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que près de 1 % des gens sont incapables de former la moindre image mentale : cette aphantasie n'a reçu un nom qu'en 2015, grâce au neurologue Adam Zeman ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20pr%C3%A8s%20de%201%20%25%20des%20gens%20sont%20incapables%20de%20former%20la%20moindre%20image%20mentale%20%3A%20cette%20aphantasie%20n'a%20re%C3%A7u%20un%20nom%20qu'en%202015%2C%20gr%C3%A2ce%20au%20neurologue%20Adam%20Zeman%20%3F",
-  "explanation": "Le neurologue britannique Adam Zeman a étudié un patient ayant perdu la capacité d'imaginer après une opération. Après avoir publié son cas, il a été contacté par des milliers de personnes qui n'avaient jamais eu d'images mentales. Il a appelé ce phénomène « aphantasie ». Son opposé est l'hyperphantasie."
+  "explanation": "Le neurologue Adam Zeman a étudié un patient ayant perdu la capacité d'imaginer après une opération. Après avoir publié son cas, il a été contacté par des milliers de personnes qui n'avaient jamais eu d'images mentales. Il a appelé ce phénomène « aphantasie ». Son opposé est l'hyperphantasie."
  },
  {
   "text": "L'infrarouge n'est pas toujours invisible : un laser pulsé de 1 000 nm est vu vert, car deux photons frappent un pigment de la rétine en même temps (étude PNAS, 2014).",
@@ -4107,13 +4107,13 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai qu'avant les spas, les frères Jacuzzi fabriquaient des hélices d'avion : leur première pompe de bain, en 1948, devait soulager le fils de Candido Jacuzzi, atteint de polyarthrite ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'avant%20les%20spas%2C%20les%20fr%C3%A8res%20Jacuzzi%20fabriquaient%20des%20h%C3%A9lices%20d'avion%20%3A%20leur%20premi%C3%A8re%20pompe%20de%20bain%2C%20en%201948%2C%20devait%20soulager%20le%20fils%20de%20Candido%20Jacuzzi%2C%20atteint%20de%20polyarthrite%20%3F",
-  "explanation": "Les frères Jacuzzi, des immigrants italiens, ont fondé une entreprise qui fabriquait des hélices et des pompes agricoles. Le fils de Candido souffrait de polyarthrite rhumatoïde. La famille a adapté une pompe pour créer un bain à remous thérapeutique. Le spa Jacuzzi a été commercialisé dans les années 1950-1960."
+  "explanation": "Les frères Jacuzzi ont fondé une entreprise qui fabriquait des hélices et des pompes agricoles. Le fils de Candido souffrait de polyarthrite rhumatoïde. La famille a adapté une pompe pour créer un bain à remous thérapeutique. Le spa Jacuzzi a été commercialisé dans les années 1950-1960."
  },
  {
-  "text": "Dès 1662, l'Anglais Christopher Merret décrivait à la Royal Society l'ajout de sucre pour rendre le vin pétillant, environ 35 ans avant les travaux attribués à Dom Pérignon.",
+  "text": "Dès 1662, le scientifique Christopher Merret décrivait à la Royal Society l'ajout de sucre pour rendre le vin pétillant, environ 35 ans avant les travaux attribués à Dom Pérignon.",
   "source": "Perplexity",
-  "question": "Est-il vrai que dès 1662, l'Anglais Christopher Merret décrivait à la Royal Society l'ajout de sucre pour rendre le vin pétillant, environ 35 ans avant les travaux attribués à Dom Pérignon ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20d%C3%A8s%201662%2C%20l'Anglais%20Christopher%20Merret%20d%C3%A9crivait%20%C3%A0%20la%20Royal%20Society%20l'ajout%20de%20sucre%20pour%20rendre%20le%20vin%20p%C3%A9tillant%2C%20environ%2035%20ans%20avant%20les%20travaux%20attribu%C3%A9s%20%C3%A0%20Dom%20P%C3%A9rignon%20%3F",
+  "question": "Est-il vrai que dès 1662, le scientifique Christopher Merret décrivait à la Royal Society l'ajout de sucre pour rendre le vin pétillant, environ 35 ans avant les travaux attribués à Dom Pérignon ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20d%C3%A8s%201662%2C%20le%20scientifique%20Christopher%20Merret%20d%C3%A9crivait%20%C3%A0%20la%20Royal%20Society%20l'ajout%20de%20sucre%20pour%20rendre%20le%20vin%20p%C3%A9tillant%2C%20environ%2035%20ans%20avant%20les%20travaux%20attribu%C3%A9s%20%C3%A0%20Dom%20P%C3%A9rignon%20%3F",
   "explanation": "Christopher Merret, scientifique anglais, a présenté un texte décrivant l'ajout de sucre au vin pour provoquer une seconde fermentation. Les verriers anglais fabriquaient alors des bouteilles plus résistantes. Dom Pérignon, moine de l'abbaye d'Hautvillers, cherchait au contraire à éviter les bulles."
  },
  {
@@ -4135,7 +4135,7 @@ const FACTS = [
   "source": "Perplexity",
   "question": "Est-il vrai que la célèbre sauce sriracha au coq est fabriquée par Huy Fong Foods, nommée d'après le cargo Huey Fong sur lequel son fondateur David Tran avait fui le Vietnam ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20c%C3%A9l%C3%A8bre%20sauce%20sriracha%20au%20coq%20est%20fabriqu%C3%A9e%20par%20Huy%20Fong%20Foods%2C%20nomm%C3%A9e%20d'apr%C3%A8s%20le%20cargo%20Huey%20Fong%20sur%20lequel%20son%20fondateur%20David%20Tran%20avait%20fui%20le%20Vietnam%20%3F",
-  "explanation": "David Tran, réfugié vietnamien d'origine chinoise, a fui le Vietnam en 1978. Arrivé aux États-Unis, il a fondé Huy Fong Foods à Los Angeles. Le coq du logo correspond à son signe astrologique chinois. La sauce sriracha est inspirée d'une sauce thaïlandaise."
+  "explanation": "David Tran a fui le Vietnam en 1978. Arrivé aux États-Unis, il a fondé Huy Fong Foods à Los Angeles. Le coq du logo correspond à son signe astrologique chinois. La sauce sriracha est inspirée d'une sauce thaïlandaise."
  },
  {
   "text": "Le Ferrero Rocher doit son nom au rocher de Massabielle, la grotte du sanctuaire de Lourdes.",
@@ -4159,10 +4159,10 @@ const FACTS = [
   "explanation": "L'Hydrox a été créé par Sunshine Biscuits en 1908. Nabisco a lancé l'Oreo quatre ans plus tard. Grâce au marketing, l'Oreo est devenu beaucoup plus populaire. L'Hydrox, dont le nom évoquait l'hydrogène et l'oxygène, a fini par être considéré comme la copie."
  },
  {
-  "text": "Au XVIIIe siècle, le ketchup anglais se faisait aux champignons, aux huîtres ou aux noix : la première recette connue à la tomate, publiée par l'Américain James Mease, ne date que de 1812.",
+  "text": "Au XVIIIe siècle, le ketchup anglais se faisait aux champignons, aux huîtres ou aux noix : la première recette connue à la tomate, publiée par James Mease, ne date que de 1812.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'au XVIIIe siècle, le ketchup anglais se faisait aux champignons, aux huîtres ou aux noix : la première recette connue à la tomate, publiée par l'Américain James Mease, ne date que de 1812 ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'au%20XVIIIe%20si%C3%A8cle%2C%20le%20ketchup%20anglais%20se%20faisait%20aux%20champignons%2C%20aux%20hu%C3%AEtres%20ou%20aux%20noix%20%3A%20la%20premi%C3%A8re%20recette%20connue%20%C3%A0%20la%20tomate%2C%20publi%C3%A9e%20par%20l'Am%C3%A9ricain%20James%20Mease%2C%20ne%20date%20que%20de%201812%20%3F",
+  "question": "Est-il vrai qu'Au XVIIIe siècle, le ketchup anglais se faisait aux champignons, aux huîtres ou aux noix : la première recette connue à la tomate, publiée par James Mease, ne date que de 1812 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'Au%20XVIIIe%20si%C3%A8cle%2C%20le%20ketchup%20anglais%20se%20faisait%20aux%20champignons%2C%20aux%20hu%C3%AEtres%20ou%20aux%20noix%20%3A%20la%20premi%C3%A8re%20recette%20connue%20%C3%A0%20la%20tomate%2C%20publi%C3%A9e%20par%20James%20Mease%2C%20ne%20date%20que%20de%201812%20%3F",
   "explanation": "Le mot ketchup viendrait d'une sauce de poisson fermenté d'Asie du Sud-Est. Les Anglais l'ont adapté avec des champignons, des noix ou des huîtres. James Mease a publié une recette de ketchup aux tomates en 1812. Heinz a commercialisé son ketchup à la tomate en 1876."
  },
  {
@@ -4187,10 +4187,10 @@ const FACTS = [
   "explanation": "Le cebuano est parlé par environ 20 millions de personnes aux Philippines. Un programme écrit par le Suédois Sverker Johansson, Lsjbot, a créé des millions d'articles sur des espèces et des lieux à partir de bases de données. La qualité de ces articles est critiquée."
  },
  {
-  "text": "En 2020, on a découvert qu'un adolescent américain qui ne parlait pas le scots avait écrit environ 23 000 articles, un tiers de la Wikipédia en scots, en anglais déguisé avec un accent écossais.",
+  "text": "En 2020, on a découvert qu'un adolescent qui ne parlait pas le scots avait écrit environ 23 000 articles, un tiers de la Wikipédia en scots, en anglais déguisé avec un accent écossais.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 2020, on a découvert qu'un adolescent américain qui ne parlait pas le scots avait écrit environ 23 000 articles, un tiers de la Wikipédia en scots, en anglais déguisé avec un accent écossais ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202020%2C%20on%20a%20d%C3%A9couvert%20qu'un%20adolescent%20am%C3%A9ricain%20qui%20ne%20parlait%20pas%20le%20scots%20avait%20%C3%A9crit%20environ%2023%20000%20articles%2C%20un%20tiers%20de%20la%20Wikip%C3%A9dia%20en%20scots%2C%20en%20anglais%20d%C3%A9guis%C3%A9%20avec%20un%20accent%20%C3%A9cossais%20%3F",
+  "question": "Est-il vrai qu'en 2020, on a découvert qu'un adolescent qui ne parlait pas le scots avait écrit environ 23 000 articles, un tiers de la Wikipédia en scots, en anglais déguisé avec un accent écossais ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202020%2C%20on%20a%20d%C3%A9couvert%20qu'un%20adolescent%20qui%20ne%20parlait%20pas%20le%20scots%20avait%20%C3%A9crit%20environ%2023%20000%20articles%2C%20un%20tiers%20de%20la%20Wikip%C3%A9dia%20en%20scots%2C%20en%20anglais%20d%C3%A9guis%C3%A9%20avec%20un%20accent%20%C3%A9cossais%20%3F",
   "explanation": "En 2020, un utilisateur de Reddit a découvert qu'un adolescent américain avait écrit des milliers d'articles de la Wikipédia en scots, une langue germanique d'Écosse. Il écrivait en anglais avec une orthographe imitant l'accent écossais. Les articles ont dû être revus ou supprimés."
  },
  {
@@ -4341,11 +4341,11 @@ const FACTS = [
   "explanation": "Un séisme a provoqué l'effondrement d'environ 30 millions de m³ de roche dans la baie Lituya. L'impact a créé une vague qui a dévasté la forêt jusqu'à 524 m d'altitude. Deux pêcheurs sont morts, mais d'autres ont survécu sur leurs bateaux. C'est la plus haute vague connue."
  },
  {
-  "text": "À sa mort en 1927, la barbe du Norvégien Hans Langseth mesurait 5,33 mètres ; elle est conservée depuis 1967 par la Smithsonian Institution, à Washington.",
+  "text": "À sa mort en 1927, la barbe de Hans Langseth mesurait 5,33 mètres ; elle est conservée depuis 1967 par la Smithsonian Institution, à Washington.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'à sa mort en 1927, la barbe du Norvégien Hans Langseth mesurait 5,33 mètres ; elle est conservée depuis 1967 par la Smithsonian Institution, à Washington ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A0%20sa%20mort%20en%201927%2C%20la%20barbe%20du%20Norv%C3%A9gien%20Hans%20Langseth%20mesurait%205%2C33%20m%C3%A8tres%20%3B%20elle%20est%20conserv%C3%A9e%20depuis%201967%20par%20la%20Smithsonian%20Institution%2C%20%C3%A0%20Washington%20%3F",
-  "explanation": "Hans Langseth, immigré norvégien aux États-Unis, avait commencé à faire pousser sa barbe pour un concours. Il la roulait et la glissait dans ses vêtements. Après sa mort, ses enfants ont coupé la barbe, et l'ont donnée au Smithsonian. C'est la plus longue barbe connue."
+  "question": "Est-il vrai qu'à sa mort en 1927, la barbe de Hans Langseth mesurait 5,33 mètres ; elle est conservée depuis 1967 par la Smithsonian Institution, à Washington ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A0%20sa%20mort%20en%201927%2C%20la%20barbe%20de%20Hans%20Langseth%20mesurait%205%2C33%20m%C3%A8tres%20%3B%20elle%20est%20conserv%C3%A9e%20depuis%201967%20par%20la%20Smithsonian%20Institution%2C%20%C3%A0%20Washington%20%3F",
+  "explanation": "Hans Langseth avait commencé à faire pousser sa barbe pour un concours. Il la roulait et la glissait dans ses vêtements. Après sa mort, ses enfants ont coupé la barbe, et l'ont donnée au Smithsonian. C'est la plus longue barbe connue."
  },
  {
   "text": "En 2014, Alan Eustace, cadre de Google, a sauté d'environ 41 km d'altitude, suspendu sous un ballon d'hélium sans capsule, et a dépassé 1 300 km/h en chute libre.",
@@ -4355,17 +4355,17 @@ const FACTS = [
   "explanation": "Alan Eustace a battu le record de Felix Baumgartner, établi en 2012. Il est monté pendant plus de deux heures sous un ballon d'hélium, dans une combinaison pressurisée, sans capsule. Il a franchi le mur du son pendant la chute, et a ouvert son parachute vers 5 km d'altitude."
  },
  {
-  "text": "En 2007, le Slovène Martin Strel a descendu l'Amazone à la nage : 5 268 km en 66 jours, la plus longue distance jamais parcourue à la nage.",
+  "text": "En 2007, Martin Strel a descendu l'Amazone à la nage : 5 268 km en 66 jours, la plus longue distance jamais parcourue à la nage.",
   "source": "Perplexity",
-  "question": "Est-il vrai qu'en 2007, le Slovène Martin Strel a descendu l'Amazone à la nage : 5 268 km en 66 jours, la plus longue distance jamais parcourue à la nage ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202007%2C%20le%20Slov%C3%A8ne%20Martin%20Strel%20a%20descendu%20l'Amazone%20%C3%A0%20la%20nage%20%3A%205%20268%20km%20en%2066%20jours%2C%20la%20plus%20longue%20distance%20jamais%20parcourue%20%C3%A0%20la%20nage%20%3F",
+  "question": "Est-il vrai qu'en 2007, Martin Strel a descendu l'Amazone à la nage : 5 268 km en 66 jours, la plus longue distance jamais parcourue à la nage ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%202007%2C%20Martin%20Strel%20a%20descendu%20l'Amazone%20%C3%A0%20la%20nage%20%3A%205%20268%20km%20en%2066%20jours%2C%20la%20plus%20longue%20distance%20jamais%20parcourue%20%C3%A0%20la%20nage%20%3F",
   "explanation": "Martin Strel a nagé environ 10 heures par jour, avec une équipe de soutien. Il a enduré la chaleur, les parasites et la fatigue. Il avait déjà descendu le Danube, le Mississippi et le Yangtsé."
  },
  {
-  "text": "L'Américaine Bette Nash a été hôtesse de l'air pendant près de 67 ans, de 1957 à sa mort en 2024, un record Guinness de longévité dans le métier.",
+  "text": "Bette Nash a été hôtesse de l'air pendant près de 67 ans, de 1957 à sa mort en 2024, un record Guinness de longévité dans le métier.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Américaine Bette Nash a été hôtesse de l'air pendant près de 67 ans, de 1957 à sa mort en 2024, un record Guinness de longévité dans le métier ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricaine%20Bette%20Nash%20a%20%C3%A9t%C3%A9%20h%C3%B4tesse%20de%20l'air%20pendant%20pr%C3%A8s%20de%2067%20ans%2C%20de%201957%20%C3%A0%20sa%20mort%20en%202024%2C%20un%20record%20Guinness%20de%20long%C3%A9vit%C3%A9%20dans%20le%20m%C3%A9tier%20%3F",
+  "question": "Est-il vrai que Bette Nash a été hôtesse de l'air pendant près de 67 ans, de 1957 à sa mort en 2024, un record Guinness de longévité dans le métier ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Bette%20Nash%20a%20%C3%A9t%C3%A9%20h%C3%B4tesse%20de%20l'air%20pendant%20pr%C3%A8s%20de%2067%20ans%2C%20de%201957%20%C3%A0%20sa%20mort%20en%202024%2C%20un%20record%20Guinness%20de%20long%C3%A9vit%C3%A9%20dans%20le%20m%C3%A9tier%20%3F",
   "explanation": "Bette Nash a commencé sa carrière en 1957 chez Eastern Air Lines, puis a travaillé chez American Airlines. Elle volait souvent sur la ligne Washington-Boston. Elle a été reconnue par le Guinness comme l'hôtesse de l'air ayant la plus longue carrière."
  },
  {
@@ -4376,17 +4376,17 @@ const FACTS = [
   "explanation": "Le timbre, imprimé en 1856 en Guyane britannique, est le seul exemplaire connu. Il a été découvert en 1873 par un écolier écossais. Il est passé entre les mains de plusieurs collectionneurs. Stuart Weitzman l'a revendu en 2021 pour environ 8,3 millions de dollars."
  },
  {
-  "text": "Le Suédois Oscar Swahn a remporté une médaille d'argent olympique en tir sur cerf courant en 1920, à 72 ans : il reste le plus vieux médaillé sportif de l'histoire des Jeux.",
+  "text": "Oscar Swahn a remporté une médaille d'argent olympique en tir sur cerf courant en 1920, à 72 ans : il reste le plus vieux médaillé sportif de l'histoire des Jeux.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le Suédois Oscar Swahn a remporté une médaille d'argent olympique en tir sur cerf courant en 1920, à 72 ans : il reste le plus vieux médaillé sportif de l'histoire des Jeux ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Su%C3%A9dois%20Oscar%20Swahn%20a%20remport%C3%A9%20une%20m%C3%A9daille%20d'argent%20olympique%20en%20tir%20sur%20cerf%20courant%20en%201920%2C%20%C3%A0%2072%20ans%20%3A%20il%20reste%20le%20plus%20vieux%20m%C3%A9daill%C3%A9%20sportif%20de%20l'histoire%20des%20Jeux%20%3F",
+  "question": "Est-il vrai qu'Oscar Swahn a remporté une médaille d'argent olympique en tir sur cerf courant en 1920, à 72 ans : il reste le plus vieux médaillé sportif de l'histoire des Jeux ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'Oscar%20Swahn%20a%20remport%C3%A9%20une%20m%C3%A9daille%20d'argent%20olympique%20en%20tir%20sur%20cerf%20courant%20en%201920%2C%20%C3%A0%2072%20ans%20%3A%20il%20reste%20le%20plus%20vieux%20m%C3%A9daill%C3%A9%20sportif%20de%20l'histoire%20des%20Jeux%20%3F",
   "explanation": "Oscar Swahn a participé aux Jeux de 1908, 1912 et 1920. Il a remporté des médailles d'or et d'argent. Le tir sur cerf courant consistait à tirer sur une cible représentant un cerf, qui se déplaçait. Il s'était qualifié pour 1924, mais n'a pas participé pour raison de santé."
  },
  {
-  "text": "Le plus jeune médaillé olympique connu, le Grec Dimitrios Loundras, a eu le bronze aux barres parallèles par équipes en 1896 à 10 ans : son équipe a fini troisième… sur trois.",
+  "text": "Le plus jeune médaillé olympique connu, Dimitrios Loundras, a eu le bronze aux barres parallèles par équipes en 1896 à 10 ans : son équipe a fini troisième… sur trois.",
   "source": "Perplexity",
-  "question": "Est-il vrai que le plus jeune médaillé olympique connu, le Grec Dimitrios Loundras, a eu le bronze aux barres parallèles par équipes en 1896 à 10 ans : son équipe a fini troisième… sur trois ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20jeune%20m%C3%A9daill%C3%A9%20olympique%20connu%2C%20le%20Grec%20Dimitrios%20Loundras%2C%20a%20eu%20le%20bronze%20aux%20barres%20parall%C3%A8les%20par%20%C3%A9quipes%20en%201896%20%C3%A0%2010%20ans%20%3A%20son%20%C3%A9quipe%20a%20fini%20troisi%C3%A8me%E2%80%A6%20sur%20trois%20%3F",
+  "question": "Est-il vrai que le plus jeune médaillé olympique connu, Dimitrios Loundras, a eu le bronze aux barres parallèles par équipes en 1896 à 10 ans : son équipe a fini troisième… sur trois ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20jeune%20m%C3%A9daill%C3%A9%20olympique%20connu%2C%20Dimitrios%20Loundras%2C%20a%20eu%20le%20bronze%20aux%20barres%20parall%C3%A8les%20par%20%C3%A9quipes%20en%201896%20%C3%A0%2010%20ans%20%3A%20son%20%C3%A9quipe%20a%20fini%20troisi%C3%A8me%E2%80%A6%20sur%20trois%20%3F",
   "explanation": "Lors des Jeux d'Athènes de 1896, Dimitrios Loundras faisait partie de l'équipe grecque du club Ethnikos Gymnastikos Syllogos. Il n'y avait que trois équipes. Il est le plus jeune médaillé olympique connu. Il est ensuite devenu officier de marine."
  },
  {
@@ -4460,10 +4460,10 @@ const FACTS = [
   "explanation": "Mill Ends Park a été créé par le journaliste Dick Fagan, qui a planté des fleurs dans un trou destiné à un lampadaire. Il écrivait sur une colonie de lutins qui y vivait. Le parc a été officiellement intégré au réseau de parcs de Portland en 1976."
  },
  {
-  "text": "L'Américaine Lee Redmond a fait pousser ses ongles pendant 30 ans jusqu'à 7,51 mètres au total, avant de les perdre en 2009 dans un accident de voiture.",
+  "text": "Lee Redmond a fait pousser ses ongles pendant 30 ans jusqu'à 7,51 mètres au total, avant de les perdre en 2009 dans un accident de voiture.",
   "source": "Perplexity",
-  "question": "Est-il vrai que l'Américaine Lee Redmond a fait pousser ses ongles pendant 30 ans jusqu'à 7,51 mètres au total, avant de les perdre en 2009 dans un accident de voiture ?",
-  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Am%C3%A9ricaine%20Lee%20Redmond%20a%20fait%20pousser%20ses%20ongles%20pendant%2030%20ans%20jusqu'%C3%A0%207%2C51%20m%C3%A8tres%20au%20total%2C%20avant%20de%20les%20perdre%20en%202009%20dans%20un%20accident%20de%20voiture%20%3F",
+  "question": "Est-il vrai que Lee Redmond a fait pousser ses ongles pendant 30 ans jusqu'à 7,51 mètres au total, avant de les perdre en 2009 dans un accident de voiture ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Lee%20Redmond%20a%20fait%20pousser%20ses%20ongles%20pendant%2030%20ans%20jusqu'%C3%A0%207%2C51%20m%C3%A8tres%20au%20total%2C%20avant%20de%20les%20perdre%20en%202009%20dans%20un%20accident%20de%20voiture%20%3F",
   "explanation": "Lee Redmond a cessé de se couper les ongles en 1979. Elle les soignait avec de l'huile d'olive chaude. Après son accident de voiture en 2009, ses ongles se sont cassés. Elle a dit avoir été libérée de leur entretien."
  }
 ];
