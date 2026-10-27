@@ -4465,5 +4465,2105 @@ const FACTS = [
   "question": "Est-il vrai que Lee Redmond a fait pousser ses ongles pendant 30 ans jusqu'à 7,51 mètres au total, avant de les perdre en 2009 dans un accident de voiture ?",
   "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Lee%20Redmond%20a%20fait%20pousser%20ses%20ongles%20pendant%2030%20ans%20jusqu'%C3%A0%207%2C51%20m%C3%A8tres%20au%20total%2C%20avant%20de%20les%20perdre%20en%202009%20dans%20un%20accident%20de%20voiture%20%3F",
   "explanation": "Lee Redmond a cessé de se couper les ongles en 1979. Elle les soignait avec de l'huile d'olive chaude. Après son accident de voiture en 2009, ses ongles se sont cassés. Elle a dit avoir été libérée de leur entretien."
+ },
+ {
+  "text": "Les vaches ont des « meilleures amies » : séparées de leur congénère préférée, leur rythme cardiaque et leur niveau de stress augmentent.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les vaches ont des « meilleures amies » : séparées de leur congénère préférée, leur rythme cardiaque et leur niveau de stress augmentent ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20vaches%20ont%20des%20%C2%AB%20meilleures%20amies%20%C2%BB%20%3A%20s%C3%A9par%C3%A9es%20de%20leur%20cong%C3%A9n%C3%A8re%20pr%C3%A9f%C3%A9r%C3%A9e%2C%20leur%20rythme%20cardiaque%20et%20leur%20niveau%20de%20stress%20augmentent%20%3F",
+  "explanation": "Une étude de l'université de Northampton (2013) a mesuré le stress de vaches laitières isolées, placées avec une inconnue, ou avec leur compagne habituelle. Avec leur partenaire préférée, leur fréquence cardiaque et leurs signes d'agitation étaient nettement plus bas. Les bovins sont des animaux sociaux qui forment des liens stables au sein du troupeau."
+ },
+ {
+  "text": "Les pieuvres ne dorment pas toutes de la même façon : pendant leur sommeil « actif », elles changent de couleur, ce qui pourrait correspondre à une forme de rêve.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les pieuvres ne dorment pas toutes de la même façon : pendant leur sommeil « actif », elles changent de couleur, ce qui pourrait correspondre à une forme de rêve ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20pieuvres%20ne%20dorment%20pas%20toutes%20de%20la%20m%C3%AAme%20fa%C3%A7on%20%3A%20pendant%20leur%20sommeil%20%C2%AB%20actif%20%C2%BB%2C%20elles%20changent%20de%20couleur%2C%20ce%20qui%20pourrait%20correspondre%20%C3%A0%20une%20forme%20de%20r%C3%AAve%20%3F",
+  "explanation": "Des chercheurs ont observé chez le poulpe deux phases de sommeil : une phase calme, et une phase active de quelques dizaines de secondes avec des mouvements des yeux et des changements de couleur de la peau. Cette alternance rappelle le sommeil paradoxal des mammifères, pendant lequel nous rêvons. Les scientifiques restent prudents : on ne sait pas ce que vit l'animal."
+ },
+ {
+  "text": "Les escargots peuvent dormir jusqu'à trois ans d'affilée quand le climat est trop sec.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les escargots peuvent dormir jusqu'à trois ans d'affilée quand le climat est trop sec ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20escargots%20peuvent%20dormir%20jusqu'%C3%A0%20trois%20ans%20d'affil%C3%A9e%20quand%20le%20climat%20est%20trop%20sec%20%3F",
+  "explanation": "En cas de sécheresse, l'escargot se retire dans sa coquille et la ferme avec un voile de mucus séché, l'épiphragme. Son métabolisme ralentit fortement : c'est l'estivation (ou l'hibernation en hiver). Il peut rester ainsi des mois, et selon certaines observations jusqu'à environ trois ans, en attendant le retour de l'humidité."
+ },
+ {
+  "text": "Les éléphants sont l'un des rares animaux à se reconnaître dans un miroir.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les éléphants sont l'un des rares animaux à se reconnaître dans un miroir ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20%C3%A9l%C3%A9phants%20sont%20l'un%20des%20rares%20animaux%20%C3%A0%20se%20reconna%C3%AEtre%20dans%20un%20miroir%20%3F",
+  "explanation": "En 2006, des éléphants d'Asie du zoo du Bronx ont passé le test du miroir : marqués d'une croix visible seulement dans leur reflet, ils ont touché la marque avec leur trompe. Ce test de reconnaissance de soi est réussi par peu d'espèces : grands singes, dauphins, pies, et quelques autres."
+ },
+ {
+  "text": "Une girafe ne dort qu'environ 30 minutes à 2 heures par jour, souvent par petites siestes de quelques minutes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une girafe ne dort qu'environ 30 minutes à 2 heures par jour, souvent par petites siestes de quelques minutes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20girafe%20ne%20dort%20qu'environ%2030%20minutes%20%C3%A0%202%20heures%20par%20jour%2C%20souvent%20par%20petites%20siestes%20de%20quelques%20minutes%20%3F",
+  "explanation": "Dans la nature, se coucher rend la girafe vulnérable aux prédateurs, car il lui faut du temps pour se relever. Elle dort donc très peu, souvent debout, par épisodes de quelques minutes. En captivité, à l'abri des prédateurs, elle dort un peu plus longtemps."
+ },
+ {
+  "text": "Les papillons goûtent avec leurs pattes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les papillons goûtent avec leurs pattes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20papillons%20go%C3%BBtent%20avec%20leurs%20pattes%20%3F",
+  "explanation": "Les papillons possèdent des récepteurs gustatifs, appelés chimiorécepteurs, sur leurs pattes. En se posant sur une feuille, une femelle peut ainsi « goûter » la plante pour vérifier qu'elle convient à ses chenilles avant d'y pondre. Les mouches ont aussi des capteurs de goût sur les pattes."
+ },
+ {
+  "text": "Le cœur d'une crevette se trouve dans sa tête.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cœur d'une crevette se trouve dans sa tête ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20c%C5%93ur%20d'une%20crevette%20se%20trouve%20dans%20sa%20t%C3%AAte%20%3F",
+  "explanation": "Chez la crevette, la plupart des organes vitaux, dont le cœur, l'estomac et les glandes digestives, sont regroupés dans le céphalothorax, la partie avant du corps qui comprend la tête. C'est pourquoi la « tête » d'une crevette contient l'essentiel de ses organes."
+ },
+ {
+  "text": "Les hiboux ne peuvent pas bouger leurs yeux : pour regarder ailleurs, ils tournent la tête jusqu'à environ 270 degrés.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les hiboux ne peuvent pas bouger leurs yeux : pour regarder ailleurs, ils tournent la tête jusqu'à environ 270 degrés ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20hiboux%20ne%20peuvent%20pas%20bouger%20leurs%20yeux%20%3A%20pour%20regarder%20ailleurs%2C%20ils%20tournent%20la%20t%C3%AAte%20jusqu'%C3%A0%20environ%20270%20degr%C3%A9s%20%3F",
+  "explanation": "Les yeux du hibou sont en forme de tube et fixés dans leur orbite osseuse, ce qui les empêche de pivoter. Pour compenser, son cou possède 14 vertèbres (contre 7 chez l'humain) et un système de vaisseaux sanguins qui évite de couper la circulation quand il tourne la tête."
+ },
+ {
+  "text": "Un colibri bat des ailes jusqu'à environ 80 fois par seconde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un colibri bat des ailes jusqu'à environ 80 fois par seconde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20colibri%20bat%20des%20ailes%20jusqu'%C3%A0%20environ%2080%20fois%20par%20seconde%20%3F",
+  "explanation": "Selon les espèces, les colibris battent des ailes entre environ 10 et 80 fois par seconde. Cela leur permet de faire du vol stationnaire devant les fleurs, et même de voler en arrière. Leur cœur peut dépasser 1 000 battements par minute en vol."
+ },
+ {
+  "text": "Le paresseux peut mettre jusqu'à un mois pour digérer un seul repas.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le paresseux peut mettre jusqu'à un mois pour digérer un seul repas ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20paresseux%20peut%20mettre%20jusqu'%C3%A0%20un%20mois%20pour%20dig%C3%A9rer%20un%20seul%20repas%20%3F",
+  "explanation": "Le paresseux se nourrit de feuilles peu nutritives et difficiles à digérer. Son estomac à plusieurs compartiments fonctionne très lentement, et son métabolisme est l'un des plus bas des mammifères. La digestion complète d'un repas peut prendre de quelques jours à près d'un mois."
+ },
+ {
+  "text": "Les paresseux descendent de leur arbre environ une fois par semaine, uniquement pour faire leurs besoins au sol.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les paresseux descendent de leur arbre environ une fois par semaine, uniquement pour faire leurs besoins au sol ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20paresseux%20descendent%20de%20leur%20arbre%20environ%20une%20fois%20par%20semaine%2C%20uniquement%20pour%20faire%20leurs%20besoins%20au%20sol%20%3F",
+  "explanation": "Le paresseux passe presque toute sa vie dans les arbres. Environ une fois par semaine, il descend pour déféquer au pied de l'arbre, ce qui le rend vulnérable. Les raisons de ce comportement risqué sont débattues : marquage, communication, ou entretien d'un écosystème de mites et d'algues dans son pelage."
+ },
+ {
+  "text": "Les corneilles et les corbeaux organisent parfois des « funérailles » autour d'un congénère mort.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les corneilles et les corbeaux organisent parfois des « funérailles » autour d'un congénère mort ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20corneilles%20et%20les%20corbeaux%20organisent%20parfois%20des%20%C2%AB%20fun%C3%A9railles%20%C2%BB%20autour%20d'un%20cong%C3%A9n%C3%A8re%20mort%20%3F",
+  "explanation": "Des études, notamment à l'université de Californie à Davis, ont montré que les geais et les corneilles se rassemblent et crient autour d'un congénère mort. Cette réaction leur permettrait d'apprendre où se trouve un danger. Elles évitent ensuite l'endroit et se méfient de la personne présente."
+ },
+ {
+  "text": "Le poisson zèbre peut régénérer son cœur après qu'on en a retiré une partie.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le poisson zèbre peut régénérer son cœur après qu'on en a retiré une partie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20poisson%20z%C3%A8bre%20peut%20r%C3%A9g%C3%A9n%C3%A9rer%20son%20c%C5%93ur%20apr%C3%A8s%20qu'on%20en%20a%20retir%C3%A9%20une%20partie%20%3F",
+  "explanation": "Le poisson zèbre, petit poisson tropical, peut reconstruire jusqu'à environ 20 % de son ventricule en quelques semaines. Ses cellules cardiaques restantes se remettent à se diviser. Les chercheurs l'étudient pour comprendre pourquoi le cœur humain cicatrise au lieu de se régénérer."
+ },
+ {
+  "text": "Les hippocampes mâles portent les bébés et accouchent.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les hippocampes mâles portent les bébés et accouchent ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20hippocampes%20m%C3%A2les%20portent%20les%20b%C3%A9b%C3%A9s%20et%20accouchent%20%3F",
+  "explanation": "Chez l'hippocampe, la femelle dépose ses œufs dans une poche ventrale du mâle. Le mâle les féconde, les nourrit et les oxygène pendant la gestation, puis les expulse par des contractions. Il peut naître de quelques dizaines à plus d'un millier de petits selon les espèces."
+ },
+ {
+  "text": "Le bébé panda géant pèse environ 100 à 200 grammes à la naissance, soit environ 1/900e du poids de sa mère.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le bébé panda géant pèse environ 100 à 200 grammes à la naissance, soit environ 1/900e du poids de sa mère ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20b%C3%A9b%C3%A9%20panda%20g%C3%A9ant%20p%C3%A8se%20environ%20100%20%C3%A0%20200%20grammes%20%C3%A0%20la%20naissance%2C%20soit%20environ%201%2F900e%20du%20poids%20de%20sa%20m%C3%A8re%20%3F",
+  "explanation": "Le panda géant a l'un des rapports de taille mère-petit les plus extrêmes des mammifères placentaires. Le nouveau-né est rose, aveugle et presque nu. Il dépend totalement de sa mère pendant des semaines."
+ },
+ {
+  "text": "Le chant de la baleine bleue peut dépasser 180 décibels, plus fort qu'un avion au décollage.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le chant de la baleine bleue peut dépasser 180 décibels, plus fort qu'un avion au décollage ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20chant%20de%20la%20baleine%20bleue%20peut%20d%C3%A9passer%20180%20d%C3%A9cibels%2C%20plus%20fort%20qu'un%20avion%20au%20d%C3%A9collage%20%3F",
+  "explanation": "Les appels de la baleine bleue sont très graves, en partie inaudibles pour l'humain, et parmi les sons les plus puissants produits par un animal. Dans l'eau, ils peuvent porter sur des centaines de kilomètres. Les décibels sous l'eau ne se comparent pas directement à ceux dans l'air, mais leur puissance reste exceptionnelle."
+ },
+ {
+  "text": "Les pics frappent les troncs jusqu'à environ 20 fois par seconde sans se faire de commotion cérébrale.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les pics frappent les troncs jusqu'à environ 20 fois par seconde sans se faire de commotion cérébrale ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20pics%20frappent%20les%20troncs%20jusqu'%C3%A0%20environ%2020%20fois%20par%20seconde%20sans%20se%20faire%20de%20commotion%20c%C3%A9r%C3%A9brale%20%3F",
+  "explanation": "Les pics frappent le bois jusqu'à environ 20 coups par seconde, avec des décélérations très élevées. Leur cerveau, petit et bien calé dans le crâne, est moins sensible aux chocs. Une étude de 2022 suggère que leur tête agit comme un marteau rigide plutôt que comme un amortisseur."
+ },
+ {
+  "text": "Les flamants roses dorment souvent sur une seule patte.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les flamants roses dorment souvent sur une seule patte ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20flamants%20roses%20dorment%20souvent%20sur%20une%20seule%20patte%20%3F",
+  "explanation": "Une étude de 2017 a montré que les flamants peuvent tenir sur une patte sans effort musculaire, grâce à un mécanisme passif de leur articulation. Cette posture leur ferait aussi économiser de la chaleur dans l'eau froide. Elle est si stable qu'un flamant mort, correctement placé, tient dans cette position."
+ },
+ {
+  "text": "Un escargot a des milliers de dents, alignées sur une langue en forme de râpe.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un escargot a des milliers de dents, alignées sur une langue en forme de râpe ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20escargot%20a%20des%20milliers%20de%20dents%2C%20align%C3%A9es%20sur%20une%20langue%20en%20forme%20de%20r%C3%A2pe%20%3F",
+  "explanation": "L'escargot possède une radula, une sorte de langue couverte de rangées de minuscules dents en chitine. Selon les espèces, il peut y en avoir plusieurs milliers, voire plus de 10 000. Les dents s'usent et sont remplacées en continu."
+ },
+ {
+  "text": "Certaines tortues peuvent respirer par la peau et les muqueuses de leur gorge pendant l'hibernation sous l'eau.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que certaines tortues peuvent respirer par la peau et les muqueuses de leur gorge pendant l'hibernation sous l'eau ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20certaines%20tortues%20peuvent%20respirer%20par%20la%20peau%20et%20les%20muqueuses%20de%20leur%20gorge%20pendant%20l'hibernation%20sous%20l'eau%20%3F",
+  "explanation": "Des tortues d'eau douce, comme la tortue peinte, passent l'hiver au fond des étangs gelés. Elles absorbent un peu d'oxygène à travers la peau et les muqueuses, et réduisent fortement leur métabolisme. Elles tolèrent aussi des mois avec très peu d'oxygène grâce à leur carapace qui neutralise l'acide accumulé."
+ },
+ {
+  "text": "Le crabe de cocotier, le plus grand crustacé terrestre, peut ouvrir une noix de coco avec ses pinces.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le crabe de cocotier, le plus grand crustacé terrestre, peut ouvrir une noix de coco avec ses pinces ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20crabe%20de%20cocotier%2C%20le%20plus%20grand%20crustac%C3%A9%20terrestre%2C%20peut%20ouvrir%20une%20noix%20de%20coco%20avec%20ses%20pinces%20%3F",
+  "explanation": "Le crabe de cocotier (Birgus latro) peut mesurer environ un mètre d'envergure. Sa pince est l'une des plus puissantes du monde animal, avec une force estimée à plus de 3 000 newtons. Il grimpe aux arbres et se nourrit de fruits, de noix de coco et de charognes."
+ },
+ {
+  "text": "Les abeilles mellifères communiquent l'emplacement des fleurs par une danse.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les abeilles mellifères communiquent l'emplacement des fleurs par une danse ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20abeilles%20mellif%C3%A8res%20communiquent%20l'emplacement%20des%20fleurs%20par%20une%20danse%20%3F",
+  "explanation": "La « danse frétillante » indique la direction de la source de nourriture par rapport au soleil, et sa distance par la durée du frétillement. Le biologiste Karl von Frisch a décrypté ce langage, ce qui lui a valu le prix Nobel en 1973."
+ },
+ {
+  "text": "Une seule abeille produit environ un douzième de cuillère à café de miel dans toute sa vie.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une seule abeille produit environ un douzième de cuillère à café de miel dans toute sa vie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20seule%20abeille%20produit%20environ%20un%20douzi%C3%A8me%20de%20cuill%C3%A8re%20%C3%A0%20caf%C3%A9%20de%20miel%20dans%20toute%20sa%20vie%20%3F",
+  "explanation": "Une ouvrière vit quelques semaines en été. Pendant sa vie de butineuse, elle rapporte du nectar qui, une fois concentré, représente environ 0,8 gramme de miel. Un pot de 500 g est donc le travail de centaines d'abeilles."
+ },
+ {
+  "text": "Les chats passent environ deux tiers de leur vie à dormir.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les chats passent environ deux tiers de leur vie à dormir ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20chats%20passent%20environ%20deux%20tiers%20de%20leur%20vie%20%C3%A0%20dormir%20%3F",
+  "explanation": "Un chat adulte dort en moyenne 12 à 16 heures par jour, souvent en courtes siestes. Cette habitude viendrait de son mode de vie de prédateur, qui alterne de courtes périodes de chasse intense avec de longues phases de repos pour économiser l'énergie."
+ },
+ {
+  "text": "Les chiens ont environ 300 millions de récepteurs olfactifs, contre environ 6 millions chez l'humain.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les chiens ont environ 300 millions de récepteurs olfactifs, contre environ 6 millions chez l'humain ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20chiens%20ont%20environ%20300%20millions%20de%20r%C3%A9cepteurs%20olfactifs%2C%20contre%20environ%206%20millions%20chez%20l'humain%20%3F",
+  "explanation": "Le nez du chien est beaucoup plus développé que le nôtre, et la partie de son cerveau consacrée à l'odorat est proportionnellement bien plus grande. Les chiens peuvent détecter certaines substances à des concentrations extrêmement faibles, ce qui en fait des aides pour la détection d'explosifs, de drogues ou de maladies."
+ },
+ {
+  "text": "Les chevaux ne peuvent pas vomir.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les chevaux ne peuvent pas vomir ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20chevaux%20ne%20peuvent%20pas%20vomir%20%3F",
+  "explanation": "Chez le cheval, un sphincter très puissant à l'entrée de l'estomac et l'angle de l'œsophage empêchent tout reflux. C'est pourquoi une indigestion ou une obstruction peut devenir grave : les coliques sont une urgence vétérinaire. Les rongeurs comme les rats ne peuvent pas vomir non plus."
+ },
+ {
+  "text": "Le rat-kangourou des déserts d'Amérique du Nord peut vivre toute sa vie sans boire une goutte d'eau.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le rat-kangourou des déserts d'Amérique du Nord peut vivre toute sa vie sans boire une goutte d'eau ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20rat-kangourou%20des%20d%C3%A9serts%20d'Am%C3%A9rique%20du%20Nord%20peut%20vivre%20toute%20sa%20vie%20sans%20boire%20une%20goutte%20d'eau%20%3F",
+  "explanation": "Ce petit rongeur tire toute l'eau dont il a besoin des graines qu'il mange, notamment de l'eau produite par la digestion de leurs graisses et de leurs sucres. Ses reins produisent une urine extrêmement concentrée et il perd très peu d'eau en respirant. Il passe les heures chaudes dans un terrier frais et humide."
+ },
+ {
+  "text": "Certains serpents marins respirent en partie par la peau, ce qui les aide à rester longtemps sous l'eau.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que certains serpents marins respirent en partie par la peau, ce qui les aide à rester longtemps sous l'eau ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20certains%20serpents%20marins%20respirent%20en%20partie%20par%20la%20peau%2C%20ce%20qui%20les%20aide%20%C3%A0%20rester%20longtemps%20sous%20l'eau%20%3F",
+  "explanation": "Des études ont montré que certains serpents marins absorbent une partie de leur oxygène à travers la peau, et rejettent aussi du dioxyde de carbone par cette voie. Ils doivent tout de même remonter respirer à la surface avec leur unique poumon allongé. Cette respiration cutanée existe aussi chez de nombreux amphibiens."
+ },
+ {
+  "text": "Les grenouilles avalent en s'aidant de leurs yeux : elles les enfoncent dans leur crâne pour pousser la nourriture vers la gorge.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les grenouilles avalent en s'aidant de leurs yeux : elles les enfoncent dans leur crâne pour pousser la nourriture vers la gorge ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20grenouilles%20avalent%20en%20s'aidant%20de%20leurs%20yeux%20%3A%20elles%20les%20enfoncent%20dans%20leur%20cr%C3%A2ne%20pour%20pousser%20la%20nourriture%20vers%20la%20gorge%20%3F",
+  "explanation": "En avalant, la grenouille rentre ses globes oculaires dans sa bouche. Une étude a montré que ce mouvement aide à pousser la proie vers l'œsophage. C'est pourquoi on voit une grenouille cligner fortement des yeux en mangeant."
+ },
+ {
+  "text": "Les autruches ne cachent pas leur tête dans le sable.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les autruches ne cachent pas leur tête dans le sable ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20autruches%20ne%20cachent%20pas%20leur%20t%C3%AAte%20dans%20le%20sable%20%3F",
+  "explanation": "Ce mythe viendrait de l'Antiquité, notamment de Pline l'Ancien. En réalité, l'autruche baisse la tête au sol pour retourner ses œufs dans son nid, creusé dans le sable. Face au danger, elle fuit en courant jusqu'à environ 70 km/h ou se couche à plat."
+ },
+ {
+  "text": "Le koala dort jusqu'à 18 à 22 heures par jour.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le koala dort jusqu'à 18 à 22 heures par jour ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20koala%20dort%20jusqu'%C3%A0%2018%20%C3%A0%2022%20heures%20par%20jour%20%3F",
+  "explanation": "Les feuilles d'eucalyptus sont pauvres en énergie et contiennent des composés toxiques. Le koala économise son énergie en dormant ou en restant immobile la majeure partie de la journée. Sa digestion est longue et demande beaucoup d'énergie."
+ },
+ {
+  "text": "Les chauves-souris sont les seuls mammifères capables d'un véritable vol battu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les chauves-souris sont les seuls mammifères capables d'un véritable vol battu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20chauves-souris%20sont%20les%20seuls%20mammif%C3%A8res%20capables%20d'un%20v%C3%A9ritable%20vol%20battu%20%3F",
+  "explanation": "D'autres mammifères, comme les écureuils volants, planent grâce à une membrane, mais seules les chauves-souris volent en battant des ailes. Leurs ailes sont des mains modifiées, avec des doigts très allongés reliés par une membrane de peau. Elles représentent environ un cinquième des espèces de mammifères."
+ },
+ {
+  "text": "Certaines chenilles se font passer pour des fientes d'oiseau pour ne pas être mangées.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que certaines chenilles se font passer pour des fientes d'oiseau pour ne pas être mangées ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20certaines%20chenilles%20se%20font%20passer%20pour%20des%20fientes%20d'oiseau%20pour%20ne%20pas%20%C3%AAtre%20mang%C3%A9es%20%3F",
+  "explanation": "Les jeunes chenilles de plusieurs espèces, comme le grand porte-queue, sont noires et blanches et luisantes, et ressemblent à des déjections d'oiseau. Les prédateurs les ignorent. C'est une forme de mimétisme appelée masquerade."
+ },
+ {
+  "text": "Le pigeon voyageur peut retrouver son pigeonnier à plus de 1 000 km de distance.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le pigeon voyageur peut retrouver son pigeonnier à plus de 1 000 km de distance ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20pigeon%20voyageur%20peut%20retrouver%20son%20pigeonnier%20%C3%A0%20plus%20de%201%20000%20km%20de%20distance%20%3F",
+  "explanation": "Les pigeons voyageurs s'orientent grâce à plusieurs indices : la position du soleil, le champ magnétique terrestre, les odeurs, les repères visuels et peut-être les infrasons. Ils ont été utilisés pour transporter des messages pendant les guerres mondiales, et certains ont été décorés."
+ },
+ {
+  "text": "Les termites construisent des monticules qui se ventilent seuls, une source d'inspiration pour l'architecture.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les termites construisent des monticules qui se ventilent seuls, une source d'inspiration pour l'architecture ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20termites%20construisent%20des%20monticules%20qui%20se%20ventilent%20seuls%2C%20une%20source%20d'inspiration%20pour%20l'architecture%20%3F",
+  "explanation": "Les termitières de certaines espèces africaines contiennent un réseau de conduits qui régulent la température et le renouvellement de l'air, grâce aux différences de température entre le jour et la nuit. L'immeuble Eastgate à Harare, au Zimbabwe, s'en est inspiré pour se ventiler avec très peu de climatisation."
+ },
+ {
+  "text": "Le dauphin dort avec une moitié du cerveau à la fois.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le dauphin dort avec une moitié du cerveau à la fois ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20dauphin%20dort%20avec%20une%20moiti%C3%A9%20du%20cerveau%20%C3%A0%20la%20fois%20%3F",
+  "explanation": "Les dauphins pratiquent le sommeil unihémisphérique : un hémisphère dort pendant que l'autre reste éveillé. Cela leur permet de continuer à remonter respirer et à surveiller leur environnement. L'œil opposé à l'hémisphère éveillé reste souvent ouvert."
+ },
+ {
+  "text": "Le poulpe peut goûter avec ses ventouses.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le poulpe peut goûter avec ses ventouses ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20poulpe%20peut%20go%C3%BBter%20avec%20ses%20ventouses%20%3F",
+  "explanation": "Les ventouses des bras du poulpe contiennent des milliers de récepteurs chimiques. En 2020, des chercheurs ont identifié des récepteurs qui lui permettent de « goûter » ce qu'il touche. Il peut ainsi explorer les crevasses et reconnaître une proie sans la voir."
+ },
+ {
+  "text": "Le pelage de l'ours polaire n'est pas blanc : ses poils sont transparents et sa peau est noire.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le pelage de l'ours polaire n'est pas blanc : ses poils sont transparents et sa peau est noire ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20pelage%20de%20l'ours%20polaire%20n'est%20pas%20blanc%20%3A%20ses%20poils%20sont%20transparents%20et%20sa%20peau%20est%20noire%20%3F",
+  "explanation": "Les poils de l'ours polaire sont creux et sans pigment. Ils diffusent la lumière, ce qui leur donne une apparence blanche. Sous le pelage, sa peau noire absorbe la chaleur du soleil."
+ },
+ {
+  "text": "Les zèbres ont chacun un motif de rayures unique, comme une empreinte digitale.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les zèbres ont chacun un motif de rayures unique, comme une empreinte digitale ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20z%C3%A8bres%20ont%20chacun%20un%20motif%20de%20rayures%20unique%2C%20comme%20une%20empreinte%20digitale%20%3F",
+  "explanation": "Aucun zèbre n'a exactement les mêmes rayures qu'un autre. Les chercheurs les identifient sur photo grâce à ces motifs. L'utilité des rayures est débattue : la piste la plus solide est qu'elles perturbent l'atterrissage des mouches piqueuses."
+ },
+ {
+  "text": "Les fourmis ne dorment pas comme nous, mais font des centaines de micro-siestes d'environ une minute par jour.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les fourmis ne dorment pas comme nous, mais font des centaines de micro-siestes d'environ une minute par jour ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20fourmis%20ne%20dorment%20pas%20comme%20nous%2C%20mais%20font%20des%20centaines%20de%20micro-siestes%20d'environ%20une%20minute%20par%20jour%20%3F",
+  "explanation": "Une étude sur les ouvrières de fourmis de feu a montré qu'elles font environ 250 siestes par jour, d'une minute chacune environ. Les reines dorment davantage et plus longtemps. Ce mode de repos fragmenté permet à la colonie de rester active en permanence."
+ },
+ {
+  "text": "Le cerf-volant n'est pas qu'un jouet : c'est aussi le nom du plus grand coléoptère d'Europe, le lucane cerf-volant.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cerf-volant n'est pas qu'un jouet : c'est aussi le nom du plus grand coléoptère d'Europe, le lucane cerf-volant ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20cerf-volant%20n'est%20pas%20qu'un%20jouet%20%3A%20c'est%20aussi%20le%20nom%20du%20plus%20grand%20col%C3%A9opt%C3%A8re%20d'Europe%2C%20le%20lucane%20cerf-volant%20%3F",
+  "explanation": "Le lucane cerf-volant (Lucanus cervus) peut dépasser 8 cm. Les mâles ont des mandibules en forme de bois de cerf, qu'ils utilisent pour se battre. Ses larves vivent plusieurs années dans le bois mort, et l'adulte ne vit que quelques semaines."
+ },
+ {
+  "text": "Les axolotls restent toute leur vie au stade larvaire, avec leurs branchies extérieures.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les axolotls restent toute leur vie au stade larvaire, avec leurs branchies extérieures ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20axolotls%20restent%20toute%20leur%20vie%20au%20stade%20larvaire%2C%20avec%20leurs%20branchies%20ext%C3%A9rieures%20%3F",
+  "explanation": "L'axolotl est un exemple de néoténie : il atteint la maturité sexuelle sans se métamorphoser en adulte terrestre. Avec une injection d'hormone thyroïdienne en laboratoire, il peut se métamorphoser en salamandre terrestre, mais cela réduit généralement sa durée de vie."
+ },
+ {
+  "text": "Le caméléon ne change pas de couleur pour se camoufler, mais surtout pour communiquer et réguler sa température.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le caméléon ne change pas de couleur pour se camoufler, mais surtout pour communiquer et réguler sa température ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20cam%C3%A9l%C3%A9on%20ne%20change%20pas%20de%20couleur%20pour%20se%20camoufler%2C%20mais%20surtout%20pour%20communiquer%20et%20r%C3%A9guler%20sa%20temp%C3%A9rature%20%3F",
+  "explanation": "La peau du caméléon contient des cristaux de guanine dont l'espacement change, ce qui modifie la lumière réfléchie. Ces changements servent principalement à signaler son humeur, à attirer un partenaire ou à intimider un rival, et à absorber ou réfléchir la chaleur."
+ },
+ {
+  "text": "Les pingouins et les manchots ne sont pas les mêmes animaux : les manchots ne volent pas, les pingouins si.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les pingouins et les manchots ne sont pas les mêmes animaux : les manchots ne volent pas, les pingouins si ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20pingouins%20et%20les%20manchots%20ne%20sont%20pas%20les%20m%C3%AAmes%20animaux%20%3A%20les%20manchots%20ne%20volent%20pas%2C%20les%20pingouins%20si%20%3F",
+  "explanation": "En français, le manchot vit dans l'hémisphère Sud et ne vole pas. Le pingouin (le petit pingouin, ou pingouin torda) vit dans l'Atlantique Nord et peut voler. La confusion vient de l'anglais, où « penguin » désigne les manchots."
+ },
+ {
+  "text": "Les loutres de mer ont une poche de peau sous chaque patte avant, où elles rangent nourriture et cailloux.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les loutres de mer ont une poche de peau sous chaque patte avant, où elles rangent nourriture et cailloux ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20loutres%20de%20mer%20ont%20une%20poche%20de%20peau%20sous%20chaque%20patte%20avant%2C%20o%C3%B9%20elles%20rangent%20nourriture%20et%20cailloux%20%3F",
+  "explanation": "La loutre de mer possède sous ses aisselles des replis de peau lâche qui servent de poches. Elle y stocke les proies ramassées au fond de l'eau, ainsi qu'un caillou qu'elle utilise pour casser les coquillages en flottant sur le dos. Certaines gardent le même caillou longtemps."
+ },
+ {
+  "text": "La vipère n'injecte pas toujours du venin : certaines morsures sont « sèches ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la vipère n'injecte pas toujours du venin : certaines morsures sont « sèches » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20vip%C3%A8re%20n'injecte%20pas%20toujours%20du%20venin%20%3A%20certaines%20morsures%20sont%20%C2%AB%20s%C3%A8ches%20%C2%BB%20%3F",
+  "explanation": "Les serpents venimeux contrôlent en partie la quantité de venin injectée. Une proportion notable des morsures défensives sont sans venin ou presque. Cela ne permet pas de prendre une morsure à la légère : il faut toujours consulter."
+ },
+ {
+  "text": "Le gecko peut marcher au plafond grâce à des millions de poils microscopiques sous ses pattes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le gecko peut marcher au plafond grâce à des millions de poils microscopiques sous ses pattes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20gecko%20peut%20marcher%20au%20plafond%20gr%C3%A2ce%20%C3%A0%20des%20millions%20de%20poils%20microscopiques%20sous%20ses%20pattes%20%3F",
+  "explanation": "Les pattes du gecko sont couvertes de lamelles portant des millions de poils, les sétules, qui se divisent en extrémités encore plus fines. Ces structures créent des forces de van der Waals avec la surface, sans colle ni ventouse. Ce mécanisme inspire des adhésifs réutilisables."
+ },
+ {
+  "text": "Les méduses existent depuis plus de 500 millions d'années, bien avant les dinosaures.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les méduses existent depuis plus de 500 millions d'années, bien avant les dinosaures ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20m%C3%A9duses%20existent%20depuis%20plus%20de%20500%20millions%20d'ann%C3%A9es%2C%20bien%20avant%20les%20dinosaures%20%3F",
+  "explanation": "Des fossiles de méduses datés d'environ 500 millions d'années ont été retrouvés, et leur lignée serait encore plus ancienne. Elles n'ont ni cerveau, ni cœur, ni os, et sont composées à environ 95 % d'eau."
+ },
+ {
+  "text": "Le cachalot a le plus gros cerveau du règne animal, environ 8 kg.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cachalot a le plus gros cerveau du règne animal, environ 8 kg ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20cachalot%20a%20le%20plus%20gros%20cerveau%20du%20r%C3%A8gne%20animal%2C%20environ%208%20kg%20%3F",
+  "explanation": "Le cerveau du cachalot pèse environ 7 à 9 kg, cinq à six fois plus que celui d'un humain. Rapporté à la taille du corps, il reste cependant bien plus petit en proportion. Le cachalot plonge à plus de 1 000 mètres pour chasser des calmars."
+ },
+ {
+  "text": "Un chien peut sentir certaines maladies, comme certains cancers ou une hypoglycémie, grâce à l'odeur.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un chien peut sentir certaines maladies, comme certains cancers ou une hypoglycémie, grâce à l'odeur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20chien%20peut%20sentir%20certaines%20maladies%2C%20comme%20certains%20cancers%20ou%20une%20hypoglyc%C3%A9mie%2C%20gr%C3%A2ce%20%C3%A0%20l'odeur%20%3F",
+  "explanation": "Des études ont montré que des chiens entraînés peuvent identifier des échantillons d'haleine ou d'urine de patients atteints de certains cancers, ou détecter les variations de glycémie chez des personnes diabétiques. Leurs performances varient selon les études et les protocoles."
+ },
+ {
+  "text": "L'estomac renouvelle sa paroi interne en quelques jours pour ne pas se digérer lui-même.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'estomac renouvelle sa paroi interne en quelques jours pour ne pas se digérer lui-même ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'estomac%20renouvelle%20sa%20paroi%20interne%20en%20quelques%20jours%20pour%20ne%20pas%20se%20dig%C3%A9rer%20lui-m%C3%AAme%20%3F",
+  "explanation": "L'acide de l'estomac est assez fort pour attaquer les tissus. Une couche de mucus protège la paroi, et les cellules de surface sont remplacées en continu, en quelques jours. Quand cette protection est altérée, par exemple par la bactérie Helicobacter pylori ou certains médicaments, un ulcère peut se former."
+ },
+ {
+  "text": "Un adulte possède environ 206 os, mais un nouveau-né en a environ 300.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un adulte possède environ 206 os, mais un nouveau-né en a environ 300 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20adulte%20poss%C3%A8de%20environ%20206%20os%2C%20mais%20un%20nouveau-n%C3%A9%20en%20a%20environ%20300%20%3F",
+  "explanation": "À la naissance, de nombreux os sont encore en plusieurs morceaux reliés par du cartilage, comme ceux du crâne ou du bassin. En grandissant, ces pièces fusionnent progressivement. Le nombre exact varie légèrement d'une personne à l'autre."
+ },
+ {
+  "text": "Le corps humain produit chaque seconde environ 2 à 3 millions de globules rouges.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le corps humain produit chaque seconde environ 2 à 3 millions de globules rouges ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20corps%20humain%20produit%20chaque%20seconde%20environ%202%20%C3%A0%203%20millions%20de%20globules%20rouges%20%3F",
+  "explanation": "Les globules rouges vivent environ 120 jours et doivent être remplacés en permanence. La moelle osseuse en produit des millions chaque seconde. Ce rythme augmente en altitude ou après une perte de sang, sous l'effet d'une hormone, l'érythropoïétine (EPO)."
+ },
+ {
+  "text": "Si l'on mettait bout à bout tous les vaisseaux sanguins d'un adulte, ils feraient environ 100 000 km, soit plus de deux fois le tour de la Terre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que si l'on mettait bout à bout tous les vaisseaux sanguins d'un adulte, ils feraient environ 100 000 km, soit plus de deux fois le tour de la Terre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20si%20l'on%20mettait%20bout%20%C3%A0%20bout%20tous%20les%20vaisseaux%20sanguins%20d'un%20adulte%2C%20ils%20feraient%20environ%20100%20000%20km%2C%20soit%20plus%20de%20deux%20fois%20le%20tour%20de%20la%20Terre%20%3F",
+  "explanation": "Le réseau sanguin comprend artères, veines et surtout d'innombrables capillaires microscopiques. L'estimation de 100 000 km est souvent citée, même si certains calculs récents donnent des chiffres plus bas. L'ordre de grandeur reste vertigineux."
+ },
+ {
+  "text": "Le cerveau représente environ 2 % du poids du corps, mais consomme environ 20 % de son énergie.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cerveau représente environ 2 % du poids du corps, mais consomme environ 20 % de son énergie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20cerveau%20repr%C3%A9sente%20environ%202%20%25%20du%20poids%20du%20corps%2C%20mais%20consomme%20environ%2020%20%25%20de%20son%20%C3%A9nergie%20%3F",
+  "explanation": "Le cerveau a besoin d'une alimentation constante en glucose et en oxygène pour faire fonctionner ses quelque 86 milliards de neurones. Même au repos, il consomme environ un cinquième de l'énergie de l'organisme. C'est l'un des organes les plus coûteux à entretenir."
+ },
+ {
+  "text": "Nous perdons environ 30 000 à 40 000 cellules de peau par minute.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que nous perdons environ 30 000 à 40 000 cellules de peau par minute ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20nous%20perdons%20environ%2030%20000%20%C3%A0%2040%20000%20cellules%20de%20peau%20par%20minute%20%3F",
+  "explanation": "La couche externe de la peau se renouvelle en continu : les cellules mortes se détachent et sont remplacées par d'autres, venues des couches profondes. Une bonne partie de la poussière d'une maison provient de ces cellules. La peau se renouvelle complètement en environ un mois."
+ },
+ {
+  "text": "Les empreintes digitales se forment dans l'utérus, vers le troisième mois de grossesse, et ne changent plus ensuite.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les empreintes digitales se forment dans l'utérus, vers le troisième mois de grossesse, et ne changent plus ensuite ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20empreintes%20digitales%20se%20forment%20dans%20l'ut%C3%A9rus%2C%20vers%20le%20troisi%C3%A8me%20mois%20de%20grossesse%2C%20et%20ne%20changent%20plus%20ensuite%20%3F",
+  "explanation": "Les crêtes des empreintes se forment pendant le développement du fœtus, sous l'effet de la croissance de la peau et de la pression du liquide amniotique. Même les vrais jumeaux, qui ont le même ADN, ont des empreintes différentes. Elles restent identiques toute la vie, sauf cicatrices."
+ },
+ {
+  "text": "Le muscle le plus puissant du corps, par rapport à sa taille, est le masséter, celui de la mâchoire.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le muscle le plus puissant du corps, par rapport à sa taille, est le masséter, celui de la mâchoire ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20muscle%20le%20plus%20puissant%20du%20corps%2C%20par%20rapport%20%C3%A0%20sa%20taille%2C%20est%20le%20mass%C3%A9ter%2C%20celui%20de%20la%20m%C3%A2choire%20%3F",
+  "explanation": "Le masséter permet de fermer la mâchoire avec une force importante, mesurée jusqu'à environ 70 kg au niveau des molaires chez certaines personnes. La notion de « muscle le plus puissant » dépend de la définition : le plus gros est le grand fessier, et le cœur est le plus endurant."
+ },
+ {
+  "text": "Les yeux voient à l'envers : c'est le cerveau qui redresse l'image.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les yeux voient à l'envers : c'est le cerveau qui redresse l'image ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20yeux%20voient%20%C3%A0%20l'envers%20%3A%20c'est%20le%20cerveau%20qui%20redresse%20l'image%20%3F",
+  "explanation": "Le cristallin projette sur la rétine une image inversée. Le cerveau interprète automatiquement ces signaux pour nous donner une vision à l'endroit. Dans les années 1890, le psychologue George Stratton a porté des lunettes qui inversaient sa vision : après quelques jours, son cerveau s'y était adapté."
+ },
+ {
+  "text": "Le cœur humain bat environ 100 000 fois par jour, soit environ 3 milliards de fois au cours d'une vie.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cœur humain bat environ 100 000 fois par jour, soit environ 3 milliards de fois au cours d'une vie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20c%C5%93ur%20humain%20bat%20environ%20100%20000%20fois%20par%20jour%2C%20soit%20environ%203%20milliards%20de%20fois%20au%20cours%20d'une%20vie%20%3F",
+  "explanation": "Au repos, le cœur bat en moyenne 60 à 80 fois par minute. Sur 24 heures, cela représente environ 100 000 battements, et il pompe environ 7 000 litres de sang. Sur une vie de 80 ans, on dépasse les 3 milliards de battements."
+ },
+ {
+  "text": "Il est impossible d'éternuer les yeux ouverts pour la plupart des gens, car le réflexe ferme les paupières.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il est impossible d'éternuer les yeux ouverts pour la plupart des gens, car le réflexe ferme les paupières ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20est%20impossible%20d'%C3%A9ternuer%20les%20yeux%20ouverts%20pour%20la%20plupart%20des%20gens%2C%20car%20le%20r%C3%A9flexe%20ferme%20les%20paupi%C3%A8res%20%3F",
+  "explanation": "L'éternuement déclenche une série de réflexes, dont la fermeture des paupières. Ce n'est pas pour empêcher les yeux de sortir de leurs orbites, contrairement à une légende. Certaines personnes parviennent à garder les yeux ouverts, mais c'est rare."
+ },
+ {
+  "text": "Le foie est capable de se régénérer : une partie du foie greffée peut retrouver presque sa taille normale en quelques semaines.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le foie est capable de se régénérer : une partie du foie greffée peut retrouver presque sa taille normale en quelques semaines ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20foie%20est%20capable%20de%20se%20r%C3%A9g%C3%A9n%C3%A9rer%20%3A%20une%20partie%20du%20foie%20greff%C3%A9e%20peut%20retrouver%20presque%20sa%20taille%20normale%20en%20quelques%20semaines%20%3F",
+  "explanation": "Le foie a une capacité de régénération exceptionnelle. Après l'ablation d'une partie de l'organe, les cellules restantes se divisent jusqu'à retrouver un volume proche de l'original. C'est ce qui permet de greffer un morceau de foie d'un donneur vivant."
+ },
+ {
+  "text": "L'odorat humain peut distinguer bien plus d'odeurs qu'on ne le pensait, possiblement des milliards selon une étude.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'odorat humain peut distinguer bien plus d'odeurs qu'on ne le pensait, possiblement des milliards selon une étude ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'odorat%20humain%20peut%20distinguer%20bien%20plus%20d'odeurs%20qu'on%20ne%20le%20pensait%2C%20possiblement%20des%20milliards%20selon%20une%20%C3%A9tude%20%3F",
+  "explanation": "Une étude publiée dans Science en 2014 a estimé que nous pourrions distinguer plus de mille milliards de mélanges d'odeurs. Le chiffre a été contesté pour des raisons méthodologiques, mais il a remis en cause l'idée que l'odorat humain est médiocre."
+ },
+ {
+  "text": "Le bâillement est contagieux même entre humains et chiens.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le bâillement est contagieux même entre humains et chiens ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20b%C3%A2illement%20est%20contagieux%20m%C3%AAme%20entre%20humains%20et%20chiens%20%3F",
+  "explanation": "Des études ont montré que les chiens bâillent plus souvent en voyant un humain bâiller, surtout leur propriétaire. Chez l'humain, la contagion du bâillement serait liée à l'empathie. Le simple fait de lire ou de penser au bâillement peut aussi en déclencher un."
+ },
+ {
+  "text": "Le corps humain contient assez de fer pour fabriquer un petit clou d'environ 7 cm.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le corps humain contient assez de fer pour fabriquer un petit clou d'environ 7 cm ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20corps%20humain%20contient%20assez%20de%20fer%20pour%20fabriquer%20un%20petit%20clou%20d'environ%207%20cm%20%3F",
+  "explanation": "Un adulte possède environ 3 à 4 grammes de fer, principalement dans l'hémoglobine des globules rouges. C'est à peu près la quantité de fer d'un petit clou. Le fer permet le transport de l'oxygène dans le sang."
+ },
+ {
+  "text": "L'intestin grêle d'un adulte mesure environ 6 à 7 mètres de long.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'intestin grêle d'un adulte mesure environ 6 à 7 mètres de long ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'intestin%20gr%C3%AAle%20d'un%20adulte%20mesure%20environ%206%20%C3%A0%207%20m%C3%A8tres%20de%20long%20%3F",
+  "explanation": "L'intestin grêle est plié dans l'abdomen. Sa surface interne est couverte de replis et de villosités qui augmentent énormément la surface d'absorption des nutriments, estimée à environ 30 m² selon les études récentes."
+ },
+ {
+  "text": "Le cerveau ne ressent pas la douleur, ce qui permet d'opérer certains patients éveillés.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cerveau ne ressent pas la douleur, ce qui permet d'opérer certains patients éveillés ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20cerveau%20ne%20ressent%20pas%20la%20douleur%2C%20ce%20qui%20permet%20d'op%C3%A9rer%20certains%20patients%20%C3%A9veill%C3%A9s%20%3F",
+  "explanation": "Le tissu cérébral n'a pas de récepteurs de la douleur. Les maux de tête viennent des méninges, des vaisseaux sanguins ou des muscles. Lors d'une chirurgie éveillée, le cuir chevelu est anesthésié et le patient peut parler pendant que les chirurgiens vérifient les fonctions préservées."
+ },
+ {
+  "text": "Nous sommes environ 1 cm plus grands le matin que le soir.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que nous sommes environ 1 cm plus grands le matin que le soir ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20nous%20sommes%20environ%201%20cm%20plus%20grands%20le%20matin%20que%20le%20soir%20%3F",
+  "explanation": "Pendant la journée, la gravité comprime les disques entre les vertèbres, qui perdent un peu de liquide. Allongés pendant la nuit, ils se réhydratent et la colonne s'allonge. La différence est d'environ 1 cm, parfois plus."
+ },
+ {
+  "text": "Les cheveux poussent d'environ 1 cm par mois.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les cheveux poussent d'environ 1 cm par mois ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20cheveux%20poussent%20d'environ%201%20cm%20par%20mois%20%3F",
+  "explanation": "Un cheveu pousse en moyenne de 0,3 à 0,4 mm par jour. Chaque follicule suit un cycle de croissance de plusieurs années, puis de repos, avant que le cheveu tombe. Nous en perdons naturellement 50 à 100 par jour."
+ },
+ {
+  "text": "L'appendice n'est pas forcément inutile : il servirait de réserve de bonnes bactéries pour l'intestin.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'appendice n'est pas forcément inutile : il servirait de réserve de bonnes bactéries pour l'intestin ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'appendice%20n'est%20pas%20forc%C3%A9ment%20inutile%20%3A%20il%20servirait%20de%20r%C3%A9serve%20de%20bonnes%20bact%C3%A9ries%20pour%20l'intestin%20%3F",
+  "explanation": "L'appendice a longtemps été considéré comme un vestige de l'évolution. Des chercheurs suggèrent qu'il abrite un biofilm de bactéries utiles, qui pourrait aider à recoloniser l'intestin après une diarrhée sévère. Il contient aussi du tissu lymphoïde lié à l'immunité."
+ },
+ {
+  "text": "Le corps humain produit environ 1 à 1,5 litre de salive par jour.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le corps humain produit environ 1 à 1,5 litre de salive par jour ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20corps%20humain%20produit%20environ%201%20%C3%A0%201%2C5%20litre%20de%20salive%20par%20jour%20%3F",
+  "explanation": "La salive humidifie la bouche, commence la digestion des amidons grâce à une enzyme, l'amylase, et protège les dents. Sa production diminue fortement pendant le sommeil, d'où la bouche sèche au réveil."
+ },
+ {
+  "text": "Les ongles des mains poussent environ deux à trois fois plus vite que ceux des pieds.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les ongles des mains poussent environ deux à trois fois plus vite que ceux des pieds ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20ongles%20des%20mains%20poussent%20environ%20deux%20%C3%A0%20trois%20fois%20plus%20vite%20que%20ceux%20des%20pieds%20%3F",
+  "explanation": "Un ongle de main pousse d'environ 3 mm par mois, contre environ 1 mm pour ceux des pieds. La croissance est plus rapide chez les jeunes, en été, et sur la main dominante. Un ongle de main met environ 6 mois à se renouveler entièrement."
+ },
+ {
+  "text": "Le cœur continue de battre en dehors du corps tant qu'il reçoit de l'oxygène, car il génère sa propre impulsion électrique.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cœur continue de battre en dehors du corps tant qu'il reçoit de l'oxygène, car il génère sa propre impulsion électrique ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20c%C5%93ur%20continue%20de%20battre%20en%20dehors%20du%20corps%20tant%20qu'il%20re%C3%A7oit%20de%20l'oxyg%C3%A8ne%2C%20car%20il%20g%C3%A9n%C3%A8re%20sa%20propre%20impulsion%20%C3%A9lectrique%20%3F",
+  "explanation": "Le cœur possède son propre stimulateur naturel, le nœud sinusal, qui déclenche les battements sans commande du cerveau. C'est ce qui permet de maintenir un cœur battant dans une machine de perfusion avant une greffe."
+ },
+ {
+  "text": "L'humain est l'un des seuls primates dont le blanc de l'œil est bien visible.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'humain est l'un des seuls primates dont le blanc de l'œil est bien visible ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'humain%20est%20l'un%20des%20seuls%20primates%20dont%20le%20blanc%20de%20l'%C5%93il%20est%20bien%20visible%20%3F",
+  "explanation": "Chez la plupart des autres primates, la sclère (le blanc de l'œil) est plus sombre ou peu visible. Selon l'hypothèse de « l'œil coopératif », un blanc bien contrasté permettrait de suivre facilement la direction du regard des autres, ce qui faciliterait la communication. Des études récentes nuancent : certains chimpanzés et bonobos ont aussi des sclères claires."
+ },
+ {
+  "text": "Le goût des aliments vient en grande partie de l'odorat.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le goût des aliments vient en grande partie de l'odorat ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20go%C3%BBt%20des%20aliments%20vient%20en%20grande%20partie%20de%20l'odorat%20%3F",
+  "explanation": "La langue ne perçoit que quelques saveurs : sucré, salé, acide, amer et umami. Les arômes, perçus par le nez via l'arrière de la bouche, font l'essentiel de ce que nous appelons le goût. C'est pourquoi la nourriture semble fade quand on a le nez bouché."
+ },
+ {
+  "text": "Le squelette se renouvelle entièrement en une dizaine d'années.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le squelette se renouvelle entièrement en une dizaine d'années ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20squelette%20se%20renouvelle%20enti%C3%A8rement%20en%20une%20dizaine%20d'ann%C3%A9es%20%3F",
+  "explanation": "L'os est un tissu vivant : des cellules le détruisent (ostéoclastes) pendant que d'autres en reconstruisent (ostéoblastes). Ce remodelage remplace environ 10 % du squelette adulte chaque année. C'est ce qui permet aux fractures de se consolider et aux os de s'adapter aux efforts."
+ },
+ {
+  "text": "Les poumons ont une surface d'échange d'environ 70 m², à peu près celle d'un demi-terrain de tennis.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les poumons ont une surface d'échange d'environ 70 m², à peu près celle d'un demi-terrain de tennis ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20poumons%20ont%20une%20surface%20d'%C3%A9change%20d'environ%2070%20m%C2%B2%2C%20%C3%A0%20peu%20pr%C3%A8s%20celle%20d'un%20demi-terrain%20de%20tennis%20%3F",
+  "explanation": "Les poumons contiennent environ 300 à 500 millions d'alvéoles, de minuscules sacs où l'oxygène passe dans le sang. Leur surface totale est estimée entre 50 et 100 m². Cette grande surface rend les échanges gazeux très efficaces."
+ },
+ {
+  "text": "On ne peut pas se souvenir de ses premières années : c'est l'amnésie infantile.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'on ne peut pas se souvenir de ses premières années : c'est l'amnésie infantile ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'on%20ne%20peut%20pas%20se%20souvenir%20de%20ses%20premi%C3%A8res%20ann%C3%A9es%20%3A%20c'est%20l'amn%C3%A9sie%20infantile%20%3F",
+  "explanation": "La plupart des adultes n'ont aucun souvenir avant l'âge d'environ 3 ans. Les raisons restent débattues : immaturité de l'hippocampe, absence de langage pour encoder les souvenirs, ou renouvellement rapide des neurones. Certains « souvenirs » précoces sont en fait reconstruits à partir de photos ou de récits."
+ },
+ {
+  "text": "La plupart des adultes hébergent des acariens microscopiques, les Demodex, à la base de leurs cils.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la plupart des adultes hébergent des acariens microscopiques, les Demodex, à la base de leurs cils ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20plupart%20des%20adultes%20h%C3%A9bergent%20des%20acariens%20microscopiques%2C%20les%20Demodex%2C%20%C3%A0%20la%20base%20de%20leurs%20cils%20%3F",
+  "explanation": "Ces acariens d'environ 0,3 mm vivent dans les follicules des cils et des poils du visage, où ils se nourrissent de sébum. Ils sont présents chez une grande majorité d'adultes, en général sans aucun symptôme. Ils sont surtout actifs la nuit, et leur prolifération excessive peut favoriser certaines inflammations des paupières."
+ },
+ {
+  "text": "Les humains partagent environ 60 % de leurs gènes avec la banane… mais la comparaison est trompeuse.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les humains partagent environ 60 % de leurs gènes avec la banane… mais la comparaison est trompeuse ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20humains%20partagent%20environ%2060%20%25%20de%20leurs%20g%C3%A8nes%20avec%20la%20banane%E2%80%A6%20mais%20la%20comparaison%20est%20trompeuse%20%3F",
+  "explanation": "Le chiffre circule souvent : il signifie qu'environ 60 % des gènes humains ont un équivalent chez la banane, car toutes les cellules vivantes partagent des mécanismes de base. Cela ne veut pas dire que notre ADN est identique à 60 % à celui de la banane. La comparaison exacte est bien plus faible."
+ },
+ {
+  "text": "La peau est le plus grand organe du corps humain : environ 2 m² chez un adulte.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la peau est le plus grand organe du corps humain : environ 2 m² chez un adulte ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20peau%20est%20le%20plus%20grand%20organe%20du%20corps%20humain%20%3A%20environ%202%20m%C2%B2%20chez%20un%20adulte%20%3F",
+  "explanation": "Chez un adulte, la peau couvre entre 1,5 et 2 m² et pèse plusieurs kilos. Elle protège contre les microbes, régule la température et contient des récepteurs du toucher, de la chaleur et de la douleur."
+ },
+ {
+  "text": "Les larmes ne sont pas toutes identiques : les larmes d'émotion n'ont pas la même composition que celles provoquées par l'oignon.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les larmes ne sont pas toutes identiques : les larmes d'émotion n'ont pas la même composition que celles provoquées par l'oignon ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20larmes%20ne%20sont%20pas%20toutes%20identiques%20%3A%20les%20larmes%20d'%C3%A9motion%20n'ont%20pas%20la%20m%C3%AAme%20composition%20que%20celles%20provoqu%C3%A9es%20par%20l'oignon%20%3F",
+  "explanation": "On distingue les larmes basales, qui humidifient l'œil en continu, les larmes réflexes, déclenchées par un irritant, et les larmes émotionnelles. Des études suggèrent que leur composition en protéines diffère. Le rôle exact des larmes émotionnelles reste étudié."
+ },
+ {
+  "text": "La rotule n'existe pas encore vraiment chez le nouveau-né : elle est en cartilage et s'ossifie entre 3 et 6 ans.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la rotule n'existe pas encore vraiment chez le nouveau-né : elle est en cartilage et s'ossifie entre 3 et 6 ans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20rotule%20n'existe%20pas%20encore%20vraiment%20chez%20le%20nouveau-n%C3%A9%20%3A%20elle%20est%20en%20cartilage%20et%20s'ossifie%20entre%203%20et%206%20ans%20%3F",
+  "explanation": "Chez le bébé, la rotule est principalement cartilagineuse et n'apparaît pas sur une radiographie. Elle s'ossifie progressivement pendant l'enfance. C'est un exemple de la transformation du squelette pendant la croissance."
+ },
+ {
+  "text": "Le hoquet est dû à une contraction involontaire du diaphragme, suivie de la fermeture brutale des cordes vocales.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le hoquet est dû à une contraction involontaire du diaphragme, suivie de la fermeture brutale des cordes vocales ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20hoquet%20est%20d%C3%BB%20%C3%A0%20une%20contraction%20involontaire%20du%20diaphragme%2C%20suivie%20de%20la%20fermeture%20brutale%20des%20cordes%20vocales%20%3F",
+  "explanation": "Le diaphragme se contracte soudainement, ce qui fait entrer de l'air. Une fraction de seconde plus tard, la glotte se ferme brusquement, produisant le « hic ». Le hoquet peut être déclenché par un repas trop rapide, des boissons gazeuses ou une émotion. Son utilité éventuelle reste mal comprise."
+ },
+ {
+  "text": "L'oreille interne ne sert pas qu'à entendre : elle permet aussi de garder l'équilibre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'oreille interne ne sert pas qu'à entendre : elle permet aussi de garder l'équilibre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'oreille%20interne%20ne%20sert%20pas%20qu'%C3%A0%20entendre%20%3A%20elle%20permet%20aussi%20de%20garder%20l'%C3%A9quilibre%20%3F",
+  "explanation": "L'oreille interne contient le vestibule et les canaux semi-circulaires, remplis de liquide, qui détectent les mouvements et la position de la tête. Quand les informations du vestibule et des yeux ne concordent pas, comme en voiture ou en bateau, on peut avoir le mal des transports."
+ },
+ {
+  "text": "L'émail des dents, le tissu le plus dur du corps, ne se régénère jamais.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'émail des dents, le tissu le plus dur du corps, ne se régénère jamais ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C3%A9mail%20des%20dents%2C%20le%20tissu%20le%20plus%20dur%20du%20corps%2C%20ne%20se%20r%C3%A9g%C3%A9n%C3%A8re%20jamais%20%3F",
+  "explanation": "L'émail est produit avant l'éruption des dents par des cellules qui disparaissent ensuite. Il ne contient pas de cellules vivantes et ne peut pas se réparer : une carie ou une fissure ne guérit pas. La salive et le fluor peuvent seulement reminéraliser de petites lésions de surface."
+ },
+ {
+  "text": "Nous clignons des yeux environ 15 à 20 fois par minute, ce qui représente plusieurs minutes de « noir » par heure.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que nous clignons des yeux environ 15 à 20 fois par minute, ce qui représente plusieurs minutes de « noir » par heure ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20nous%20clignons%20des%20yeux%20environ%2015%20%C3%A0%2020%20fois%20par%20minute%2C%20ce%20qui%20repr%C3%A9sente%20plusieurs%20minutes%20de%20%C2%AB%20noir%20%C2%BB%20par%20heure%20%3F",
+  "explanation": "Chaque clignement dure environ 100 à 400 millisecondes. Le cerveau masque ces coupures, et nous n'avons pas conscience de ces interruptions. Nous clignons moins devant un écran, ce qui peut assécher les yeux."
+ },
+ {
+  "text": "Le sang n'est jamais bleu dans le corps : les veines paraissent bleues à cause de la façon dont la peau filtre la lumière.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le sang n'est jamais bleu dans le corps : les veines paraissent bleues à cause de la façon dont la peau filtre la lumière ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20sang%20n'est%20jamais%20bleu%20dans%20le%20corps%20%3A%20les%20veines%20paraissent%20bleues%20%C3%A0%20cause%20de%20la%20fa%C3%A7on%20dont%20la%20peau%20filtre%20la%20lumi%C3%A8re%20%3F",
+  "explanation": "Le sang est rouge vif quand il est riche en oxygène et rouge sombre dans les veines. L'apparence bleutée vient de la façon dont la peau absorbe et diffuse les différentes couleurs de lumière. C'est une illusion d'optique."
+ },
+ {
+  "text": "Le cerveau humain contient environ 86 milliards de neurones.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le cerveau humain contient environ 86 milliards de neurones ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20cerveau%20humain%20contient%20environ%2086%20milliards%20de%20neurones%20%3F",
+  "explanation": "En 2009, la neuroscientifique Suzana Herculano-Houzel a compté les neurones en dissolvant des cerveaux et en comptant leurs noyaux. Elle a obtenu environ 86 milliards, contre les 100 milliards souvent cités. Le cervelet en contient la grande majorité."
+ },
+ {
+  "text": "Les poumons d'un bébé continuent de fabriquer des alvéoles pendant des années après la naissance.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les poumons d'un bébé continuent de fabriquer des alvéoles pendant des années après la naissance ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20poumons%20d'un%20b%C3%A9b%C3%A9%20continuent%20de%20fabriquer%20des%20alv%C3%A9oles%20pendant%20des%20ann%C3%A9es%20apr%C3%A8s%20la%20naissance%20%3F",
+  "explanation": "À la naissance, les poumons ne comptent qu'une partie des quelque 300 à 500 millions d'alvéoles d'un adulte. Leur nombre augmente fortement pendant l'enfance, au moins jusqu'à l'âge de 2 ans et probablement au-delà selon des études récentes. C'est l'une des raisons pour lesquelles la qualité de l'air respiré par les enfants compte autant."
+ },
+ {
+  "text": "À la naissance, un bébé ne voit nettement qu'à 20 à 30 cm, la distance du visage de la personne qui le tient.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'à la naissance, un bébé ne voit nettement qu'à 20 à 30 cm, la distance du visage de la personne qui le tient ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%A0%20la%20naissance%2C%20un%20b%C3%A9b%C3%A9%20ne%20voit%20nettement%20qu'%C3%A0%2020%20%C3%A0%2030%20cm%2C%20la%20distance%20du%20visage%20de%20la%20personne%20qui%20le%20tient%20%3F",
+  "explanation": "La vision du nouveau-né est floue et peu sensible aux couleurs : il distingue surtout les contrastes et les visages proches. Elle s'améliore rapidement pendant les premiers mois, à mesure que la rétine et les zones visuelles du cerveau mûrissent. Vers 6 mois à un an, l'acuité s'approche de celle d'un adulte."
+ },
+ {
+  "text": "La plante des pieds compte plus de glandes sudoripares au cm² que presque n'importe quelle autre partie du corps.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la plante des pieds compte plus de glandes sudoripares au cm² que presque n'importe quelle autre partie du corps ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20plante%20des%20pieds%20compte%20plus%20de%20glandes%20sudoripares%20au%20cm%C2%B2%20que%20presque%20n'importe%20quelle%20autre%20partie%20du%20corps%20%3F",
+  "explanation": "Chaque pied possède environ 250 000 glandes sudoripares. La transpiration, enfermée dans les chaussures, favorise la prolifération de bactéries qui produisent les odeurs. La paume des mains en est aussi très riche."
+ },
+ {
+  "text": "Le nez peut garder en mémoire une odeur pendant des décennies et la lier à un souvenir précis.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le nez peut garder en mémoire une odeur pendant des décennies et la lier à un souvenir précis ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20nez%20peut%20garder%20en%20m%C3%A9moire%20une%20odeur%20pendant%20des%20d%C3%A9cennies%20et%20la%20lier%20%C3%A0%20un%20souvenir%20pr%C3%A9cis%20%3F",
+  "explanation": "Les informations olfactives sont traitées par des régions du cerveau proches de l'hippocampe et de l'amygdale, impliquées dans la mémoire et les émotions. C'est pourquoi une odeur peut faire resurgir un souvenir ancien avec beaucoup d'intensité. On parle d'effet madeleine de Proust."
+ },
+ {
+  "text": "Avoir la chair de poule est un réflexe hérité de nos ancêtres plus poilus.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'avoir la chair de poule est un réflexe hérité de nos ancêtres plus poilus ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'avoir%20la%20chair%20de%20poule%20est%20un%20r%C3%A9flexe%20h%C3%A9rit%C3%A9%20de%20nos%20anc%C3%AAtres%20plus%20poilus%20%3F",
+  "explanation": "Le froid ou une émotion font contracter de petits muscles à la base des poils, qui se dressent. Chez les animaux à fourrure, cela emprisonne de l'air et isole du froid, ou fait paraître plus gros face à une menace. Chez l'humain, avec peu de poils, l'effet est surtout visible."
+ },
+ {
+  "text": "Les gauchers représentent environ 10 % de la population mondiale, une proportion stable depuis des milliers d'années.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les gauchers représentent environ 10 % de la population mondiale, une proportion stable depuis des milliers d'années ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20gauchers%20repr%C3%A9sentent%20environ%2010%20%25%20de%20la%20population%20mondiale%2C%20une%20proportion%20stable%20depuis%20des%20milliers%20d'ann%C3%A9es%20%3F",
+  "explanation": "Des études d'outils préhistoriques et de peintures rupestres suggèrent que la proportion de gauchers était déjà d'environ 10 % il y a des milliers d'années. La latéralité dépendrait de facteurs génétiques et environnementaux complexes."
+ },
+ {
+  "text": "L'être humain est l'un des rares mammifères capables de transpirer abondamment pour se refroidir.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'être humain est l'un des rares mammifères capables de transpirer abondamment pour se refroidir ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'%C3%AAtre%20humain%20est%20l'un%20des%20rares%20mammif%C3%A8res%20capables%20de%20transpirer%20abondamment%20pour%20se%20refroidir%20%3F",
+  "explanation": "L'humain possède des millions de glandes sudoripares et peu de poils, ce qui permet une évaporation efficace. Cette capacité aurait permis à nos ancêtres de chasser à l'endurance, en poursuivant des proies jusqu'à leur épuisement. Les chevaux transpirent aussi beaucoup."
+ },
+ {
+  "text": "Le pouce a son propre muscle et sa propre zone importante dans le cerveau.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le pouce a son propre muscle et sa propre zone importante dans le cerveau ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20pouce%20a%20son%20propre%20muscle%20et%20sa%20propre%20zone%20importante%20dans%20le%20cerveau%20%3F",
+  "explanation": "Le pouce opposable est contrôlé par plusieurs muscles qui lui sont propres. Dans le cortex moteur, la zone qui contrôle la main et le pouce est proportionnellement très grande, ce qui reflète l'importance de la manipulation fine pour l'humain."
+ },
+ {
+  "text": "Le corps humain contient environ 0,2 milligramme d'or, surtout dans le sang.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le corps humain contient environ 0,2 milligramme d'or, surtout dans le sang ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20corps%20humain%20contient%20environ%200%2C2%20milligramme%20d'or%2C%20surtout%20dans%20le%20sang%20%3F",
+  "explanation": "On trouve des traces de nombreux éléments dans le corps humain, dont l'or, à hauteur d'environ 0,2 mg pour un adulte. Son rôle biologique éventuel est inconnu. Il faudrait des dizaines de milliers de personnes pour réunir de quoi fabriquer une bague."
+ },
+ {
+  "text": "On rêve environ 2 heures par nuit, même quand on ne s'en souvient pas.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'on rêve environ 2 heures par nuit, même quand on ne s'en souvient pas ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'on%20r%C3%AAve%20environ%202%20heures%20par%20nuit%2C%20m%C3%AAme%20quand%20on%20ne%20s'en%20souvient%20pas%20%3F",
+  "explanation": "Les rêves les plus vifs surviennent pendant le sommeil paradoxal, qui revient par cycles d'environ 90 minutes. On en oublie la grande majorité au réveil. Se réveiller pendant une phase de rêve augmente les chances de s'en souvenir."
+ },
+ {
+  "text": "La couleur des yeux de beaucoup de bébés change pendant la première année.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la couleur des yeux de beaucoup de bébés change pendant la première année ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20couleur%20des%20yeux%20de%20beaucoup%20de%20b%C3%A9b%C3%A9s%20change%20pendant%20la%20premi%C3%A8re%20ann%C3%A9e%20%3F",
+  "explanation": "Beaucoup de bébés naissent avec des yeux clairs, car la mélanine de l'iris n'est pas encore produite en quantité. Elle augmente au cours des premiers mois, et la couleur peut foncer jusqu'à environ un an, parfois un peu plus tard. La couleur dépend de plusieurs gènes."
+ },
+ {
+  "text": "Sur la Lune, une personne de 70 kg ne pèserait qu'environ 12 kg sur une balance.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que sur la Lune, une personne de 70 kg ne pèserait qu'environ 12 kg sur une balance ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20sur%20la%20Lune%2C%20une%20personne%20de%2070%20kg%20ne%20p%C3%A8serait%20qu'environ%2012%20kg%20sur%20une%20balance%20%3F",
+  "explanation": "La gravité à la surface de la Lune est environ six fois plus faible que sur Terre. La masse d'une personne reste la même, mais la force qui l'attire vers le sol, et donc ce qu'affiche une balance, est divisée par six. C'est pourquoi les astronautes d'Apollo se déplaçaient par bonds."
+ },
+ {
+  "text": "L'espace n'est pas totalement silencieux pour les instruments : la NASA a converti en sons les ondes de pression autour d'un trou noir.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'espace n'est pas totalement silencieux pour les instruments : la NASA a converti en sons les ondes de pression autour d'un trou noir ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'espace%20n'est%20pas%20totalement%20silencieux%20pour%20les%20instruments%20%3A%20la%20NASA%20a%20converti%20en%20sons%20les%20ondes%20de%20pression%20autour%20d'un%20trou%20noir%20%3F",
+  "explanation": "Le son ne se propage pas dans le vide, mais les nuages de gaz des amas de galaxies sont assez denses pour transmettre des ondes de pression. En 2022, la NASA a « sonifié » les données du télescope Chandra sur l'amas de Persée, en accélérant ces ondes pour les rendre audibles."
+ },
+ {
+  "text": "Une journée sur Terre durait environ 4 heures de moins à l'époque des dinosaures.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une journée sur Terre durait environ 4 heures de moins à l'époque des dinosaures ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20journ%C3%A9e%20sur%20Terre%20durait%20environ%204%20heures%20de%20moins%20%C3%A0%20l'%C3%A9poque%20des%20dinosaures%20%3F",
+  "explanation": "La rotation de la Terre ralentit très lentement à cause des marées provoquées par la Lune. Il y a 70 millions d'années, une journée durait environ 23 heures et demie. Il y a plus d'un milliard d'années, elle aurait duré moins de 20 heures. Les cernes de coquillages fossiles permettent de mesurer ce changement."
+ },
+ {
+  "text": "La lumière des étoiles que nous voyons peut provenir d'étoiles qui n'existent plus.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la lumière des étoiles que nous voyons peut provenir d'étoiles qui n'existent plus ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20lumi%C3%A8re%20des%20%C3%A9toiles%20que%20nous%20voyons%20peut%20provenir%20d'%C3%A9toiles%20qui%20n'existent%20plus%20%3F",
+  "explanation": "La lumière met du temps à nous parvenir : des années à des milliers d'années pour les étoiles visibles à l'œil nu. Nous les voyons donc telles qu'elles étaient dans le passé. La plupart des étoiles visibles sont encore là, mais certaines, très massives et lointaines, ont pu exploser depuis."
+ },
+ {
+  "text": "Le Soleil représente environ 99,8 % de la masse du système solaire.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Soleil représente environ 99,8 % de la masse du système solaire ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Soleil%20repr%C3%A9sente%20environ%2099%2C8%20%25%20de%20la%20masse%20du%20syst%C3%A8me%20solaire%20%3F",
+  "explanation": "Toutes les planètes, lunes, astéroïdes et comètes réunis ne pèsent qu'environ 0,2 % du système solaire, dont la majeure partie est Jupiter. Le Soleil est pourtant une étoile de taille moyenne."
+ },
+ {
+  "text": "Mars a les plus hauts volcans connus du système solaire : Olympus Mons fait environ 22 km de haut, presque trois fois l'Everest.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que Mars a les plus hauts volcans connus du système solaire : Olympus Mons fait environ 22 km de haut, presque trois fois l'Everest ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Mars%20a%20les%20plus%20hauts%20volcans%20connus%20du%20syst%C3%A8me%20solaire%20%3A%20Olympus%20Mons%20fait%20environ%2022%20km%20de%20haut%2C%20presque%20trois%20fois%20l'Everest%20%3F",
+  "explanation": "Olympus Mons est un volcan bouclier géant, d'environ 600 km de large. Sur Mars, l'absence de tectonique des plaques a permis au magma de s'accumuler au même endroit pendant très longtemps. Sa pente est si douce qu'un marcheur au sommet ne verrait pas qu'il est sur une montagne."
+ },
+ {
+  "text": "Il pleut de l'acide sulfurique sur Vénus, mais il s'évapore avant d'atteindre le sol.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il pleut de l'acide sulfurique sur Vénus, mais il s'évapore avant d'atteindre le sol ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20pleut%20de%20l'acide%20sulfurique%20sur%20V%C3%A9nus%2C%20mais%20il%20s'%C3%A9vapore%20avant%20d'atteindre%20le%20sol%20%3F",
+  "explanation": "Les nuages de Vénus sont composés de gouttelettes d'acide sulfurique. La température au sol dépasse 460 °C, si bien que la pluie s'évapore en tombant. On appelle ces pluies qui ne touchent pas le sol des virgas."
+ },
+ {
+  "text": "Un astronaute en orbite voit environ 16 levers et couchers de soleil par jour.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un astronaute en orbite voit environ 16 levers et couchers de soleil par jour ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20astronaute%20en%20orbite%20voit%20environ%2016%20levers%20et%20couchers%20de%20soleil%20par%20jour%20%3F",
+  "explanation": "La Station spatiale internationale fait le tour de la Terre en environ 90 minutes, à environ 28 000 km/h. Les astronautes passent donc régulièrement du jour à la nuit. Pour garder un rythme, ils suivent l'heure universelle et dorment à heures fixes."
+ },
+ {
+  "text": "La Grande Tache rouge de Jupiter est une tempête plus grande que la Terre, observée depuis au moins 1830.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Grande Tache rouge de Jupiter est une tempête plus grande que la Terre, observée depuis au moins 1830 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Grande%20Tache%20rouge%20de%20Jupiter%20est%20une%20temp%C3%AAte%20plus%20grande%20que%20la%20Terre%2C%20observ%C3%A9e%20depuis%20au%20moins%201830%20%3F",
+  "explanation": "Cette tempête anticyclonique est suivie en continu depuis 1830, et peut-être observée dès 1665. Elle rétrécit depuis plusieurs décennies : elle pourrait aujourd'hui contenir une seule Terre environ, contre trois au XIXe siècle."
+ },
+ {
+  "text": "Sur Saturne et Jupiter, il n'y a pas de surface solide sur laquelle se poser.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que sur Saturne et Jupiter, il n'y a pas de surface solide sur laquelle se poser ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20sur%20Saturne%20et%20Jupiter%2C%20il%20n'y%20a%20pas%20de%20surface%20solide%20sur%20laquelle%20se%20poser%20%3F",
+  "explanation": "Ces géantes gazeuses sont composées principalement d'hydrogène et d'hélium. En descendant, la pression et la température augmentent jusqu'à transformer l'hydrogène en liquide, puis en un état métallique. Une sonde serait écrasée bien avant d'atteindre un éventuel noyau solide."
+ },
+ {
+  "text": "Une boule de neige sur Pluton ne fondrait jamais : la température y est d'environ −230 °C.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une boule de neige sur Pluton ne fondrait jamais : la température y est d'environ −230 °C ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20boule%20de%20neige%20sur%20Pluton%20ne%20fondrait%20jamais%20%3A%20la%20temp%C3%A9rature%20y%20est%20d'environ%20%E2%88%92230%20%C2%B0C%20%3F",
+  "explanation": "Pluton orbite très loin du Soleil, à environ 40 fois la distance Terre-Soleil en moyenne. Sa surface est recouverte de glaces d'azote, de méthane et de monoxyde de carbone. La sonde New Horizons y a découvert en 2015 des montagnes de glace d'eau et une vaste plaine en forme de cœur."
+ },
+ {
+  "text": "Le premier être vivant en orbite autour de la Terre était une chienne, Laïka, en 1957.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier être vivant en orbite autour de la Terre était une chienne, Laïka, en 1957 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20%C3%AAtre%20vivant%20en%20orbite%20autour%20de%20la%20Terre%20%C3%A9tait%20une%20chienne%2C%20La%C3%AFka%2C%20en%201957%20%3F",
+  "explanation": "Laïka a été lancée à bord de Spoutnik 2 le 3 novembre 1957. Elle est morte de surchauffe quelques heures après le lancement, car le retour n'était pas prévu. Sa mission a montré qu'un être vivant pouvait supporter le lancement et l'apesanteur. Un monument lui rend hommage à Moscou."
+ },
+ {
+  "text": "Il y a environ 10 000 satellites actifs autour de la Terre, et le nombre augmente très vite.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il y a environ 10 000 satellites actifs autour de la Terre, et le nombre augmente très vite ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20y%20a%20environ%2010%20000%20satellites%20actifs%20autour%20de%20la%20Terre%2C%20et%20le%20nombre%20augmente%20tr%C3%A8s%20vite%20%3F",
+  "explanation": "Le nombre de satellites a explosé depuis 2019 avec les constellations de satellites Internet comme Starlink. Les astronomes s'inquiètent de leurs traînées lumineuses sur les images de télescope et de l'augmentation des débris spatiaux."
+ },
+ {
+  "text": "Le dioxyde de carbone gelé, la « glace sèche », passe directement de l'état solide à l'état gazeux.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le dioxyde de carbone gelé, la « glace sèche », passe directement de l'état solide à l'état gazeux ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20dioxyde%20de%20carbone%20gel%C3%A9%2C%20la%20%C2%AB%20glace%20s%C3%A8che%20%C2%BB%2C%20passe%20directement%20de%20l'%C3%A9tat%20solide%20%C3%A0%20l'%C3%A9tat%20gazeux%20%3F",
+  "explanation": "À pression atmosphérique, le CO2 ne peut pas exister sous forme liquide : il se sublime à −78,5 °C. La glace sèche produit un brouillard blanc quand elle est plongée dans l'eau chaude. Elle peut provoquer des brûlures par le froid et ne doit pas être enfermée dans un récipient hermétique."
+ },
+ {
+  "text": "L'eau peut bouillir et geler en même temps : c'est le point triple.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'eau peut bouillir et geler en même temps : c'est le point triple ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'eau%20peut%20bouillir%20et%20geler%20en%20m%C3%AAme%20temps%20%3A%20c'est%20le%20point%20triple%20%3F",
+  "explanation": "À une température de 0,01 °C et une pression d'environ 0,006 atmosphère, l'eau peut exister simultanément sous forme solide, liquide et gazeuse. Ce point triple servait à définir le kelvin, l'unité de température, avant 2019."
+ },
+ {
+  "text": "Le verre est fabriqué à partir de sable fondu à plus de 1 500 °C.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le verre est fabriqué à partir de sable fondu à plus de 1 500 °C ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20verre%20est%20fabriqu%C3%A9%20%C3%A0%20partir%20de%20sable%20fondu%20%C3%A0%20plus%20de%201%20500%20%C2%B0C%20%3F",
+  "explanation": "Le verre ordinaire est principalement composé de silice, le principal constituant du sable. On y ajoute du carbonate de sodium et de la chaux pour abaisser la température de fusion et le rendre plus résistant. Refroidi rapidement, il devient un solide amorphe, sans structure cristalline."
+ },
+ {
+  "text": "L'hélium est le seul élément qui ne gèle pas à pression normale, même au zéro absolu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'hélium est le seul élément qui ne gèle pas à pression normale, même au zéro absolu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'h%C3%A9lium%20est%20le%20seul%20%C3%A9l%C3%A9ment%20qui%20ne%20g%C3%A8le%20pas%20%C3%A0%20pression%20normale%2C%20m%C3%AAme%20au%20z%C3%A9ro%20absolu%20%3F",
+  "explanation": "À pression atmosphérique, l'hélium reste liquide jusqu'à la température la plus basse possible. Les effets quantiques empêchent ses atomes de se figer en réseau. Il faut une pression d'environ 25 fois la pression atmosphérique pour le solidifier."
+ },
+ {
+  "text": "L'hélium a été découvert dans le Soleil avant d'être trouvé sur Terre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'hélium a été découvert dans le Soleil avant d'être trouvé sur Terre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'h%C3%A9lium%20a%20%C3%A9t%C3%A9%20d%C3%A9couvert%20dans%20le%20Soleil%20avant%20d'%C3%AAtre%20trouv%C3%A9%20sur%20Terre%20%3F",
+  "explanation": "En 1868, lors d'une éclipse, les astronomes Jules Janssen et Norman Lockyer ont observé une raie jaune inconnue dans le spectre du Soleil. Lockyer a nommé l'élément hélium, d'après le mot grec pour Soleil. Il n'a été isolé sur Terre qu'en 1895."
+ },
+ {
+  "text": "Un bout de diamant et un bout de mine de crayon sont faits du même élément : le carbone.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un bout de diamant et un bout de mine de crayon sont faits du même élément : le carbone ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20bout%20de%20diamant%20et%20un%20bout%20de%20mine%20de%20crayon%20sont%20faits%20du%20m%C3%AAme%20%C3%A9l%C3%A9ment%20%3A%20le%20carbone%20%3F",
+  "explanation": "Le diamant et le graphite sont deux formes du carbone. Dans le diamant, chaque atome est lié à quatre voisins dans une structure rigide, d'où sa dureté. Dans le graphite, les atomes forment des feuillets qui glissent les uns sur les autres, d'où sa capacité à laisser une trace."
+ },
+ {
+  "text": "La foudre frappe la Terre environ 40 à 50 fois par seconde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la foudre frappe la Terre environ 40 à 50 fois par seconde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20foudre%20frappe%20la%20Terre%20environ%2040%20%C3%A0%2050%20fois%20par%20seconde%20%3F",
+  "explanation": "Des satellites qui détectent les éclairs ont permis d'estimer qu'il y a environ 1,4 milliard d'éclairs par an dans le monde. Ils sont beaucoup plus fréquents sur les continents, notamment dans les zones tropicales. Le lac Maracaibo, au Venezuela, est l'un des endroits les plus foudroyés au monde."
+ },
+ {
+  "text": "La foudre peut frapper deux fois au même endroit : l'Empire State Building est frappé environ 20 à 25 fois par an.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la foudre peut frapper deux fois au même endroit : l'Empire State Building est frappé environ 20 à 25 fois par an ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20foudre%20peut%20frapper%20deux%20fois%20au%20m%C3%AAme%20endroit%20%3A%20l'Empire%20State%20Building%20est%20frapp%C3%A9%20environ%2020%20%C3%A0%2025%20fois%20par%20an%20%3F",
+  "explanation": "Contrairement au dicton, la foudre frappe souvent les mêmes endroits, surtout les points hauts et isolés. Les gratte-ciel, les antennes et les arbres solitaires sont des cibles fréquentes. C'est pourquoi on les équipe de paratonnerres."
+ },
+ {
+  "text": "Le son voyage environ quatre fois plus vite dans l'eau que dans l'air.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le son voyage environ quatre fois plus vite dans l'eau que dans l'air ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20son%20voyage%20environ%20quatre%20fois%20plus%20vite%20dans%20l'eau%20que%20dans%20l'air%20%3F",
+  "explanation": "Dans l'air, le son voyage à environ 343 m/s. Dans l'eau, il atteint environ 1 500 m/s, et dans l'acier plus de 5 000 m/s. Les molécules plus rapprochées transmettent plus vite les vibrations. C'est pourquoi les baleines communiquent sur de longues distances."
+ },
+ {
+  "text": "Le verre de quartz résiste à un choc thermique extrême : chauffé au rouge, il peut être plongé dans l'eau froide sans se briser.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le verre de quartz résiste à un choc thermique extrême : chauffé au rouge, il peut être plongé dans l'eau froide sans se briser ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20verre%20de%20quartz%20r%C3%A9siste%20%C3%A0%20un%20choc%20thermique%20extr%C3%AAme%20%3A%20chauff%C3%A9%20au%20rouge%2C%20il%20peut%20%C3%AAtre%20plong%C3%A9%20dans%20l'eau%20froide%20sans%20se%20briser%20%3F",
+  "explanation": "La silice fondue se dilate très peu avec la chaleur, ce qui évite les tensions qui font éclater le verre ordinaire. Elle est utilisée pour les lampes à haute température, les instruments de laboratoire et certains hublots de vaisseaux spatiaux."
+ },
+ {
+  "text": "Le point le plus froid connu dans l'Univers naturel est la nébuleuse du Boomerang, à environ −272 °C.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le point le plus froid connu dans l'Univers naturel est la nébuleuse du Boomerang, à environ −272 °C ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20point%20le%20plus%20froid%20connu%20dans%20l'Univers%20naturel%20est%20la%20n%C3%A9buleuse%20du%20Boomerang%2C%20%C3%A0%20environ%20%E2%88%92272%20%C2%B0C%20%3F",
+  "explanation": "La nébuleuse du Boomerang est un nuage de gaz expulsé par une étoile mourante, à environ 5 000 années-lumière. Le gaz en expansion rapide se refroidit à environ 1 K, plus froid que le rayonnement du fond diffus cosmologique (2,7 K). Les laboratoires terrestres atteignent cependant des températures encore plus basses."
+ },
+ {
+  "text": "Les laboratoires ont produit des températures à moins d'un milliardième de degré du zéro absolu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les laboratoires ont produit des températures à moins d'un milliardième de degré du zéro absolu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20laboratoires%20ont%20produit%20des%20temp%C3%A9ratures%20%C3%A0%20moins%20d'un%20milliardi%C3%A8me%20de%20degr%C3%A9%20du%20z%C3%A9ro%20absolu%20%3F",
+  "explanation": "En refroidissant des atomes avec des lasers et des pièges magnétiques, des physiciens atteignent des températures de l'ordre du nanokelvin, voire moins. Ces conditions permettent d'étudier des états de la matière comme les condensats de Bose-Einstein."
+ },
+ {
+  "text": "Si la Terre avait la taille d'une bille, le Soleil serait une boule d'environ 1,4 m à 150 mètres de distance.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que si la Terre avait la taille d'une bille, le Soleil serait une boule d'environ 1,4 m à 150 mètres de distance ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20si%20la%20Terre%20avait%20la%20taille%20d'une%20bille%2C%20le%20Soleil%20serait%20une%20boule%20d'environ%201%2C4%20m%20%C3%A0%20150%20m%C3%A8tres%20de%20distance%20%3F",
+  "explanation": "Le diamètre du Soleil est environ 109 fois celui de la Terre. Pour une Terre de 1,3 cm, le Soleil ferait environ 1,4 m et serait à environ 150 m. Les planètes les plus lointaines seraient à plusieurs kilomètres. Cette échelle montre le vide immense du système solaire."
+ },
+ {
+  "text": "On ne peut pas voir le côté caché de la Lune depuis la Terre, car elle tourne sur elle-même à la même vitesse qu'elle tourne autour de nous.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'on ne peut pas voir le côté caché de la Lune depuis la Terre, car elle tourne sur elle-même à la même vitesse qu'elle tourne autour de nous ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'on%20ne%20peut%20pas%20voir%20le%20c%C3%B4t%C3%A9%20cach%C3%A9%20de%20la%20Lune%20depuis%20la%20Terre%2C%20car%20elle%20tourne%20sur%20elle-m%C3%AAme%20%C3%A0%20la%20m%C3%AAme%20vitesse%20qu'elle%20tourne%20autour%20de%20nous%20%3F",
+  "explanation": "La Lune est en rotation synchrone : elle met environ 27 jours à faire un tour sur elle-même et autant pour faire le tour de la Terre. Elle nous présente donc toujours la même face. La face cachée n'est pas sombre : elle reçoit autant de lumière du Soleil. Elle a été photographiée pour la première fois en 1959 par la sonde Luna 3."
+ },
+ {
+  "text": "Le dernier homme à avoir marché sur la Lune, Eugene Cernan, y a tracé les initiales de sa fille dans la poussière.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le dernier homme à avoir marché sur la Lune, Eugene Cernan, y a tracé les initiales de sa fille dans la poussière ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20dernier%20homme%20%C3%A0%20avoir%20march%C3%A9%20sur%20la%20Lune%2C%20Eugene%20Cernan%2C%20y%20a%20trac%C3%A9%20les%20initiales%20de%20sa%20fille%20dans%20la%20poussi%C3%A8re%20%3F",
+  "explanation": "Lors de la mission Apollo 17 en décembre 1972, Eugene Cernan a tracé « TDC », les initiales de sa fille Tracy, dans le sol lunaire. Sans vent ni pluie, ces lettres pourraient rester visibles très longtemps. Aucun humain n'est retourné sur la Lune depuis."
+ },
+ {
+  "text": "Le béton romain est plus durable que beaucoup de bétons modernes, grâce à de petits morceaux de chaux qui « réparent » les fissures.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le béton romain est plus durable que beaucoup de bétons modernes, grâce à de petits morceaux de chaux qui « réparent » les fissures ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20b%C3%A9ton%20romain%20est%20plus%20durable%20que%20beaucoup%20de%20b%C3%A9tons%20modernes%2C%20gr%C3%A2ce%20%C3%A0%20de%20petits%20morceaux%20de%20chaux%20qui%20%C2%AB%20r%C3%A9parent%20%C2%BB%20les%20fissures%20%3F",
+  "explanation": "En 2023, des chercheurs du MIT ont montré que les inclusions de chaux du béton romain réagissent avec l'eau qui s'infiltre dans les fissures, ce qui reforme du carbonate de calcium et colmate les fissures. Ce mécanisme expliquerait la longévité de monuments comme le Panthéon, toujours debout après près de 2 000 ans."
+ },
+ {
+  "text": "Le Panthéon de Rome possède depuis près de 2 000 ans la plus grande coupole en béton non armé du monde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Panthéon de Rome possède depuis près de 2 000 ans la plus grande coupole en béton non armé du monde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Panth%C3%A9on%20de%20Rome%20poss%C3%A8de%20depuis%20pr%C3%A8s%20de%202%20000%20ans%20la%20plus%20grande%20coupole%20en%20b%C3%A9ton%20non%20arm%C3%A9%20du%20monde%20%3F",
+  "explanation": "Achevée vers 125 apr. J.-C., la coupole du Panthéon mesure environ 43 mètres de diamètre. Les bâtisseurs ont utilisé des matériaux de plus en plus légers vers le sommet, comme la pierre ponce. L'oculus, ouverture centrale de 9 mètres, allège encore la structure."
+ },
+ {
+  "text": "Un aimant coupé en deux donne deux aimants, chacun avec un pôle nord et un pôle sud.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un aimant coupé en deux donne deux aimants, chacun avec un pôle nord et un pôle sud ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20aimant%20coup%C3%A9%20en%20deux%20donne%20deux%20aimants%2C%20chacun%20avec%20un%20p%C3%B4le%20nord%20et%20un%20p%C3%B4le%20sud%20%3F",
+  "explanation": "Les propriétés magnétiques viennent de l'alignement des moments magnétiques des atomes. Couper un aimant ne permet pas d'isoler un pôle : chaque morceau a toujours ses deux pôles. Les physiciens cherchent depuis longtemps un hypothétique « monopôle magnétique », jamais observé."
+ },
+ {
+  "text": "Les pôles magnétiques de la Terre se sont inversés des centaines de fois au cours de son histoire.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les pôles magnétiques de la Terre se sont inversés des centaines de fois au cours de son histoire ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20p%C3%B4les%20magn%C3%A9tiques%20de%20la%20Terre%20se%20sont%20invers%C3%A9s%20des%20centaines%20de%20fois%20au%20cours%20de%20son%20histoire%20%3F",
+  "explanation": "Les roches volcaniques enregistrent la direction du champ magnétique au moment de leur refroidissement. Elles montrent que le nord et le sud magnétiques se sont inversés de nombreuses fois. La dernière inversion complète date d'environ 780 000 ans. Le pôle Nord magnétique se déplace actuellement de plusieurs dizaines de kilomètres par an."
+ },
+ {
+  "text": "Le noyau interne de la Terre est aussi chaud que la surface du Soleil, environ 5 000 °C.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le noyau interne de la Terre est aussi chaud que la surface du Soleil, environ 5 000 °C ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20noyau%20interne%20de%20la%20Terre%20est%20aussi%20chaud%20que%20la%20surface%20du%20Soleil%2C%20environ%205%20000%20%C2%B0C%20%3F",
+  "explanation": "Le noyau interne est une boule de fer et de nickel solide, d'environ 1 220 km de rayon. Malgré sa température d'environ 5 000 à 6 000 °C, la pression énorme le maintient à l'état solide. Il est entouré d'un noyau externe liquide, dont les mouvements génèrent le champ magnétique terrestre."
+ },
+ {
+  "text": "Nous n'avons jamais creusé plus loin qu'environ 12 km dans la croûte terrestre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que nous n'avons jamais creusé plus loin qu'environ 12 km dans la croûte terrestre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20nous%20n'avons%20jamais%20creus%C3%A9%20plus%20loin%20qu'environ%2012%20km%20dans%20la%20cro%C3%BBte%20terrestre%20%3F",
+  "explanation": "Le forage de Kola, en Russie, a atteint 12 262 mètres en 1989, le trou le plus profond jamais creusé. À cette profondeur, la température atteignait 180 °C et la roche se comportait de façon plastique. Cela représente à peine 0,2 % du rayon de la Terre."
+ },
+ {
+  "text": "La Terre n'est pas parfaitement ronde : elle est légèrement aplatie aux pôles.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Terre n'est pas parfaitement ronde : elle est légèrement aplatie aux pôles ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Terre%20n'est%20pas%20parfaitement%20ronde%20%3A%20elle%20est%20l%C3%A9g%C3%A8rement%20aplatie%20aux%20p%C3%B4les%20%3F",
+  "explanation": "La rotation de la Terre crée un renflement à l'équateur. Le rayon équatorial est environ 21 km plus grand que le rayon polaire. Isaac Newton avait prédit cet aplatissement, confirmé par des expéditions françaises en Laponie et au Pérou au XVIIIe siècle."
+ },
+ {
+  "text": "Une seule éruption volcanique, celle du Tambora en 1815, a provoqué une « année sans été » en Europe et en Amérique.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une seule éruption volcanique, celle du Tambora en 1815, a provoqué une « année sans été » en Europe et en Amérique ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20seule%20%C3%A9ruption%20volcanique%2C%20celle%20du%20Tambora%20en%201815%2C%20a%20provoqu%C3%A9%20une%20%C2%AB%20ann%C3%A9e%20sans%20%C3%A9t%C3%A9%20%C2%BB%20en%20Europe%20et%20en%20Am%C3%A9rique%20%3F",
+  "explanation": "L'éruption du Tambora, en Indonésie, a projeté d'énormes quantités de cendres et de soufre dans la haute atmosphère, ce qui a refroidi le climat mondial. En 1816, des récoltes ont été perdues et des famines ont touché l'Europe et l'Amérique du Nord. Cet été pluvieux a aussi inspiré Mary Shelley pour Frankenstein."
+ },
+ {
+  "text": "Frankenstein est né d'un concours d'histoires de fantômes pendant un été pourri, en 1816.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que Frankenstein est né d'un concours d'histoires de fantômes pendant un été pourri, en 1816 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Frankenstein%20est%20n%C3%A9%20d'un%20concours%20d'histoires%20de%20fant%C3%B4mes%20pendant%20un%20%C3%A9t%C3%A9%20pourri%2C%20en%201816%20%3F",
+  "explanation": "Bloqués par le mauvais temps dans une villa près du lac Léman, Mary Shelley, Percy Shelley, Lord Byron et John Polidori se sont lancé le défi d'écrire une histoire de fantômes. Mary Shelley, alors âgée de 18 ans, a imaginé Frankenstein. Polidori a écrit « Le Vampire », l'un des premiers récits de vampire modernes."
+ },
+ {
+  "text": "Le Soleil n'est pas jaune : vu de l'espace, sa lumière est blanche.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Soleil n'est pas jaune : vu de l'espace, sa lumière est blanche ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Soleil%20n'est%20pas%20jaune%20%3A%20vu%20de%20l'espace%2C%20sa%20lumi%C3%A8re%20est%20blanche%20%3F",
+  "explanation": "Le Soleil émet toutes les couleurs de la lumière visible, ce qui donne du blanc. Depuis le sol, l'atmosphère diffuse davantage le bleu, ce qui fait paraître le Soleil plus jaune, et orange ou rouge quand il est bas sur l'horizon. Les astronautes le décrivent comme blanc."
+ },
+ {
+  "text": "Le ciel est bleu parce que l'atmosphère diffuse beaucoup plus la lumière bleue que la rouge.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le ciel est bleu parce que l'atmosphère diffuse beaucoup plus la lumière bleue que la rouge ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20ciel%20est%20bleu%20parce%20que%20l'atmosph%C3%A8re%20diffuse%20beaucoup%20plus%20la%20lumi%C3%A8re%20bleue%20que%20la%20rouge%20%3F",
+  "explanation": "Les molécules d'air diffusent davantage les courtes longueurs d'onde, comme le bleu : c'est la diffusion de Rayleigh. Le ciel apparaît donc bleu dans toutes les directions. Le violet est encore plus diffusé, mais nos yeux y sont moins sensibles et une partie est absorbée en haute altitude."
+ },
+ {
+  "text": "Un éclair de chaleur n'existe pas : c'est un orage trop lointain pour qu'on entende le tonnerre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un éclair de chaleur n'existe pas : c'est un orage trop lointain pour qu'on entende le tonnerre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20%C3%A9clair%20de%20chaleur%20n'existe%20pas%20%3A%20c'est%20un%20orage%20trop%20lointain%20pour%20qu'on%20entende%20le%20tonnerre%20%3F",
+  "explanation": "On parle parfois d'éclairs de chaleur lors des soirées d'été sans orage apparent. Il s'agit en réalité d'éclairs produits par un orage situé à plus de 15 à 20 km, trop loin pour que le son du tonnerre nous parvienne, mais dont la lumière est visible."
+ },
+ {
+  "text": "En comptant les secondes entre l'éclair et le tonnerre et en divisant par trois, on obtient la distance de l'orage en kilomètres.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'en comptant les secondes entre l'éclair et le tonnerre et en divisant par trois, on obtient la distance de l'orage en kilomètres ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'en%20comptant%20les%20secondes%20entre%20l'%C3%A9clair%20et%20le%20tonnerre%20et%20en%20divisant%20par%20trois%2C%20on%20obtient%20la%20distance%20de%20l'orage%20en%20kilom%C3%A8tres%20%3F",
+  "explanation": "La lumière arrive presque instantanément, alors que le son voyage à environ 340 m/s, soit environ 1 km toutes les 3 secondes. Cette règle simple permet d'estimer si un orage s'approche. Si le tonnerre suit l'éclair en moins de 30 secondes, il est conseillé de se mettre à l'abri."
+ },
+ {
+  "text": "Un grain de sable sur une plage peut avoir été un morceau de montagne il y a des millions d'années.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un grain de sable sur une plage peut avoir été un morceau de montagne il y a des millions d'années ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20grain%20de%20sable%20sur%20une%20plage%20peut%20avoir%20%C3%A9t%C3%A9%20un%20morceau%20de%20montagne%20il%20y%20a%20des%20millions%20d'ann%C3%A9es%20%3F",
+  "explanation": "Le sable provient de l'érosion des roches par l'eau, le vent et la glace. Les grains de quartz, très résistants, peuvent être recyclés à travers plusieurs cycles d'érosion et de sédimentation. Sur certaines plages tropicales, le sable blanc provient en grande partie de coraux broyés et digérés par les poissons-perroquets."
+ },
+ {
+  "text": "Le sable blanc de certaines plages tropicales est en partie fabriqué par les poissons-perroquets.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le sable blanc de certaines plages tropicales est en partie fabriqué par les poissons-perroquets ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20sable%20blanc%20de%20certaines%20plages%20tropicales%20est%20en%20partie%20fabriqu%C3%A9%20par%20les%20poissons-perroquets%20%3F",
+  "explanation": "Les poissons-perroquets grignotent les coraux pour manger les algues qui s'y trouvent. Ils broient le calcaire et le rejettent sous forme de fin sable blanc. Un gros poisson-perroquet peut produire plusieurs centaines de kilos de sable par an."
+ },
+ {
+  "text": "Le soleil couchant que nous voyons a déjà disparu sous l'horizon depuis quelques minutes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le soleil couchant que nous voyons a déjà disparu sous l'horizon depuis quelques minutes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20soleil%20couchant%20que%20nous%20voyons%20a%20d%C3%A9j%C3%A0%20disparu%20sous%20l'horizon%20depuis%20quelques%20minutes%20%3F",
+  "explanation": "L'atmosphère courbe les rayons lumineux, un phénomène appelé réfraction. Quand le Soleil semble toucher l'horizon, il est en réalité déjà en dessous. Cet effet allonge un peu la durée du jour, de quelques minutes."
+ },
+ {
+  "text": "Les arcs-en-ciel peuvent apparaître la nuit, grâce à la lumière de la Lune.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les arcs-en-ciel peuvent apparaître la nuit, grâce à la lumière de la Lune ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20arcs-en-ciel%20peuvent%20appara%C3%AEtre%20la%20nuit%2C%20gr%C3%A2ce%20%C3%A0%20la%20lumi%C3%A8re%20de%20la%20Lune%20%3F",
+  "explanation": "Un arc-en-ciel lunaire, ou arc lunaire, se forme quand la lumière de la Lune traverse des gouttes d'eau. Il est beaucoup plus pâle qu'un arc-en-ciel de jour et paraît souvent blanc à l'œil nu, car nos yeux perçoivent mal les couleurs dans la pénombre. On en voit près de certaines chutes d'eau, comme celles de Victoria."
+ },
+ {
+  "text": "Le premier objet humain à avoir quitté le système solaire est la sonde Voyager 1, lancée en 1977.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier objet humain à avoir quitté le système solaire est la sonde Voyager 1, lancée en 1977 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20objet%20humain%20%C3%A0%20avoir%20quitt%C3%A9%20le%20syst%C3%A8me%20solaire%20est%20la%20sonde%20Voyager%201%2C%20lanc%C3%A9e%20en%201977%20%3F",
+  "explanation": "Voyager 1 a franchi l'héliopause, la limite de l'influence du vent solaire, en 2012. Elle se trouve à plus de 24 milliards de km de la Terre, et ses signaux mettent plus de 22 heures à nous parvenir. Elle transporte un disque d'or contenant des sons et des images de la Terre."
+ },
+ {
+  "text": "Une cuillère d'eau contient plus de molécules qu'il n'y a de cuillères d'eau dans tous les océans.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une cuillère d'eau contient plus de molécules qu'il n'y a de cuillères d'eau dans tous les océans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20cuill%C3%A8re%20d'eau%20contient%20plus%20de%20mol%C3%A9cules%20qu'il%20n'y%20a%20de%20cuill%C3%A8res%20d'eau%20dans%20tous%20les%20oc%C3%A9ans%20%3F",
+  "explanation": "Une cuillère à soupe d'eau, environ 15 ml, contient environ 5 × 10^23 molécules. Les océans contiennent environ 1,3 × 10^21 litres, soit environ 10^23 cuillères. Il y a donc plus de molécules dans une cuillère que de cuillères dans les océans."
+ },
+ {
+  "text": "Chaque verre d'eau que l'on boit contient probablement quelques molécules qui sont passées par un dinosaure.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que chaque verre d'eau que l'on boit contient probablement quelques molécules qui sont passées par un dinosaure ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20chaque%20verre%20d'eau%20que%20l'on%20boit%20contient%20probablement%20quelques%20mol%C3%A9cules%20qui%20sont%20pass%C3%A9es%20par%20un%20dinosaure%20%3F",
+  "explanation": "L'eau de la Terre circule en permanence entre océans, atmosphère, sols et êtres vivants. Comme un verre contient un nombre gigantesque de molécules et que l'eau terrestre a été recyclée pendant des milliards d'années, il est statistiquement très probable qu'une partie ait été bue par des dinosaures."
+ },
+ {
+  "text": "L'Everest grandit encore de quelques millimètres par an.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Everest grandit encore de quelques millimètres par an ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Everest%20grandit%20encore%20de%20quelques%20millim%C3%A8tres%20par%20an%20%3F",
+  "explanation": "La collision entre les plaques indienne et eurasienne continue de soulever l'Himalaya. Les mesures GPS indiquent une hausse de l'ordre de quelques millimètres par an pour l'Everest. Une étude de 2024 suggère qu'une partie de ce soulèvement vient aussi de l'érosion d'une rivière voisine, qui allège la croûte."
+ },
+ {
+  "text": "Il faudrait environ 1,3 million de Terres pour remplir le Soleil.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il faudrait environ 1,3 million de Terres pour remplir le Soleil ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20faudrait%20environ%201%2C3%20million%20de%20Terres%20pour%20remplir%20le%20Soleil%20%3F",
+  "explanation": "Le volume du Soleil est environ 1,3 million de fois celui de la Terre. Pourtant, c'est une étoile naine jaune ordinaire. Certaines étoiles géantes, comme Bételgeuse, pourraient contenir des millions de Soleils."
+ },
+ {
+  "text": "Les Égyptiens de l'Antiquité se maquillaient les yeux avec un fard au plomb qui protégeait peut-être des infections.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Égyptiens de l'Antiquité se maquillaient les yeux avec un fard au plomb qui protégeait peut-être des infections ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20%C3%89gyptiens%20de%20l'Antiquit%C3%A9%20se%20maquillaient%20les%20yeux%20avec%20un%20fard%20au%20plomb%20qui%20prot%C3%A9geait%20peut-%C3%AAtre%20des%20infections%20%3F",
+  "explanation": "Le khôl égyptien contenait des composés de plomb comme la galène. En 2010, des chercheurs français ont montré que de faibles doses de certains de ces composés stimulent le système immunitaire des cellules de la peau. Ce maquillage aurait donc pu limiter les infections des yeux, fréquentes près du Nil, malgré la toxicité du plomb."
+ },
+ {
+  "text": "Les Égyptiens de l'Antiquité utilisaient des tests de grossesse à base de blé et d'orge.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Égyptiens de l'Antiquité utilisaient des tests de grossesse à base de blé et d'orge ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20%C3%89gyptiens%20de%20l'Antiquit%C3%A9%20utilisaient%20des%20tests%20de%20grossesse%20%C3%A0%20base%20de%20bl%C3%A9%20et%20d'orge%20%3F",
+  "explanation": "Un papyrus médical décrit une méthode : une femme urinait sur des graines de blé et d'orge. Si elles germaient, elle était enceinte. Des tests modernes de cette méthode dans les années 1960 ont montré qu'elle détectait effectivement une grossesse dans une majorité de cas, probablement grâce aux hormones de l'urine."
+ },
+ {
+  "text": "Le papier toilette moderne en rouleau n'a été commercialisé qu'à la fin du XIXe siècle.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le papier toilette moderne en rouleau n'a été commercialisé qu'à la fin du XIXe siècle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20papier%20toilette%20moderne%20en%20rouleau%20n'a%20%C3%A9t%C3%A9%20commercialis%C3%A9%20qu'%C3%A0%20la%20fin%20du%20XIXe%20si%C3%A8cle%20%3F",
+  "explanation": "Avant cela, on utilisait des feuilles, de la mousse, des chiffons, des épis de maïs ou du papier journal. En Chine, du papier était utilisé pour l'hygiène dès le VIe siècle. Le papier toilette en rouleau perforé a été breveté aux États-Unis en 1891."
+ },
+ {
+  "text": "Napoléon a été attaqué par une horde de lapins lors d'une chasse organisée en son honneur.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que Napoléon a été attaqué par une horde de lapins lors d'une chasse organisée en son honneur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Napol%C3%A9on%20a%20%C3%A9t%C3%A9%20attaqu%C3%A9%20par%20une%20horde%20de%20lapins%20lors%20d'une%20chasse%20organis%C3%A9e%20en%20son%20honneur%20%3F",
+  "explanation": "Selon les mémoires du général Thiébault, une chasse aux lapins fut organisée pour Napoléon en 1807. Les lapins, des animaux domestiques lâchés pour l'occasion, se seraient précipités vers les invités au lieu de fuir, croyant qu'on venait les nourrir. L'anecdote est souvent racontée, mais repose sur un seul témoignage."
+ },
+ {
+  "text": "L'Université d'Al Quaraouiyine, à Fès, fondée en 859 par Fatima al-Fihri, est considérée comme la plus ancienne université encore en activité.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Université d'Al Quaraouiyine, à Fès, fondée en 859 par Fatima al-Fihri, est considérée comme la plus ancienne université encore en activité ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Universit%C3%A9%20d'Al%20Quaraouiyine%2C%20%C3%A0%20F%C3%A8s%2C%20fond%C3%A9e%20en%20859%20par%20Fatima%20al-Fihri%2C%20est%20consid%C3%A9r%C3%A9e%20comme%20la%20plus%20ancienne%20universit%C3%A9%20encore%20en%20activit%C3%A9%20%3F",
+  "explanation": "Fatima al-Fihri a fondé une mosquée qui est devenue un centre d'enseignement majeur. L'UNESCO et le Guinness la considèrent comme le plus ancien établissement d'enseignement supérieur encore en activité. Elle enseignait la théologie, le droit, l'astronomie et les mathématiques."
+ },
+ {
+  "text": "Les Vikings utilisaient peut-être des « pierres de soleil » pour naviguer par temps couvert.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Vikings utilisaient peut-être des « pierres de soleil » pour naviguer par temps couvert ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20Vikings%20utilisaient%20peut-%C3%AAtre%20des%20%C2%AB%20pierres%20de%20soleil%20%C2%BB%20pour%20naviguer%20par%20temps%20couvert%20%3F",
+  "explanation": "Les sagas mentionnent une sólarsteinn. Des chercheurs pensent qu'il s'agissait de spath d'Islande, un cristal de calcite qui polarise la lumière. En le tournant vers le ciel, on peut localiser le soleil même derrière les nuages. Un tel cristal a été retrouvé dans une épave anglaise du XVIe siècle."
+ },
+ {
+  "text": "L'expression « tirer les marrons du feu » vient d'une fable de La Fontaine.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'expression « tirer les marrons du feu » vient d'une fable de La Fontaine ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'expression%20%C2%AB%20tirer%20les%20marrons%20du%20feu%20%C2%BB%20vient%20d'une%20fable%20de%20La%20Fontaine%20%3F",
+  "explanation": "Dans « Le Singe et le Chat » (1678), le singe Bertrand convainc le chat Raton de retirer des marrons qui grillent dans la cheminée. Le chat se brûle les pattes et le singe mange les marrons. À l'origine, l'expression désignait donc celui qui prend les risques au profit d'un autre ; elle est aujourd'hui souvent utilisée dans le sens inverse, pour celui qui en tire profit."
+ },
+ {
+  "text": "Au Moyen Âge, de nombreuses personnes croyaient déjà que la Terre était ronde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'au Moyen Âge, de nombreuses personnes croyaient déjà que la Terre était ronde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'au%20Moyen%20%C3%82ge%2C%20de%20nombreuses%20personnes%20croyaient%20d%C3%A9j%C3%A0%20que%20la%20Terre%20%C3%A9tait%20ronde%20%3F",
+  "explanation": "L'idée d'une Terre plate au Moyen Âge est en grande partie un mythe du XIXe siècle. Les savants grecs, comme Ératosthène, avaient déjà mesuré la circonférence de la Terre. Les érudits médiévaux, comme Bède le Vénérable ou Thomas d'Aquin, enseignaient qu'elle était sphérique."
+ },
+ {
+  "text": "Ératosthène a calculé la circonférence de la Terre vers 240 av. J.-C. avec une erreur probablement inférieure à 15 %.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'Ératosthène a calculé la circonférence de la Terre vers 240 av. J.-C. avec une erreur probablement inférieure à 15 % ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'%C3%89ratosth%C3%A8ne%20a%20calcul%C3%A9%20la%20circonf%C3%A9rence%20de%20la%20Terre%20vers%20240%20av.%20J.-C.%20avec%20une%20erreur%20probablement%20inf%C3%A9rieure%20%C3%A0%2015%20%25%20%3F",
+  "explanation": "Ératosthène a remarqué qu'au solstice d'été, à Syène, le Soleil était à la verticale, alors qu'à Alexandrie il formait un angle d'environ 7 degrés. Connaissant la distance entre les deux villes, il en a déduit la circonférence de la Terre. La précision exacte dépend de la valeur du stade utilisé, mais elle était remarquable."
+ },
+ {
+  "text": "La Grande Muraille de Chine n'est pas visible à l'œil nu depuis la Lune.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Grande Muraille de Chine n'est pas visible à l'œil nu depuis la Lune ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Grande%20Muraille%20de%20Chine%20n'est%20pas%20visible%20%C3%A0%20l'%C5%93il%20nu%20depuis%20la%20Lune%20%3F",
+  "explanation": "La muraille est très longue, mais étroite, et de la même couleur que le paysage. Depuis la Lune, à environ 384 000 km, aucune construction humaine n'est visible à l'œil nu. Même depuis l'orbite basse, à environ 400 km, les astronautes ont du mal à la distinguer sans aide."
+ },
+ {
+  "text": "La Grande Muraille de Chine mesure plus de 21 000 km en comptant toutes ses sections.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Grande Muraille de Chine mesure plus de 21 000 km en comptant toutes ses sections ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Grande%20Muraille%20de%20Chine%20mesure%20plus%20de%2021%20000%20km%20en%20comptant%20toutes%20ses%20sections%20%3F",
+  "explanation": "Un relevé officiel chinois de 2012 a estimé la longueur totale de toutes les sections de la muraille, construites sur plus de deux millénaires, à 21 196 km. Elle comprend des murs, des tranchées et des barrières naturelles. Une grande partie est aujourd'hui en ruine."
+ },
+ {
+  "text": "Les jeans ont été inventés pour les mineurs de la ruée vers l'or.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les jeans ont été inventés pour les mineurs de la ruée vers l'or ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20jeans%20ont%20%C3%A9t%C3%A9%20invent%C3%A9s%20pour%20les%20mineurs%20de%20la%20ru%C3%A9e%20vers%20l'or%20%3F",
+  "explanation": "En 1873, le tailleur Jacob Davis et le commerçant Levi Strauss ont breveté un pantalon de travail en toile de coton renforcé par des rivets de cuivre aux points de tension. Ces pantalons étaient destinés aux travailleurs, notamment aux mineurs. Le mot « jean » viendrait de Gênes, et « denim » de Nîmes."
+ },
+ {
+  "text": "Le mot « denim » viendrait de la ville de Nîmes : « serge de Nîmes ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « denim » viendrait de la ville de Nîmes : « serge de Nîmes » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20denim%20%C2%BB%20viendrait%20de%20la%20ville%20de%20N%C3%AEmes%20%3A%20%C2%AB%20serge%20de%20N%C3%AEmes%20%C2%BB%20%3F",
+  "explanation": "La serge de Nîmes était une toile solide fabriquée dans le sud de la France. Selon l'explication la plus répandue, l'expression a donné « denim » en anglais. Le mot « jean » viendrait de Gênes, port d'où partait une toile de coton utilisée par les marins."
+ },
+ {
+  "text": "Les premiers Jeux olympiques modernes, en 1896, ne comptaient aucune athlète féminine.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les premiers Jeux olympiques modernes, en 1896, ne comptaient aucune athlète féminine ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20premiers%20Jeux%20olympiques%20modernes%2C%20en%201896%2C%20ne%20comptaient%20aucune%20athl%C3%A8te%20f%C3%A9minine%20%3F",
+  "explanation": "Pierre de Coubertin était opposé à la participation des femmes. Elles ont pu concourir pour la première fois aux Jeux de Paris en 1900, dans quelques disciplines comme le tennis et le golf. La joueuse de tennis Charlotte Cooper est devenue la première championne olympique."
+ },
+ {
+  "text": "Le chocolat a longtemps été consommé uniquement comme boisson.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le chocolat a longtemps été consommé uniquement comme boisson ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20chocolat%20a%20longtemps%20%C3%A9t%C3%A9%20consomm%C3%A9%20uniquement%20comme%20boisson%20%3F",
+  "explanation": "Les Mayas et les Aztèques consommaient le cacao en boisson épicée, souvent amère. Introduit en Europe au XVIe siècle, il a été sucré et bu chaud. La première tablette de chocolat à croquer a été produite en Angleterre en 1847 par la société Fry."
+ },
+ {
+  "text": "Les fèves de cacao servaient de monnaie chez les Aztèques.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les fèves de cacao servaient de monnaie chez les Aztèques ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20f%C3%A8ves%20de%20cacao%20servaient%20de%20monnaie%20chez%20les%20Azt%C3%A8ques%20%3F",
+  "explanation": "Les fèves de cacao avaient une grande valeur dans la Mésoamérique précolombienne. Elles servaient à payer des marchandises et des tributs. Des documents de l'époque coloniale donnent des équivalences : par exemple, une centaine de fèves pour un dindon."
+ },
+ {
+  "text": "Les Romains avaient une déesse des égouts, Cloacina.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Romains avaient une déesse des égouts, Cloacina ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20Romains%20avaient%20une%20d%C3%A9esse%20des%20%C3%A9gouts%2C%20Cloacina%20%3F",
+  "explanation": "Cloacina était associée à la Cloaca Maxima, le grand égout de Rome, qui fonctionne en partie encore aujourd'hui. Elle était aussi liée à la purification. Un petit sanctuaire lui était dédié sur le Forum romain."
+ },
+ {
+  "text": "La Cloaca Maxima, l'égout construit à Rome il y a plus de 2 500 ans, est toujours en partie utilisée.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Cloaca Maxima, l'égout construit à Rome il y a plus de 2 500 ans, est toujours en partie utilisée ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Cloaca%20Maxima%2C%20l'%C3%A9gout%20construit%20%C3%A0%20Rome%20il%20y%20a%20plus%20de%202%20500%20ans%2C%20est%20toujours%20en%20partie%20utilis%C3%A9e%20%3F",
+  "explanation": "Commencée vers le VIe siècle av. J.-C., elle drainait les marais du Forum vers le Tibre. Elle a été agrandie et recouverte au fil des siècles. Certaines parties servent encore à évacuer les eaux de pluie de la ville."
+ },
+ {
+  "text": "Les pyramides de Gizeh n'ont pas été construites par des esclaves, mais par des ouvriers rémunérés.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les pyramides de Gizeh n'ont pas été construites par des esclaves, mais par des ouvriers rémunérés ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20pyramides%20de%20Gizeh%20n'ont%20pas%20%C3%A9t%C3%A9%20construites%20par%20des%20esclaves%2C%20mais%20par%20des%20ouvriers%20r%C3%A9mun%C3%A9r%C3%A9s%20%3F",
+  "explanation": "Les fouilles du village des ouvriers, près des pyramides, ont révélé des boulangeries, des brasseries, et des tombes d'ouvriers enterrés avec honneur. Ils recevaient des rations de pain, de bière et parfois de viande. L'idée d'esclaves vient en partie d'Hérodote et d'Hollywood."
+ },
+ {
+  "text": "La première grève documentée de l'histoire a eu lieu en Égypte, vers 1155 av. J.-C.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la première grève documentée de l'histoire a eu lieu en Égypte, vers 1155 av. J.-C ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20premi%C3%A8re%20gr%C3%A8ve%20document%C3%A9e%20de%20l'histoire%20a%20eu%20lieu%20en%20%C3%89gypte%2C%20vers%201155%20av.%20J.-C%20%3F",
+  "explanation": "Vers 1155 av. J.-C., sous Ramsès III, les artisans qui construisaient les tombes royales à Deir el-Médineh ont cessé le travail parce que leurs rations n'étaient pas livrées. Un papyrus, conservé à Turin, décrit cette grève, souvent citée comme la première documentée."
+ },
+ {
+  "text": "La plus ancienne recette de bière connue a environ 3 800 ans : c'est un hymne à la déesse sumérienne Ninkasi.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la plus ancienne recette de bière connue a environ 3 800 ans : c'est un hymne à la déesse sumérienne Ninkasi ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20plus%20ancienne%20recette%20de%20bi%C3%A8re%20connue%20a%20environ%203%20800%20ans%20%3A%20c'est%20un%20hymne%20%C3%A0%20la%20d%C3%A9esse%20sum%C3%A9rienne%20Ninkasi%20%3F",
+  "explanation": "L'hymne à Ninkasi, gravé sur une tablette d'argile, décrit les étapes de la fabrication de la bière à partir de pain d'orge. Des brasseurs modernes l'ont reconstituée. On trouve des traces de bière encore plus anciennes, il y a environ 13 000 ans."
+ },
+ {
+  "text": "Le Titanic transportait environ 20 000 bouteilles de bière à son bord.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Titanic transportait environ 20 000 bouteilles de bière à son bord ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Titanic%20transportait%20environ%2020%20000%20bouteilles%20de%20bi%C3%A8re%20%C3%A0%20son%20bord%20%3F",
+  "explanation": "Les listes d'approvisionnement du Titanic mentionnent environ 20 000 bouteilles de bière, 1 500 bouteilles de vin et 8 000 cigares, ainsi que des tonnes de viande et des dizaines de milliers d'œufs. Le paquebot pouvait accueillir plus de 2 200 passagers et membres d'équipage."
+ },
+ {
+  "text": "La première photographie connue a nécessité un temps de pose de plusieurs heures, voire de plusieurs jours.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la première photographie connue a nécessité un temps de pose de plusieurs heures, voire de plusieurs jours ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20premi%C3%A8re%20photographie%20connue%20a%20n%C3%A9cessit%C3%A9%20un%20temps%20de%20pose%20de%20plusieurs%20heures%2C%20voire%20de%20plusieurs%20jours%20%3F",
+  "explanation": "Nicéphore Niépce a réalisé « Point de vue du Gras » vers 1826-1827, depuis une fenêtre de sa propriété en Bourgogne. Il utilisait une plaque recouverte de bitume de Judée. Le temps de pose est estimé entre 8 heures et plusieurs jours."
+ },
+ {
+  "text": "La Statue de la Liberté était à l'origine de couleur cuivre, avant de verdir à cause de l'oxydation.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Statue de la Liberté était à l'origine de couleur cuivre, avant de verdir à cause de l'oxydation ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Statue%20de%20la%20Libert%C3%A9%20%C3%A9tait%20%C3%A0%20l'origine%20de%20couleur%20cuivre%2C%20avant%20de%20verdir%20%C3%A0%20cause%20de%20l'oxydation%20%3F",
+  "explanation": "La statue est recouverte de plaques de cuivre. Au contact de l'air et de l'humidité, le cuivre s'est couvert d'une couche de vert-de-gris, la patine, en une vingtaine d'années après son inauguration en 1886. Cette patine protège le métal."
+ },
+ {
+  "text": "La Statue de la Liberté a une structure interne conçue par Gustave Eiffel.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Statue de la Liberté a une structure interne conçue par Gustave Eiffel ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Statue%20de%20la%20Libert%C3%A9%20a%20une%20structure%20interne%20con%C3%A7ue%20par%20Gustave%20Eiffel%20%3F",
+  "explanation": "Le sculpteur Auguste Bartholdi a conçu l'apparence de la statue, et Gustave Eiffel l'ossature métallique qui soutient les plaques de cuivre. Ce squelette flexible permet à la statue de supporter le vent. Elle a été offerte par la France aux États-Unis et inaugurée en 1886."
+ },
+ {
+  "text": "Les premiers numéros de téléphone en France commençaient par le nom du central, comme « Danton » ou « Opéra ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les premiers numéros de téléphone en France commençaient par le nom du central, comme « Danton » ou « Opéra » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20premiers%20num%C3%A9ros%20de%20t%C3%A9l%C3%A9phone%20en%20France%20commen%C3%A7aient%20par%20le%20nom%20du%20central%2C%20comme%20%C2%AB%20Danton%20%C2%BB%20ou%20%C2%AB%20Op%C3%A9ra%20%C2%BB%20%3F",
+  "explanation": "Avant l'automatisation, les numéros parisiens étaient composés d'un nom de central et de chiffres, comme « ÉLYsées 12-34 ». Les trois premières lettres correspondaient à des chiffres sur le cadran. Ce système a été abandonné en 1963 au profit de numéros entièrement numériques."
+ },
+ {
+  "text": "Le premier SMS a été envoyé le 3 décembre 1992 et disait « Merry Christmas ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier SMS a été envoyé le 3 décembre 1992 et disait « Merry Christmas » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20SMS%20a%20%C3%A9t%C3%A9%20envoy%C3%A9%20le%203%20d%C3%A9cembre%201992%20et%20disait%20%C2%AB%20Merry%20Christmas%20%C2%BB%20%3F",
+  "explanation": "L'ingénieur Neil Papworth l'a envoyé depuis un ordinateur vers le téléphone d'un dirigeant de Vodafone au Royaume-Uni. Le destinataire n'a pas pu répondre, car les téléphones ne permettaient pas encore d'écrire des messages. Ce SMS a été vendu aux enchères sous forme de NFT en 2021."
+ },
+ {
+  "text": "La guerre de Cent Ans a duré 116 ans.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la guerre de Cent Ans a duré 116 ans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20guerre%20de%20Cent%20Ans%20a%20dur%C3%A9%20116%20ans%20%3F",
+  "explanation": "Le conflit entre la France et l'Angleterre a duré de 1337 à 1453, avec de longues périodes de trêve. Le nom « guerre de Cent Ans » a été donné par les historiens du XIXe siècle. Il regroupe une série de guerres pour la couronne de France."
+ },
+ {
+  "text": "La guerre de Trente Ans, elle, a vraiment duré 30 ans, de 1618 à 1648.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la guerre de Trente Ans, elle, a vraiment duré 30 ans, de 1618 à 1648 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20guerre%20de%20Trente%20Ans%2C%20elle%2C%20a%20vraiment%20dur%C3%A9%2030%20ans%2C%20de%201618%20%C3%A0%201648%20%3F",
+  "explanation": "Ce conflit a ravagé une grande partie de l'Europe centrale, notamment le Saint-Empire romain germanique. Il a fait des millions de morts, à cause des combats, des famines et des épidémies. Il s'est terminé par les traités de Westphalie."
+ },
+ {
+  "text": "Le mot « salaire » viendrait du sel.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « salaire » viendrait du sel ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20salaire%20%C2%BB%20viendrait%20du%20sel%20%3F",
+  "explanation": "En latin, salarium était lié au sel, et désignait une somme versée aux soldats romains. L'explication selon laquelle ils étaient payés en sel est souvent racontée, mais elle est discutée : il s'agissait peut-être d'une allocation pour acheter du sel, ou d'un lien avec la via Salaria."
+ },
+ {
+  "text": "Le premier billet de banque a été utilisé en Chine, au VIIe siècle.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier billet de banque a été utilisé en Chine, au VIIe siècle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20billet%20de%20banque%20a%20%C3%A9t%C3%A9%20utilis%C3%A9%20en%20Chine%2C%20au%20VIIe%20si%C3%A8cle%20%3F",
+  "explanation": "Sous la dynastie Tang, des marchands utilisaient des certificats de dépôt pour éviter de transporter de lourdes pièces. Sous la dynastie Song, au XIe siècle, l'État a commencé à émettre officiellement de la monnaie papier. L'Europe n'a adopté les billets qu'au XVIIe siècle."
+ },
+ {
+  "text": "Les premiers distributeurs automatiques de billets sont apparus en 1967, à Londres.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les premiers distributeurs automatiques de billets sont apparus en 1967, à Londres ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20premiers%20distributeurs%20automatiques%20de%20billets%20sont%20apparus%20en%201967%2C%20%C3%A0%20Londres%20%3F",
+  "explanation": "Le premier distributeur a été installé par la banque Barclays le 27 juin 1967. Il utilisait des chèques imprégnés de carbone 14, légèrement radioactif, lus par la machine. L'acteur Reg Varney a été le premier à l'utiliser."
+ },
+ {
+  "text": "Les machines à écrire ont un clavier QWERTY qui aurait été conçu pour éviter que les tiges ne se bloquent.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les machines à écrire ont un clavier QWERTY qui aurait été conçu pour éviter que les tiges ne se bloquent ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20machines%20%C3%A0%20%C3%A9crire%20ont%20un%20clavier%20QWERTY%20qui%20aurait%20%C3%A9t%C3%A9%20con%C3%A7u%20pour%20%C3%A9viter%20que%20les%20tiges%20ne%20se%20bloquent%20%3F",
+  "explanation": "Christopher Latham Sholes a conçu le clavier QWERTY dans les années 1870. Selon l'explication la plus répandue, il a écarté les lettres fréquemment utilisées ensemble pour éviter que les tiges ne s'emmêlent. Des historiens nuancent : la disposition aurait aussi été influencée par les besoins des télégraphistes."
+ },
+ {
+  "text": "Le clavier AZERTY a été adopté en France au début du XXe siècle, sans jamais devenir une norme officielle jusqu'en 2019.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le clavier AZERTY a été adopté en France au début du XXe siècle, sans jamais devenir une norme officielle jusqu'en 2019 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20clavier%20AZERTY%20a%20%C3%A9t%C3%A9%20adopt%C3%A9%20en%20France%20au%20d%C3%A9but%20du%20XXe%20si%C3%A8cle%2C%20sans%20jamais%20devenir%20une%20norme%20officielle%20jusqu'en%202019%20%3F",
+  "explanation": "Le clavier AZERTY dérive du QWERTY, adapté aux langues française et belge. Il ne facilitait pas la saisie des majuscules accentuées, comme É ou Ç. En 2019, l'Afnor a publié une norme pour un nouveau clavier AZERTY amélioré, qui reste peu utilisé."
+ },
+ {
+  "text": "Les premières lunettes ont été inventées en Italie vers la fin du XIIIe siècle.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les premières lunettes ont été inventées en Italie vers la fin du XIIIe siècle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20premi%C3%A8res%20lunettes%20ont%20%C3%A9t%C3%A9%20invent%C3%A9es%20en%20Italie%20vers%20la%20fin%20du%20XIIIe%20si%C3%A8cle%20%3F",
+  "explanation": "Les premières mentions de lunettes datent d'environ 1285-1290, près de Pise ou de Venise, où les verriers fabriquaient du verre de qualité. Elles corrigeaient la presbytie et se tenaient sur le nez sans branches. Les branches sont apparues au XVIIIe siècle."
+ },
+ {
+  "text": "Les branches de lunettes ne sont apparues qu'au XVIIIe siècle.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les branches de lunettes ne sont apparues qu'au XVIIIe siècle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20branches%20de%20lunettes%20ne%20sont%20apparues%20qu'au%20XVIIIe%20si%C3%A8cle%20%3F",
+  "explanation": "Pendant des siècles, les lunettes étaient pincées sur le nez ou tenues à la main. Des branches rigides passant derrière les oreilles ont été popularisées vers 1720-1730, notamment par l'opticien londonien Edward Scarlett."
+ },
+ {
+  "text": "Le premier passager d'une montgolfière n'était pas un humain, mais un mouton, un canard et un coq.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier passager d'une montgolfière n'était pas un humain, mais un mouton, un canard et un coq ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20passager%20d'une%20montgolfi%C3%A8re%20n'%C3%A9tait%20pas%20un%20humain%2C%20mais%20un%20mouton%2C%20un%20canard%20et%20un%20coq%20%3F",
+  "explanation": "Le 19 septembre 1783, à Versailles, devant Louis XVI, les frères Montgolfier ont fait voler un ballon transportant un mouton, un canard et un coq. Les animaux ont survécu au vol d'environ 8 minutes. Le premier vol habité a eu lieu deux mois plus tard."
+ },
+ {
+  "text": "Le premier vol humain en ballon libre a eu lieu au-dessus de Paris le 21 novembre 1783.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier vol humain en ballon libre a eu lieu au-dessus de Paris le 21 novembre 1783 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20vol%20humain%20en%20ballon%20libre%20a%20eu%20lieu%20au-dessus%20de%20Paris%20le%2021%20novembre%201783%20%3F",
+  "explanation": "Jean-François Pilâtre de Rozier et le marquis d'Arlandes ont décollé du château de la Muette, dans une montgolfière à air chaud. Ils ont parcouru environ 9 km en 25 minutes environ, avant d'atterrir près de la Butte-aux-Cailles."
+ },
+ {
+  "text": "La tour Eiffel a été le plus haut bâtiment du monde pendant 41 ans.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la tour Eiffel a été le plus haut bâtiment du monde pendant 41 ans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tour%20Eiffel%20a%20%C3%A9t%C3%A9%20le%20plus%20haut%20b%C3%A2timent%20du%20monde%20pendant%2041%20ans%20%3F",
+  "explanation": "Inaugurée en 1889, la tour Eiffel mesurait environ 300 mètres. Elle est restée le plus haut édifice du monde jusqu'à l'achèvement du Chrysler Building à New York en 1930. Avec ses antennes, elle mesure aujourd'hui environ 330 mètres."
+ },
+ {
+  "text": "La tour Eiffel grandit d'environ 15 cm en été, sous l'effet de la chaleur.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la tour Eiffel grandit d'environ 15 cm en été, sous l'effet de la chaleur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20tour%20Eiffel%20grandit%20d'environ%2015%20cm%20en%20%C3%A9t%C3%A9%2C%20sous%20l'effet%20de%20la%20chaleur%20%3F",
+  "explanation": "Le fer se dilate quand il chauffe. Selon la température, le sommet de la tour peut s'élever d'environ 15 cm et s'incliner légèrement du côté opposé au soleil. Le phénomène est réversible : elle reprend sa taille en refroidissant."
+ },
+ {
+  "text": "Le Louvre était à l'origine une forteresse construite vers 1190.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Louvre était à l'origine une forteresse construite vers 1190 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Louvre%20%C3%A9tait%20%C3%A0%20l'origine%20une%20forteresse%20construite%20vers%201190%20%3F",
+  "explanation": "Le roi Philippe Auguste a fait construire une forteresse pour protéger Paris. Transformé en palais royal au XIVe siècle, puis agrandi au fil des siècles, le Louvre est devenu un musée en 1793. On peut encore voir les fondations de la forteresse médiévale dans ses sous-sols."
+ },
+ {
+  "text": "Le dernier duel judiciaire autorisé en France a eu lieu en 1547.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le dernier duel judiciaire autorisé en France a eu lieu en 1547 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20dernier%20duel%20judiciaire%20autoris%C3%A9%20en%20France%20a%20eu%20lieu%20en%201547%20%3F",
+  "explanation": "Le « coup de Jarnac » fait référence au duel du 10 juillet 1547 entre Guy Chabot de Jarnac et François de Vivonne, devant le roi Henri II. Jarnac a frappé son adversaire au jarret, un coup inattendu mais légal. L'expression désigne aujourd'hui un coup habile et décisif, souvent perçu à tort comme déloyal."
+ },
+ {
+  "text": "Le système métrique a été créé pendant la Révolution française pour remplacer des centaines d'unités locales.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le système métrique a été créé pendant la Révolution française pour remplacer des centaines d'unités locales ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20syst%C3%A8me%20m%C3%A9trique%20a%20%C3%A9t%C3%A9%20cr%C3%A9%C3%A9%20pendant%20la%20R%C3%A9volution%20fran%C3%A7aise%20pour%20remplacer%20des%20centaines%20d'unit%C3%A9s%20locales%20%3F",
+  "explanation": "Avant la Révolution, la France utilisait des centaines d'unités différentes selon les régions. Le mètre a été défini en 1791 comme une fraction de la distance entre le pôle Nord et l'équateur. Les astronomes Delambre et Méchain ont mesuré l'arc entre Dunkerque et Barcelone pour le calculer."
+ },
+ {
+  "text": "Le mot « sabotage » viendrait des sabots, mais l'histoire des ouvriers jetant leurs sabots dans les machines est probablement une légende.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « sabotage » viendrait des sabots, mais l'histoire des ouvriers jetant leurs sabots dans les machines est probablement une légende ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20sabotage%20%C2%BB%20viendrait%20des%20sabots%2C%20mais%20l'histoire%20des%20ouvriers%20jetant%20leurs%20sabots%20dans%20les%20machines%20est%20probablement%20une%20l%C3%A9gende%20%3F",
+  "explanation": "Le mot sabotage est attesté à la fin du XIXe siècle dans le sens de travail mal fait, venant du verbe saboter, « faire quelque chose grossièrement ». L'image d'ouvriers jetant leurs sabots dans les machines est une explication populaire, mais peu documentée."
+ },
+ {
+  "text": "Les Romains utilisaient du plomb pour sucrer le vin.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Romains utilisaient du plomb pour sucrer le vin ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20Romains%20utilisaient%20du%20plomb%20pour%20sucrer%20le%20vin%20%3F",
+  "explanation": "Les Romains faisaient réduire du jus de raisin dans des marmites en plomb pour obtenir un sirop appelé sapa ou defrutum. Ce sirop, riche en acétate de plomb au goût sucré, était utilisé pour sucrer et conserver le vin. Des historiens pensent que cela a pu causer des intoxications au plomb."
+ },
+ {
+  "text": "Les Incas tenaient leurs comptes avec des cordelettes nouées, les quipus.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les Incas tenaient leurs comptes avec des cordelettes nouées, les quipus ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20Incas%20tenaient%20leurs%20comptes%20avec%20des%20cordelettes%20nou%C3%A9es%2C%20les%20quipus%20%3F",
+  "explanation": "Les quipus étaient des cordelettes de coton ou de laine, dont la couleur, la position des nœuds et leur type enregistraient des nombres. Ils servaient aux recensements, aux impôts et peut-être à des récits. Leur déchiffrement complet reste un défi pour les chercheurs."
+ },
+ {
+  "text": "Le plus ancien instrument de musique connu est une flûte en os vieille d'environ 40 000 ans.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le plus ancien instrument de musique connu est une flûte en os vieille d'environ 40 000 ans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20ancien%20instrument%20de%20musique%20connu%20est%20une%20fl%C3%BBte%20en%20os%20vieille%20d'environ%2040%20000%20ans%20%3F",
+  "explanation": "Des flûtes taillées dans des os de vautour et dans de l'ivoire de mammouth ont été retrouvées dans des grottes du Jura souabe, en Allemagne. Datées d'environ 40 000 ans, elles montrent que la musique faisait déjà partie de la vie des premiers humains modernes en Europe."
+ },
+ {
+  "text": "Les grottes de Lascaux ont été découvertes en 1940 par des adolescents qui cherchaient leur chien… ou un trésor.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les grottes de Lascaux ont été découvertes en 1940 par des adolescents qui cherchaient leur chien… ou un trésor ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20grottes%20de%20Lascaux%20ont%20%C3%A9t%C3%A9%20d%C3%A9couvertes%20en%201940%20par%20des%20adolescents%20qui%20cherchaient%20leur%20chien%E2%80%A6%20ou%20un%20tr%C3%A9sor%20%3F",
+  "explanation": "Le 12 septembre 1940, Marcel Ravidat et trois camarades ont exploré une cavité près de Montignac, en Dordogne. Ils ont découvert des peintures vieilles d'environ 17 000 ans. La grotte a été fermée au public en 1963 pour protéger les peintures, et des répliques ont été construites."
+ },
+ {
+  "text": "Le mot « bistrot » ne viendrait pas des soldats russes criant « bystro » en 1814.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « bistrot » ne viendrait pas des soldats russes criant « bystro » en 1814 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20bistrot%20%C2%BB%20ne%20viendrait%20pas%20des%20soldats%20russes%20criant%20%C2%AB%20bystro%20%C2%BB%20en%201814%20%3F",
+  "explanation": "Selon une légende populaire, les cosaques occupant Paris en 1814 réclamaient d'être servis « bystro », vite en russe. Les linguistes réfutent cette origine : le mot bistrot n'apparaît qu'à la fin du XIXe siècle. Son origine reste incertaine, peut-être liée à un mot régional."
+ },
+ {
+  "text": "Les premiers Jeux olympiques antiques auraient eu lieu en 776 av. J.-C., avec une seule épreuve : une course d'environ 190 mètres.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les premiers Jeux olympiques antiques auraient eu lieu en 776 av. J.-C., avec une seule épreuve : une course d'environ 190 mètres ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20premiers%20Jeux%20olympiques%20antiques%20auraient%20eu%20lieu%20en%20776%20av.%20J.-C.%2C%20avec%20une%20seule%20%C3%A9preuve%20%3A%20une%20course%20d'environ%20190%20m%C3%A8tres%20%3F",
+  "explanation": "Selon la tradition, les premiers Jeux d'Olympie comportaient une seule épreuve, le stadion, une course d'une longueur de stade. D'autres disciplines ont été ajoutées par la suite : lutte, pugilat, pentathlon, courses de chars. Les Jeux antiques ont duré plus de mille ans."
+ },
+ {
+  "text": "Les carottes n'ont pas toujours été orange : les premières carottes cultivées étaient violettes ou jaunes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les carottes n'ont pas toujours été orange : les premières carottes cultivées étaient violettes ou jaunes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20carottes%20n'ont%20pas%20toujours%20%C3%A9t%C3%A9%20orange%20%3A%20les%20premi%C3%A8res%20carottes%20cultiv%C3%A9es%20%C3%A9taient%20violettes%20ou%20jaunes%20%3F",
+  "explanation": "Les carottes cultivées en Asie centrale il y a plus de mille ans étaient violettes ou jaunes. Les variétés orange se sont répandues à partir du XVIIe siècle, notamment grâce aux sélections des cultivateurs des Pays-Bas. L'histoire selon laquelle elles auraient été créées pour honorer la maison d'Orange est une légende."
+ },
+ {
+  "text": "Les cacahuètes ne sont pas des noix : ce sont des légumineuses, comme les petits pois.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les cacahuètes ne sont pas des noix : ce sont des légumineuses, comme les petits pois ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20cacahu%C3%A8tes%20ne%20sont%20pas%20des%20noix%20%3A%20ce%20sont%20des%20l%C3%A9gumineuses%2C%20comme%20les%20petits%20pois%20%3F",
+  "explanation": "L'arachide appartient à la famille des Fabacées, comme les haricots et les lentilles. Après la floraison, la tige de la fleur s'allonge et s'enfonce dans le sol, où la gousse se développe. C'est pourquoi on l'appelle aussi « pois de terre »."
+ },
+ {
+  "text": "Les ananas mettent environ 18 à 24 mois à pousser.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les ananas mettent environ 18 à 24 mois à pousser ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20ananas%20mettent%20environ%2018%20%C3%A0%2024%20mois%20%C3%A0%20pousser%20%3F",
+  "explanation": "Un plant d'ananas produit généralement un seul fruit par cycle, après environ un an et demi à deux ans. Le fruit est en fait composé de dizaines de petites baies soudées, une par fleur. On peut faire repousser un plant à partir de la couronne de feuilles."
+ },
+ {
+  "text": "Le poivre noir, le poivre blanc et le poivre vert viennent de la même plante.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le poivre noir, le poivre blanc et le poivre vert viennent de la même plante ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20poivre%20noir%2C%20le%20poivre%20blanc%20et%20le%20poivre%20vert%20viennent%20de%20la%20m%C3%AAme%20plante%20%3F",
+  "explanation": "Ce sont les fruits de la même liane, Piper nigrum, récoltés à des stades différents. Le poivre vert est cueilli avant maturité, le noir est récolté vert puis séché au soleil, et le blanc est le grain mûr débarrassé de son enveloppe. Le « poivre rose », lui, vient d'un arbre différent."
+ },
+ {
+  "text": "Le piment ne brûle pas vraiment : la capsaïcine trompe les récepteurs de la chaleur.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le piment ne brûle pas vraiment : la capsaïcine trompe les récepteurs de la chaleur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20piment%20ne%20br%C3%BBle%20pas%20vraiment%20%3A%20la%20capsa%C3%AFcine%20trompe%20les%20r%C3%A9cepteurs%20de%20la%20chaleur%20%3F",
+  "explanation": "La capsaïcine active le récepteur TRPV1, qui détecte normalement les températures supérieures à environ 43 °C. Le cerveau interprète ce signal comme une brûlure, alors qu'il n'y a aucune chaleur réelle. La découverte de ce récepteur a contribué au prix Nobel de médecine 2021."
+ },
+ {
+  "text": "Les oiseaux ne sentent pas le piquant des piments.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les oiseaux ne sentent pas le piquant des piments ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20oiseaux%20ne%20sentent%20pas%20le%20piquant%20des%20piments%20%3F",
+  "explanation": "Le récepteur des oiseaux équivalent à TRPV1 n'est pas sensible à la capsaïcine. Les oiseaux peuvent donc manger des piments sans gêne et disperser leurs graines, qui traversent leur tube digestif intactes. Les mammifères, qui broient les graines, sont au contraire repoussés."
+ },
+ {
+  "text": "Le menthol ne refroidit pas : il active les récepteurs du froid.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le menthol ne refroidit pas : il active les récepteurs du froid ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20menthol%20ne%20refroidit%20pas%20%3A%20il%20active%20les%20r%C3%A9cepteurs%20du%20froid%20%3F",
+  "explanation": "Le menthol se lie au récepteur TRPM8, qui détecte normalement le froid. Le cerveau perçoit alors une sensation de fraîcheur sans changement réel de température. C'est l'équivalent inverse de l'effet de la capsaïcine du piment."
+ },
+ {
+  "text": "Le riz est l'aliment de base de plus de la moitié de la population mondiale.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le riz est l'aliment de base de plus de la moitié de la population mondiale ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20riz%20est%20l'aliment%20de%20base%20de%20plus%20de%20la%20moiti%C3%A9%20de%20la%20population%20mondiale%20%3F",
+  "explanation": "Le riz fournit une grande part des calories consommées en Asie, en Afrique et en Amérique latine. La Chine et l'Inde en sont les premiers producteurs. Il existe des dizaines de milliers de variétés, et sa culture remonte à environ 9 000 ans."
+ },
+ {
+  "text": "Les pommes de terre ont été considérées avec méfiance en France jusqu'au XVIIIe siècle.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les pommes de terre ont été considérées avec méfiance en France jusqu'au XVIIIe siècle ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20pommes%20de%20terre%20ont%20%C3%A9t%C3%A9%20consid%C3%A9r%C3%A9es%20avec%20m%C3%A9fiance%20en%20France%20jusqu'au%20XVIIIe%20si%C3%A8cle%20%3F",
+  "explanation": "Venue d'Amérique du Sud, la pomme de terre était souvent réservée au bétail en France. Le pharmacien Antoine Parmentier a contribué à sa diffusion après avoir constaté sa valeur nutritive. Selon une anecdote, il aurait fait garder un champ le jour pour donner envie aux Parisiens de venir en voler la nuit."
+ },
+ {
+  "text": "Le sel de mer et le sel gemme sont le même composé : du chlorure de sodium.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le sel de mer et le sel gemme sont le même composé : du chlorure de sodium ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20sel%20de%20mer%20et%20le%20sel%20gemme%20sont%20le%20m%C3%AAme%20compos%C3%A9%20%3A%20du%20chlorure%20de%20sodium%20%3F",
+  "explanation": "Le sel de mer est obtenu par évaporation de l'eau de mer, le sel gemme est extrait de mines formées par l'évaporation d'anciennes mers. Leur goût peut différer légèrement selon les traces de minéraux, mais leur composition est très majoritairement la même."
+ },
+ {
+  "text": "Le citron contient moins de sucre que la fraise, mais plus d'acide : c'est pourquoi il paraît moins sucré.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le citron contient moins de sucre que la fraise, mais plus d'acide : c'est pourquoi il paraît moins sucré ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20citron%20contient%20moins%20de%20sucre%20que%20la%20fraise%2C%20mais%20plus%20d'acide%20%3A%20c'est%20pourquoi%20il%20para%C3%AEt%20moins%20sucr%C3%A9%20%3F",
+  "explanation": "Le citron contient environ 2 à 3 g de sucre pour 100 g, contre environ 5 à 7 g pour la fraise. Son acide citrique masque encore davantage la saveur sucrée. Le goût perçu dépend de l'équilibre entre sucres et acides."
+ },
+ {
+  "text": "Le pop-corn éclate parce que l'eau à l'intérieur du grain se transforme en vapeur.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le pop-corn éclate parce que l'eau à l'intérieur du grain se transforme en vapeur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20pop-corn%20%C3%A9clate%20parce%20que%20l'eau%20%C3%A0%20l'int%C3%A9rieur%20du%20grain%20se%20transforme%20en%20vapeur%20%3F",
+  "explanation": "Chaque grain de maïs à éclater contient un peu d'eau dans son amidon. En chauffant, l'eau se vaporise et la pression augmente jusqu'à faire éclater l'enveloppe, vers 180 °C. L'amidon se dilate alors en mousse qui durcit en refroidissant."
+ },
+ {
+  "text": "Les amandes, les pêches, les cerises et les pommes appartiennent à la même famille que la rose.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les amandes, les pêches, les cerises et les pommes appartiennent à la même famille que la rose ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20amandes%2C%20les%20p%C3%AAches%2C%20les%20cerises%20et%20les%20pommes%20appartiennent%20%C3%A0%20la%20m%C3%AAme%20famille%20que%20la%20rose%20%3F",
+  "explanation": "Ces fruits font partie de la famille des Rosacées, avec les poires, les fraises, les framboises et les prunes. Les amandes sont les graines d'un fruit proche de la pêche. Les fleurs de ces arbres ressemblent souvent à de petites roses simples."
+ },
+ {
+  "text": "Les noyaux d'abricot contiennent un composé qui peut libérer du cyanure dans le corps.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les noyaux d'abricot contiennent un composé qui peut libérer du cyanure dans le corps ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20noyaux%20d'abricot%20contiennent%20un%20compos%C3%A9%20qui%20peut%20lib%C3%A9rer%20du%20cyanure%20dans%20le%20corps%20%3F",
+  "explanation": "L'amande du noyau d'abricot contient de l'amygdaline, qui se transforme en cyanure dans le corps. En manger en grande quantité peut provoquer une intoxication. Les autorités sanitaires européennes recommandent de limiter très fortement leur consommation."
+ },
+ {
+  "text": "Le chou-fleur, le brocoli romanesco et la fougère ont des formes fractales.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le chou-fleur, le brocoli romanesco et la fougère ont des formes fractales ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20chou-fleur%2C%20le%20brocoli%20romanesco%20et%20la%20foug%C3%A8re%20ont%20des%20formes%20fractales%20%3F",
+  "explanation": "Une forme fractale se répète à différentes échelles. Le romanesco est composé de pointes, elles-mêmes formées de pointes plus petites, organisées en spirales. Le nombre de spirales suit souvent la suite de Fibonacci, comme dans les pommes de pin et les tournesols."
+ },
+ {
+  "text": "Les graines de tournesol sont disposées en spirales qui suivent la suite de Fibonacci.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les graines de tournesol sont disposées en spirales qui suivent la suite de Fibonacci ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20graines%20de%20tournesol%20sont%20dispos%C3%A9es%20en%20spirales%20qui%20suivent%20la%20suite%20de%20Fibonacci%20%3F",
+  "explanation": "Les graines d'un tournesol forment deux séries de spirales dans des sens opposés, souvent en nombres consécutifs de la suite de Fibonacci, comme 34 et 55. Cette disposition permet de placer un maximum de graines dans un espace limité."
+ },
+ {
+  "text": "Le bambou peut pousser de près d'un mètre en une journée.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le bambou peut pousser de près d'un mètre en une journée ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20bambou%20peut%20pousser%20de%20pr%C3%A8s%20d'un%20m%C3%A8tre%20en%20une%20journ%C3%A9e%20%3F",
+  "explanation": "Certaines espèces de bambou font partie des plantes à la croissance la plus rapide. Des pousses ont été mesurées à près de 90 cm en 24 heures. Le bambou est une herbe, pas un arbre, et certaines espèces fleurissent toutes en même temps, à des intervalles de plusieurs décennies."
+ },
+ {
+  "text": "Certaines espèces de bambous fleurissent toutes en même temps, une fois tous les 60 à 120 ans, puis meurent.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que certaines espèces de bambous fleurissent toutes en même temps, une fois tous les 60 à 120 ans, puis meurent ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20certaines%20esp%C3%A8ces%20de%20bambous%20fleurissent%20toutes%20en%20m%C3%AAme%20temps%2C%20une%20fois%20tous%20les%2060%20%C3%A0%20120%20ans%2C%20puis%20meurent%20%3F",
+  "explanation": "Des bambous comme Phyllostachys bambusoides fleurissent de façon synchronisée dans le monde entier, même transplantés loin de leur région d'origine. Après la floraison, les plants meurent. Ce phénomène peut provoquer une explosion des populations de rongeurs nourris par les graines."
+ },
+ {
+  "text": "Les arbres d'une forêt peuvent échanger des nutriments grâce à un réseau de champignons souterrains.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les arbres d'une forêt peuvent échanger des nutriments grâce à un réseau de champignons souterrains ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20arbres%20d'une%20for%C3%AAt%20peuvent%20%C3%A9changer%20des%20nutriments%20gr%C3%A2ce%20%C3%A0%20un%20r%C3%A9seau%20de%20champignons%20souterrains%20%3F",
+  "explanation": "Les racines de nombreux arbres sont associées à des champignons mycorhiziens. Ces champignons échangent des nutriments avec les arbres et pourraient faire transiter des ressources d'un arbre à l'autre. L'image du « Wood Wide Web » est populaire, mais l'ampleur réelle de ces échanges est débattue par les chercheurs."
+ },
+ {
+  "text": "Le plus grand arbre du monde par le volume est un séquoia géant surnommé General Sherman.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le plus grand arbre du monde par le volume est un séquoia géant surnommé General Sherman ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20grand%20arbre%20du%20monde%20par%20le%20volume%20est%20un%20s%C3%A9quoia%20g%C3%A9ant%20surnomm%C3%A9%20General%20Sherman%20%3F",
+  "explanation": "Situé en Californie, General Sherman mesure environ 84 mètres de haut et a un volume d'environ 1 500 m³. Il aurait entre 2 000 et 2 500 ans. Le plus haut arbre connu est un séquoia à feuilles d'if, surnommé Hyperion, d'environ 116 mètres."
+ },
+ {
+  "text": "Les plantes carnivores comme la dionée comptent : il faut deux contacts en moins de 30 secondes pour que le piège se referme.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les plantes carnivores comme la dionée comptent : il faut deux contacts en moins de 30 secondes pour que le piège se referme ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20plantes%20carnivores%20comme%20la%20dion%C3%A9e%20comptent%20%3A%20il%20faut%20deux%20contacts%20en%20moins%20de%2030%20secondes%20pour%20que%20le%20pi%C3%A8ge%20se%20referme%20%3F",
+  "explanation": "Les feuilles de la dionée attrape-mouche portent des poils sensibles. Un premier contact ne suffit pas. Un second contact en quelques secondes déclenche la fermeture rapide. Cela évite que le piège se referme pour une goutte de pluie. Une étude a même montré qu'elle compte jusqu'à cinq stimulations pour commencer la digestion."
+ },
+ {
+  "text": "Les tomates, poivrons et aubergines viennent des Amériques : avant Christophe Colomb, la cuisine italienne n'avait pas de sauce tomate.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les tomates, poivrons et aubergines viennent des Amériques : avant Christophe Colomb, la cuisine italienne n'avait pas de sauce tomate ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20tomates%2C%20poivrons%20et%20aubergines%20viennent%20des%20Am%C3%A9riques%20%3A%20avant%20Christophe%20Colomb%2C%20la%20cuisine%20italienne%20n'avait%20pas%20de%20sauce%20tomate%20%3F",
+  "explanation": "La tomate a été rapportée en Europe au XVIe siècle. En Italie, elle n'est devenue courante dans la cuisine qu'au XVIIIe et XIXe siècle. La pomme de terre, le maïs, le cacao, le piment et la vanille viennent aussi des Amériques."
+ },
+ {
+  "text": "La vanille est la gousse d'une orchidée, pollinisée à la main presque partout dans le monde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la vanille est la gousse d'une orchidée, pollinisée à la main presque partout dans le monde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20vanille%20est%20la%20gousse%20d'une%20orchid%C3%A9e%2C%20pollinis%C3%A9e%20%C3%A0%20la%20main%20presque%20partout%20dans%20le%20monde%20%3F",
+  "explanation": "La vanille vient d'une orchidée originaire du Mexique, pollinisée naturellement par des abeilles locales. Ailleurs, il faut polliniser chaque fleur à la main. La technique a été mise au point en 1841 à La Réunion par Edmond Albius, alors âgé de 12 ans. C'est pourquoi la vanille est l'une des épices les plus chères."
+ },
+ {
+  "text": "Le safran, la vanille et la cardamome sont parmi les épices les plus chères du monde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le safran, la vanille et la cardamome sont parmi les épices les plus chères du monde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20safran%2C%20la%20vanille%20et%20la%20cardamome%20sont%20parmi%20les%20%C3%A9pices%20les%20plus%20ch%C3%A8res%20du%20monde%20%3F",
+  "explanation": "Leur prix vient de la récolte manuelle : stigmates de crocus pour le safran, pollinisation et séchage de gousses pour la vanille, cueillette de capsules pour la cardamome. Les rendements sont faibles et le travail très long."
+ },
+ {
+  "text": "Le mot « barbecue » viendrait d'une langue des Caraïbes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « barbecue » viendrait d'une langue des Caraïbes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20barbecue%20%C2%BB%20viendrait%20d'une%20langue%20des%20Cara%C3%AFbes%20%3F",
+  "explanation": "Le mot viendrait de « barbacoa », emprunté par les Espagnols à la langue des Taïnos, peuple des Caraïbes. Il désignait une structure en bois servant à cuire ou fumer la viande. L'explication par « de la barbe à la queue » est une étymologie populaire sans fondement."
+ },
+ {
+  "text": "Le mot « ouragan » vient du nom d'un dieu des tempêtes des Caraïbes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « ouragan » vient du nom d'un dieu des tempêtes des Caraïbes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20ouragan%20%C2%BB%20vient%20du%20nom%20d'un%20dieu%20des%20temp%C3%AAtes%20des%20Cara%C3%AFbes%20%3F",
+  "explanation": "Le mot « huracán » a été emprunté par les Espagnols aux langues des Caraïbes, où il était lié à une divinité des tempêtes. Il a donné « ouragan » en français et « hurricane » en anglais. Le mot « Hunrakan » apparaît aussi chez les Mayas."
+ },
+ {
+  "text": "Le mot « algorithme » vient du nom d'un mathématicien du IXe siècle, al-Khwârizmî.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « algorithme » vient du nom d'un mathématicien du IXe siècle, al-Khwârizmî ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20algorithme%20%C2%BB%20vient%20du%20nom%20d'un%20math%C3%A9maticien%20du%20IXe%20si%C3%A8cle%2C%20al-Khw%C3%A2rizm%C3%AE%20%3F",
+  "explanation": "Muhammad ibn Musa al-Khwârizmî travaillait à la Maison de la sagesse de Bagdad. Ses ouvrages, traduits en latin, ont diffusé en Europe le système décimal et le calcul. Son nom latinisé, Algoritmi, a donné « algorithme », et le titre d'un de ses livres, al-jabr, a donné « algèbre »."
+ },
+ {
+  "text": "Le français compte environ 60 000 mots dans un dictionnaire usuel, mais la plupart des gens en utilisent quelques milliers au quotidien.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le français compte environ 60 000 mots dans un dictionnaire usuel, mais la plupart des gens en utilisent quelques milliers au quotidien ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20fran%C3%A7ais%20compte%20environ%2060%20000%20mots%20dans%20un%20dictionnaire%20usuel%2C%20mais%20la%20plupart%20des%20gens%20en%20utilisent%20quelques%20milliers%20au%20quotidien%20%3F",
+  "explanation": "Un dictionnaire courant comme le Petit Robert compte environ 60 000 mots. Le vocabulaire actif d'un adulte est estimé entre quelques milliers et environ 20 000 mots selon les définitions. On comprend beaucoup plus de mots qu'on n'en utilise."
+ },
+ {
+  "text": "Le mot le plus long du dictionnaire français est souvent cité comme « anticonstitutionnellement », avec 25 lettres.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot le plus long du dictionnaire français est souvent cité comme « anticonstitutionnellement », avec 25 lettres ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20le%20plus%20long%20du%20dictionnaire%20fran%C3%A7ais%20est%20souvent%20cit%C3%A9%20comme%20%C2%AB%20anticonstitutionnellement%20%C2%BB%2C%20avec%2025%20lettres%20%3F",
+  "explanation": "« Anticonstitutionnellement » est le mot le plus long couramment cité, mais des mots techniques plus longs existent, comme « intergouvernementalisations » (27 lettres). Les noms chimiques peuvent être beaucoup plus longs, mais ne sont pas considérés comme des mots du vocabulaire courant."
+ },
+ {
+  "text": "« Oiseau » est le plus court mot français contenant les cinq voyelles a, e, i, o, u.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que « Oiseau » est le plus court mot français contenant les cinq voyelles a, e, i, o, u ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20%C2%AB%20Oiseau%20%C2%BB%20est%20le%20plus%20court%20mot%20fran%C3%A7ais%20contenant%20les%20cinq%20voyelles%20a%2C%20e%2C%20i%2C%20o%2C%20u%20%3F",
+  "explanation": "Le mot « oiseau » contient les cinq voyelles principales en seulement six lettres. Il ne s'entend pourtant pas avec ces sons-là : sa prononciation, [wazo], ne contient aucun des sons a, e, i, o, u isolés tels qu'on les prononce."
+ },
+ {
+  "text": "Le mot « hôpital » porte un accent circonflexe parce qu'il s'écrivait autrefois « hospital ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « hôpital » porte un accent circonflexe parce qu'il s'écrivait autrefois « hospital » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20h%C3%B4pital%20%C2%BB%20porte%20un%20accent%20circonflexe%20parce%20qu'il%20s'%C3%A9crivait%20autrefois%20%C2%AB%20hospital%20%C2%BB%20%3F",
+  "explanation": "L'accent circonflexe marque souvent la disparition d'un s présent en ancien français : hôpital (hospital), forêt (forest), fête (feste), île (isle). On retrouve ce s dans les mots de la même famille, comme « hospitalier » ou « forestier »."
+ },
+ {
+  "text": "Le mot « OK » viendrait d'une plaisanterie de journalistes de Boston en 1839.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le mot « OK » viendrait d'une plaisanterie de journalistes de Boston en 1839 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20mot%20%C2%AB%20OK%20%C2%BB%20viendrait%20d'une%20plaisanterie%20de%20journalistes%20de%20Boston%20en%201839%20%3F",
+  "explanation": "La piste la plus solide est celle du linguiste Allen Walker Read : « O.K. » serait l'abréviation volontairement mal orthographiée de « oll korrect » (all correct), née d'une mode des abréviations humoristiques dans les journaux de Boston. Il a ensuite été popularisé par la campagne présidentielle de Martin Van Buren, surnommé « Old Kinderhook »."
+ },
+ {
+  "text": "Il existe environ 7 000 langues dans le monde, dont près de la moitié sont menacées de disparition.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il existe environ 7 000 langues dans le monde, dont près de la moitié sont menacées de disparition ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20existe%20environ%207%20000%20langues%20dans%20le%20monde%2C%20dont%20pr%C3%A8s%20de%20la%20moiti%C3%A9%20sont%20menac%C3%A9es%20de%20disparition%20%3F",
+  "explanation": "Selon les recensements des linguistes, environ 7 000 langues sont parlées aujourd'hui. Beaucoup ne sont parlées que par quelques centaines ou milliers de personnes. On estime qu'une langue disparaît toutes les quelques semaines ou mois."
+ },
+ {
+  "text": "La Russie s'étend sur 11 fuseaux horaires.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Russie s'étend sur 11 fuseaux horaires ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Russie%20s'%C3%A9tend%20sur%2011%20fuseaux%20horaires%20%3F",
+  "explanation": "La Russie est le plus grand pays du monde, avec environ 17 millions de km². Elle couvre 11 fuseaux horaires, de Kaliningrad à l'ouest jusqu'au Kamtchatka à l'est. Quand il est midi à Moscou, il est déjà 21 h au Kamtchatka."
+ },
+ {
+  "text": "L'Afrique est plus grande que la Chine, les États-Unis, l'Inde et une grande partie de l'Europe réunis.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Afrique est plus grande que la Chine, les États-Unis, l'Inde et une grande partie de l'Europe réunis ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Afrique%20est%20plus%20grande%20que%20la%20Chine%2C%20les%20%C3%89tats-Unis%2C%20l'Inde%20et%20une%20grande%20partie%20de%20l'Europe%20r%C3%A9unis%20%3F",
+  "explanation": "Avec environ 30 millions de km², l'Afrique est bien plus grande que ce que montrent la plupart des cartes. La projection de Mercator, très utilisée, agrandit les régions proches des pôles et rétrécit celles proches de l'équateur. Le Groenland y paraît aussi grand que l'Afrique, alors qu'il est environ 14 fois plus petit."
+ },
+ {
+  "text": "Le Mont Blanc ne mesure pas toujours la même hauteur : son sommet de glace varie de plusieurs mètres d'une année à l'autre.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Mont Blanc ne mesure pas toujours la même hauteur : son sommet de glace varie de plusieurs mètres d'une année à l'autre ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Mont%20Blanc%20ne%20mesure%20pas%20toujours%20la%20m%C3%AAme%20hauteur%20%3A%20son%20sommet%20de%20glace%20varie%20de%20plusieurs%20m%C3%A8tres%20d'une%20ann%C3%A9e%20%C3%A0%20l'autre%20%3F",
+  "explanation": "Le sommet du Mont Blanc est une calotte de glace et de neige, dont l'épaisseur change avec les vents et les chutes de neige. Des géomètres le mesurent régulièrement : il a été mesuré à 4 810,90 m en 2013 et à 4 805,59 m en 2021. Le sommet rocheux, lui, se trouve à environ 4 792 m."
+ },
+ {
+  "text": "La mer Morte est si salée qu'on y flotte sans effort.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la mer Morte est si salée qu'on y flotte sans effort ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20mer%20Morte%20est%20si%20sal%C3%A9e%20qu'on%20y%20flotte%20sans%20effort%20%3F",
+  "explanation": "La mer Morte contient environ 30 % de sels, soit près de dix fois plus que l'océan. L'eau est donc très dense et porte facilement un corps humain. Son niveau baisse d'environ un mètre par an, à cause du détournement du Jourdain et de l'exploitation des minéraux."
+ },
+ {
+  "text": "La rive de la mer Morte est le point terrestre le plus bas du monde, à environ 430 mètres sous le niveau de la mer.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la rive de la mer Morte est le point terrestre le plus bas du monde, à environ 430 mètres sous le niveau de la mer ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20rive%20de%20la%20mer%20Morte%20est%20le%20point%20terrestre%20le%20plus%20bas%20du%20monde%2C%20%C3%A0%20environ%20430%20m%C3%A8tres%20sous%20le%20niveau%20de%20la%20mer%20%3F",
+  "explanation": "La mer Morte se trouve dans une dépression entre Israël, la Cisjordanie et la Jordanie. Son niveau a beaucoup baissé depuis le XXe siècle, ce qui fait reculer chaque année ce record. Des milliers de dolines se sont formées sur ses rives à cause de la dissolution du sel."
+ },
+ {
+  "text": "Le lac Baïkal contient environ 20 % de l'eau douce liquide de surface de la planète.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le lac Baïkal contient environ 20 % de l'eau douce liquide de surface de la planète ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20lac%20Ba%C3%AFkal%20contient%20environ%2020%20%25%20de%20l'eau%20douce%20liquide%20de%20surface%20de%20la%20plan%C3%A8te%20%3F",
+  "explanation": "Situé en Sibérie, le lac Baïkal est le plus profond du monde, avec environ 1 640 mètres. Il est aussi le plus ancien, avec environ 25 millions d'années. Il abrite des espèces uniques, comme le phoque du Baïkal, l'un des seuls phoques d'eau douce."
+ },
+ {
+  "text": "Le Nil traverse ou borde 11 pays.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Nil traverse ou borde 11 pays ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Nil%20traverse%20ou%20borde%2011%20pays%20%3F",
+  "explanation": "Le Nil, l'un des plus longs fleuves du monde avec environ 6 650 km, draine un bassin qui s'étend sur 11 pays d'Afrique. Le Nil Blanc et le Nil Bleu se rejoignent à Khartoum, au Soudan. Le titre de plus long fleuve est disputé avec l'Amazone selon la méthode de mesure."
+ },
+ {
+  "text": "L'Amazone déverse dans l'océan environ 20 % de toute l'eau douce apportée par les fleuves du monde.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Amazone déverse dans l'océan environ 20 % de toute l'eau douce apportée par les fleuves du monde ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Amazone%20d%C3%A9verse%20dans%20l'oc%C3%A9an%20environ%2020%20%25%20de%20toute%20l'eau%20douce%20apport%C3%A9e%20par%20les%20fleuves%20du%20monde%20%3F",
+  "explanation": "L'Amazone a le débit le plus élevé du monde, environ 200 000 m³ par seconde en moyenne. Son eau douce reste visible à des dizaines de kilomètres dans l'océan Atlantique. Aucun pont ne traverse l'Amazone sur son cours principal."
+ },
+ {
+  "text": "Aucun pont ne traverse l'Amazone sur son cours principal.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'aucun pont ne traverse l'Amazone sur son cours principal ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'aucun%20pont%20ne%20traverse%20l'Amazone%20sur%20son%20cours%20principal%20%3F",
+  "explanation": "Le fleuve traverse surtout des zones de forêt peu peuplées, et ses rives sont instables et inondables. Les grandes villes riveraines sont reliées par bateau. Construire un pont serait coûteux et peu utile. Des ponts existent sur ses affluents, comme le pont du Rio Negro à Manaus."
+ },
+ {
+  "text": "Il pleut presque tous les jours sur le mont Waialeale, à Hawaï, l'un des endroits les plus humides de la planète.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il pleut presque tous les jours sur le mont Waialeale, à Hawaï, l'un des endroits les plus humides de la planète ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20pleut%20presque%20tous%20les%20jours%20sur%20le%20mont%20Waialeale%2C%20%C3%A0%20Hawa%C3%AF%2C%20l'un%20des%20endroits%20les%20plus%20humides%20de%20la%20plan%C3%A8te%20%3F",
+  "explanation": "Le mont Waialeale, sur l'île de Kauai, reçoit en moyenne plus de 9 mètres de pluie par an. Sa forme oblige les vents humides à monter, ce qui provoque des pluies presque continues. Mawsynram et Cherrapunji, en Inde, figurent aussi parmi les endroits les plus pluvieux."
+ },
+ {
+  "text": "La Finlande compte environ 188 000 lacs.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Finlande compte environ 188 000 lacs ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Finlande%20compte%20environ%20188%20000%20lacs%20%3F",
+  "explanation": "La Finlande est surnommée le « pays des mille lacs », mais elle en compte environ 188 000 de plus de 5 ares. La Suède en compte près de 100 000. Ces lacs sont, comme ceux du Canada, l'héritage des glaciers de la dernière glaciation."
+ },
+ {
+  "text": "Le Vatican est le plus petit État du monde : environ 0,44 km².",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Vatican est le plus petit État du monde : environ 0,44 km² ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Vatican%20est%20le%20plus%20petit%20%C3%89tat%20du%20monde%20%3A%20environ%200%2C44%20km%C2%B2%20%3F",
+  "explanation": "Le Vatican est un État indépendant depuis les accords du Latran de 1929. Il compte quelques centaines d'habitants permanents. Il a ses propres timbres, sa radio, sa garde suisse et même une gare ferroviaire."
+ },
+ {
+  "text": "L'Indonésie compte plus de 17 000 îles.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'Indonésie compte plus de 17 000 îles ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'Indon%C3%A9sie%20compte%20plus%20de%2017%20000%20%C3%AEles%20%3F",
+  "explanation": "L'Indonésie est le plus grand archipel du monde, avec environ 17 000 îles, dont environ 6 000 habitées. Elle s'étend sur plus de 5 000 km d'est en ouest. Le nombre exact varie selon les recensements et la définition d'une île."
+ },
+ {
+  "text": "Le Canada a le plus long littoral du monde, plus de 200 000 km.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Canada a le plus long littoral du monde, plus de 200 000 km ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Canada%20a%20le%20plus%20long%20littoral%20du%20monde%2C%20plus%20de%20200%20000%20km%20%3F",
+  "explanation": "Le Canada possède des milliers d'îles dans l'Arctique, et son littoral découpé s'étend sur environ 243 000 km. La longueur d'une côte dépend de l'échelle utilisée pour la mesurer : plus on mesure finement, plus elle s'allonge. C'est le paradoxe du littoral."
+ },
+ {
+  "text": "Plus on mesure une côte finement, plus elle paraît longue : c'est le paradoxe du littoral.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que plus on mesure une côte finement, plus elle paraît longue : c'est le paradoxe du littoral ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20plus%20on%20mesure%20une%20c%C3%B4te%20finement%2C%20plus%20elle%20para%C3%AEt%20longue%20%3A%20c'est%20le%20paradoxe%20du%20littoral%20%3F",
+  "explanation": "En mesurant une côte avec une règle de 100 km, on ignore les petites baies. Avec une règle d'un mètre, on suit chaque rocher, et la longueur augmente. Le mathématicien Benoît Mandelbrot a utilisé ce paradoxe pour introduire la notion de fractale en 1967."
+ },
+ {
+  "text": "Le désert du Sahara a été vert et couvert de lacs il y a environ 6 000 à 10 000 ans.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le désert du Sahara a été vert et couvert de lacs il y a environ 6 000 à 10 000 ans ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20d%C3%A9sert%20du%20Sahara%20a%20%C3%A9t%C3%A9%20vert%20et%20couvert%20de%20lacs%20il%20y%20a%20environ%206%20000%20%C3%A0%2010%20000%20ans%20%3F",
+  "explanation": "Pendant la « période humide africaine », des pluies de mousson plus abondantes ont permis le développement de savanes, de lacs et de rivières dans le Sahara. Des peintures rupestres montrent des girafes, des hippopotames et des troupeaux. Ce changement est lié aux variations de l'orbite terrestre."
+ },
+ {
+  "text": "Le point le plus éloigné de toute mer, en Chine, se trouve à environ 2 600 km de la côte la plus proche.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le point le plus éloigné de toute mer, en Chine, se trouve à environ 2 600 km de la côte la plus proche ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20point%20le%20plus%20%C3%A9loign%C3%A9%20de%20toute%20mer%2C%20en%20Chine%2C%20se%20trouve%20%C3%A0%20environ%202%20600%20km%20de%20la%20c%C3%B4te%20la%20plus%20proche%20%3F",
+  "explanation": "Le « pôle d'inaccessibilité » continental se trouve dans la région du Xinjiang, en Chine, près de la ville d'Ürümqi. C'est le point terrestre le plus éloigné de tout océan. Ürümqi est d'ailleurs souvent citée comme la grande ville la plus éloignée de la mer."
+ },
+ {
+  "text": "Le premier disque dur, en 1956, pesait environ une tonne et stockait environ 5 mégaoctets.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier disque dur, en 1956, pesait environ une tonne et stockait environ 5 mégaoctets ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20disque%20dur%2C%20en%201956%2C%20pesait%20environ%20une%20tonne%20et%20stockait%20environ%205%20m%C3%A9gaoctets%20%3F",
+  "explanation": "L'IBM 350, livré avec l'ordinateur IBM 305 RAMAC, comportait 50 disques de 61 cm de diamètre. Il occupait la place de deux réfrigérateurs et se louait plusieurs milliers de dollars par mois. Aujourd'hui, une carte microSD de la taille d'un ongle peut stocker plus d'un téraoctet."
+ },
+ {
+  "text": "Un smartphone actuel est des milliers de fois plus puissant que les ordinateurs qui ont guidé Apollo 11 vers la Lune.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un smartphone actuel est des milliers de fois plus puissant que les ordinateurs qui ont guidé Apollo 11 vers la Lune ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20smartphone%20actuel%20est%20des%20milliers%20de%20fois%20plus%20puissant%20que%20les%20ordinateurs%20qui%20ont%20guid%C3%A9%20Apollo%2011%20vers%20la%20Lune%20%3F",
+  "explanation": "L'ordinateur de guidage d'Apollo avait environ 4 Ko de mémoire vive et une fréquence d'environ 1 MHz. Il était cependant très fiable, conçu pour un usage précis, et programmé avec une mémoire tressée à la main. Un smartphone moderne dépasse ses capacités de plusieurs ordres de grandeur."
+ },
+ {
+  "text": "La mémoire des ordinateurs d'Apollo était tissée à la main, fil par fil.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la mémoire des ordinateurs d'Apollo était tissée à la main, fil par fil ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20m%C3%A9moire%20des%20ordinateurs%20d'Apollo%20%C3%A9tait%20tiss%C3%A9e%20%C3%A0%20la%20main%2C%20fil%20par%20fil%20%3F",
+  "explanation": "La mémoire morte de l'ordinateur de guidage d'Apollo était une « core rope memory » : des fils passaient à travers ou autour de petits anneaux magnétiques pour coder des 1 ou des 0. Des ouvrières spécialisées de l'entreprise Raytheon les assemblaient à la main, un travail extrêmement minutieux."
+ },
+ {
+  "text": "Margaret Hamilton, qui dirigeait l'équipe de logiciel d'Apollo, a popularisé l'expression « génie logiciel ».",
+  "source": "Perplexity",
+  "question": "Est-il vrai que Margaret Hamilton, qui dirigeait l'équipe de logiciel d'Apollo, a popularisé l'expression « génie logiciel » ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Margaret%20Hamilton%2C%20qui%20dirigeait%20l'%C3%A9quipe%20de%20logiciel%20d'Apollo%2C%20a%20popularis%C3%A9%20l'expression%20%C2%AB%20g%C3%A9nie%20logiciel%20%C2%BB%20%3F",
+  "explanation": "Margaret Hamilton dirigeait au MIT l'équipe qui a développé les logiciels de vol d'Apollo. Son code a permis à l'ordinateur de gérer une surcharge lors de l'alunissage d'Apollo 11 en priorisant les tâches essentielles. Elle a reçu la médaille présidentielle de la Liberté en 2016."
+ },
+ {
+  "text": "Le premier programme informatique a été écrit par Ada Lovelace en 1843, pour une machine qui n'a jamais été construite.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier programme informatique a été écrit par Ada Lovelace en 1843, pour une machine qui n'a jamais été construite ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20programme%20informatique%20a%20%C3%A9t%C3%A9%20%C3%A9crit%20par%20Ada%20Lovelace%20en%201843%2C%20pour%20une%20machine%20qui%20n'a%20jamais%20%C3%A9t%C3%A9%20construite%20%3F",
+  "explanation": "Ada Lovelace a publié des notes sur la machine analytique de Charles Babbage, incluant un algorithme pour calculer les nombres de Bernoulli. Elle a aussi imaginé que ces machines pourraient manipuler autre chose que des nombres, comme de la musique. La machine de Babbage n'a jamais été achevée."
+ },
+ {
+  "text": "Le premier courriel a été envoyé en 1971, et son auteur ne se souvient pas de son contenu.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier courriel a été envoyé en 1971, et son auteur ne se souvient pas de son contenu ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20courriel%20a%20%C3%A9t%C3%A9%20envoy%C3%A9%20en%201971%2C%20et%20son%20auteur%20ne%20se%20souvient%20pas%20de%20son%20contenu%20%3F",
+  "explanation": "L'ingénieur Ray Tomlinson a envoyé le premier courriel entre deux ordinateurs reliés à ARPANET, placés côte à côte. Il a choisi le symbole @ pour séparer le nom de l'utilisateur et celui de la machine. Il a expliqué que le message était probablement quelque chose comme « QWERTYUIOP »."
+ },
+ {
+  "text": "Le premier nom de domaine enregistré en .com est symbolics.com, en 1985.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier nom de domaine enregistré en .com est symbolics.com, en 1985 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20nom%20de%20domaine%20enregistr%C3%A9%20en%20.com%20est%20symbolics.com%2C%20en%201985%20%3F",
+  "explanation": "Symbolics était un fabricant d'ordinateurs du Massachusetts. Le nom de domaine a été enregistré le 15 mars 1985. Il existe aujourd'hui des centaines de millions de noms de domaine enregistrés dans le monde."
+ },
+ {
+  "text": "La première vidéo publiée sur YouTube, en 2005, montre un des fondateurs devant des éléphants au zoo.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la première vidéo publiée sur YouTube, en 2005, montre un des fondateurs devant des éléphants au zoo ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20premi%C3%A8re%20vid%C3%A9o%20publi%C3%A9e%20sur%20YouTube%2C%20en%202005%2C%20montre%20un%20des%20fondateurs%20devant%20des%20%C3%A9l%C3%A9phants%20au%20zoo%20%3F",
+  "explanation": "La vidéo « Me at the zoo », publiée le 23 avril 2005 par Jawed Karim, cofondateur de YouTube, dure 19 secondes. Il y commente les trompes des éléphants du zoo de San Diego. Elle a été vue des centaines de millions de fois."
+ },
+ {
+  "text": "Le Wi-Fi s'appuie en partie sur des recherches en radioastronomie.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le Wi-Fi s'appuie en partie sur des recherches en radioastronomie ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20Wi-Fi%20s'appuie%20en%20partie%20sur%20des%20recherches%20en%20radioastronomie%20%3F",
+  "explanation": "Dans les années 1990, une équipe du CSIRO australien, menée par John O'Sullivan, a développé une technique pour corriger les échos des signaux radio en intérieur, inspirée de ses travaux pour détecter les explosions de trous noirs. Le CSIRO a obtenu un brevet clé et a perçu des centaines de millions de dollars de redevances."
+ },
+ {
+  "text": "L'actrice Hedy Lamarr a coinventé une technique de transmission utilisée plus tard dans le Wi-Fi et le Bluetooth.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'actrice Hedy Lamarr a coinventé une technique de transmission utilisée plus tard dans le Wi-Fi et le Bluetooth ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'actrice%20Hedy%20Lamarr%20a%20coinvent%C3%A9%20une%20technique%20de%20transmission%20utilis%C3%A9e%20plus%20tard%20dans%20le%20Wi-Fi%20et%20le%20Bluetooth%20%3F",
+  "explanation": "En 1942, l'actrice et le compositeur George Antheil ont breveté un système de saut de fréquence pour guider des torpilles sans que le signal puisse être brouillé. L'idée a été reprise plus tard dans les communications militaires, puis dans des technologies sans fil. Hedy Lamarr n'a été reconnue pour cette invention que dans les années 1990."
+ },
+ {
+  "text": "Le premier jeu vidéo à avoir été joué dans l'espace est Tetris, sur une Game Boy emmenée en orbite en 1993.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier jeu vidéo à avoir été joué dans l'espace est Tetris, sur une Game Boy emmenée en orbite en 1993 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20jeu%20vid%C3%A9o%20%C3%A0%20avoir%20%C3%A9t%C3%A9%20jou%C3%A9%20dans%20l'espace%20est%20Tetris%2C%20sur%20une%20Game%20Boy%20emmen%C3%A9e%20en%20orbite%20en%201993%20%3F",
+  "explanation": "Le cosmonaute Alexandre Serebrov a emporté une Game Boy et la cartouche de Tetris à bord de la station Mir. Elle aurait parcouru des millions de kilomètres en orbite. Elle a été vendue aux enchères en 2011."
+ },
+ {
+  "text": "Tetris a été créé en 1984 par Alexeï Pajitnov, sur un ordinateur incapable d'afficher des graphismes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que Tetris a été créé en 1984 par Alexeï Pajitnov, sur un ordinateur incapable d'afficher des graphismes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Tetris%20a%20%C3%A9t%C3%A9%20cr%C3%A9%C3%A9%20en%201984%20par%20Alexe%C3%AF%20Pajitnov%2C%20sur%20un%20ordinateur%20incapable%20d'afficher%20des%20graphismes%20%3F",
+  "explanation": "Alexeï Pajitnov travaillait au Centre de calcul de l'Académie des sciences de Moscou. Il a créé Tetris sur un ordinateur Elektronika 60, qui affichait les pièces avec des caractères. Les droits ont fait l'objet d'une longue bataille juridique, et il n'a commencé à toucher des royalties qu'en 1996."
+ },
+ {
+  "text": "Le premier code-barres scanné en magasin, en 1974, était celui d'un paquet de chewing-gums.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier code-barres scanné en magasin, en 1974, était celui d'un paquet de chewing-gums ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20code-barres%20scann%C3%A9%20en%20magasin%2C%20en%201974%2C%20%C3%A9tait%20celui%20d'un%20paquet%20de%20chewing-gums%20%3F",
+  "explanation": "Le 26 juin 1974, dans un supermarché de Troy, dans l'Ohio, un paquet de 10 chewing-gums Wrigley a été le premier produit scanné par une caisse. Le paquet est aujourd'hui exposé au Smithsonian. Le code UPC était devenu la norme en 1973."
+ },
+ {
+  "text": "Un mot de passe de 12 caractères mêlant lettres, chiffres et symboles est des milliards de fois plus difficile à deviner qu'un mot de passe de 8 caractères.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un mot de passe de 12 caractères mêlant lettres, chiffres et symboles est des milliards de fois plus difficile à deviner qu'un mot de passe de 8 caractères ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20mot%20de%20passe%20de%2012%20caract%C3%A8res%20m%C3%AAlant%20lettres%2C%20chiffres%20et%20symboles%20est%20des%20milliards%20de%20fois%20plus%20difficile%20%C3%A0%20deviner%20qu'un%20mot%20de%20passe%20de%208%20caract%C3%A8res%20%3F",
+  "explanation": "Le nombre de combinaisons croît de façon exponentielle avec la longueur. Avec environ 95 caractères possibles, un mot de passe de 8 caractères offre environ 6 × 10^15 combinaisons, et un de 12 caractères environ 5 × 10^23. La longueur est souvent plus efficace que la complexité."
+ },
+ {
+  "text": "« 123456 » est l'un des mots de passe les plus utilisés au monde depuis des années.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que « 123456 » est l'un des mots de passe les plus utilisés au monde depuis des années ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20%C2%AB%20123456%20%C2%BB%20est%20l'un%20des%20mots%20de%20passe%20les%20plus%20utilis%C3%A9s%20au%20monde%20depuis%20des%20ann%C3%A9es%20%3F",
+  "explanation": "Les analyses de fuites de données montrent chaque année que des mots de passe comme « 123456 », « password » ou « azerty » sont parmi les plus courants. Ils peuvent être devinés instantanément. Les spécialistes recommandent des phrases de passe longues et un gestionnaire de mots de passe."
+ },
+ {
+  "text": "Le symbole « # » s'appelle croisillon en français, et non dièse.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le symbole « # » s'appelle croisillon en français, et non dièse ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20symbole%20%C2%AB%20%23%20%C2%BB%20s'appelle%20croisillon%20en%20fran%C3%A7ais%2C%20et%20non%20di%C3%A8se%20%3F",
+  "explanation": "Le dièse musical (♯) a des traits verticaux et des traits obliques montants, alors que le croisillon (#) a des traits horizontaux et des traits verticaux légèrement inclinés. Dans le langage courant, on les confond souvent. Sur un téléphone, la touche est officiellement un croisillon."
+ },
+ {
+  "text": "Il existe environ 6,67 × 10²¹ grilles de sudoku complètes différentes.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il existe environ 6,67 × 10²¹ grilles de sudoku complètes différentes ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20existe%20environ%206%2C67%20%C3%97%2010%C2%B2%C2%B9%20grilles%20de%20sudoku%20compl%C3%A8tes%20diff%C3%A9rentes%20%3F",
+  "explanation": "En 2005, les mathématiciens Bertram Felgenhauer et Frazer Jarvis ont calculé qu'il existe environ 6 670 milliards de milliards de grilles de sudoku complètes valides. En éliminant les symétries, il reste environ 5,5 milliards de grilles essentiellement différentes."
+ },
+ {
+  "text": "Une grille de sudoku a besoin d'au moins 17 chiffres de départ pour avoir une solution unique.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une grille de sudoku a besoin d'au moins 17 chiffres de départ pour avoir une solution unique ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20grille%20de%20sudoku%20a%20besoin%20d'au%20moins%2017%20chiffres%20de%20d%C3%A9part%20pour%20avoir%20une%20solution%20unique%20%3F",
+  "explanation": "En 2012, une équipe de mathématiciens a démontré par ordinateur, après des millions d'heures de calcul, qu'aucune grille de sudoku avec 16 chiffres de départ ne possède une solution unique. Le minimum est donc 17, et des dizaines de milliers de grilles à 17 indices sont connues."
+ },
+ {
+  "text": "Le nombre pi a été calculé à plus de 200 000 milliards de décimales.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le nombre pi a été calculé à plus de 200 000 milliards de décimales ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20nombre%20pi%20a%20%C3%A9t%C3%A9%20calcul%C3%A9%20%C3%A0%20plus%20de%20200%20000%20milliards%20de%20d%C3%A9cimales%20%3F",
+  "explanation": "Les records de calcul de décimales de pi sont battus régulièrement grâce à des ordinateurs puissants et des algorithmes optimisés. En 2024, le record a dépassé les 200 000 milliards de décimales. En pratique, une quarantaine de décimales suffisent pour calculer la circonférence de l'univers observable à la taille d'un atome près."
+ },
+ {
+  "text": "Une quarantaine de décimales de pi suffisent pour calculer le périmètre de l'univers observable avec une précision d'un atome.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une quarantaine de décimales de pi suffisent pour calculer le périmètre de l'univers observable avec une précision d'un atome ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20quarantaine%20de%20d%C3%A9cimales%20de%20pi%20suffisent%20pour%20calculer%20le%20p%C3%A9rim%C3%A8tre%20de%20l'univers%20observable%20avec%20une%20pr%C3%A9cision%20d'un%20atome%20%3F",
+  "explanation": "L'univers observable a un diamètre d'environ 10^27 mètres, et un atome mesure environ 10^-10 mètre. Une précision relative de 10^-37 suffit donc. La NASA utilise seulement 15 décimales de pi pour ses calculs de navigation interplanétaire."
+ },
+ {
+  "text": "Le 14 mars est la journée de pi, car la date s'écrit 3/14 en anglais.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le 14 mars est la journée de pi, car la date s'écrit 3/14 en anglais ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%2014%20mars%20est%20la%20journ%C3%A9e%20de%20pi%2C%20car%20la%20date%20s'%C3%A9crit%203%2F14%20en%20anglais%20%3F",
+  "explanation": "Le Pi Day a été lancé en 1988 par le physicien Larry Shaw à l'Exploratorium de San Francisco. Il coïncide avec l'anniversaire d'Albert Einstein, né le 14 mars 1879. On le célèbre souvent en mangeant des tartes, « pie » en anglais."
+ },
+ {
+  "text": "Un googol est un 1 suivi de 100 zéros, et c'est un enfant de 9 ans qui lui a donné son nom.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un googol est un 1 suivi de 100 zéros, et c'est un enfant de 9 ans qui lui a donné son nom ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20googol%20est%20un%201%20suivi%20de%20100%20z%C3%A9ros%2C%20et%20c'est%20un%20enfant%20de%209%20ans%20qui%20lui%20a%20donn%C3%A9%20son%20nom%20%3F",
+  "explanation": "En 1938, le mathématicien Edward Kasner a demandé à son neveu Milton Sirotta de nommer ce nombre. L'enfant a proposé « googol ». Le nom de Google viendrait d'une faute d'orthographe sur ce mot, choisi pour évoquer l'énorme quantité d'informations à organiser."
+ },
+ {
+  "text": "Si l'on écrit les nombres en toutes lettres en anglais, il faut aller jusqu'à « thousand » pour trouver la lettre A.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que si l'on écrit les nombres en toutes lettres en anglais, il faut aller jusqu'à « thousand » pour trouver la lettre A ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20si%20l'on%20%C3%A9crit%20les%20nombres%20en%20toutes%20lettres%20en%20anglais%2C%20il%20faut%20aller%20jusqu'%C3%A0%20%C2%AB%20thousand%20%C2%BB%20pour%20trouver%20la%20lettre%20A%20%3F",
+  "explanation": "En anglais, de « one » à « nine hundred ninety-nine », aucun nombre ne contient la lettre a. Il faut attendre « one thousand ». En français, la lettre a apparaît plus vite, avec « quatre ». C'est une curiosité souvent citée dans les jeux de lettres."
+ },
+ {
+  "text": "Le nombre 0,999… avec une infinité de 9 est exactement égal à 1.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le nombre 0,999… avec une infinité de 9 est exactement égal à 1 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20nombre%200%2C999%E2%80%A6%20avec%20une%20infinit%C3%A9%20de%209%20est%20exactement%20%C3%A9gal%20%C3%A0%201%20%3F",
+  "explanation": "Plusieurs démonstrations le montrent. Par exemple, 1/3 = 0,333…, donc 3 × 1/3 = 0,999… = 1. Il n'existe aucun nombre entre 0,999… et 1, ce qui signifie qu'ils sont égaux. Ce résultat surprend car notre intuition considère qu'il « manque toujours un peu »."
+ },
+ {
+  "text": "Il y a autant de nombres pairs que de nombres entiers, même si les pairs semblent deux fois moins nombreux.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il y a autant de nombres pairs que de nombres entiers, même si les pairs semblent deux fois moins nombreux ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20y%20a%20autant%20de%20nombres%20pairs%20que%20de%20nombres%20entiers%2C%20m%C3%AAme%20si%20les%20pairs%20semblent%20deux%20fois%20moins%20nombreux%20%3F",
+  "explanation": "On peut associer chaque entier n à un nombre pair 2n, sans en oublier ni en répéter aucun. Pour les ensembles infinis, cette correspondance un à un signifie qu'ils ont la même taille. C'est l'un des résultats de Georg Cantor sur l'infini."
+ },
+ {
+  "text": "La Joconde n'a pas de sourcils visibles, peut-être parce qu'ils se sont effacés lors de nettoyages.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Joconde n'a pas de sourcils visibles, peut-être parce qu'ils se sont effacés lors de nettoyages ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Joconde%20n'a%20pas%20de%20sourcils%20visibles%2C%20peut-%C3%AAtre%20parce%20qu'ils%20se%20sont%20effac%C3%A9s%20lors%20de%20nettoyages%20%3F",
+  "explanation": "En 2007, l'ingénieur Pascal Cotte a analysé le tableau avec un scanner haute résolution et a affirmé avoir trouvé la trace d'un sourcil. Les sourcils, peints très finement, auraient pu disparaître lors de restaurations anciennes. D'autres pensent qu'ils étaient volontairement épilés, selon une mode de l'époque."
+ },
+ {
+  "text": "La Joconde est peinte sur du bois de peuplier, pas sur une toile.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que la Joconde est peinte sur du bois de peuplier, pas sur une toile ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20la%20Joconde%20est%20peinte%20sur%20du%20bois%20de%20peuplier%2C%20pas%20sur%20une%20toile%20%3F",
+  "explanation": "Léonard de Vinci a peint la Joconde sur un panneau de peuplier d'environ 77 × 53 cm. Le bois s'est légèrement déformé avec le temps, et une fissure est surveillée. Le tableau est conservé derrière une vitre blindée, dans une atmosphère contrôlée."
+ },
+ {
+  "text": "Vincent van Gogh n'aurait vendu qu'un seul tableau de son vivant, selon une idée reçue largement exagérée.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que Vincent van Gogh n'aurait vendu qu'un seul tableau de son vivant, selon une idée reçue largement exagérée ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Vincent%20van%20Gogh%20n'aurait%20vendu%20qu'un%20seul%20tableau%20de%20son%20vivant%2C%20selon%20une%20id%C3%A9e%20re%C3%A7ue%20largement%20exag%C3%A9r%C3%A9e%20%3F",
+  "explanation": "On raconte souvent que van Gogh n'a vendu qu'un tableau, « La Vigne rouge ». En réalité, des chercheurs ont trouvé des traces d'autres ventes ou échanges, mais ses ventes étaient très modestes. Il a produit environ 860 peintures en dix ans de carrière. Ses œuvres comptent aujourd'hui parmi les plus chères au monde."
+ },
+ {
+  "text": "Le compositeur Beethoven a continué à composer après être devenu presque totalement sourd.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le compositeur Beethoven a continué à composer après être devenu presque totalement sourd ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20compositeur%20Beethoven%20a%20continu%C3%A9%20%C3%A0%20composer%20apr%C3%A8s%20%C3%AAtre%20devenu%20presque%20totalement%20sourd%20%3F",
+  "explanation": "Beethoven a commencé à perdre l'audition vers l'âge de 28 ans. À la création de sa Neuvième Symphonie en 1824, il était presque totalement sourd : une chanteuse a dû le retourner pour qu'il voie les applaudissements du public. Il composait en entendant la musique dans sa tête."
+ },
+ {
+  "text": "Mozart a retranscrit de mémoire, à 14 ans, une œuvre que le Vatican interdisait de copier.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que Mozart a retranscrit de mémoire, à 14 ans, une œuvre que le Vatican interdisait de copier ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20Mozart%20a%20retranscrit%20de%20m%C3%A9moire%2C%20%C3%A0%2014%20ans%2C%20une%20%C5%93uvre%20que%20le%20Vatican%20interdisait%20de%20copier%20%3F",
+  "explanation": "Le Miserere de Gregorio Allegri n'était chanté qu'à la chapelle Sixtine pendant la Semaine sainte, et sa partition ne devait pas circuler. Selon une lettre de son père, Mozart l'aurait entendu en 1770 puis retranscrit de mémoire. L'anecdote est célèbre, mais certains historiens la jugent en partie embellie."
+ },
+ {
+  "text": "Le la utilisé pour accorder les instruments n'a pas toujours été réglé sur 440 Hz.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le la utilisé pour accorder les instruments n'a pas toujours été réglé sur 440 Hz ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20la%20utilis%C3%A9%20pour%20accorder%20les%20instruments%20n'a%20pas%20toujours%20%C3%A9t%C3%A9%20r%C3%A9gl%C3%A9%20sur%20440%20Hz%20%3F",
+  "explanation": "La hauteur du la de référence variait selon les villes et les époques, entre environ 400 et 460 Hz. Le la 440 Hz a été adopté comme référence internationale en 1939, puis confirmé par la norme ISO en 1975. Certains orchestres jouent encore un peu plus haut, à 442 ou 443 Hz."
+ },
+ {
+  "text": "Le morceau « 4'33\" » de John Cage consiste en 4 minutes et 33 secondes de silence.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le morceau « 4'33\" » de John Cage consiste en 4 minutes et 33 secondes de silence ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20morceau%20%C2%AB%204'33%22%20%C2%BB%20de%20John%20Cage%20consiste%20en%204%20minutes%20et%2033%20secondes%20de%20silence%20%3F",
+  "explanation": "Composée en 1952, l'œuvre demande aux musiciens de ne jouer aucune note. Cage voulait que le public prenne conscience des sons ambiants : bruits de la salle, toux, bruissements. C'est l'une des œuvres les plus discutées de la musique du XXe siècle."
+ },
+ {
+  "text": "Le plus long mot de passe ne sert à rien s'il est réutilisé partout : la plupart des piratages de comptes viennent de mots de passe réutilisés.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le plus long mot de passe ne sert à rien s'il est réutilisé partout : la plupart des piratages de comptes viennent de mots de passe réutilisés ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20plus%20long%20mot%20de%20passe%20ne%20sert%20%C3%A0%20rien%20s'il%20est%20r%C3%A9utilis%C3%A9%20partout%20%3A%20la%20plupart%20des%20piratages%20de%20comptes%20viennent%20de%20mots%20de%20passe%20r%C3%A9utilis%C3%A9s%20%3F",
+  "explanation": "Quand un site se fait voler sa base de données, les couples identifiant-mot de passe sont testés automatiquement sur d'autres services : c'est le « credential stuffing ». Utiliser un mot de passe différent par site, avec un gestionnaire de mots de passe, et activer la double authentification réduit fortement le risque."
+ },
+ {
+  "text": "Un ballon de football officiel de Coupe du monde est testé en soufflerie avant chaque tournoi.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un ballon de football officiel de Coupe du monde est testé en soufflerie avant chaque tournoi ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20ballon%20de%20football%20officiel%20de%20Coupe%20du%20monde%20est%20test%C3%A9%20en%20soufflerie%20avant%20chaque%20tournoi%20%3F",
+  "explanation": "Les fabricants testent la trajectoire des ballons en soufflerie et avec des robots frappeurs, car le nombre de panneaux, leur forme et la texture de surface modifient le comportement en vol. Le ballon Jabulani de 2010, trop lisse, avait été critiqué par les gardiens pour ses trajectoires imprévisibles."
+ },
+ {
+  "text": "Les médailles d'or olympiques ne sont pas en or massif : elles sont surtout en argent.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les médailles d'or olympiques ne sont pas en or massif : elles sont surtout en argent ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20m%C3%A9dailles%20d'or%20olympiques%20ne%20sont%20pas%20en%20or%20massif%20%3A%20elles%20sont%20surtout%20en%20argent%20%3F",
+  "explanation": "Depuis 1912, les médailles d'or sont en argent recouvert d'au moins 6 grammes d'or. Une médaille d'or des Jeux de Paris 2024 contenait aussi un morceau de fer provenant de la tour Eiffel. Sa valeur en métal est bien inférieure à sa valeur symbolique."
+ },
+ {
+  "text": "Le golf est l'un des seuls sports à avoir été pratiqués sur la Lune.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le golf est l'un des seuls sports à avoir été pratiqués sur la Lune ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20golf%20est%20l'un%20des%20seuls%20sports%20%C3%A0%20avoir%20%C3%A9t%C3%A9%20pratiqu%C3%A9s%20sur%20la%20Lune%20%3F",
+  "explanation": "En 1971, lors de la mission Apollo 14, l'astronaute Alan Shepard a frappé deux balles de golf avec une tête de club fixée sur un outil de prélèvement. Une analyse d'images a estimé en 2021 que la plus longue a parcouru environ 40 mètres, loin des centaines de mètres souvent annoncées."
+ },
+ {
+  "text": "Une balle de golf compte généralement entre 300 et 500 alvéoles.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'une balle de golf compte généralement entre 300 et 500 alvéoles ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'une%20balle%20de%20golf%20compte%20g%C3%A9n%C3%A9ralement%20entre%20300%20et%20500%20alv%C3%A9oles%20%3F",
+  "explanation": "Les alvéoles créent une fine couche d'air turbulent autour de la balle, ce qui réduit la traînée et lui permet de voler beaucoup plus loin qu'une balle lisse. Les premières balles étaient lisses : les golfeurs ont remarqué que les balles abîmées allaient plus loin."
+ },
+ {
+  "text": "Un match de football professionnel compte en moyenne moins d'une heure de jeu effectif.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'un match de football professionnel compte en moyenne moins d'une heure de jeu effectif ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'un%20match%20de%20football%20professionnel%20compte%20en%20moyenne%20moins%20d'une%20heure%20de%20jeu%20effectif%20%3F",
+  "explanation": "Sur les 90 minutes réglementaires, le ballon est réellement en jeu environ 55 à 60 minutes en moyenne. Le reste est perdu en touches, coups francs, fautes et remplacements. Les instances du football ont encouragé l'ajout de temps additionnel plus long pour compenser."
+ },
+ {
+  "text": "Le premier match de football télévisé en direct a eu lieu en 1937, au Royaume-Uni.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier match de football télévisé en direct a eu lieu en 1937, au Royaume-Uni ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20match%20de%20football%20t%C3%A9l%C3%A9vis%C3%A9%20en%20direct%20a%20eu%20lieu%20en%201937%2C%20au%20Royaume-Uni%20%3F",
+  "explanation": "La BBC a retransmis en direct un match d'entraînement d'Arsenal le 16 septembre 1937. Très peu de foyers possédaient alors un téléviseur. La première Coupe du monde télévisée fut celle de 1954 en Suisse."
+ },
+ {
+  "text": "Le premier match de basket de l'histoire s'est terminé sur le score de 1 à 0.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le premier match de basket de l'histoire s'est terminé sur le score de 1 à 0 ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20premier%20match%20de%20basket%20de%20l'histoire%20s'est%20termin%C3%A9%20sur%20le%20score%20de%201%20%C3%A0%200%20%3F",
+  "explanation": "En décembre 1891, James Naismith a fait jouer le premier match de basket dans un gymnase de Springfield, au Massachusetts, avec deux équipes de neuf joueurs. Un seul panier a été marqué, par William Chase. Les règles d'origine interdisaient de courir avec le ballon."
+ },
+ {
+  "text": "Usain Bolt a atteint une vitesse de pointe d'environ 44,7 km/h lors de son record du monde du 100 mètres.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'Usain Bolt a atteint une vitesse de pointe d'environ 44,7 km/h lors de son record du monde du 100 mètres ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'Usain%20Bolt%20a%20atteint%20une%20vitesse%20de%20pointe%20d'environ%2044%2C7%20km%2Fh%20lors%20de%20son%20record%20du%20monde%20du%20100%20m%C3%A8tres%20%3F",
+  "explanation": "Lors de son record de 9,58 secondes en 2009 à Berlin, Usain Bolt a atteint sa vitesse maximale entre 60 et 80 mètres. Il faisait des foulées d'environ 2,44 mètres. Sa vitesse moyenne sur la course était d'environ 37,6 km/h."
+ },
+ {
+  "text": "Le tennis est né d'un jeu français, le jeu de paume, d'abord joué à mains nues.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le tennis est né d'un jeu français, le jeu de paume, d'abord joué à mains nues ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20tennis%20est%20n%C3%A9%20d'un%20jeu%20fran%C3%A7ais%2C%20le%20jeu%20de%20paume%2C%20d'abord%20jou%C3%A9%20%C3%A0%20mains%20nues%20%3F",
+  "explanation": "Le jeu de paume se jouait en frappant la balle avec la paume de la main, puis avec des gants et des raquettes. Le mot « tennis » viendrait de l'exclamation « tenez ! » lancée par le serveur. Le décompte des points (15, 30, 40) viendrait aussi de cette époque, mais son origine est débattue."
+ },
+ {
+  "text": "Non, les éléphants n'ont pas peur des souris.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les éléphants n'ont pas peur des souris ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20%C3%A9l%C3%A9phants%20n'ont%20pas%20peur%20des%20souris%20%3F",
+  "explanation": "Rien ne montre que les éléphants craignent particulièrement les souris. Leur vue est médiocre et ils peuvent sursauter face à n'importe quel petit animal qui surgit. Une étude a montré qu'ils réagissaient aussi à des objets en mouvement inattendus. Le mythe remonterait à l'Antiquité."
+ },
+ {
+  "text": "Non, l'homme n'utilise pas seulement 10 % de son cerveau.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'homme n'utilise pas seulement 10 % de son cerveau ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'homme%20n'utilise%20pas%20seulement%2010%20%25%20de%20son%20cerveau%20%3F",
+  "explanation": "L'imagerie cérébrale montre que toutes les régions du cerveau ont une activité, même si elles ne sont pas toutes sollicitées en même temps. Une lésion dans presque n'importe quelle zone a des conséquences. Ce mythe a été popularisé par des livres de développement personnel et des films."
+ },
+ {
+  "text": "Non, le sucre ne rend pas les enfants hyperactifs.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que le sucre ne rend pas les enfants hyperactifs ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20le%20sucre%20ne%20rend%20pas%20les%20enfants%20hyperactifs%20%3F",
+  "explanation": "Des études contrôlées, où ni les enfants ni les parents ne savaient qui avait consommé du sucre, n'ont trouvé aucun effet sur le comportement. En revanche, quand les parents pensaient que leur enfant avait mangé du sucre, ils le jugeaient plus agité. L'effet est surtout lié aux attentes et au contexte, comme les fêtes."
+ },
+ {
+  "text": "Non, raser les poils ne les fait pas repousser plus épais ou plus foncés.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que raser les poils ne les fait pas repousser plus épais ou plus foncés ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20raser%20les%20poils%20ne%20les%20fait%20pas%20repousser%20plus%20%C3%A9pais%20ou%20plus%20fonc%C3%A9s%20%3F",
+  "explanation": "Le rasoir coupe le poil à la surface, sans toucher la racine. Le poil repousse avec une extrémité coupée net et non effilée, ce qui donne l'impression d'un poil plus dur. Des études ont montré que l'épaisseur, la couleur et la vitesse de pousse ne changent pas."
+ },
+ {
+  "text": "Non, il ne faut pas attendre deux heures après avoir mangé pour se baigner.",
+  "source": "Perplexity",
+  "question": "Est-il vrai qu'il ne faut pas attendre deux heures après avoir mangé pour se baigner ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20qu'il%20ne%20faut%20pas%20attendre%20deux%20heures%20apr%C3%A8s%20avoir%20mang%C3%A9%20pour%20se%20baigner%20%3F",
+  "explanation": "Aucune étude n'a montré un risque accru de noyade lié à la digestion. Un repas copieux peut éventuellement causer un inconfort ou des crampes, mais pas de danger particulier. Les vrais facteurs de risque de noyade sont l'alcool, le froid, la fatigue et l'absence de surveillance."
+ },
+ {
+  "text": "Non, les poissons ne sont pas insensibles à la douleur.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les poissons ne sont pas insensibles à la douleur ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20poissons%20ne%20sont%20pas%20insensibles%20%C3%A0%20la%20douleur%20%3F",
+  "explanation": "Des études ont montré que les poissons possèdent des nocicepteurs, des récepteurs de la douleur, et modifient leur comportement après une stimulation douloureuse. Ils peuvent par exemple frotter une zone touchée ou délaisser la nourriture. Le débat scientifique porte sur la façon dont ils ressentent cette douleur."
+ },
+ {
+  "text": "Non, les lemmings ne se suicident pas en masse en se jetant des falaises.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que les lemmings ne se suicident pas en masse en se jetant des falaises ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20les%20lemmings%20ne%20se%20suicident%20pas%20en%20masse%20en%20se%20jetant%20des%20falaises%20%3F",
+  "explanation": "Ce mythe a été popularisé par le documentaire « White Wilderness » de Disney en 1958, dans lequel des lemmings avaient été poussés vers une falaise pour le tournage. En réalité, leurs populations varient fortement selon les cycles, et ils migrent parfois en grand nombre, mais ne cherchent pas à mourir."
+ },
+ {
+  "text": "Non, l'eau ne conduit pas l'électricité : ce sont les sels dissous dans l'eau qui le font.",
+  "source": "Perplexity",
+  "question": "Est-il vrai que l'eau ne conduit pas l'électricité : ce sont les sels dissous dans l'eau qui le font ?",
+  "url": "https://www.perplexity.ai/search?q=Est-il%20vrai%20que%20l'eau%20ne%20conduit%20pas%20l'%C3%A9lectricit%C3%A9%20%3A%20ce%20sont%20les%20sels%20dissous%20dans%20l'eau%20qui%20le%20font%20%3F",
+  "explanation": "L'eau parfaitement pure est un très mauvais conducteur électrique. Dans la vie courante, l'eau contient des minéraux et des impuretés qui se séparent en ions, et ce sont eux qui transportent le courant. C'est pourquoi l'eau du robinet, de la mer ou celle d'un bain est dangereuse avec l'électricité."
  }
 ];
