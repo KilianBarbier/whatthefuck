@@ -28,11 +28,15 @@
     <p>À chaque visite, le navigateur envoie quelques informations au serveur de mesure de l'éditeur :</p>
     <ul>
       <li>la page vue (son adresse, sans les paramètres) ;</li>
-      <li>le site d'où tu arrives (seulement son nom de domaine, par exemple « google.com ») ;</li>
-      <li>le type d'appareil (téléphone, tablette ou ordinateur, déduit de la largeur de l'écran), le navigateur et le système (Chrome, Safari, Android, Windows…) ;</li>
-      <li>la langue du navigateur ;</li>
+      <li>le site d'où tu arrives (seulement son nom de domaine, par exemple « google.com ») et, si le lien en porte un, le nom de la campagne (paramètres « utm ») ;</li>
+      <li>le type d'appareil (téléphone, tablette ou ordinateur), le navigateur et sa version, le système (Android, iOS, Windows…) ;</li>
+      <li>l'écran : sa résolution, la taille de la fenêtre, la densité de pixels et l'orientation ;</li>
+      <li>la langue du navigateur et le pays, deviné d'après le fuseau horaire (jamais d'après l'adresse IP) ;</li>
       <li>le temps passé sur la page et jusqu'où elle a été parcourue ;</li>
-      <li>le texte des boutons et liens cliqués (« WTF ?! », « Partager »…), au plus 20 par visite ;</li>
+      <li>le texte des boutons et liens cliqués (« WTF ?! », « Partager »…), au plus 20 par visite, et les clics qui trahissent un agacement : répétés au même endroit, ou sur quelque chose qui ne réagit pas ;</li>
+      <li>la rapidité de la page (temps de chargement, stabilité de l'affichage, temps de réaction) et le type de connexion (4G, 3G…) quand le navigateur le donne ;</li>
+      <li>les erreurs techniques rencontrées : le message d'erreur, le fichier et la ligne en cause ;</li>
+      <li>tes préférences d'affichage : thème sombre, animations réduites, écran tactile ;</li>
       <li>le jour et l'heure de la visite.</li>
     </ul>
 
@@ -54,6 +58,9 @@
       <li>te laissent la possibilité de t'y opposer.</li>
     </ul>
     <p>La mesure de whatthefuck.fr respecte chacune de ces conditions. Pour en savoir plus : <a href="https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience" target="_blank" rel="noopener">la page de la CNIL sur les outils de mesure d'audience</a>.</p>
+
+    <h2>Ce qui demanderait ton accord, et ne tourne donc pas ici</h2>
+    <p>Deux mesures sortiraient du cadre de l'exemption, et ne sont jamais faites sur ce site : te reconnaître d'une visite à l'autre (avec un identifiant gardé sur ton appareil), et relever les caractéristiques fines de ton appareil (processeur, mémoire, carte graphique), qui, combinées, permettraient de le distinguer des autres.</p>
 
     <h2>Combien de temps</h2>
     <p>Les mesures sont effacées automatiquement au bout de 13 mois.</p>
