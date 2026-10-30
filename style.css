@@ -510,11 +510,9 @@ body {
   text-align: center;
 }
 
-/* Confidentialité : même bouton que l'historique, en bas à gauche */
+/* Confidentialité : même bouton que l'historique, en haut à gauche (en face) */
 .privacy-btn {
-  top: auto;
   right: auto;
-  bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
   left: calc(1rem + env(safe-area-inset-left, 0px));
 }
 
@@ -644,9 +642,7 @@ body.page-texte {
   }
 
   .privacy-btn {
-    top: auto;
     right: auto;
-    bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
     left: calc(0.75rem + env(safe-area-inset-left, 0px));
   }
 }
