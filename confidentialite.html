@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Confidentialité - WTF ?!</title>
+  <meta name="description" content="Ce que whatthefuck.fr mesure, ce qu'il ne collecte jamais, et comment t'y opposer." />
+  <meta name="theme-color" content="#ffffff" />
+  <link rel="canonical" href="https://whatthefuck.fr/confidentialite.html" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%3F%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body class="page-texte">
+  <main class="texte">
+    <a class="retour" href="./">← Retour aux faits</a>
+    <h1>Confidentialité</h1>
+    <p class="maj">Mise à jour le 30 octobre 2026</p>
+
+    <p>whatthefuck.fr est un site personnel, sans compte, sans publicité et sans cookie. La seule chose qu'on y mesure, c'est l'audience : combien de visites, d'où elles viennent et quels boutons servent. Voici tout ce qu'il faut savoir, sans jargon.</p>
+
+    <div class="encadre">
+      <p><strong>Ton choix</strong></p>
+      <p data-mesure-etat>…</p>
+      <button class="source-btn" type="button" data-mesure-basculer data-mesure-choix="page" hidden></button>
+    </div>
+
+    <h2>Ce qui est mesuré</h2>
+    <p>À chaque visite, le navigateur envoie quelques informations au serveur de mesure de l'éditeur :</p>
+    <ul>
+      <li>la page vue (son adresse, sans les paramètres) ;</li>
+      <li>le site d'où tu arrives (seulement son nom de domaine, par exemple « google.com ») ;</li>
+      <li>le type d'appareil (téléphone, tablette ou ordinateur, déduit de la largeur de l'écran), le navigateur et le système (Chrome, Safari, Android, Windows…) ;</li>
+      <li>la langue du navigateur ;</li>
+      <li>le temps passé sur la page et jusqu'où elle a été parcourue ;</li>
+      <li>le texte des boutons et liens cliqués (« WTF ?! », « Partager »…), au plus 20 par visite ;</li>
+      <li>le jour et l'heure de la visite.</li>
+    </ul>
+
+    <h2>Ce qui n'est jamais collecté</h2>
+    <ul>
+      <li><strong>Aucun cookie</strong>, ni rien qui serve à te suivre d'un site à l'autre.</li>
+      <li><strong>Pas d'adresse IP enregistrée.</strong> Elle sert un court instant, avec le nom de ton navigateur, à calculer une empreinte chiffrée et irréversible qui permet de compter un visiteur une seule fois dans la journée. La clé de ce calcul est détruite chaque jour : le lendemain, impossible de savoir que c'était toi.</li>
+      <li>Ni nom, ni adresse e-mail, ni position, ni aucune donnée de compte : le site n'en a pas.</li>
+      <li>Aucun outil de Google, de Meta ou d'un autre service publicitaire. Les mesures ne sont ni vendues ni partagées.</li>
+    </ul>
+
+    <h2>Pourquoi il n'y a pas de bannière de consentement</h2>
+    <p>La CNIL, l'autorité française qui protège les données personnelles, autorise certaines mesures d'audience <strong>sans demander ton accord</strong>, à condition qu'elles :</p>
+    <ul>
+      <li>servent uniquement à produire des statistiques anonymes pour l'éditeur du site ;</li>
+      <li>ne permettent pas de te suivre sur d'autres sites ni de croiser tes données avec d'autres fichiers ;</li>
+      <li>ne soient pas transmises à des tiers ;</li>
+      <li>soient conservées 13 mois au plus ;</li>
+      <li>te laissent la possibilité de t'y opposer.</li>
+    </ul>
+    <p>La mesure de whatthefuck.fr respecte chacune de ces conditions. Pour en savoir plus : <a href="https://www.cnil.fr/fr/cookies-et-autres-traceurs/regles/cookies-solutions-pour-les-outils-de-mesure-daudience" target="_blank" rel="noopener">la page de la CNIL sur les outils de mesure d'audience</a>.</p>
+
+    <h2>Combien de temps</h2>
+    <p>Les mesures sont effacées automatiquement au bout de 13 mois.</p>
+
+    <h2>Où vont les données</h2>
+    <ul>
+      <li><strong>Mesure d'audience</strong> : sur un serveur personnel de l'éditeur. Les envois y transitent chiffrés par le service de réseau Tailscale, qui ne les lit pas et ne les conserve pas.</li>
+      <li><strong>Hébergement du site</strong> : GitHub Pages (GitHub, Inc.). Comme tout hébergeur, GitHub tient des journaux techniques, adresse IP comprise, pour la sécurité de son service ; voir <a href="https://docs.github.com/fr/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener">sa déclaration de confidentialité</a>.</li>
+    </ul>
+
+    <h2>Ce qui reste sur ton appareil</h2>
+    <ul>
+      <li>L'historique des faits déjà vus, pour ne pas te les resservir. Il reste dans ton navigateur et n'est jamais envoyé.</li>
+      <li>Si tu t'opposes à la mesure, ton choix, gardé six mois pour ne pas te le redemander.</li>
+    </ul>
+    <p>Effacer les données du site dans ton navigateur supprime les deux.</p>
+
+    <h2>Les boutons qui mènent ailleurs</h2>
+    <ul>
+      <li><strong>En savoir plus</strong> ouvre une recherche sur Perplexity, soumise à <a href="https://www.perplexity.ai/hub/legal/privacy-policy" target="_blank" rel="noopener">sa propre politique de confidentialité</a>.</li>
+      <li><strong>Partager</strong> utilise le menu de partage de ton appareil ; rien ne passe par le site.</li>
+      <li><strong>Signaler</strong> ouvre ton application de messagerie avec un message prérempli : il n'est envoyé que si tu l'envoies toi-même.</li>
+    </ul>
+
+    <h2>Tes droits</h2>
+    <p>Les mesures étant anonymes, rien ne permet de retrouver celles qui te concernent pour te les montrer ou les effacer. Tu peux en revanche t'y opposer à tout moment avec le bouton ci-dessus. Pour toute question : <a href="mailto:kil97112@gmail.com">kil97112@gmail.com</a>. Et si tu estimes que tes droits ne sont pas respectés, tu peux <a href="https://www.cnil.fr/fr/plaintes" target="_blank" rel="noopener">adresser une réclamation à la CNIL</a>.</p>
+  </main>
+
+  <script src="confidentialite.js"></script>
+  <script src="https://zimaos.tail1780a7.ts.net:10000/admin/mesure.js?s=whatthefuck" defer></script>
+</body>
+</html>

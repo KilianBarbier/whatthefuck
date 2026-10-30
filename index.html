@@ -56,6 +56,11 @@
       <polyline points="12 6 12 12 16 14"></polyline>
     </svg>
   </button>
+  <button id="privacy-btn" class="history-btn privacy-btn" type="button" aria-label="Confidentialité" aria-haspopup="dialog" data-mesure-choix="page">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+    </svg>
+  </button>
 
   <main class="stage">
     <button id="wtf" class="wtf-btn" type="button" aria-label="Un fait WTF">WTF ?!</button>
@@ -83,11 +88,28 @@
       </div>
       <button id="history-close" class="reasons-close" type="button">Fermer</button>
     </dialog>
+    <dialog id="privacy-dialog" class="reasons privacy" aria-labelledby="privacy-title">
+      <p id="privacy-title" class="reasons-title">Ce qu'on mesure ici</p>
+      <div class="privacy-text">
+        <p>Pour savoir quels faits te plaisent, on compte les visites. Rien de plus.</p>
+        <h2>Ce qui est compté</h2>
+        <p>La page vue, le site d'où tu arrives, ton type d'appareil, ton navigateur, ta langue, le temps passé et les boutons cliqués (« WTF ?! », « Partager »…).</p>
+        <h2>Ce qui ne l'est jamais</h2>
+        <p>Pas de cookie, pas d'adresse IP enregistrée, rien qui te reconnaisse d'un jour à l'autre ou te suive sur d'autres sites. Pas de Google, pas de pub : personne d'autre n'y a accès.</p>
+        <h2>Pourquoi pas de bannière ?</h2>
+        <p>La CNIL, le gendarme français des données personnelles, dispense de consentement les mesures d'audience qui restent anonymes, servent seulement à l'éditeur du site et sont effacées au bout de 13 mois. C'est le cas ici. En échange, tu peux t'y opposer à tout moment :</p>
+      </div>
+      <p class="privacy-state" data-mesure-etat>…</p>
+      <button class="source-btn privacy-toggle" type="button" data-mesure-basculer hidden></button>
+      <p class="privacy-link"><a href="confidentialite.html">Tout le détail dans la politique de confidentialité</a></p>
+      <button id="privacy-close" class="reasons-close" type="button">Fermer</button>
+    </dialog>
     <p id="hint" class="hint">Clique pour un fait que tu ne connaissais (sûrement) pas.</p>
   </main>
 
   <script src="facts.js"></script>
   <script src="script.js"></script>
+  <script src="confidentialite.js"></script>
   <script src="https://zimaos.tail1780a7.ts.net:10000/admin/mesure.js?s=whatthefuck" defer></script>
 </body>
 </html>
