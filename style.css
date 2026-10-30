@@ -510,9 +510,12 @@ body {
   text-align: center;
 }
 
-/* Confidentialité : bouclier à gauche de l'historique, même bouton */
+/* Confidentialité : même bouton que l'historique, en bas à gauche */
 .privacy-btn {
-  right: calc(1rem + 40px + 0.5rem);
+  top: auto;
+  right: auto;
+  bottom: calc(1rem + env(safe-area-inset-bottom, 0px));
+  left: calc(1rem + env(safe-area-inset-left, 0px));
 }
 
 .privacy {
@@ -641,6 +644,9 @@ body.page-texte {
   }
 
   .privacy-btn {
-    right: calc(0.75rem + 36px + 0.5rem);
+    top: auto;
+    right: auto;
+    bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
+    left: calc(0.75rem + env(safe-area-inset-left, 0px));
   }
 }
